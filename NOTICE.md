@@ -29,7 +29,9 @@ under the same licence, so that everything outside `game_configs/` has one licen
 ## Game definitions
 
 `game_configs/` holds quest and achievement definitions as the game client provides them through Jagex's
-plugin API. They belong to Jagex Ltd. This project claims no rights in them and grants none.
+plugin API. They belong to Jagex Ltd and are included here under the terms of Jagex's Fan Content Policy,
+whose credit line is at the top of this file, for non-commercial use. This project claims no rights in them
+and grants none: anyone who reuses them does so under Jagex's terms, not under this project's licence.
 
 ## The program
 
