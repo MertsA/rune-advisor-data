@@ -1,0 +1,5896 @@
+{
+ "source": "RuneScape Wiki money making guides (CC BY-NC-SA 3.0)",
+ "rows": [
+  {
+   "guide": "Money making guide/Blessing extra fine sand",
+   "activity": "Turning extra fine sand into blessed sand",
+   "monster": "extra fine sand",
+   "kph": 2800.0,
+   "per_kill": true,
+   "skills": {
+    "Prayer": 20
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Blessed sand": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Buying beer in Varrock",
+   "activity": "Buying beer at Blue Moon Inn",
+   "monster": "beer",
+   "kph": 960.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Beer": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Catching whirligigs",
+   "activity": "Catching plain whirligigs",
+   "monster": "plain whirligig",
+   "kph": 360.0,
+   "per_kill": true,
+   "skills": {
+    "Hunter": 16
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Powder of defence": 0.08333333333333333
+   }
+  },
+  {
+   "guide": "Money making guide/Cleansing the Gate of Elidinis",
+   "activity": "The Gate of Elidinis",
+   "monster": "The Gate of Elidinis",
+   "kph": 20.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 66,
+    "Necromancy": 75,
+    "Archaeology": 86
+   },
+   "recommended_skills": {
+    "Mining": 80,
+    "Summoning": 83,
+    "Defence": 81
+   },
+   "quests": [
+    "Ode of the Devourer"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Eclipsed Soul prayer codex": 0.0020833333333333333,
+    "Memory dowser": 0.0020833333333333333,
+    "Runic attuner": 0.0020833333333333333,
+    "Scripture of Elidinis": 0.0020833333333333333,
+    "Latent Offering": 0.014084507042253521,
+    "Battlestaff": 3.6,
+    "Blue dragonhide": 10.8,
+    "Cannonball": 12.6,
+    "Catalytic anima stone": 4.8,
+    "Chaos rune": 36.0,
+    "Coins": 19609.59,
+    "Crystal key": 1.2,
+    "Fire battlestaff": 2.4,
+    "Huge blunt rune salvage": 1.08,
+    "Luminous energy": 84.24,
+    "Manuscript of Elidinis": 0.84,
+    "Medium plated rune salvage": 0.96,
+    "Moonstone dust": 1.25,
+    "Mort myre fungus": 10.0,
+    "Nature rune": 28.0,
+    "Onyx dust": 2.4,
+    "Papaya fruit": 2.7,
+    "Prayer renewal (2)": 0.54,
+    "Small plated orikalkum salvage": 0.36,
+    "Soul rune": 8.4,
+    "Super energy (2)": 0.36,
+    "Uncut diamond": 4.8,
+    "Uncut moonstone": 0.012,
+    "Uncut onyx": 0.012,
+    "Water battlestaff": 2.6,
+    "Wergali seed": 0.7
+   }
+  },
+  {
+   "guide": "Money making guide/Collecting Bik Elder Troves",
+   "activity": "Collecting Elder Troves",
+   "monster": "Elder Troves",
+   "kph": 10.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Fishing": 92,
+    "Hunter": 92,
+    "Mining": 92,
+    "Woodcutting": 92
+   },
+   "quests": [
+    "City of Senntisten"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Fragments of Pernix's quiver": 0.1
+   }
+  },
+  {
+   "guide": "Money making guide/Collecting blue dragon scales",
+   "activity": "Collecting blue dragon scales",
+   "monster": "blue dragon scale",
+   "kph": 900.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Agility": 70,
+    "Dungeoneering": 60,
+    "Summoning": 67
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Blue dragon scale": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Completing Barrows: Rise of the Six",
+   "activity": "Barrows: Rise of the Six",
+   "monster": "Barrows: Rise of the Six",
+   "kph": 40.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 87,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Barrows amulet": 0.5909090909090909,
+    "Huge plated rune salvage": 0.7272727272727273,
+    "Magic logs": 18.181818181818183,
+    "Raw rocktail": 12.272727272727273,
+    "Black dragonhide": 6.363636363636363,
+    "Onyx bolts (e)": 5.2272727272727275,
+    "Battlestaff": 3.6363636363636362,
+    "Banite stone spirit": 2.909090909090909,
+    "Magic seed": 0.2727272727272727,
+    "Dwarf weed seed": 0.7272727272727273,
+    "Inert adrenaline crystal": 0.7272727272727273,
+    "Malevolent kiteshield": 0.004166666666666667,
+    "Merciless kiteshield": 0.004166666666666667,
+    "Vengeful kiteshield": 0.004166666666666667,
+    "Malevolent energy": 1.5
+   }
+  },
+  {
+   "guide": "Money making guide/Completing ED1 - Temple of Aminishi (Solo)",
+   "activity": "Completing Temple of Aminishi",
+   "monster": "Temple of Aminishi",
+   "kph": 3.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 96,
+    "Herblore": 96,
+    "Prayer": 95,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Ancient scale": 13.83,
+    "Relic of aminishi (common)": 28.36,
+    "Relic of aminishi (uncommon)": 4.96,
+    "Relic of aminishi (rare)": 0.184,
+    "Onyx dust": 41.49,
+    "Dark animica stone spirit": 3.47,
+    "Masuta's warspear": 0.07,
+    "Prayer potion (1)": 0.446,
+    "Prayer potion (4)": 0.136,
+    "Weapon poison++ (1)": 0.345,
+    "Coins": 41666.0,
+    "Fishy treat": 0.056,
+    "Teak plank": 1.33,
+    "Mahogany plank": 0.97,
+    "Logs": 1.44,
+    "Raw swordfish": 0.538,
+    "Seasinger weapon upgrade kit": 0.00297,
+    "Tetsu sword upgrade kit": 0.01488,
+    "Taijitu": 0.2678,
+    "Suspicious gunpowder": 0.0744,
+    "Menaphite gift offering (small)": 0.11,
+    "Chimes": 336.309
+   }
+  },
+  {
+   "guide": "Money making guide/Completing ED2 - Dragonkin Laboratory",
+   "activity": "Completing Dragonkin Laboratory",
+   "monster": "Dragonkin Laboratory",
+   "kph": 4.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 96,
+    "Herblore": 96,
+    "Prayer": 95,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Greater Flurry ability codex": 0.012,
+    "Greater Fury ability codex": 0.012,
+    "Greater Barge ability codex": 0.012,
+    "Draconic energy": 13.043999999999999,
+    "Onyx dust": 30.0,
+    "Uncut onyx": 0.06,
+    "Onyx bolt tips": 30.0,
+    "Laboratory relic (common)": 25.0,
+    "Laboratory relic (uncommon)": 5.0,
+    "Laboratory relic (rare)": 0.1,
+    "Coins": 25000.0,
+    "Black dragonhide": 36.0,
+    "Red dragonhide": 13.0,
+    "Blue dragonhide": 2.0,
+    "Uncut dragonstone": 5.0
+   }
+  },
+  {
+   "guide": "Money making guide/Completing ED3 - Shadow Reef",
+   "activity": "Completing the Shadow Reef",
+   "monster": "the Shadow Reef",
+   "kph": 3.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 96,
+    "Herblore": 96,
+    "Prayer": 95,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Completing Sanctum of Rebirth",
+   "activity": "Sanctum of Rebirth (Normal Mode)",
+   "monster": "Sanctum of Rebirth",
+   "kph": 6.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Necromancy": 90,
+    "Defence": 90,
+    "Prayer": 95,
+    "Herblore": 96,
+    "Summoning": 96
+   },
+   "quests": [
+    "Soul Searching"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Manuscript of Amascut": 0.1,
+    "Sanctum of rebirth relic (common)": 17.4,
+    "Sanctum of rebirth relic (uncommon)": 6.0,
+    "Sanctum of rebirth relic (rare)": 0.07079136690647483,
+    "Water battlestaff": 9.75,
+    "Fire battlestaff": 9.75,
+    "Blood rune": 180.0,
+    "Soul rune": 30.0,
+    "Acadia wood spirit": 1.65,
+    "Elder wood spirit": 1.65,
+    "Uncut dragonstone": 7.8,
+    "Uncut moonstone": 0.09,
+    "Tiny blunt orikalkum salvage": 1.65,
+    "Small plated orikalkum salvage": 1.2,
+    "Cannonball": 78.0,
+    "Fellstalk seed": 0.78,
+    "Water talisman": 35.1,
+    "Ghostly essence": 18.0,
+    "Extreme necromancy (1)": 1.62,
+    "Potato cactus": 8.25,
+    "Summoning focus": 6.0,
+    "Onyx bolt tips": 21.6,
+    "Onyx dust": 14.4,
+    "Large blunt orikalkum salvage": 0.05405405405405406,
+    "Medium plated necronium salvage": 0.032432432432432434,
+    "Vital spark": 0.08824502774082607,
+    "Key to the Crossing": 0.008995502248875561,
+    "Coins": 7202.881152460985,
+    "Cursed Amascut sand": 0.0054005400540054005
+   }
+  },
+  {
+   "guide": "Money making guide/Completing the Asuran Arsenal",
+   "activity": "Completing the Asuran Arsenal",
+   "monster": "Asuran Arsenal",
+   "kph": 7.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 108
+   },
+   "recommended_skills": {
+    "Thieving": 114,
+    "Agility": 99,
+    "Constitution": 99,
+    "Archaeology": 74
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 457000.0,
+    "Large bladed orikalkum salvage": 0.4,
+    "Medium bladed orikalkum salvage": 2.4,
+    "Small plated orikalkum salvage": 3.0,
+    "Dinosaur bones": 12.0,
+    "Dragonkin bones": 12.0,
+    "Time rune": 25.0,
+    "Elder wood spirit": 9.0,
+    "Luminous energy": 225.0,
+    "Black dragonhide": 27.0,
+    "Hydrix bolt tips": 30.0,
+    "Uncut dragonstone": 15.0,
+    "Dragon dart tip": 70.0,
+    "Arbuck seed": 3.0,
+    "Grimy arbuck": 3.75,
+    "Cannonball": 48.0,
+    "Kwuarm seed": 3.0,
+    "Grimy kwuarm": 7.5,
+    "Nodon spike harness": 0.01145475372279496,
+    "Varanus's Mercy": 0.01145475372279496
+   }
+  },
+  {
+   "guide": "Money making guide/Completing the Fight Kiln",
+   "activity": "Completing the Fight Kiln",
+   "monster": "Fight Kiln",
+   "kph": 2.0,
+   "per_kill": true,
+   "skills": {
+    "Defence": 90
+   },
+   "recommended_skills": {
+    "Prayer": 95,
+    "Herblore": 98
+   },
+   "quests": [
+    "The Elder Kiln"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Completing the Vault of Hereditas",
+   "activity": "Completing the Vault of Hereditas",
+   "monster": "Vault of Hereditas",
+   "kph": 5.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 95
+   },
+   "recommended_skills": {
+    "Thieving": 102,
+    "Magic": 90,
+    "Archaeology": 84,
+    "Invention": 81,
+    "Prayer": 80,
+    "Agility": 72
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 296000.0,
+    "Huge bladed rune salvage": 1.4,
+    "Large bladed rune salvage": 11.25,
+    "Soul rune": 55.0,
+    "Blood rune": 55.0,
+    "Smoke rune": 90.0,
+    "Water rune": 200.0,
+    "Infernal ashes": 30.0,
+    "Acadia wood spirit": 11.25,
+    "Radiant energy": 262.5,
+    "Ectoplasm": 25.0,
+    "Necrotic anima stone": 15.0,
+    "Onyx bolt tips": 52.5,
+    "Uncut ruby": 15.0,
+    "Uncut diamond": 15.0,
+    "Grimy dwarf weed": 7.5,
+    "Grimy cadantine": 7.5,
+    "Dwarf weed seed": 3.0,
+    "Cadantine seed": 3.0,
+    "Gloomfire bow": 0.009545628102329133,
+    "Legatus's Emberstaff": 0.009545628102329133,
+    "Misalionar's death mask": 0.009545628102329133
+   }
+  },
+  {
+   "guide": "Money making guide/Constructing frames at Fort Forinthry",
+   "activity": "Making wooden frames in Fort Forinthry",
+   "monster": "wooden frame",
+   "kph": 240.0,
+   "per_kill": true,
+   "skills": {
+    "Construction": 1
+   },
+   "recommended_skills": {},
+   "quests": [
+    "New Foundations"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Wooden frame": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Constructing frames from logs at Fort Forinthry",
+   "activity": "Making wooden frames (from logs) in Fort Forinthry",
+   "monster": "wooden frame",
+   "kph": 120.0,
+   "per_kill": true,
+   "skills": {
+    "Construction": 1
+   },
+   "recommended_skills": {},
+   "quests": [
+    " New Foundations"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Wooden frame": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Crafting air runes (free-to-play)",
+   "activity": "Crafting air runes through Barbarian Village",
+   "monster": "air rune",
+   "kph": 87.0,
+   "per_kill": false,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 99
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Air rune": 20706.0
+   }
+  },
+  {
+   "guide": "Money making guide/Crafting air runes through the Abyss",
+   "activity": "Crafting air runes through the Abyss",
+   "monster": "air rune",
+   "kph": 81.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 110,
+    "Summoning": 93,
+    "Dungeoneering": 80,
+    "Farming": 98,
+    "Archaeology": 68,
+    "Herblore": 91
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting astral runes",
+   "activity": "Crafting astral runes",
+   "monster": "astral rune",
+   "kph": 80.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 82,
+    "Magic": 75,
+    "Summoning": 93,
+    "Archaeology": 36
+   },
+   "quests": [
+    "Lunar Diplomacy"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting astral runes through the Abyss",
+   "activity": "Crafting Astral runes through the Abyss",
+   "monster": "Astral rune",
+   "kph": 120.0,
+   "per_kill": true,
+   "skills": {
+    "Runecrafting": 105
+   },
+   "recommended_skills": {
+    "Summoning": 93,
+    "Herblore": 91,
+    "Invention": 82,
+    "Archaeology": 68
+   },
+   "quests": [
+    "Lunar Diplomacy"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting battlestaves",
+   "activity": "Crafting water battlestaves",
+   "monster": "water battlestaff",
+   "kph": 2500.0,
+   "per_kill": true,
+   "skills": {
+    "Crafting": 54
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Water battlestaff": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Crafting blood runes through the Abyss",
+   "activity": "Crafting blood runes through the Abyss",
+   "monster": "blood rune",
+   "kph": 85.0,
+   "per_kill": true,
+   "skills": {
+    "Runecrafting": 105,
+    "Summoning": 93,
+    "Herblore": 91,
+    "Invention": 85,
+    "Archaeology": 68
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Legacy of Seergaze"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting cosmic runes through the Abyss",
+   "activity": "Crafting cosmic runes through the Abyss",
+   "monster": "cosmic rune",
+   "kph": 90.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 110,
+    "Summoning": 93,
+    "Dungeoneering": 80,
+    "Farming": 98,
+    "Archaeology": 68,
+    "Herblore": 91
+   },
+   "quests": [
+    "Lost City"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting death runes through the Abyss",
+   "activity": "Crafting death runes through the Abyss",
+   "monster": "death rune",
+   "kph": 90.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 105,
+    "Summoning": 93
+   },
+   "quests": [
+    "Mourning's End Part II"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Magical thread": 0.3975
+   }
+  },
+  {
+   "guide": "Money making guide/Crafting dust runes",
+   "activity": "Crafting dust runes",
+   "monster": "dust rune",
+   "kph": 96.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 82
+   },
+   "recommended_skills": {
+    "Runecrafting": 90,
+    "Summoning": 93,
+    "Archaeology": 36,
+    "Agility": 60,
+    "Crafting": 60,
+    "Farming": 60,
+    "Construction": 50
+   },
+   "quests": [
+    "Lunar Diplomacy"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Dust rune": 100.0
+   }
+  },
+  {
+   "guide": "Money making guide/Crafting fire runes through the Abyss",
+   "activity": "Crafting Fire runes through the Abyss",
+   "monster": "Fire rune",
+   "kph": 85.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 105,
+    "Summoning": 93,
+    "Dungeoneering": 80,
+    "Farming": 98,
+    "Archaeology": 68,
+    "Herblore": 91
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting law runes through the Abyss",
+   "activity": "Crafting law runes through the Abyss",
+   "monster": "law rune",
+   "kph": 94.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 110
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting nature runes through the Abyss",
+   "activity": "Crafting Nature runes through the Abyss",
+   "monster": "Nature rune",
+   "kph": 94.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 105,
+    "Summoning": 93,
+    "Archaeology": 68
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting necrotic runes",
+   "activity": "Crafting spirit runes",
+   "monster": "spirit rune",
+   "kph": 240.0,
+   "per_kill": true,
+   "skills": {
+    "Runecrafting": 1,
+    "Necromancy": 24
+   },
+   "recommended_skills": {
+    "Runecrafting": 110,
+    "Necromancy": 50,
+    "Summoning": 93,
+    "Archaeology": 36,
+    "Herblore": 91,
+    "Magic": 80,
+    "Crafting": 80,
+    "Invention": 82
+   },
+   "quests": [
+    "Rune Mythos"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting soul runes",
+   "activity": "Crafting soul runes through the Abyss",
+   "monster": "soul rune",
+   "kph": 5.4,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 105,
+    "Summoning": 93,
+    "Dungeoneering": 80,
+    "Archaeology": 68
+   },
+   "quests": [
+    "'Phite Club",
+    "Enter the Abyss (miniquest)"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Magical thread": 0.5
+   }
+  },
+  {
+   "guide": "Money making guide/Crafting time runes through the Abyss",
+   "activity": "Crafting Time runes through the Abyss",
+   "monster": "Time rune",
+   "kph": 90.0,
+   "per_kill": true,
+   "skills": {
+    "Runecrafting": 105,
+    "Summoning": 93,
+    "Herblore": 91,
+    "Invention": 85,
+    "Archaeology": 67
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Crafting water runes through the Abyss",
+   "activity": "Crafting water runes through the Abyss",
+   "monster": "water rune",
+   "kph": 85.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Runecrafting": 110,
+    "Summoning": 93,
+    "Dungeoneering": 80,
+    "Farming": 104,
+    "Archaeology": 68,
+    "Herblore": 91
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Creating empty divine charges",
+   "activity": "Creating empty divine charges",
+   "monster": null,
+   "kph": 500.0,
+   "per_kill": true,
+   "skills": {
+    "Invention": 101,
+    "Crafting": 80,
+    "Smithing": 80,
+    "Divination": 80
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Divine charge (empty)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Creating equipment siphon",
+   "activity": "Creating equipment siphons",
+   "monster": null,
+   "kph": 33.0,
+   "per_kill": true,
+   "skills": {
+    "Invention": 27
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Equipment siphon": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Creating mechanised chinchompas",
+   "activity": "Creating mechanised chinchompas",
+   "monster": null,
+   "kph": 20.0,
+   "per_kill": true,
+   "skills": {
+    "Invention": 50,
+    "Crafting": 80,
+    "Smithing": 80,
+    "Divination": 80
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Mechanised chinchompa": 50.0
+   }
+  },
+  {
+   "guide": "Money making guide/Cutting granite",
+   "activity": "Cutting granite",
+   "monster": "granite",
+   "kph": 1800.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Granite (500g)": 4.0
+   }
+  },
+  {
+   "guide": "Money making guide/Defeating Croesus",
+   "activity": "Defeating Croesus",
+   "monster": "Croesus",
+   "kph": 9.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Construction": 80,
+    "Woodcutting": 80,
+    "Mining": 80,
+    "Fishing": 80,
+    "Hunter": 80,
+    "Magic": 90
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Croesus flakes": 105.0,
+    "Toadflax seed": 2.1,
+    "Kwuarm seed": 3.1,
+    "Dwarf weed seed": 2.1,
+    "Godly grapevine seed": 0.4,
+    "Starbloom flower seed": 1.0,
+    "Uncut emerald": 8.8,
+    "Uncut ruby": 11.0,
+    "Uncut diamond": 5.0,
+    "Uncut dragonstone": 3.0000000000000004,
+    "Coins": 112500.0,
+    "Cockatrice egg": 2.25,
+    "Crystal key": 4.0,
+    "Limpwurt root": 13.2,
+    "Magic logs": 75.0,
+    "Medium plated orikalkum salvage": 1.4000000000000001,
+    "Mort myre fungus": 12.5,
+    "Necrite stone spirit": 20.0,
+    "Onyx dust": 8.750000000000002,
+    "Raw rocktail": 17.500000000000004,
+    "Red spiders' eggs": 15.0,
+    "Soul rune": 60.0,
+    "Hydrix bolt tips": 6.0,
+    "Elder Trove (Bik, T3)": 10.0
+   }
+  },
+  {
+   "guide": "Money making guide/Enchanting bakriminel bolts",
+   "activity": "Enchanting Opal bakriminel bolts (e)",
+   "monster": "Opal bakriminel bolts (e)",
+   "kph": 8570.0,
+   "per_kill": true,
+   "skills": {
+    "Fletching": 89,
+    "Magic": 89
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Opal bakriminel bolts (e)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Enchanting rings of respawn",
+   "activity": "Enchanting rings of respawn",
+   "monster": "ring of respawn",
+   "kph": 2858.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 27
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Ring of respawn (new)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Excavating material cache (Blood of Orcus)",
+   "activity": "Excavating material cache (Blood of Orcus)",
+   "monster": "material cache (Blood of Orcus)",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 50
+   },
+   "recommended_skills": {
+    "Archaeology": 99
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Blood of Orcus": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Finding mjolnirs by enchanted key",
+   "activity": "Finding mjolnirs by enchanted key",
+   "monster": "enchanted key",
+   "kph": 60.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [
+    "Making History",
+    "Meeting History"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Guthix mjolnir": 1.0,
+    "Saradomin mjolnir": 1.0,
+    "Zamorak mjolnir": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Fletching ascendri bolts",
+   "activity": "Fletching ascendri bolts",
+   "monster": "ascendri bolts",
+   "kph": 2000.0,
+   "per_kill": true,
+   "skills": {
+    "Fletching": 80
+   },
+   "recommended_skills": {
+    "Construction": 65
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Ascendri bolts": 0.3
+   }
+  },
+  {
+   "guide": "Money making guide/Fletching headless arrows",
+   "activity": "Making headless arrows",
+   "monster": "headless arrow",
+   "kph": 3000.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Headless shaft": 15.0
+   }
+  },
+  {
+   "guide": "Money making guide/Gnome Restaurant",
+   "activity": "Gnome Restaurant",
+   "monster": "Gnome Restaurant",
+   "kph": 60.0,
+   "per_kill": false,
+   "skills": {},
+   "recommended_skills": {
+    "Cooking": 42,
+    "Magic": 66
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Grinding sandstone into extra fine sand",
+   "activity": "Grinding sandstone (10kg)",
+   "monster": "sandstone (10kg)",
+   "kph": 100.0,
+   "per_kill": true,
+   "skills": {
+    "Crafting": 20
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Extra fine sand": 28.0
+   }
+  },
+  {
+   "guide": "Money making guide/Havenhythe Big Game Hunter",
+   "activity": "Havenhythe Big Game Hunter",
+   "monster": null,
+   "kph": 25.0,
+   "per_kill": true,
+   "skills": {
+    "Hunter": 96,
+    "Slayer": 77
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Apex hide": 17.0,
+    "Raw giant chinchompa meat": 5.0
+   }
+  },
+  {
+   "guide": "Money making guide/High level private Grenwall hunting",
+   "activity": "High-level private Grenwall hunting",
+   "monster": "Grenwall",
+   "kph": 250.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Hunter": 99,
+    "Summoning": 71
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Grenwall spikes": 19.5
+   }
+  },
+  {
+   "guide": "Money making guide/Hunting grenwalls",
+   "activity": "Hunting grenwalls",
+   "monster": "grenwall",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {
+    "Hunter": 80,
+    "Summoning": 71
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Grenwall spikes": 19.5
+   }
+  },
+  {
+   "guide": "Money making guide/Hunting igneous jadinkos",
+   "activity": "Hunting igneous jadinkos",
+   "monster": "igneous jadinko",
+   "kph": 600.0,
+   "per_kill": true,
+   "skills": {
+    "Hunter": 74,
+    "Herblore": 64,
+    "Farming": 70
+   },
+   "recommended_skills": {
+    "Hunter": 80,
+    "Summoning": 71
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Marble vine": 1.0,
+    "Butterfly flower seed": 0.013,
+    "Godly grapevine seed": 0.007,
+    "Reed seed": 0.008,
+    "Igneous jadinko (unchecked)": 0.002
+   }
+  },
+  {
+   "guide": "Money making guide/Hunting orange salamanders",
+   "activity": "Hunting orange salamanders",
+   "monster": "orange salamander (Hunter)",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Hunter": 47
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Orange salamander": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Hunting red salamanders",
+   "activity": "Hunting red salamanders",
+   "monster": "red salamander (Hunter)",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Hunter": 59
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Red salamander": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Hunting ruby harvests",
+   "activity": "Catching Ruby harvests",
+   "monster": "Ruby harvest (item)",
+   "kph": 420.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Hunter": 30
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Ruby harvest jar": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/K'ril Tsutsaroth Alt Guide",
+   "activity": "Killing K'ril Tsutsaroth",
+   "monster": "K'ril Tsutsaroth",
+   "kph": 55.0,
+   "per_kill": true,
+   "skills": {
+    "Constitution": 70
+   },
+   "recommended_skills": {
+    "Magic": 99
+   },
+   "quests": [
+    "Troll Stronghold"
+   ],
+   "partial_quests": [
+    "Troll Stronghold"
+   ],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Amascut, the Devourer",
+   "activity": "Killing Amascut, the Devourer (Normal Mode)",
+   "monster": "Amascut, the Devourer",
+   "kph": 9.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 96,
+    "Prayer": 95,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Tumeken's Light": 0.00020833333333333335,
+    "Devourer's Guard": 0.00020833333333333335,
+    "The Devourer's Nexus (unattuned)": 0.0013333333333333333,
+    "Mask of Tumeken's resplendence": 0.00025,
+    "Robe top of Tumeken's resplendence": 0.00025,
+    "Robe bottom of Tumeken's resplendence": 0.00025,
+    "Gloves of Tumeken's resplendence": 0.00025,
+    "Boots of Tumeken's resplendence": 0.00025,
+    "Vital spark": 0.15,
+    "Cursed Amascut sand": 0.002
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Araxxi",
+   "activity": "Killing Araxxi",
+   "monster": "Araxxi",
+   "kph": 14.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 96,
+    "Herblore": 96,
+    "Prayer": 95,
+    "Invention": 89,
+    "Crafting": 90
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Spider leg": 0.008333333333333333,
+    "Araxxi's fang": 0.0020833333333333333,
+    "Araxxi's web": 0.0020833333333333333,
+    "Araxxi's eye": 0.004166666666666667,
+    "Araxyte pheromone": 0.022222222222222223,
+    "Araxyte arrow": 50.0,
+    "Onyx bolts (e)": 9.75,
+    "Necrite stone spirit": 1.1111111111111112,
+    "Saradomin brew flask (6)": 4.0,
+    "Super restore flask (6)": 1.1666666666666667,
+    "Phasmatite stone spirit": 1.1111111111111112,
+    "Magic seed": 0.3611111111111111,
+    "Black dragonhide": 4.444444444444445,
+    "Battlestaff": 3.3333333333333335,
+    "Banite stone spirit": 1.3888888888888888,
+    "Magic logs": 13.166666666666666,
+    "Eternal magic wood spirit": 2.388888888888889,
+    "Lantadyme seed": 0.3055555555555556,
+    "Avantoe seed": 0.3333333333333333,
+    "Dwarf weed seed": 0.8888888888888888,
+    "Uncut onyx": 0.1111111111111111,
+    "Sirenic scale": 0.1388888888888889,
+    "Huge plated rune salvage": 0.5555555555555556,
+    "Water talisman": 3.0555555555555554,
+    "Overload flask (6)": 0.23333333333333334,
+    "Hydrix bolt tips": 2.2222222222222223,
+    "Coins": 23610.666666666668
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Beastmaster Durzag",
+   "activity": "Killing Beastmaster Durzag",
+   "monster": "Beastmaster Durzag",
+   "kph": 5.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 99,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Crystal Shapeshifters (Classic Combat Mode)",
+   "activity": "Killing Crystal Shapeshifters in Classic Combat Mode",
+   "monster": "Crystal Shapeshifter",
+   "kph": 560.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 99
+   },
+   "recommended_skills": {
+    "Prayer": 95,
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Invention": 45
+   },
+   "quests": [
+    "The Jack of Spades",
+    "The Light Within",
+    "The Temple at Senntisten"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Tarddian crystal": 3.5,
+    "Coins": 41.7109375,
+    "Potato cactus": 0.25,
+    "Grimy kwuarm": 0.1875,
+    "Grimy dwarf weed": 0.125,
+    "Grimy lantadyme": 0.125,
+    "Grimy toadflax": 0.125,
+    "Grimy irit": 0.21875,
+    "Magic logs": 1.125,
+    "Huge plated rune salvage": 0.0390625,
+    "Medium bladed rune salvage": 0.03125,
+    "Large bladed rune salvage": 0.125,
+    "Adamantite stone spirit": 0.9296875,
+    "Battlestaff": 0.125,
+    "XP Capacitor 5000 (charged)": 0.001343,
+    "Elder seed": 0.001953125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Dagannoth Kings",
+   "activity": "Killing the Dagannoth Kings",
+   "monster": "Dagannoth Kings",
+   "kph": 128.0,
+   "per_kill": true,
+   "skills": {
+    "Attack": 80,
+    "Ranged": 80,
+    "Magic": 80
+   },
+   "recommended_skills": {
+    "Prayer": 92
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Dragon hatchet": 0.0078125,
+    "Berserker ring": 0.0026041666666666665,
+    "Warrior ring": 0.0026041666666666665,
+    "Seers' ring": 0.0026041666666666665,
+    "Archers' ring": 0.0026041666666666665,
+    "Dagannoth hide": 1.0,
+    "Dagannoth Kings teleport": 0.0390625,
+    "Berserker helm": 0.0078125,
+    "Warrior helm": 0.0078125,
+    "Farseer helm": 0.0078125,
+    "Archer helm": 0.0078125,
+    "Rock-shell legs": 0.005208333333333333,
+    "Rock-shell plate": 0.005208333333333333,
+    "Rock-shell helm": 0.005208333333333333,
+    "Skeletal bottoms": 0.005208333333333333,
+    "Skeletal top": 0.005208333333333333,
+    "Skeletal helm": 0.005208333333333333,
+    "Spined chaps": 0.005208333333333333,
+    "Spined body": 0.005208333333333333,
+    "Spined helm": 0.005208333333333333,
+    "Medium blunt rune salvage": 0.0546875,
+    "Huge plated rune salvage": 0.0078125,
+    "Mud battlestaff": 0.0026041666666666665,
+    "Seercull": 0.0026041666666666665,
+    "Fremennik helm": 0.015625,
+    "Fremennik shield": 0.015625,
+    "Fremennik blade": 0.015625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing General Graardor",
+   "activity": "Killing General Graardor",
+   "monster": "General Graardor",
+   "kph": 75.0,
+   "per_kill": true,
+   "skills": {
+    "Strength": 70
+   },
+   "recommended_skills": {
+    "Attack": 80,
+    "Ranged": 80,
+    "Magic": 80,
+    "Necromancy": 80,
+    "Summoning": 96,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [
+    "Troll Stronghold"
+   ],
+   "partial_quests": [
+    "Troll Stronghold"
+   ],
+   "gear_tier": 80,
+   "drops": {
+    "Ourg bones (General Graardor)": 1.0,
+    "Bandos helmet": 0.0026041666666666665,
+    "Bandos chestplate": 0.0026041666666666665,
+    "Bandos tassets": 0.0026041666666666665,
+    "Bandos gloves": 0.0026041666666666665,
+    "Bandos boots": 0.0026041666666666665,
+    "Bandos warshield": 0.0026041666666666665,
+    "Godsword shard 1": 0.0032220833333333337,
+    "Godsword shard 2": 0.0032220833333333337,
+    "Godsword shard 3": 0.0032220833333333337,
+    "Bandos hilt": 0.001953125,
+    "Runite stone spirit": 0.046875,
+    "Snapdragon seed": 0.02,
+    "Magic logs": 1.3333333333333333,
+    "Limpwurt root": 1.2000000000000002,
+    "Coins": 6000.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Gregorovic",
+   "activity": "Killing Gregorovic",
+   "monster": "Gregorovic",
+   "kph": 15.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Prayer": 95,
+    "Ranged": 90,
+    "Necromancy": 90,
+    "Defence": 70,
+    "Summoning": 99,
+    "Herblore": 96
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Drakolith stone spirit": 1.25,
+    "Orichalcite stone spirit": 1.25,
+    "Necrite stone spirit": 0.9375,
+    "Phasmatite stone spirit": 0.9375,
+    "Uncut diamond": 2.1875,
+    "Uncut dragonstone": 0.46875,
+    "Medium plated rune salvage": 0.703125,
+    "Large plated rune salvage": 0.3515625,
+    "Raw shark": 5.46875,
+    "Coins": 6562.5,
+    "Dwarf weed seed": 0.3125,
+    "Magic logs": 15.625,
+    "Battlestaff": 6.875
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Helwyr",
+   "activity": "Killing Helwyr",
+   "monster": "Helwyr",
+   "kph": 15.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 80
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Defence": 90,
+    "Summoning": 99,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Wand of the Cywir elders": 0.001953125,
+    "Orb of the Cywir elders": 0.001953125,
+    "Dormant anima core helm": 0.001953125,
+    "Dormant anima core body": 0.001953125,
+    "Dormant anima core legs": 0.001953125,
+    "Crest of Seren": 0.001953125,
+    "Serenic essence": 0.0078125,
+    "Lantadyme seed": 1.1875,
+    "Dwarf weed seed": 0.3125,
+    "Drakolith stone spirit": 1.25,
+    "Orichalcite stone spirit": 1.25,
+    "Necrite stone spirit": 0.9375,
+    "Phasmatite stone spirit": 0.9375,
+    "Uncut diamond": 2.1875,
+    "Uncut dragonstone": 0.46875,
+    "Raw shark": 5.46875,
+    "Coins": 6562.5,
+    "Magic logs": 15.625,
+    "Crystal key": 0.28125,
+    "Large bladed rune salvage": 0.5625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Iorwerth scouts",
+   "activity": "Killing Iorwerth scouts",
+   "monster": "Iorwerth scout",
+   "kph": 775.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Slayer": 85,
+    "Attack": 90,
+    "Prayer": 95,
+    "Herblore": 97,
+    "Summoning": 99,
+    "Archaeology": 83
+   },
+   "quests": [
+    "Plague's End"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Crystal weapon seed": 0.00133,
+    "Crystal armour seed": 0.00133,
+    "Crystal tool seed": 0.00133,
+    "Grimy irit": 0.21875,
+    "Grimy cadantine": 0.21875,
+    "Grimy kwuarm": 0.15625,
+    "Coins": 3000.0,
+    "White berries": 0.375,
+    "Limpwurt root": 0.375,
+    "Huge plated rune salvage": 0.046875,
+    "Large bladed rune salvage": 0.046875,
+    "Mithril stone spirit": 0.75,
+    "Attuned crystal weapon seed": 0.0004,
+    "Attuned crystal armour seed": 0.0004
+   }
+  },
+  {
+   "guide": "Money making guide/Killing K'ril Tsutsaroth",
+   "activity": "Killing K'ril Tsutsaroth",
+   "monster": "K'ril Tsutsaroth",
+   "kph": 30.0,
+   "per_kill": true,
+   "skills": {
+    "Constitution": 70,
+    "Summoning": 56
+   },
+   "recommended_skills": {
+    "Magic": 70,
+    "Prayer": 43
+   },
+   "quests": [
+    "Troll Stronghold"
+   ],
+   "partial_quests": [
+    "Troll Stronghold"
+   ],
+   "gear_tier": 70,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Kerapac, the bound",
+   "activity": "Killing Kerapac, the bound (Normal Mode)",
+   "monster": "Kerapac, the bound",
+   "kph": 25.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Herblore": 106,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Kerapac, the bound (Solo normal mode using Necromancy)",
+   "activity": "Killing Kerapac, the bound",
+   "monster": "Kerapac, the bound",
+   "kph": 25.0,
+   "per_kill": true,
+   "skills": {
+    "Necromancy": 99,
+    "Summoning": 73
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Tomes of the Warlock"
+   ],
+   "partial_quests": [],
+   "gear_tier": 95,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Kree'arra",
+   "activity": "Killing Kree'arra",
+   "monster": "Kree'arra",
+   "kph": 70.0,
+   "per_kill": true,
+   "skills": {
+    "Ranged": 70
+   },
+   "recommended_skills": {
+    "Ranged": 80,
+    "Defence": 70,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [
+    "Troll Stronghold"
+   ],
+   "partial_quests": [
+    "Troll Stronghold"
+   ],
+   "gear_tier": null,
+   "drops": {
+    "Crushed nest": 1.6,
+    "Armadyl helmet": 0.0026652018229166665,
+    "Armadyl chestplate": 0.0026652018229166665,
+    "Armadyl chainskirt": 0.0026652018229166665,
+    "Armadyl gloves": 0.0026652018229166665,
+    "Armadyl boots": 0.0026652018229166665,
+    "Armadyl buckler": 0.0026652018229166665,
+    "Armadyl hilt": 0.001953125,
+    "Godsword shard 1": 0.0032220833333333337,
+    "Godsword shard 2": 0.0032220833333333337,
+    "Godsword shard 3": 0.0032220833333333337,
+    "Coins": 9000.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Nex",
+   "activity": "Killing Nex",
+   "monster": "Nex",
+   "kph": 25.0,
+   "per_kill": true,
+   "skills": {
+    "Ranged": 70,
+    "Strength": 70,
+    "Constitution": 70,
+    "Agility": 70,
+    "Summoning": 87
+   },
+   "recommended_skills": {
+    "Summoning": 96,
+    "Defence": 90,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Nex, Angel of Death",
+   "activity": "Killing Nex, Angel of Death (7-player)",
+   "monster": "Nex, Angel of Death",
+   "kph": 22.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 106,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Osseous",
+   "activity": "Killing Osseous",
+   "monster": "Osseous",
+   "kph": 33.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 80,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Necromancy": 99,
+    "Defence": 90,
+    "Herblore": 107,
+    "Invention": 89
+   },
+   "quests": [
+    "Osseous Rex"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Dinosaur bones": 2.175,
+    "Damaged dinosaur bones": 5.75,
+    "Occultist's ring": 0.005012531328320802,
+    "Heart of the Berserker": 0.0044444444444444444,
+    "Jail cell key": 0.002506265664160401,
+    "Skeka's hypnowand focus": 0.0014,
+    "Skeka's hypnowand projector": 0.0002,
+    "Skeka's hypnowand handle": 0.0002,
+    "Skeka's hypnowand base": 0.0002,
+    "Savage spear tip": 0.0022222222222222222,
+    "Savage spear cap": 0.0022222222222222222,
+    "Savage plume": 0.0022222222222222222,
+    "Savage spear shaft": 0.0022222222222222222,
+    "Sirenic scale": 0.005,
+    "Ancient scale": 0.005,
+    "Draconic energy": 0.005,
+    "Watermelon seed": 2.5,
+    "Arbuck seed": 0.226,
+    "Medium blunt rune salvage": 0.621,
+    "Large spiky rune salvage": 0.5175,
+    "Coins": 19000.0,
+    "Onyx bolt tips": 2.0,
+    "Uncut dragonstone": 1.0,
+    "White berries": 0.5,
+    "Super necromancy (3)": 0.5
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Raksha",
+   "activity": "Killing Raksha",
+   "monster": "Raksha",
+   "kph": 20.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Summoning": 96,
+    "Herblore": 106,
+    "Prayer": 95
+   },
+   "quests": [
+    "Raksha, the Shadow Colossus (quest)"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Rasial, the First Necromancer",
+   "activity": "Killing Rasial, the First Necromancer",
+   "monster": "Rasial, the First Necromancer",
+   "kph": 28.0,
+   "per_kill": true,
+   "skills": {
+    "Necromancy": 95,
+    "Summoning": 45
+   },
+   "recommended_skills": {
+    "Defence": 90,
+    "Herblore": 106,
+    "Archaeology": 112,
+    "Prayer": 95,
+    "Invention": 89
+   },
+   "quests": [
+    "Alpha vs Omega"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Rex Matriarchs",
+   "activity": "Killing Rex Matriarchs (Orikalka)",
+   "monster": "Rex Matriarchs",
+   "kph": 50.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Magic": 90,
+    "Defence": 90,
+    "Herblore": 106,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Dinosaur bones": 2.0,
+    "Damaged dinosaur hide": 5.75,
+    "Heart of the Warrior": 0.005012531328320802,
+    "Heart of the Berserker": 0.0044444444444444444,
+    "Bagrada rex (unchecked)": 0.002506265664160401,
+    "Skeka's hypnowand focus": 0.0014,
+    "Skeka's hypnowand projector": 0.0002,
+    "Skeka's hypnowand handle": 0.0002,
+    "Skeka's hypnowand base": 0.0002,
+    "Savage spear tip": 0.0022222222222222222,
+    "Savage spear cap": 0.0022222222222222222,
+    "Savage plume": 0.0022222222222222222,
+    "Savage spear shaft": 0.0022222222222222222,
+    "Sirenic scale": 0.005,
+    "Ancient scale": 0.005,
+    "Draconic energy": 0.005,
+    "Watermelon seed": 2.5,
+    "Toadflax seed": 0.15,
+    "Arbuck seed": 0.226,
+    "Medium blunt rune salvage": 0.621,
+    "Large spiky rune salvage": 0.5175,
+    "Coins": 19000.0,
+    "Onyx bolt tips": 2.0,
+    "Uncut dragonstone": 1.0,
+    "Inert adrenaline crystal": 0.175,
+    "Super strength (3)": 0.5
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Solak",
+   "activity": "Killing Solak",
+   "monster": "Solak",
+   "kph": 10.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 106,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Blightbound crossbow": 0.0025,
+    "Off-hand Blightbound crossbow": 0.0025,
+    "Erethdor's grimoire": 0.005,
+    "Torn grimoire page": 1.125,
+    "Purple mushroom": 0.002,
+    "Merethiel's stave": 0.002,
+    "Cinderbane gloves": 0.001,
+    "Ancient elven ritual shard": 0.001,
+    "Coins": 49253.73134328358,
+    "Kwuarm seed": 0.8955223880597015,
+    "Cadantine seed": 0.8955223880597015,
+    "Irit seed": 0.8955223880597015,
+    "Primal stone spirit": 1.3432835820895523,
+    "Platinum stone spirit": 1.7611940298507462,
+    "Elder wood spirit": 1.6791044776119404,
+    "Eternal magic wood spirit": 1.455223880597015,
+    "Medium bladed rune salvage": 2.5186567164179103,
+    "Medium spiky rune salvage": 2.2388059701492535,
+    "Wine of Saradomin": 1.3432835820895523,
+    "Crushed nest": 13.432835820895523,
+    "Mystic earth staff": 2.388059701492537,
+    "Black dragonhide": 17.91044776119403,
+    "Onyx bolt tips": 8.955223880597014,
+    "Hydrix bolt tips": 7.462686567164179,
+    "Uncut dragonstone": 5.223880597014926,
+    "Uncut onyx": 0.04477611940298507
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Telos, the Warden",
+   "activity": "Killing Telos, the Warden (100%)",
+   "monster": "Telos, the Warden",
+   "kph": 12.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 106,
+    "Prayer": 95,
+    "Summoning": 99
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing The Barrows Brothers (High-Level)",
+   "activity": "High level Barrows",
+   "monster": "Barrows",
+   "kph": 18.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Magic": 80,
+    "Necromancy": 80
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Mind rune": 600.0,
+    "Chaos rune": 260.0,
+    "Death rune": 154.0,
+    "Blood rune": 78.0,
+    "Bolt rack": 11.0,
+    "Barrows totem": 4.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing TzKal-Zuk",
+   "activity": "Killing TzKal-Zuk (normal mode)",
+   "monster": "TzKal-Zuk",
+   "kph": 5.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 99,
+    "Herblore": 106
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90
+   },
+   "quests": [
+    "City of Senntisten",
+    "Extinction"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Magma Tempest ability codex": 0.01,
+    "Scripture of Ful": 0.01,
+    "Elder Trove (Ful, T3)": 10.0,
+    "Fire orb": 50.0,
+    "Tokkul": 25000.0,
+    "Resonant anima of Ful (tradeable)": 1250.0,
+    "Earth orb": 50.0,
+    "Grimy cadantine": 5.0,
+    "Obsidian charm": 12.0,
+    "Luminite stone spirit": 50.0,
+    "Death rune": 50.0,
+    "Alchemist's key": 8.0,
+    "Hydrix bolt tips": 35.0,
+    "Grimy kwuarm": 5.0,
+    "Manuscript of Ful": 2.0,
+    "Uncut dragonstone": 75.0,
+    "Grimy toadflax": 6.0,
+    "Tiny blunt orikalkum salvage": 5.0,
+    "Grimy irit": 6.0,
+    "Toadflax seed": 6.0,
+    "Irit seed": 6.0,
+    "Smoke rune": 50.0,
+    "Lava rune": 50.0,
+    "Uncut diamond": 50.0,
+    "Onyx dust": 175.0,
+    "Kwuarm seed": 12.0,
+    "Godly grapevine seed": 1.5,
+    "Onyx bolt tips": 125.0,
+    "Sirenic scale": 6.0,
+    "Cadantine seed": 6.0,
+    "Large blunt orikalkum salvage": 5.0,
+    "Blood rune": 300.0,
+    "Reed seed": 4.0,
+    "Inert adrenaline crystal": 7.5,
+    "Uncut onyx": 0.2,
+    "Igneous stone": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing TzekHaar-Jad",
+   "activity": "Killing TzekHaar-Jad in wave 11 of the TzekHaar Front (normal mode)",
+   "monster": "TzekHaar Front",
+   "kph": 12.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Ranged": 90,
+    "Magic": 90,
+    "Defence": 90,
+    "Herblore": 106,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Tokkul": 2400.25,
+    "Resonant anima of Ful (tradeable)": 42.0,
+    "Grimy irit": 0.19499999999999998,
+    "Grimy cadantine": 0.19499999999999998,
+    "Grimy kwuarm": 0.19499999999999998,
+    "Grimy toadflax": 0.19499999999999998,
+    "Kwuarm seed": 0.609,
+    "Reed seed": 0.126,
+    "Godly grapevine seed": 0.063,
+    "Smoke rune": 1.9499999999999997,
+    "Lava rune": 1.9499999999999997,
+    "Death rune": 1.9499999999999997,
+    "Blood rune": 20.0,
+    "Luminite stone spirit": 1.9499999999999997,
+    "Elder wood spirit": 0.1126,
+    "Tiny blunt orikalkum salvage": 0.168,
+    "Large blunt orikalkum salvage": 0.2,
+    "Earth orb": 1.7799999999999998,
+    "Fire orb": 1.7799999999999998,
+    "Onyx bolt tips": 2.2945,
+    "Hydrix bolt tips": 2.074,
+    "Uncut diamond": 1.448,
+    "Uncut dragonstone": 5.0,
+    "Uncut onyx": 0.015,
+    "Alchemist's key": 0.31899999999999995,
+    "Inert adrenaline crystal": 0.252,
+    "Onyx dust": 2.408,
+    "Manuscript of Ful": 0.084,
+    "Elder Trove (Ful, T3)": 10.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Vindicta",
+   "activity": "Killing Vindicta & Gorvek",
+   "monster": "Vindicta & Gorvek",
+   "kph": 15.0,
+   "per_kill": true,
+   "skills": {
+    "Attack": 80
+   },
+   "recommended_skills": {
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Summoning": 99,
+    "Herblore": 97,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Dragon Rider lance": 0.00196078431372549,
+    "Dormant anima core helm": 0.00196078431372549,
+    "Dormant anima core body": 0.00196078431372549,
+    "Dormant anima core legs": 0.00196078431372549,
+    "Crest of Zaros": 0.00196078431372549,
+    "Zarosian essence": 0.0078125,
+    "Drakolith stone spirit": 1.25,
+    "Orichalcite stone spirit": 1.25,
+    "Necrite stone spirit": 0.9375,
+    "Phasmatite stone spirit": 0.9375,
+    "Uncut diamond": 2.1875,
+    "Uncut dragonstone": 0.46875,
+    "Raw shark": 5.46875,
+    "Coins": 6562.5,
+    "Dwarf weed seed": 0.3125,
+    "Magic logs": 15.625,
+    "Dragon bones": 26.0,
+    "Black dragonhide": 2.8125,
+    "Large plated rune salvage": 0.46875
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Vorago",
+   "activity": "Killing Vorago (Trio)",
+   "monster": "Vorago",
+   "kph": 7.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Summoning": 87,
+    "Herblore": 106,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Tectonic energy": 2.6666666666666665,
+    "Seismic wand": 0.004166666666666667,
+    "Seismic singularity": 0.004166666666666667,
+    "Godly grapevine seed": 4.015151515151516,
+    "Raw rocktail": 20.454545454545457,
+    "Huge plated rune salvage": 0.9090909090909091,
+    "Torstol seed": 2.0454545454545454,
+    "Primal stone spirit": 2.121212121212121,
+    "Black dragonhide": 10.606060606060606,
+    "Onyx bolts (e)": 8.712121212121213,
+    "Magic logs": 40.15151515151515,
+    "Eternal magic wood spirit": 2.3484848484848486
+   }
+  },
+  {
+   "guide": "Money making guide/Killing Zamorak, Lord of Chaos",
+   "activity": "Killing Zamorak, Lord of Chaos (50% enrage)",
+   "monster": "Zamorak, Lord of Chaos",
+   "kph": 18.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 106,
+    "Invention": 89
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing Zemouregal & Vorkath",
+   "activity": "Killing Zemouregal & Vorkath (Normal Mode)",
+   "monster": "Zemouregal & Vorkath",
+   "kph": 28.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Necromancy": 90,
+    "Defence": 90,
+    "Prayer": 95,
+    "Herblore": 96
+   },
+   "quests": [
+    "Battle of Forinthry"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing aberrant spectres",
+   "activity": "Killing aberrant spectres",
+   "monster": "aberrant spectre",
+   "kph": 900.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 63
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Lava battlestaff": 0.015625,
+    "Dark mystic robe bottom": 0.001953125,
+    "Grimy herb": 1.0625,
+    "Fellstalk seed": 0.09375,
+    "Morchella mushroom spore": 0.046875,
+    "Tiny blunt rune salvage": 0.0625,
+    "Medium plated rune salvage": 0.015625,
+    "Snape grass": 1.0,
+    "Jangerberries": 0.125,
+    "Swamp tar": 1.5625,
+    "Coins": 187.5,
+    "Ghostly essence": 0.033203125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing abyssal beasts",
+   "activity": "Killing Abyssal beasts",
+   "monster": "Abyssal beast",
+   "kph": 550.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 105
+   },
+   "recommended_skills": {
+    "Prayer": 95,
+    "Herblore": 106
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Jaws of the Abyss": 0.0002,
+    "Coins": 3001.2004801920766,
+    "Large spiky rune salvage": 0.12,
+    "Huge bladed rune salvage": 0.06,
+    "Pure essence": 12.0,
+    "Uncut dragonstone": 0.09090909090909091,
+    "Grimy dwarf weed": 0.0625,
+    "Grimy irit": 0.0625,
+    "Grimy cadantine": 0.0625,
+    "Grimy lantadyme": 0.0625,
+    "Grimy avantoe": 0.0625,
+    "Grimy toadflax": 0.0625,
+    "Grenwall spikes": 1.25,
+    "Crystal key": 0.07142857142857142,
+    "Onyx bolts (e)": 0.4,
+    "Small bladed orikalkum salvage": 0.06,
+    "Abyssal flesh": 0.1
+   }
+  },
+  {
+   "guide": "Money making guide/Killing abyssal demons",
+   "activity": "Killing abyssal demons",
+   "monster": "abyssal demon",
+   "kph": 900.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 85
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Abyssal wand": 0.000163826998689384,
+    "Abyssal orb": 0.000163826998689384,
+    "Abyssal whip": 0.0009765625,
+    "Uncut ruby": 0.109375,
+    "Uncut diamond": 0.046875,
+    "Uncut dragonstone": 0.015625,
+    "Orichalcite stone spirit": 0.03125,
+    "Phasmatite stone spirit": 0.03125,
+    "Medium bladed adamant salvage": 0.09375,
+    "Tiny spiky rune salvage": 0.0625,
+    "Tiny plated rune salvage": 0.03125,
+    "Large plated rune salvage": 0.03125,
+    "Coins": 665.625,
+    "Pure essence": 7.5,
+    "Magic logs": 0.28125,
+    "Fire orb": 0.09375
+   }
+  },
+  {
+   "guide": "Money making guide/Killing abyssal lords",
+   "activity": "Killing abyssal lords",
+   "monster": "abyssal lord",
+   "kph": 180.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 99,
+    "Defence": 99,
+    "Prayer": 95
+   },
+   "recommended_skills": {
+    "Slayer": 120
+   },
+   "quests": [
+    "City of Senntisten"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Abyssal scourge": 0.0005,
+    "Abyssal flesh": 2.0,
+    "Infernal ashes": 1.0,
+    "Mud rune": 4.2,
+    "Soul rune": 1.92,
+    "Grimy irit": 0.06666666666666667,
+    "Grimy avantoe": 0.06666666666666667,
+    "Grimy cadantine": 0.06666666666666667,
+    "Grimy lantadyme": 0.06666666666666667,
+    "Grimy dwarf weed": 0.06666666666666667,
+    "Grimy toadflax": 0.06666666666666667,
+    "Huge plated rune salvage": 0.2,
+    "Small spiky orikalkum salvage": 0.12,
+    "Coins": 7800.0,
+    "Pure essence": 30.0,
+    "Wine of Zamorak": 1.5,
+    "Hydrix bolt tips": 0.8,
+    "Crystal triskelion fragment 1": 0.02,
+    "Crystal triskelion fragment 2": 0.02,
+    "Crystal triskelion fragment 3": 0.02
+   }
+  },
+  {
+   "guide": "Money making guide/Killing abyssal savages",
+   "activity": "Killing abyssal savages",
+   "monster": "abyssal savage",
+   "kph": 1300.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 95
+   },
+   "recommended_skills": {
+    "Combat": 138,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Infernal ashes": 1.0,
+    "Abyssal flesh": 0.2,
+    "Pure essence": 9.6,
+    "Coins": 600.2400960384153,
+    "Earth orb": 0.4801920768307323,
+    "Necrite stone spirit": 0.29940119760479045,
+    "Phasmatite stone spirit": 0.29940119760479045,
+    "Grimy avantoe": 0.04,
+    "Grimy cadantine": 0.04,
+    "Grimy dwarf weed": 0.04,
+    "Grimy irit": 0.04,
+    "Grimy lantadyme": 0.04,
+    "Grimy toadflax": 0.04,
+    "Tiny spiky rune salvage": 0.1400560224089636,
+    "Medium blunt rune salvage": 0.059880239520958084,
+    "Large bladed rune salvage": 0.04
+   }
+  },
+  {
+   "guide": "Money making guide/Killing acheron mammoths",
+   "activity": "Killing Acheron mammoths",
+   "monster": "Acheron mammoth",
+   "kph": 120.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 96
+   },
+   "recommended_skills": {
+    "Melee": 90,
+    "Prayer": 95,
+    "Herblore": 96
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Dragon longsword": 0.0234375,
+    "Off-hand dragon longsword": 0.0234375,
+    "Necrite stone spirit": 0.390625,
+    "Phasmatite stone spirit": 0.390625,
+    "Elder wood spirit": 0.8125,
+    "Large plated rune salvage": 0.0625,
+    "Huge plated rune salvage": 0.046875,
+    "Blue dragonhide": 0.78125,
+    "Dragon arrowheads": 2.5,
+    "Mud rune": 1.875,
+    "Inert adrenaline crystal": 0.0625,
+    "Raw shark": 1.25,
+    "Unicorn horn": 0.75,
+    "Water orb": 0.78125,
+    "Water talisman": 0.1875,
+    "Onyx bolt tips": 0.28125,
+    "Raptor key part 4": 0.00390625,
+    "Cursed Amascut sand": 0.0009765625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing adamant dragons",
+   "activity": "Killing adamant dragons",
+   "monster": "adamant dragon",
+   "kph": 240.0,
+   "per_kill": true,
+   "skills": {
+    "Herblore": 85
+   },
+   "recommended_skills": {
+    "Prayer": 92
+   },
+   "quests": [
+    "Ritual of the Mahjarrat"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Hardened dragon bones": 1.0,
+    "Medium plated adamant salvage": 1.0,
+    "Draconic visage": 0.0002,
+    "Dragon full helm": 0.0002,
+    "Dragon platelegs": 0.001953125,
+    "Dragon plateskirt": 0.001953125,
+    "Dragon mace": 0.01171875,
+    "Off-hand dragon mace": 0.01171875,
+    "Super defence (2)": 0.0703125,
+    "Super magic potion (2)": 0.0703125,
+    "Adamantite stone spirit": 0.828125,
+    "Runite stone spirit": 0.109375,
+    "Medium bladed adamant salvage": 0.09375,
+    "Huge plated adamant salvage": 0.078125,
+    "Medium bladed rune salvage": 0.0546875,
+    "Adamant bolts (unf)": 2.8125,
+    "Yew logs": 2.34375,
+    "Uncut diamond": 0.09375,
+    "Inert adrenaline crystal": 0.03125,
+    "Coins": 234.375,
+    "Rare drop table": 0.016666666666666666
+   }
+  },
+  {
+   "guide": "Money making guide/Killing airut",
+   "activity": "Killing Airut",
+   "monster": "Airut",
+   "kph": 450.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 92,
+    "Herblore": 92
+   },
+   "recommended_skills": {
+    "Prayer": 95,
+    "Melee": 90
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 85,
+   "drops": {
+    "Airut bones": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing arhats",
+   "activity": "Killing arhats",
+   "monster": "arhat",
+   "kph": 210.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 96
+   },
+   "recommended_skills": {
+    "Herblore": 96,
+    "Magic": 90,
+    "Prayer": 95
+   },
+   "quests": [
+    "Spiritual Enlightenment (miniquest)"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Sapphire amulet": 0.546875,
+    "Sapphire bracelet": 0.546875,
+    "Ring of recoil": 0.546875,
+    "Magic potion (2)": 0.109375,
+    "Weapon poison+ (2)": 0.109375,
+    "Small plated adamant salvage": 0.109375,
+    "Small spiky adamant salvage": 0.0546875,
+    "Magic stock": 0.625,
+    "Unpowered orb": 0.65625,
+    "Platinum stone spirit": 0.109375,
+    "Water orb": 0.19140625,
+    "Water talisman": 0.109375,
+    "Water battlestaff": 0.109375,
+    "Draconic visage": 0.001953125,
+    "Seiryu's claw": 0.0009765625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing automaton guardians",
+   "activity": "Killing automaton guardians",
+   "monster": "automaton guardian",
+   "kph": 180.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 67
+   },
+   "recommended_skills": {
+    "Prayer": 95,
+    "Herblore": 91,
+    "Magic": 80,
+    "Defence": 70
+   },
+   "quests": [
+    "The World Wakes",
+    "Ritual of the Mahjarrat",
+    "The Chosen Commander",
+    "The Branches of Darkmeyer",
+    "The Firemaker's Curse",
+    "The Void Stares Back"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Static gloves": 0.0009765625,
+    "Grimy herb": 0.011111111111111112,
+    "Grimy avantoe": 0.17777777777777778,
+    "Grimy snapdragon": 0.044444444444444446,
+    "Grimy dwarf weed": 0.08888888888888889,
+    "Avantoe seed": 0.17777777777777778,
+    "Kwuarm seed": 0.08888888888888889,
+    "Spirit weed seed": 0.06666666666666667,
+    "Dwarf weed seed": 0.06666666666666667,
+    "Lantadyme seed": 0.022222222222222223,
+    "Runite stone spirit": 0.044444444444444446,
+    "Magic wood spirit": 0.8333333333333334,
+    "Earth talisman": 0.5333333333333333,
+    "Supercompost": 1.0,
+    "Inert adrenaline crystal": 0.044444444444444446
+   }
+  },
+  {
+   "guide": "Money making guide/Killing aviansie",
+   "activity": "Killing aviansie",
+   "monster": "aviansie",
+   "kph": 500.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Ranged": 80,
+    "Defence": 70,
+    "Prayer": 92
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing basilisks",
+   "activity": "Killing Basilisk",
+   "monster": null,
+   "kph": 1410.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 40,
+    "Defence": 20
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Light mystic hat": 0.001953125,
+    "Grimy dwarf weed": 0.001953125,
+    "Tiny spiky rune salvage": 0.0078125,
+    "Water rune": 1.875,
+    "Grimy lantadyme": 0.001953125,
+    "Water orb": 0.015625,
+    "Basilisk boots": 0.001953125,
+    "Bones": 1.0,
+    "Small plated adamant salvage": 0.046875,
+    "Medium bladed steel salvage": 0.0546875,
+    "Grimy avantoe": 0.00390625,
+    "Medium plated mithril salvage": 0.0625,
+    "Staff of water": 0.0625,
+    "Grimy marrentill": 0.015625,
+    "Grimy harralander": 0.0078125,
+    "Tiny bladed mithril salvage": 0.0625,
+    "Grimy kwuarm": 0.00390625,
+    "Grimy cadantine": 0.00390625,
+    "Tiny spiky mithril salvage": 0.03125,
+    "Grimy irit": 0.0078125,
+    "Grimy guam": 0.0234375,
+    "Raw lobster": 0.0078125,
+    "Gold stone spirit": 0.00390625,
+    "Mithril stone spirit": 0.046875,
+    "Grimy tarromin": 0.015625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing black dragons",
+   "activity": "Killing black dragons",
+   "monster": "black dragon",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Ranged": 80,
+    "Defence": 70,
+    "Summoning": 67
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Black dragonhide": 1.0,
+    "Dragon bones": 1.0,
+    "Black dragon egg (unchecked)": 0.0005,
+    "Draconic visage": 0.0001
+   }
+  },
+  {
+   "guide": "Money making guide/Killing black unicorns",
+   "activity": "Killing black unicorns",
+   "monster": "black unicorn",
+   "kph": 300.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 60,
+    "Ranged": 60,
+    "Magic": 60,
+    "Necromancy": 60
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 60,
+   "drops": {
+    "Unicorn horn": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing blood reavers",
+   "activity": "Killing blood reavers",
+   "monster": "blood reaver",
+   "kph": 650.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 73,
+    "Slayer": 73,
+    "Archaeology": 68,
+    "Agility": 70,
+    "Constitution": 70,
+    "Ranged": 70,
+    "Strength": 70
+   },
+   "recommended_skills": {
+    "Melee": 90,
+    "Prayer": 95,
+    "Herblore": 96
+   },
+   "quests": [
+    "Dagon Bye",
+    "Death Plateau",
+    "Troll Stronghold",
+    "Fate of the Gods",
+    "Shard of Zaros"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Binding contract (blood reaver)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing blue dragons",
+   "activity": "Killing blue dragons",
+   "monster": "blue dragons",
+   "kph": 250.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Agility": 70,
+    "Summoning": 67,
+    "Dungeoneering": 60,
+    "Divination": 68
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Dragon bones": 1.0,
+    "Blue dragonhide": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing bulbous crawlers",
+   "activity": "Killing Bulbous crawlers",
+   "monster": "Bulbous crawler",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 106
+   },
+   "recommended_skills": {
+    "Melee": 90,
+    "Prayer": 95,
+    "Herblore": 97
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing camel warriors",
+   "activity": "Killing camel warriors",
+   "monster": "camel warrior",
+   "kph": 70.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 96
+   },
+   "recommended_skills": {
+    "Melee": 90,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Air orb": 1.04,
+    "Potato cactus": 0.64,
+    "Black dragonhide": 0.61,
+    "Cactus spine": 0.273,
+    "Onyx bolt tips": 0.488,
+    "Grimy avantoe": 0.316,
+    "Grimy dwarf weed": 0.308,
+    "Grimy lantadyme": 0.316,
+    "Magic logs": 2.7809999999999997,
+    "Large bladed rune salvage": 0.062,
+    "Large plated rune salvage": 0.001,
+    "Fire talisman": 1.33,
+    "Dragon mace": 0.057,
+    "Off-hand dragon mace": 0.0059,
+    "Cursed Amascut sand": 0.0009765625,
+    "Camel staff": 0.0005,
+    "Raptor key part 3": 0.00390625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing capsarii",
+   "activity": "Killing capsarii (legacy)",
+   "monster": "Capsarius",
+   "kph": 1000.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 99
+   },
+   "recommended_skills": {
+    "Herblore": 96,
+    "Prayer": 92,
+    "Ranged": 80,
+    "Defence": 80,
+    "Summoning": 99
+   },
+   "quests": [
+    "The Jack of Spades"
+   ],
+   "partial_quests": [
+    "The Jack of Spades"
+   ],
+   "gear_tier": 80,
+   "drops": {
+    "Ascension Keystone": 0.015625,
+    "Sirenic scale": 0.0012503907471084713,
+    "Medium plated adamant salvage": 0.06251953735542357,
+    "Tiny spiky rune salvage": 0.09377930603313535,
+    "Coins": 193.81056580181308,
+    "Air battlestaff": 0.01562988433885589,
+    "Earth battlestaff": 0.01562988433885589,
+    "Fire battlestaff": 0.01562988433885589,
+    "Water battlestaff": 0.01562988433885589,
+    "Ascension shard": 1.5,
+    "Pure essence": 3.7511722413254143,
+    "Unpowered orb": 0.4688965301656768,
+    "Yew wood spirit": 0.5157861831822445
+   }
+  },
+  {
+   "guide": "Money making guide/Killing cave horrors",
+   "activity": "Killing cave horrors",
+   "monster": "cave horror",
+   "kph": 150.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 58
+   },
+   "recommended_skills": {
+    "Defence": 60,
+    "Summoning": 68
+   },
+   "quests": [
+    "Cabin Fever"
+   ],
+   "partial_quests": [],
+   "gear_tier": 60,
+   "drops": {
+    "Black mask (10)": 0.001953125,
+    "Coins": 703.125,
+    "Grimy ranarr": 0.125,
+    "Grimy lantadyme": 0.046875,
+    "Grimy dwarf weed": 0.046875,
+    "Teak logs": 0.75,
+    "Mahogany logs": 0.25,
+    "Weapon poison+ (2)": 0.109375,
+    "Big bones": 1.171875,
+    "Monkey bones": 0.15625,
+    "Raw swordfish": 0.625,
+    "Ruby ring": 0.1640625,
+    "Ruby necklace": 0.109375,
+    "Poison ivy berries": 0.09375,
+    "Coconut": 0.03125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing cave slime",
+   "activity": "Killing cave slime",
+   "monster": "cave slime",
+   "kph": 900.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 17
+   },
+   "recommended_skills": {
+    "Attack": 60,
+    "Ranged": 60,
+    "Magic": 60,
+    "Necromancy": 60
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 60,
+   "drops": {
+    "Swamp tar": 3.5
+   }
+  },
+  {
+   "guide": "Money making guide/Killing celestial dragons",
+   "activity": "Killing celestial dragons",
+   "monster": "celestial dragon",
+   "kph": 128.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Ranged": 80,
+    "Herblore": 85,
+    "Prayer": 44
+   },
+   "quests": [
+    "One of a Kind"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Dragon bones": 1.0,
+    "Coins": 727.9411764705882,
+    "Dragon Rider helm": 0.0001953125,
+    "Dragon Rider body": 0.0001953125,
+    "Dragon Rider chaps": 0.0001953125,
+    "Dragon Rider cape": 0.0001953125,
+    "Dragon Rider kit": 0.0001953125,
+    "Adamantite stone spirit": 0.5294117647058824,
+    "Platinum stone spirit": 0.11764705882352941,
+    "Green dragonhide": 0.17647058823529413,
+    "Blue dragonhide": 0.14705882352941177,
+    "Red dragonhide": 0.11764705882352941,
+    "Black dragonhide": 0.08823529411764706,
+    "Dagannoth hide": 0.17647058823529413,
+    "Steel ingot": 0.47058823529411764,
+    "Huge plated rune salvage": 0.058823529411764705,
+    "Fire talisman": 0.23529411764705882,
+    "Water talisman": 0.08823529411764706,
+    "Unicorn horn": 0.23529411764705882,
+    "Congealed blood": 0.42500000000000004,
+    "Draconic visage": 0.001953125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing chaos dwarves and hand cannoneers",
+   "activity": "Killing chaos dwarves and hand cannoneers",
+   "monster": "chaos dwarf (Chaos Dwarf Battlefield)",
+   "kph": 520.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Defence": 70,
+    "Magic": 75,
+    "Prayer": 92
+   },
+   "quests": [
+    "Forgiveness of a Chaos Dwarf"
+   ],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing chickens",
+   "activity": "Killing chickens",
+   "monster": "chicken",
+   "kph": 900.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Magic": 5
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Raw chicken": 1.0,
+    "Feather": 6.25,
+    "Egg": 720.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing cockroach soldiers",
+   "activity": "Killing Cockroach soldier",
+   "monster": "Cockroach soldier",
+   "kph": 280.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 30,
+    "Crafting": 34
+   },
+   "recommended_skills": {
+    "Attack": 30,
+    "Ranged": 30,
+    "Magic": 30,
+    "Necromancy": 30
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 30,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing corrupted scarabs",
+   "activity": "Killing corrupted scarabs",
+   "monster": "corrupted scarab",
+   "kph": 700.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 91
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Icthlarin's Little Helper"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Vital spark": 0.0146625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing corrupted scorpions",
+   "activity": "Killing corrupted scorpions",
+   "monster": "corrupted scorpion",
+   "kph": 800.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 88,
+    "Melee": 80
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Icthlarin's Little Helper"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Adamantite stone spirit": 0.375,
+    "Gold stone spirit": 0.375,
+    "Medium plated adamant salvage": 0.15625,
+    "Medium spiky rune salvage": 0.015625,
+    "Coins": 714.84375,
+    "Corrupted magic logs": 0.65625,
+    "Earth talisman": 0.1875,
+    "Super attack (2)": 0.046875,
+    "Vital spark": 0.006,
+    "Key to the Crossing": 0.0025,
+    "Khopesh of the Kharidian": 6.666666666666667e-05,
+    "Crimson charm": 0.314
+   }
+  },
+  {
+   "guide": "Money making guide/Killing crystal shapeshifters",
+   "activity": "Killing Crystal Shapeshifters",
+   "monster": "Crystal Shapeshifter",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 99,
+    "Melee": 90,
+    "Prayer": 95
+   },
+   "recommended_skills": {},
+   "quests": [
+    "The Jack of Spades",
+    "The Light Within"
+   ],
+   "partial_quests": [],
+   "gear_tier": 85,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing dark beasts",
+   "activity": "Killing dark beasts",
+   "monster": "dark beast",
+   "kph": 620.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 90
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Mourning's End Part I"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Dark bow": 0.0009765625,
+    "Death rune": 0.78125,
+    "Grimy toadflax": 0.15625,
+    "Grimy lantadyme": 0.0625,
+    "Grimy dwarf weed": 0.0625,
+    "Fellstalk seed": 0.140625,
+    "Medium plated rune salvage": 0.03125,
+    "Large plated rune salvage": 0.03125,
+    "Coins": 1968.75,
+    "Dark arrowheads": 0.625,
+    "Sirenic scale": 0.0013245033112582781
+   }
+  },
+  {
+   "guide": "Money making guide/Killing edimmu",
+   "activity": "Killing edimmu",
+   "monster": "edimmu",
+   "kph": 450.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 90,
+    "Dungeoneering": 115
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Plague's End"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Tortured ashes": 1.0,
+    "Crystal dagger": 0.0003633720930232558,
+    "Off-hand crystal dagger": 0.0003633720930232558,
+    "Crystal halberd": 0.0003633720930232558,
+    "Crystal chakram": 0.0003633720930232558,
+    "Off-hand crystal chakram": 0.0003633720930232558,
+    "Crystal bow": 0.0003633720930232558,
+    "Crystal wand": 0.0003633720930232558,
+    "Crystal orb": 0.0003633720930232558,
+    "Crystal staff": 0.0003633720930232558,
+    "Crystal shield": 0.0003633720930232558,
+    "Crystal deflector": 0.0003633720930232558,
+    "Crystal ward": 0.0003633720930232558,
+    "Crystal armour seed": 0.014171511627906976,
+    "Crystal tool seed": 0.014171511627906976,
+    "Crystal weapon seed": 0.014171511627906976,
+    "Grimy irit": 0.19140625,
+    "Grimy avantoe": 0.13671875,
+    "Grimy cadantine": 0.109375,
+    "Grimy lantadyme": 0.0546875,
+    "Grimy dwarf weed": 0.0546875,
+    "Toadflax seed": 0.09843750000000001,
+    "Avantoe seed": 0.09843750000000001,
+    "Cadantine seed": 0.11484375000000001,
+    "Yew seed": 0.00546875,
+    "Tiny plated rune salvage": 0.046875,
+    "Medium plated rune salvage": 0.09375,
+    "Large bladed rune salvage": 0.046875,
+    "Large plated rune salvage": 0.140625,
+    "Unicorn horn dust": 0.625,
+    "Uncut diamond": 0.25,
+    "Eternal magic wood spirit": 0.34375,
+    "Primal stone spirit": 0.25,
+    "Uncut dragonstone": 0.03125,
+    "Blood necklace shard": 0.001953125,
+    "Ghostly essence": 0.1875
+   }
+  },
+  {
+   "guide": "Money making guide/Killing elite profane scabarites (AFK)",
+   "activity": "Killing Elite Profane Scabarites",
+   "monster": "Elite Profane Scabarite",
+   "kph": 350.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 99
+   },
+   "recommended_skills": {
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [
+    "Beneath Scabaras' Sands"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Potato cactus": 1.3333333333333333,
+    "Cadava berries": 0.7142857142857143,
+    "Uncut dragonstone": 1.0,
+    "Pure essence": 30.0,
+    "Onyx bolt tips": 1.4285714285714286,
+    "Onyx dust": 0.23809523809523808,
+    "Tiny plated orikalkum salvage": 0.15789473684210525,
+    "Medium blunt rune salvage": 0.29411764705882354,
+    "Fellstalk seed": 0.15789473684210525,
+    "Catalytic anima stone": 1.3157894736842106,
+    "Congealed blood": 3.3333333333333335,
+    "Mud rune": 2.857142857142857,
+    "Mahogany wood spirit": 0.5333333333333333,
+    "Yew wood spirit": 0.38461538461538464,
+    "Elder wood spirit": 0.1111111111111111,
+    "Primal stone spirit": 0.2608695652173913,
+    "Ciku seed": 0.01020408163265306,
+    "Sealed clue scroll (elite)": 0.008333333333333333,
+    "Spectral lens": 0.000244140625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing frost dragons",
+   "activity": "Killing frost dragons",
+   "monster": "frost dragon",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Dungeoneering": 85
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Frost dragon bones": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing fungal magi",
+   "activity": "Killing fungal magi",
+   "monster": "Fungal mage",
+   "kph": 800.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Potato cactus": 0.8888888888888888,
+    "Limpwurt root": 0.1111111111111111,
+    "Pure essence": 2.0,
+    "Snape grass": 0.4444444444444444,
+    "Fungal flake": 4.25,
+    "Polypore spore": 5.050000000000001
+   }
+  },
+  {
+   "guide": "Money making guide/Killing ganodermic beasts",
+   "activity": "Killing ganodermic beasts",
+   "monster": "ganodermic beast",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 95
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Ganodermic gloves": 0.009900990099009901,
+    "Ganodermic boots": 0.009900990099009901,
+    "Polypore stick": 0.009900990099009901,
+    "Blood rune": 0.49504950495049505,
+    "Watermelon seed": 0.20792079207920794,
+    "Palm tree seed": 0.009900990099009901,
+    "Papaya tree seed": 0.009900990099009901,
+    "Yew seed": 0.009900990099009901,
+    "Magic seed": 0.009900990099009901,
+    "Ganodermic flake": 20.693069306930695,
+    "Polypore spore": 56.133663366336634,
+    "Gorajian mushroom": 1.1881188118811883,
+    "Inert adrenaline crystal": 0.06930693069306931,
+    "Coins": 2673.267326732673
+   }
+  },
+  {
+   "guide": "Money making guide/Killing gargoyles",
+   "activity": "Killing gargoyles",
+   "monster": "gargoyle",
+   "kph": 650.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 75,
+    "Slayer": 75,
+    "Archaeology": 68,
+    "Summoning": 75
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Dagon Bye"
+   ],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Binding contract (gargoyle)": 1.0,
+    "Luminite stone spirit": 0.125,
+    "Runite stone spirit": 0.109375,
+    "Adamantite stone spirit": 0.09375,
+    "Rune arrow": 2.1875,
+    "Mort myre fungus": 0.09375,
+    "Uncut emerald": 0.140625,
+    "Uncut ruby": 0.078125,
+    "Dark mystic robe top": 0.001953125,
+    "Granite maul": 0.001953125,
+    "Congealed blood": 0.0546875
+   }
+  },
+  {
+   "guide": "Money making guide/Killing gelatinous abominations",
+   "activity": "Killing gelatinous abominations",
+   "monster": "gelatinous abomination",
+   "kph": 480.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 60,
+    "Ranged": 60,
+    "Magic": 60,
+    "Necromancy": 60
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 0.25490827164467333,
+    "Longbow": 0.1328125,
+    "Leather cowl": 0.09375,
+    "Small plated bronze salvage": 0.109375,
+    "Cabbage": 0.02413904087544255,
+    "Cooked chicken": 0.028644995172191826,
+    "Cooked meat": 0.03125,
+    "Cooked rabbit": 0.03125,
+    "Onion": 0.026392018023817188,
+    "Rabbit sandwich": 0.029288702928870293,
+    "Tomato": 0.026392018023817188,
+    "Raw beef": 0.02735757965883489,
+    "Raw chicken": 0.03125,
+    "Raw potato": 0.023173479240424847,
+    "Raw rabbit": 0.026392018023817188,
+    "Potato seed": 0.09375,
+    "Onion seed": 0.0625,
+    "Cabbage seed": 0.057933698101062116,
+    "Tomato seed": 0.018345671065336338,
+    "Sweetcorn seed": 0.01171875,
+    "Strawberry seed": 0.001287415513356936,
+    "Watermelon seed": 0.002574831026713872,
+    "Grimy guam": 0.109375,
+    "Grimy tarromin": 0.1316382362407467
+   }
+  },
+  {
+   "guide": "Money making guide/Killing glacors",
+   "activity": "Killing glacors",
+   "monster": "glacor",
+   "kph": 100.0,
+   "per_kill": true,
+   "skills": {
+    "Crafting": 77,
+    "Magic": 90
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Ritual of the Mahjarrat"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Steadfast boots": 0.00078125,
+    "Glaiven boots": 0.00078125,
+    "Ragefire boots": 0.00078125,
+    "Shards of Armadyl": 0.10416666666666667,
+    "Coins": 5000.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing glacytes",
+   "activity": "Killing glacytes - hard clue scroll farming",
+   "monster": "glacytes",
+   "kph": 2900.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Herblore": 107,
+    "Prayer": 99
+   },
+   "quests": [
+    "The World Wakes",
+    "Sunshine",
+    "The Temple at Senntisten",
+    "Soul Split"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 346.15384615384613,
+    "Hydrix bolt tips": 0.0196078431372549,
+    "Elder Trove (Wen, T3)": 0.003125,
+    "Medium blunt rune salvage": 0.07692307692307693,
+    "Runite stone spirit": 0.1,
+    "Sealed clue scroll (hard)": 0.015625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing gladii",
+   "activity": "Killing gladii",
+   "monster": "gladii",
+   "kph": 250.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 81
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Ascension Keystone": 0.015625,
+    "Ascension shard": 3.5,
+    "Adamantite stone spirit": 0.25,
+    "Acadia wood spirit": 0.609375,
+    "Yew wood spirit": 0.3125,
+    "Medium plated adamant salvage": 0.09375,
+    "Huge plated adamant salvage": 0.09375,
+    "Tiny blunt rune salvage": 0.125,
+    "Medium bladed rune salvage": 0.0625,
+    "Large plated rune salvage": 0.03125,
+    "Coins": 412.5,
+    "Sirenic scale": 0.0025
+   }
+  },
+  {
+   "guide": "Money making guide/Killing green dragons",
+   "activity": "Killing green dragons",
+   "monster": "green dragon",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 50,
+   "drops": {
+    "Dragon bones": 1.0,
+    "Green dragonhide": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing guards",
+   "activity": "Killing guards",
+   "monster": "Guard (Varrock)",
+   "kph": 500.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 20,
+   "drops": {
+    "Grapes": 0.375,
+    "Coins": 3.27375,
+    "Iron bolts": 0.546875,
+    "Potato seed": 0.207,
+    "Onion seed": 0.15525,
+    "Body talisman": 0.03125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing hellhounds",
+   "activity": "Killing hellhounds",
+   "monster": "hellhound",
+   "kph": 700.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 45,
+    "Slayer": 45,
+    "Archaeology": 68
+   },
+   "recommended_skills": {
+    "Prayer": 92,
+    "Invention": 70,
+    "Dungeoneering": 99
+   },
+   "quests": [
+    "Dagon Bye"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Binding contract (hellhound)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing kal'gerion demons",
+   "activity": "Killing kal'gerion demons",
+   "monster": "kal'gerion demon",
+   "kph": 150.0,
+   "per_kill": true,
+   "skills": {
+    "Dungeoneering": 90,
+    "Archaeology": 68,
+    "Summoning": 90,
+    "Slayer": 90
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Shadow of the Storm"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Demon slayer circlet": 0.0011160714285714285,
+    "Demon slayer skirt": 0.0011160714285714285,
+    "Demon slayer torso": 0.0011160714285714285,
+    "Demon slayer boots": 0.0011160714285714285,
+    "Demon slayer gloves": 0.0011160714285714285,
+    "Demon slayer crossbow": 0.0011160714285714285,
+    "Off-hand demon slayer crossbow": 0.0011160714285714285,
+    "Law rune": 1.26953125,
+    "Blood rune": 3.046875,
+    "Grimy irit": 0.1845703125,
+    "Grimy avantoe": 0.1318359375,
+    "Grimy cadantine": 0.10546875,
+    "Grimy lantadyme": 0.052734375,
+    "Grimy dwarf weed": 0.052734375,
+    "Avantoe seed": 0.073828125,
+    "Cadantine seed": 0.0861328125,
+    "Toadflax seed": 0.073828125,
+    "Yew seed": 0.04921875,
+    "Medium plated rune salvage": 0.05078125,
+    "Large bladed rune salvage": 0.078125,
+    "Large plated rune salvage": 0.0703125,
+    "Huge plated rune salvage": 0.0390625,
+    "Coins": 1746.09375,
+    "Adamantite stone spirit": 0.5625,
+    "Primal stone spirit": 0.2109375,
+    "Fire talisman": 0.4453125,
+    "Uncut diamond": 0.75,
+    "Uncut onyx": 0.00390625,
+    "Rare drop table": 0.01,
+    "Binding contract (kal'gerion demon)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing lava strykewyrms",
+   "activity": "Killing lava strykewyrms",
+   "monster": "lava strykewyrm",
+   "kph": 240.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 80,
+    "Slayer": 94
+   },
+   "recommended_skills": {},
+   "quests": [
+    "City of Senntisten"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Searing ashes": 1.3125,
+    "Wyrm spike": 8.138020833333333e-05,
+    "Wyrm heart": 8.138020833333333e-05,
+    "Wyrm scalp": 8.138020833333333e-05,
+    "Wild arrow": 5.95,
+    "Dragon bolts (e)": 5.2734375,
+    "Onyx bolts (e)": 0.1953125,
+    "Saradomin brew (2)": 0.0109375,
+    "Super attack (2)": 0.0109375,
+    "Super strength (2)": 0.0109375,
+    "Super magic potion (2)": 0.0109375,
+    "Super ranging potion (2)": 0.0109375,
+    "Super defence (2)": 0.0109375,
+    "Prayer potion (2)": 0.0109375,
+    "Gold stone spirit": 1.40625,
+    "Runite stone spirit": 0.03125,
+    "Yew wood spirit": 0.328125,
+    "Medium plated rune salvage": 0.0546875,
+    "Large bladed rune salvage": 0.09375,
+    "Huge plated rune salvage": 0.03125,
+    "Coins": 1855.46875,
+    "Uncut diamond": 0.0859375,
+    "Uncut dragonstone": 0.0546875,
+    "Yew logs": 1.171875,
+    "Magic logs": 0.8671875,
+    "Black dragonhide": 0.28125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing legiones to make ascension crossbows",
+   "activity": "Killing legiones to make ascension crossbows",
+   "monster": "legiones",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 95
+   },
+   "recommended_skills": {
+    "Ranged": 90,
+    "Prayer": 95,
+    "Herblore": 96,
+    "Summoning": 96
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Ascension crossbow": 0.0033333333333333335,
+    "Ascension grips": 0.00048638132295719845,
+    "Sirenic scale": 0.03994203423602934,
+    "Ascension shard": 20.0,
+    "Dragon longsword": 0.03622860248165927,
+    "Off-hand dragon longsword": 0.03622860248165927,
+    "Avantoe seed": 0.08151435558373336,
+    "Snapdragon seed": 0.08151435558373336,
+    "Lantadyme seed": 0.10868580744497781,
+    "Dwarf weed seed": 0.10868580744497781,
+    "Torstol seed": 0.018114301240829633,
+    "Magic longbow (unstrung)": 3.622860248165927,
+    "Rune arrowheads": 7.245720496331854,
+    "Dragon arrowheads": 1.8114301240829636,
+    "Onyx bolt tips": 0.3622860248165927,
+    "Coins": 8477.49298070827,
+    "Huge plated rune salvage": 0.14491440992663707,
+    "Banite stone spirit": 0.3622860248165927,
+    "Inert adrenaline crystal": 0.018114301240829633,
+    "Ascension Keystone": 0.015625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing liverworts",
+   "activity": "Killing liverworts",
+   "monster": "liverworts",
+   "kph": 110.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 110
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 96,
+    "Prayer": 95,
+    "Herblore": 106
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Blast diffusion boots": 0.0005,
+    "Starbloom flower seed": 0.11320754716981132,
+    "Arbuck seed": 0.03773584905660377,
+    "Grimy cadantine": 0.37735849056603776,
+    "Grimy dwarf weed": 0.3018867924528302,
+    "Cactus spine": 0.4716981132075472,
+    "White berries": 0.4716981132075472,
+    "Poison ivy berries": 0.3773584905660377,
+    "Papaya fruit": 0.3773584905660377,
+    "Coins": 2037.735849056604,
+    "Water talisman": 0.3018867924528302,
+    "Bird's nest (seeds)": 0.05660377358490566,
+    "Huge spiky adamant salvage": 0.11320754716981132,
+    "Eternal magic wood spirit": 0.39622641509433965,
+    "Skeka's hypnowand handle": 0.0005,
+    "Skeka's hypnowand focus": 7.142857142857143e-05,
+    "Skeka's hypnowand projector": 7.142857142857143e-05,
+    "Skeka's hypnowand base": 7.142857142857143e-05
+   }
+  },
+  {
+   "guide": "Money making guide/Killing luminous snagglers",
+   "activity": "Killing luminous snagglers",
+   "monster": "luminous snaggler",
+   "kph": 100.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 95
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Summoning": 96,
+    "Prayer": 95,
+    "Herblore": 97
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Blast diffusion boots": 0.0005,
+    "Grimy kwuarm": 0.576923076923077,
+    "Grimy lantadyme": 0.576923076923077,
+    "Spirit weed seed": 0.14423076923076925,
+    "Arbuck seed": 0.038461538461538464,
+    "Starbloom flower seed": 0.057692307692307696,
+    "Godly grapevine seed": 0.11538461538461539,
+    "Coins": 3076.923076923077,
+    "Coconut": 0.7692307692307693,
+    "White berries": 0.9615384615384616,
+    "Mud rune": 1.4423076923076923,
+    "Water orb": 0.576923076923077,
+    "Limpwurt root": 0.9615384615384616,
+    "Huge blunt adamant salvage": 0.15384615384615385,
+    "Skeka's hypnowand handle": 0.0005,
+    "Skeka's hypnowand focus": 7.142857142857143e-05,
+    "Skeka's hypnowand projector": 7.142857142857143e-05,
+    "Skeka's hypnowand base": 7.142857142857143e-05
+   }
+  },
+  {
+   "guide": "Money making guide/Killing mature grotworms",
+   "activity": "Killing mature grotworms",
+   "monster": "mature grotworm",
+   "kph": 180.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 55
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Runite stone spirit": 0.0703125,
+    "Saradomin brew (2)": 0.0390625,
+    "Royal dragonhide": 0.03125,
+    "Flax": 2.9296875,
+    "Coins": 390.625,
+    "Fellstalk seed": 0.046875
+   }
+  },
+  {
+   "guide": "Money making guide/Killing mithril dragons",
+   "activity": "Killing mithril dragons",
+   "monster": "mithril dragon",
+   "kph": 120.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 80,
+    "Defence": 80
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Dragon bones": 1.0,
+    "Large plated mithril salvage": 1.0,
+    "Rune bolts": 0.0390625,
+    "Draconic visage": 0.0001,
+    "Dragon full helm": 3.0517578125e-05,
+    "Coins": 187.5,
+    "Large bladed rune salvage": 0.046875,
+    "Medium plated rune salvage": 0.0078125,
+    "Medium spiky rune salvage": 0.015625,
+    "Small spiky rune salvage": 0.046875,
+    "Tiny blunt rune salvage": 0.01171875
+   }
+  },
+  {
+   "guide": "Money making guide/Killing moss golems",
+   "activity": "Killing moss golems (Off Task)",
+   "monster": "moss golem",
+   "kph": 500.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 108
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "White berries": 0.5149330587023686,
+    "Uncut ruby": 0.33076074972436603,
+    "Uncut dragonstone": 0.14705882352941177,
+    "Grimy cadantine": 0.2654867256637168,
+    "Bucket of sand": 1.4705882352941178,
+    "Grimy lantadyme": 0.2205071664829107,
+    "Magic wood spirit": 0.5294117647058824,
+    "Blight bolts": 0.6428571428571429,
+    "Cinderbane gloves": 0.0002,
+    "Ancient elven ritual shard": 0.0002,
+    "Torn grimoire page": 0.0006510416666666666,
+    "Coins": 406.9175991861648,
+    "Starbloom flower seed": 0.14705882352941177
+   }
+  },
+  {
+   "guide": "Money making guide/Killing moss golems (On Task)",
+   "activity": "Killing moss golems (On Task)",
+   "monster": "moss golem",
+   "kph": 500.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 108
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Grimy cadantine": 0.2647058823529412,
+    "Grimy lantadyme": 0.22058823529411764,
+    "Starbloom flower seed": 0.14705882352941177,
+    "Coins": 1191.1764705882351,
+    "Magic wood spirit": 0.5294117647058824,
+    "White berries": 0.5147058823529411,
+    "Uncut dragonstone": 0.14705882352941177,
+    "Uncut ruby": 0.33088235294117646,
+    "Bucket of sand": 1.4705882352941178,
+    "Blight bolts": 0.6428571428571429,
+    "Torn grimoire page": 0.001953125,
+    "Cinderbane gloves": 0.0006666666666666666,
+    "Ancient elven ritual shard": 0.0006666666666666666
+   }
+  },
+  {
+   "guide": "Money making guide/Killing muspah",
+   "activity": "Killing muspah",
+   "monster": "muspah",
+   "kph": 700.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [
+    "Fate of the Gods"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Elder energy": 5.0,
+    "Elder charm": 0.16666666666666666,
+    "Muspah spine": 0.16666666666666666,
+    "Dragon mace": 0.0244140625,
+    "Off-hand dragon mace": 0.0244140625,
+    "Death rune": 2.44140625,
+    "Blood rune": 2.44140625,
+    "Summoning potion (2)": 0.0146484375,
+    "Medium plated rune salvage": 0.068359375,
+    "Large plated rune salvage": 0.068359375,
+    "Coins": 1936.03515625,
+    "Dragonstone bolt tips": 0.732421875,
+    "Dragon arrowheads": 0.390625,
+    "Dragon dart tip": 0.3662109375
+   }
+  },
+  {
+   "guide": "Money making guide/Killing nechryael",
+   "activity": "Killing nechryael",
+   "monster": "nechryael",
+   "kph": 386.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 80,
+    "Summoning": 67
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Coins": 609.3888888888889,
+    "Accursed ashes": 0.5
+   }
+  },
+  {
+   "guide": "Money making guide/Killing nightmares",
+   "activity": "Killing nightmares",
+   "monster": "nightmare",
+   "kph": 600.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 80
+   },
+   "recommended_skills": {
+    "Magic": 90,
+    "Necromancy": 90
+   },
+   "quests": [
+    "Children of Mah"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Elder energy": 22.9296875,
+    "Nightmare gauntlets": 0.0001,
+    "Dragon battleaxe": 0.0146484375,
+    "Off-hand dragon battleaxe": 0.0146484375,
+    "Soul rune": 2.0751953125,
+    "Blood rune": 4.150390625,
+    "Shark": 0.1953125,
+    "Super strength (4)": 0.0244140625,
+    "Summoning potion (4)": 0.0146484375,
+    "Unicorn stallion pouch": 0.009765625,
+    "Steel titan pouch": 0.009765625,
+    "Coins": 3730.46875,
+    "Medium spiky rune salvage": 0.15625,
+    "Large bladed rune salvage": 0.15625,
+    "Dragon arrowheads": 1.3427734375,
+    "Dragon dart tip": 1.220703125,
+    "Dragonstone bolt tips": 3.2958984375,
+    "Rare drop table": 0.01
+   }
+  },
+  {
+   "guide": "Money making guide/Killing pyrefiends",
+   "activity": "Killing pyrefiends",
+   "monster": "pyrefiends",
+   "kph": 1600.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 30
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Impious ashes": 1.0,
+    "Mithril arrow": 0.9375,
+    "Fire rune": 0.46875,
+    "Grimy guam": 0.046875,
+    "Grimy harralander": 0.046875,
+    "Gold stone spirit": 0.109375,
+    "Willow wood spirit": 0.140625,
+    "Teak wood spirit": 0.09375,
+    "Coins": 95.3125,
+    "Ashes": 0.125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing ravenous ghouls",
+   "activity": "Killing ravenous ghouls",
+   "monster": "ravenous ghoul",
+   "kph": 1100.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 80,
+    "Ranged": 80,
+    "Magic": 80,
+    "Necromancy": 80,
+    "Prayer": 95
+   },
+   "quests": [
+    "The Temple at Senntisten",
+    "River of Blood"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Splitbark wand": 0.0234375,
+    "Splitbark orb": 0.0234375,
+    "Splitbark helm": 0.046875,
+    "Splitbark body": 0.0234375,
+    "Splitbark legs": 0.0234375,
+    "Splitbark gauntlets": 0.0625,
+    "Splitbark boots": 0.0625,
+    "Bruise blue snelm (pointed)": 0.015625,
+    "Bruise blue snelm (round)": 0.015625,
+    "Ochre snelm (pointed)": 0.03125,
+    "Ochre snelm (round)": 0.015625,
+    "Super attack (2)": 0.046875,
+    "Super strength (2)": 0.046875,
+    "Super defence (2)": 0.046875,
+    "Shark": 0.109375,
+    "Monkfish": 0.078125,
+    "Coal stone spirit": 0.46875,
+    "Coins": 43.84375,
+    "Mort myre fungus": 0.09375,
+    "Congealed blood": 0.425,
+    "Grimy guam": 0.015625,
+    "Grimy marrentill": 0.011723329425556858,
+    "Grimy tarromin": 0.008787346221441126,
+    "Grimy harralander": 0.00683526999316473,
+    "Grimy ranarr": 0.0053705692803437165,
+    "Grimy irit": 0.00390625,
+    "Grimy avantoe": 0.002929973630237328,
+    "Grimy kwuarm": 0.00244140625,
+    "Grimy cadantine": 0.001953125,
+    "Grimy lantadyme": 0.0014647722279185586,
+    "Grimy dwarf weed": 0.0014641288433382138
+   }
+  },
+  {
+   "guide": "Money making guide/Killing red dragons",
+   "activity": "Killing red dragons",
+   "monster": "red dragon",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {
+    "Agility": 30
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Red dragonhide": 1.0,
+    "Dragon bones": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing revenants",
+   "activity": "Killing revenants",
+   "monster": "revenants",
+   "kph": 240.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Corrupt dragon battleaxe": 0.0003444566678890111,
+    "Corrupt dragon dagger": 0.0003444566678890111,
+    "Corrupt dragon longsword": 0.0003444566678890111,
+    "Corrupt dragon mace": 0.0003444566678890111,
+    "Corrupt dragon scimitar": 0.0003444566678890111,
+    "Corrupt dragon spear": 0.0003444566678890111,
+    "Corrupt dragon chainbody": 0.0003444566678890111,
+    "Corrupt dragon helm": 0.0003444566678890111,
+    "Corrupt dragon platelegs": 0.0003444566678890111,
+    "Corrupt dragon plateskirt": 0.0003444566678890111,
+    "Corrupt dragon sq shield": 0.0003444566678890111,
+    "Morrigan's javelin": 0.003262207266478282,
+    "Morrigan's throwing axe": 0.003262207266478282,
+    "Statius's warhammer": 0.00010131078467323857,
+    "Vesta's longsword": 0.00010131078467323857,
+    "Vesta's spear": 0.00010131078467323857,
+    "Zuriel's staff": 0.00010131078467323857,
+    "Morrigan's coif": 0.00010131078467323857,
+    "Morrigan's leather body": 0.00010131078467323857,
+    "Morrigan's leather chaps": 0.00010131078467323857,
+    "Statius's full helm": 0.00010131078467323857,
+    "Statius's platebody": 0.00010131078467323857,
+    "Statius's platelegs": 0.00010131078467323857,
+    "Vesta's chainbody": 0.00010131078467323857,
+    "Vesta's plateskirt": 0.00010131078467323857,
+    "Zuriel's hood": 0.00010131078467323857,
+    "Zuriel's robe top": 0.00010131078467323857,
+    "Zuriel's robe bottom": 0.00010131078467323857,
+    "Corrupt Morrigan's javelin": 0.003262207266478282,
+    "Corrupt Morrigan's throwing axe": 0.003262207266478282,
+    "Corrupt Statius's warhammer": 0.00010131078467323857,
+    "Corrupt Vesta's longsword": 0.00010131078467323857,
+    "Corrupt Vesta's spear": 0.00010131078467323857,
+    "Corrupt Zuriel's staff": 0.00010131078467323857,
+    "Corrupt Morrigan's coif": 0.00010131078467323857,
+    "Corrupt Morrigan's leather body": 0.00010131078467323857,
+    "Corrupt Morrigan's leather chaps": 0.00010131078467323857,
+    "Corrupt Statius's full helm": 0.00010131078467323857,
+    "Corrupt Statius's platebody": 0.00010131078467323857,
+    "Corrupt Statius's platelegs": 0.00010131078467323857,
+    "Corrupt Vesta's chainbody": 0.00010131078467323857,
+    "Corrupt Vesta's plateskirt": 0.00010131078467323857,
+    "Corrupt Zuriel's hood": 0.00010131078467323857,
+    "Corrupt Zuriel's robe top": 0.00010131078467323857,
+    "Corrupt Zuriel's robe bottom": 0.00010131078467323857
+   }
+  },
+  {
+   "guide": "Money making guide/Killing ripper demons",
+   "activity": "Killing ripper demons",
+   "monster": "ripper demon",
+   "kph": 830.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 96,
+    "Summoning": 96
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Ripper claw": 0.0001,
+    "Off-hand ripper claw": 0.0001,
+    "Grimy irit": 0.234375,
+    "Grimy avantoe": 0.1875,
+    "Grimy kwuarm": 0.1875,
+    "Grimy dwarf weed": 0.1875,
+    "Weapon poison++ (3)": 0.046875,
+    "Medium spiky rune salvage": 0.15625,
+    "Wine of Zamorak": 0.546875,
+    "Blood rune": 2.5,
+    "Coins": 750.0,
+    "Uncut dragonstone": 0.125,
+    "Necrite stone spirit": 0.1953125,
+    "Phasmatite stone spirit": 0.1953125,
+    "Cursed Amascut sand": 0.0009765625,
+    "Raptor key part 2": 0.00390625,
+    "Binding contract (ripper demon)": 1.0,
+    "Infernal ashes": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing rorarii",
+   "activity": "Killing rorarii",
+   "monster": "Rorarius",
+   "kph": 620.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 81
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Ascension Keystone": 0.015625,
+    "Sirenic scale": 0.0012509773260359655,
+    "Coins": 112.5879593432369,
+    "Huge plated mithril salvage": 0.09382329945269742,
+    "Tiny spiky rune salvage": 0.06254886630179828,
+    "Small bladed adamant salvage": 0.06254886630179828,
+    "Ascension shard": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing rune dragons",
+   "activity": "Killing rune dragons",
+   "monster": "rune dragon",
+   "kph": 200.0,
+   "per_kill": true,
+   "skills": {
+    "Ranged": 80,
+    "Herblore": 85
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Fate of the Gods",
+    "required=optional"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Rune bolts (unf)": 3.125,
+    "Magic wood spirit": 1.78125,
+    "Black dragonhide": 0.703125,
+    "Onyx bolt tips": 0.375,
+    "Uncut dragonstone": 0.140625,
+    "Dragon longsword": 0.03125,
+    "Off-hand dragon longsword": 0.03125,
+    "Draconic visage": 0.001953125,
+    "Dragon plateskirt": 0.00390625,
+    "Dragon platelegs": 0.00390625,
+    "Ragefire gland": 0.0013020833333333333,
+    "Steadfast scale": 0.0013020833333333333,
+    "Glaiven wing-tip": 0.0013020833333333333,
+    "Reinforced dragon bones": 1.0,
+    "Coins": 8350.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing salawa akhs",
+   "activity": "Killing salawa akhs",
+   "monster": "salawa akh",
+   "kph": 800.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 105
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Icthlarin's Little Helper"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Huge plated steel salvage": 0.28125,
+    "Medium bladed adamant salvage": 0.0625,
+    "Medium bladed rune salvage": 0.03125,
+    "Coins": 1234.375,
+    "Corrupted magic logs": 0.875,
+    "Uncut diamond": 0.078125,
+    "Papaya fruit": 0.0625,
+    "Key to the Crossing": 0.0025,
+    "Khopesh of the Kharidian": 6.666666666666667e-05,
+    "Vital spark": 0.0084875
+   }
+  },
+  {
+   "guide": "Money making guide/Killing seekers",
+   "activity": "Killing seekers",
+   "monster": "seeker",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 71
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Dishonour among Thieves"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Seeker's charm": 0.078125,
+    "Uncut emerald": 0.140625,
+    "Uncut ruby": 0.1171875,
+    "Uncut diamond": 0.0703125,
+    "Coins": 656.25,
+    "Stalker essence": 1.09375,
+    "Dragonstone bolt tips": 0.984375,
+    "Bowstring": 0.703125,
+    "Fire talisman": 0.1640625,
+    "Battlestaff": 0.03125,
+    "Onyx bolt tips": 0.0234375,
+    "Primal stone spirit": 0.140625,
+    "Rare drop table": 0.01
+   }
+  },
+  {
+   "guide": "Money making guide/Killing skeletal wyverns",
+   "activity": "Killing skeletal wyverns",
+   "monster": "skeletal wyvern",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 72,
+    "Herblore": 89
+   },
+   "recommended_skills": {
+    "Magic": 80,
+    "Defence": 80,
+    "Summoning": 68,
+    "Archaeology": 108,
+    "Dungeoneering": 21,
+    "Prayer": 92
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Wyvern bones": 1.0,
+    "Granite legs": 0.001953125,
+    "Draconic visage": 0.0001,
+    "Soul rune": 0.41015625,
+    "Air rune": 1.734375,
+    "Water rune": 0.078125,
+    "Blood rune": 0.203125,
+    "Law rune": 0.08203125,
+    "Rune bolts": 0.52734375,
+    "Adamant bolts": 0.6640625,
+    "Mithril bolts": 0.83984375,
+    "Bone bolts": 0.484375,
+    "Coins": 64.28125,
+    "Pure essence": 2.34375,
+    "Earth battlestaff": 0.0078125,
+    "Adamant crossbow (unstrung)": 0.0078125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing soulgazers",
+   "activity": "Killing soulgazers",
+   "monster": "soulgazer",
+   "kph": 400.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 99
+   },
+   "recommended_skills": {
+    "Necromancy": 99,
+    "Ranged": 99,
+    "Prayer": 95,
+    "Herblore": 97
+   },
+   "quests": [
+    "Dishonour among Thieves"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Hexhunter bow": 0.00013956734124214934,
+    "Coins": 859.402460456942,
+    "Bowstring": 1.6555360281195077,
+    "Uncut ruby": 0.32126537785588755,
+    "Stalker essence": 0.5536028119507909,
+    "Dragonstone bolt tips": 0.6864674868189806,
+    "Fire talisman": 0.25342706502636203,
+    "Battlestaff": 0.09253075571177505,
+    "Onyx bolt tips": 0.0883128295254833,
+    "Uncut emerald": 0.23409490333919156,
+    "Uncut diamond": 0.07724077328646749,
+    "Wine of Zamorak": 0.06669595782073814,
+    "Dragon mace": 0.02390158172231986,
+    "Off-hand dragon mace": 0.019332161687170474,
+    "Rare drop table": 0.0625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing spellwisps",
+   "activity": "Killing spellwisps",
+   "monster": "spellwisp",
+   "kph": 500.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Ranged": 20
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 20,
+   "drops": {
+    "Impious ashes": 1.0,
+    "Water talisman": 0.024,
+    "Staff": 0.05,
+    "Blood rune": 0.1,
+    "Law rune": 0.1,
+    "Fire rune": 0.2,
+    "Nature rune": 0.2
+   }
+  },
+  {
+   "guide": "Money making guide/Killing spiritual warriors",
+   "activity": "Killing spiritual warriors",
+   "monster": "spiritual warrior",
+   "kph": 750.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Slayer": 99,
+    "Magic": 90,
+    "Prayer": 95,
+    "Invention": 43
+   },
+   "quests": [
+    "The Jack of Spades",
+    "River of Blood"
+   ],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing the Abomination",
+   "activity": "Killing the Abomination",
+   "monster": "Abomination",
+   "kph": 35.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 80,
+    "Defence": 80
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Hero's Welcome"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing the Arch-Glacor",
+   "activity": "Killing the Arch-Glacor",
+   "monster": "Arch-Glacor",
+   "kph": 50.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 68
+   },
+   "recommended_skills": {},
+   "quests": [
+    "City of Senntisten"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Elder Trove (Wen, T3)": 9.5,
+    "Crystal triskelion": 0.01785714,
+    "Crystal triskelion fragment 1": 0.03571429,
+    "Starved ancient effigy": 0.01,
+    "Blue charm": 0.377
+   }
+  },
+  {
+   "guide": "Money making guide/Killing the Corporeal Beast",
+   "activity": "Killing the Corporeal Beast",
+   "monster": "Corporeal Beast",
+   "kph": 60.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Melee": 80,
+    "Herblore": 96,
+    "Prayer": 95
+   },
+   "quests": [
+    "Summer's End"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Spectral sigil": 0.0009765625,
+    "Arcane sigil": 0.0009765625,
+    "Elysian sigil": 0.0009765625,
+    "Divine sigil": 0.0009765625,
+    "Holy elixir": 0.005847953216374269,
+    "Mystic air staff": 0.01953125,
+    "Mystic water staff": 0.01953125,
+    "Mystic earth staff": 0.01953125,
+    "Mystic fire staff": 0.01953125,
+    "Spirit shield": 0.015625,
+    "Law rune": 3.3203125,
+    "Adamant arrow": 23.4375,
+    "Rune bolts": 12.20703125,
+    "Onyx bolts (e)": 6.8359375,
+    "Cannonball": 66.40625,
+    "Watermelon seed": 0.703125,
+    "Ranarr seed": 0.09765625,
+    "Toadflax seed": 0.625,
+    "Yew seed": 0.033203125,
+    "Mystic cloth": 0.17578125,
+    "Raw shark": 2.87109375,
+    "Green dragonhide": 3.515625,
+    "Teak plank": 2.9296875,
+    "Magic logs": 1.7578125,
+    "Limpwurt root": 0.8203125,
+    "Adamantite stone spirit": 1.23046875,
+    "Necrite stone spirit": 0.5859375,
+    "Phasmatite stone spirit": 0.830078125,
+    "Mahogany wood spirit": 1.3671875,
+    "Uncut diamond": 0.64453125,
+    "Regen bracelet": 0.037109375,
+    "White berries": 3.515625,
+    "Desert goat horn": 3.515625,
+    "Coins": 683.59375,
+    "Antipoison++ (4)": 0.78125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing the Giant Mimic",
+   "activity": "Killing the Giant Mimic",
+   "monster": "Giant Mimic",
+   "kph": 80.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Combat": 30
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 1375.0,
+    "Scrimshaw of aggression (inactive)": 0.08,
+    "Scrimshaw of sacrifice (inactive)": 0.02,
+    "Mimic kill token": 0.1,
+    "Uncut emerald": 0.02
+   }
+  },
+  {
+   "guide": "Money making guide/Killing the Giant Mole (Free-to-play, Hard Mode)",
+   "activity": "Killing the giant mole (free-to-play, hard mode)",
+   "monster": "giant mole",
+   "kph": 15.0,
+   "per_kill": true,
+   "skills": {
+    "Prayer": 43
+   },
+   "recommended_skills": {
+    "Magic": 70,
+    "Defence": 70
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 1807.9868708971553,
+    "Iron stone spirit": 7.5,
+    "Coal stone spirit": 7.5,
+    "Adamantite stone spirit": 3.4375,
+    "Yew logs": 3.515625,
+    "Nature rune": 6.564551422319475,
+    "Pure essence": 98.46827133479212,
+    "Limpwurt root": 1.869158878504673,
+    "Uncut diamond": 0.5625,
+    "Grapes": 1.3084112149532712,
+    "Mystic cloth": 0.09375,
+    "Numbing root": 1.004016064257028,
+    "Clingy mole": 0.021367521367521368,
+    "Mole skin": 3.0
+   }
+  },
+  {
+   "guide": "Money making guide/Killing the Kalphite King",
+   "activity": "Killing Kalphite King",
+   "monster": "Kalphite King",
+   "kph": 35.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 106,
+    "Prayer": 99
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Drygore rapier": 0.003968253968253968,
+    "Off-hand drygore rapier": 0.003968253968253968,
+    "Drygore longsword": 0.003968253968253968,
+    "Off-hand drygore longsword": 0.003968253968253968,
+    "Drygore mace": 0.003968253968253968,
+    "Off-hand drygore mace": 0.003968253968253968,
+    "Starbloom flower seed": 0.234375,
+    "Snapdragon seed": 0.859375,
+    "Lantadyme seed": 0.625,
+    "Dwarf weed seed": 0.625,
+    "Torstol seed": 0.234375,
+    "Magic seed": 0.15625,
+    "Palm tree seed": 0.15625,
+    "Yew seed": 0.3125,
+    "Shark": 13.671875,
+    "Eternal magic wood spirit": 0.546875,
+    "Onyx bolts (e)": 6.25,
+    "Black dragonhide": 3.125,
+    "Super restore (4)": 1.5625,
+    "Earth talisman": 0.78125,
+    "Coins": 4218.75,
+    "Inert adrenaline crystal": 0.390625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing the King Black Dragon",
+   "activity": "Killing the King Black Dragon (Free-to-play)",
+   "monster": "King Black Dragon",
+   "kph": 60.0,
+   "per_kill": true,
+   "skills": {
+    "Prayer": 37
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Killing the Magister",
+   "activity": "Killing the Magister",
+   "monster": "the Magister",
+   "kph": 80.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 115
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Ranged": 90,
+    "Magic": 90,
+    "Necromancy": 90,
+    "Defence": 90,
+    "Herblore": 96,
+    "Prayer": 95,
+    "Summoning": 87
+   },
+   "quests": [
+    "Icthlarin's Little Helper"
+   ],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "{{#var:best_khopesh}}": 0.00196078431372549,
+    "Key to the Crossing": 0.007936507936507936,
+    "Gloves of passage": 0.00202020202020202,
+    "Dragon platelegs": 0.015625,
+    "Dragon plateskirt": 0.015625,
+    "Ranarr seed": 0.234375,
+    "Toadflax seed": 0.1640625,
+    "Large bladed rune salvage": 0.140625,
+    "Huge plated rune salvage": 0.1875,
+    "Coins": 11718.75,
+    "Corrupted magic logs": 7.8125,
+    "Dragon arrowheads": 11.71875,
+    "Weapon poison++ (3)": 0.140625,
+    "Crystal key": 0.078125,
+    "Crushed nest": 1.5625,
+    "Feather of Ma'at": 4.6875,
+    "Dragonstone": 0.625,
+    "Platinum stone spirit": 0.2734375,
+    "Water talisman": 0.5859375,
+    "Battlestaff": 0.9375,
+    "Onyx bolt tips": 1.171875,
+    "Vital spark": 0.9375
+   }
+  },
+  {
+   "guide": "Money making guide/Killing the Queen Black Dragon",
+   "activity": "Killing the Queen Black Dragon",
+   "monster": "Queen Black Dragon",
+   "kph": 28.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 60,
+    "Defence": 75
+   },
+   "recommended_skills": {
+    "Combat": 43
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Dragon bones": 8.0,
+    "Rare drop table": 0.03669724770642202
+   }
+  },
+  {
+   "guide": "Money making guide/Killing the Twin Furies",
+   "activity": "Killing the Twin Furies",
+   "monster": "Twin Furies",
+   "kph": 15.0,
+   "per_kill": true,
+   "skills": {
+    "Ranged": 80,
+    "Prayer": 71
+   },
+   "recommended_skills": {
+    "Attack": 90,
+    "Necromancy": 90,
+    "Herblore": 96,
+    "Summoning": 99
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Crest of Zamorak": 0.001953125,
+    "Blade of Nymora": 0.001953125,
+    "Blade of Avaryss": 0.001953125,
+    "Zamorakian essence": 0.0078125,
+    "Dormant anima core body": 0.001953125,
+    "Dormant anima core legs": 0.001953125,
+    "Dormant anima core helm": 0.001953125,
+    "Drakolith stone spirit": 1.25,
+    "Orichalcite stone spirit": 1.25,
+    "Necrite stone spirit": 0.9375,
+    "Phasmatite stone spirit": 0.9375,
+    "Uncut diamond": 2.1875,
+    "Uncut dragonstone": 0.46875,
+    "Raw shark": 5.46875,
+    "Coins": 6562.5,
+    "Dwarf weed seed": 0.3125,
+    "Magic logs": 15.625,
+    "Wine of Zamorak": 2.5,
+    "Infernal ashes": 18.75,
+    "Large bladed rune salvage": 0.3515625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing tormented demons",
+   "activity": "Killing tormented demons",
+   "monster": "tormented demon",
+   "kph": 145.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 99,
+    "Ranged": 90,
+    "Strength": 90,
+    "Attack": 90,
+    "Prayer": 92,
+    "Herblore": 106
+   },
+   "recommended_skills": {
+    "Summoning": 87
+   },
+   "quests": [
+    "While Guthix Sleeps",
+    "Dimension of Disaster: Curse of Arrav",
+    "The Temple at Senntisten"
+   ],
+   "partial_quests": [],
+   "gear_tier": 80,
+   "drops": {
+    "Dragon limbs": 0.00390625,
+    "Dragon claw": 0.00390625,
+    "Off-hand dragon claw": 0.00390625,
+    "Ruined dragon armour slice": 0.000946969696969697,
+    "Ruined dragon armour shard": 0.000946969696969697,
+    "Ruined dragon armour lump": 0.000946969696969697,
+    "Law rune": 1.5625,
+    "Death rune": 2.05078125,
+    "Blood rune": 1.421875,
+    "Grimy irit": 0.1845703125,
+    "Grimy avantoe": 0.1318359375,
+    "Grimy cadantine": 0.10546875,
+    "Grimy lantadyme": 0.052734375,
+    "Grimy dwarf weed": 0.052734375,
+    "Limpwurt seed": 0.08613281249999999,
+    "Toadflax seed": 0.049218750000000006,
+    "Avantoe seed": 0.024609375000000003,
+    "Cadantine seed": 0.0615234375,
+    "Godly grapevine seed": 0.024609375000000003,
+    "Tiny blunt rune salvage": 0.08203125,
+    "Tiny spiky rune salvage": 0.078125,
+    "Medium plated rune salvage": 0.109375,
+    "Large plated rune salvage": 0.046875,
+    "Coins": 615.234375,
+    "Diamond": 0.3125,
+    "Platinum stone spirit": 0.19921875,
+    "Fire talisman": 0.296875,
+    "Rare drop table": 0.01
+   }
+  },
+  {
+   "guide": "Money making guide/Killing tortoises",
+   "activity": "Killing tortoises",
+   "monster": "tortoises",
+   "kph": 380.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 41
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Tortoise shell": 0.125,
+    "Cabbage": 1.54296875,
+    "Cabbage seed": 1.1903125,
+    "Wergali seed": 0.1171875,
+    "Swamp toad": 0.0390625,
+    "Toad crunchies": 0.0546875,
+    "Nature rune": 0.15625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing unspeakable horrors",
+   "activity": "Killing unspeakable horrors",
+   "monster": "unspeakable horror",
+   "kph": 620.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 99,
+    "Prayer": 92
+   },
+   "recommended_skills": {
+    "Melee": 90,
+    "Herblore": 96,
+    "Summoning": 99
+   },
+   "quests": [
+    "Cabin Fever",
+    "The Jack of Spades"
+   ],
+   "partial_quests": [
+    "Cabin Fever",
+    "The Jack of Spades"
+   ],
+   "gear_tier": null,
+   "drops": {
+    "Big bones": 3.03125,
+    "Monkey bones": 0.3125,
+    "Black mask (10)": 0.001953125,
+    "Grimy ranarr": 0.1875,
+    "Grimy lantadyme": 0.09375,
+    "Grimy dwarf weed": 0.09375,
+    "Coins": 906.25,
+    "Teak logs": 0.9375,
+    "Mahogany logs": 0.3125,
+    "Raw swordfish": 0.78125,
+    "Poison ivy berries": 0.09375,
+    "Ruby ring": 0.2734375,
+    "Ruby necklace": 0.21875,
+    "Coconut": 0.0625,
+    "Scare Tactics": 0.00390625
+   }
+  },
+  {
+   "guide": "Money making guide/Killing vinecrawlers",
+   "activity": "Killing Vinecrawlers",
+   "monster": "Vinecrawler",
+   "kph": 160.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 104,
+    "Ranged": 90,
+    "Prayer": 95,
+    "Herblore": 97
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Mud rune": 1.8181818181818181,
+    "Avocado seed": 0.15151515151515152,
+    "Starbloom flower seed": 0.045454545454545456,
+    "Coins": 1931.8181818181818,
+    "Potato cactus": 0.7424242424242424,
+    "Water battlestaff": 0.15151515151515152,
+    "Earth battlestaff": 0.18181818181818182,
+    "Uncut dragonstone": 0.18181818181818182,
+    "Morchella mushroom": 0.22727272727272727,
+    "Grimy lantadyme": 0.3181818181818182,
+    "Water talisman": 0.03787878787878788,
+    "Blight bolts": 0.6428571428571429,
+    "Torn grimoire page": 0.001953125,
+    "Cinderbane gloves": 0.0006666666666666666,
+    "Ancient elven ritual shard": 0.0006666666666666666
+   }
+  },
+  {
+   "guide": "Money making guide/Killing vyrelords and vyreladies",
+   "activity": "Killing vyrelords and vyreladies",
+   "monster": "vyrelord",
+   "kph": 800.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 78,
+    "Defence": 80,
+    "Prayer": 92
+   },
+   "recommended_skills": {},
+   "quests": [
+    "River of Blood"
+   ],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Splitbark helm": 0.046875,
+    "Splitbark body": 0.03125,
+    "Death rune": 1.40625,
+    "Blood rune": 0.9758445945945946,
+    "Grimy ranarr": 0.15625,
+    "Grimy avantoe": 0.17570945945945945,
+    "Grimy snapdragon": 0.15625,
+    "Coins": 375.0,
+    "Red spiders' eggs": 0.07783783783783783,
+    "Wine of Zamorak": 0.0625,
+    "Medium spiky rune salvage": 0.012972972972972972,
+    "Rune arrow": 0.6486486486486486,
+    "Grimy toadflax": 0.00972972972972973,
+    "Grimy kwuarm": 0.00972972972972973,
+    "Grimy lantadyme": 0.00972972972972973,
+    "Grimy dwarf weed": 0.00972972972972973,
+    "Grimy torstol": 0.00972972972972973,
+    "Watermelon seed": 0.07783783783783783,
+    "Snape grass seed": 0.07783783783783783,
+    "Lantadyme seed": 0.006486486486486486,
+    "Dwarf weed seed": 0.006486486486486486,
+    "Adamantite stone spirit": 0.07783783783783783,
+    "Runite stone spirit": 0.006486486486486486,
+    "Tiny plated rune salvage": 0.006486486486486486,
+    "Large plated rune salvage": 0.006486486486486486,
+    "Uncut diamond": 0.03891891891891892,
+    "Uncut ruby": 0.03891891891891892,
+    "Limpwurt root": 0.07783783783783783,
+    "Loop half of a key": 0.006486486486486486,
+    "Tooth half of a key": 0.006486486486486486,
+    "Dragon spear": 0.002162162162162162,
+    "Congealed blood": 0.42500000000000004,
+    "Spirit sapphire": 0.0025,
+    "Spirit emerald": 0.0015,
+    "Spirit ruby": 0.001
+   }
+  },
+  {
+   "guide": "Money making guide/Killing warped tortoises",
+   "activity": "Killing warped tortoises",
+   "monster": "warped tortoise",
+   "kph": 300.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Magic": 70,
+    "Ranged": 70,
+    "Defence": 70
+   },
+   "quests": [
+    "The Path of Glouphrie"
+   ],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Tortoise shell": 0.15625,
+    "Medium blunt mithril salvage": 0.0234375,
+    "Tiny bladed adamant salvage": 0.0234375,
+    "Huge plated mithril salvage": 0.015625,
+    "Medium spiky rune salvage": 0.015625,
+    "Medium blunt rune salvage": 0.0078125,
+    "Mithril stone spirit": 0.421875,
+    "Coal stone spirit": 0.390625,
+    "Swamp tar": 3.84375,
+    "Cabbage": 0.6328125
+   }
+  },
+  {
+   "guide": "Money making guide/Killing wyverns",
+   "activity": "Killing wyverns",
+   "monster": "wyvern",
+   "kph": 180.0,
+   "per_kill": true,
+   "skills": {
+    "Slayer": 96,
+    "Herblore": 89
+   },
+   "recommended_skills": {
+    "Melee": 90,
+    "Prayer": 95
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 90,
+   "drops": {
+    "Wyvern bones": 1.75,
+    "Wyvern crossbow": 0.0005,
+    "Grimy ranarr": 0.3125,
+    "Grimy irit": 0.3125,
+    "Prayer potion (3)": 0.4375,
+    "Medium bladed rune salvage": 0.078125,
+    "Large plated rune salvage": 0.0625,
+    "Dragon dart tip": 2.734375,
+    "Coins": 625.0,
+    "Crushed nest": 0.546875,
+    "Uncut dragonstone": 0.140625,
+    "Soul rune": 0.9375,
+    "Onyx bolt tips": 0.234375,
+    "Platinum stone spirit": 0.3125,
+    "Wyvern spines": 2.0,
+    "Raptor key part 1": 0.00390625,
+    "Cursed Amascut sand": 0.0009765625,
+    "Draconic visage": 0.0001
+   }
+  },
+  {
+   "guide": "Money making guide/Looting Shifting Tombs",
+   "activity": "Looting Shifting Tombs",
+   "monster": "Shifting Tombs",
+   "kph": 14.0,
+   "per_kill": true,
+   "skills": {
+    "Dungeoneering": 90,
+    "Agility": 90,
+    "Thieving": 90,
+    "Construction": 90,
+    "Crafting": 90,
+    "Prayer": 90,
+    "Runecrafting": 90,
+    "Divination": 90
+   },
+   "recommended_skills": {},
+   "quests": [
+    "The Jack of Spades"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 142857.14285714287,
+    "Feather of Ma'at": 64.28571428571429,
+    "Off-hand khopesh of the Kharidian": 0.00125,
+    "Soul talisman": 0.005
+   }
+  },
+  {
+   "guide": "Money making guide/Making Sophanem Slayer Dungeon Teleports",
+   "activity": "Making Sophanem Slayer Dungeon Teleports",
+   "monster": null,
+   "kph": 780.0,
+   "per_kill": true,
+   "skills": {
+    "Construction": 40
+   },
+   "recommended_skills": {
+    "Construction": 67
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Sophanem Slayer Dungeon teleport": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making ancient magicks teleport tablets",
+   "activity": "Making Paddewwa teleports",
+   "monster": "Paddewwa teleport (item)",
+   "kph": 780.0,
+   "per_kill": true,
+   "skills": {
+    "Construction": 67,
+    "Magic": 54
+   },
+   "recommended_skills": {
+    "Invention": 60
+   },
+   "quests": [
+    "Desert Treasure"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Paddewwa teleport (item)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making ghostly ink",
+   "activity": "Making regular ghostly ink",
+   "monster": "regular ghostly ink",
+   "kph": 2500.0,
+   "per_kill": true,
+   "skills": {
+    "Necromancy": 20
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Necromancy!"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Regular ghostly ink": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making infernal magic incense sticks",
+   "activity": "Making infernal magic incense sticks",
+   "monster": "infernal magic incense sticks",
+   "kph": 2600.0,
+   "per_kill": true,
+   "skills": {
+    "Firemaking": 75
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Infernal magic incense sticks": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making large historic component crates",
+   "activity": "Making large historic component crates",
+   "monster": "Large crate (historic components)",
+   "kph": 63.0,
+   "per_kill": true,
+   "skills": {
+    "Invention": 20
+   },
+   "recommended_skills": {
+    "Archaeology": 70
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Timeworn components": 0.01,
+    "Vintage components": 0.01,
+    "Zarosian insignia": 371.0,
+    "Third Age iron": 371.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making lunar magic teleport tablets",
+   "activity": "Making Fishing guild teleports",
+   "monster": "Fishing guild teleport (item)",
+   "kph": 780.0,
+   "per_kill": true,
+   "skills": {
+    "Construction": 67,
+    "Magic": 85
+   },
+   "recommended_skills": {
+    "Invention": 60
+   },
+   "quests": [
+    "Lunar Diplomacy"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Fishing guild teleport (item)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making planks in Fort Forinthry",
+   "activity": "Making planks in Fort Forinthry",
+   "monster": "plank",
+   "kph": 2500.0,
+   "per_kill": true,
+   "skills": {
+    "Construction": 1
+   },
+   "recommended_skills": {},
+   "quests": [
+    "New Foundations"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Plank": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making refined planks at Fort Forinthry",
+   "activity": "Making Refined Magic planks in Fort Forinthry",
+   "monster": "Refined Magic planks",
+   "kph": 576.0,
+   "per_kill": true,
+   "skills": {
+    "Construction": 80
+   },
+   "recommended_skills": {},
+   "quests": [
+    "New Foundations"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Refined Magic planks": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making standard teleport tablets",
+   "activity": "Making Varrock teleports",
+   "monster": "Varrock teleport (item)",
+   "kph": 780.0,
+   "per_kill": true,
+   "skills": {
+    "Magic": 25,
+    "Construction": 40
+   },
+   "recommended_skills": {
+    "Invention": 60
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Varrock teleport (item)": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Making super prayer renewal potions",
+   "activity": "Making super prayer renewal potions",
+   "monster": "super prayer renewal",
+   "kph": 2000.0,
+   "per_kill": false,
+   "skills": {
+    "Herblore": 96,
+    "Dungeoneering": 49
+   },
+   "recommended_skills": {
+    "Summoning": 96
+   },
+   "quests": [
+    "Plague's End"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Super prayer renewal potion (6)": 1.05
+   }
+  },
+  {
+   "guide": "Money making guide/Making the Spear of Annihilation",
+   "activity": "Making the Spear of Annihilation",
+   "monster": "Spear of Annihilation",
+   "kph": 566.0,
+   "per_kill": true,
+   "skills": {
+    "Archaeology": 115
+   },
+   "recommended_skills": {
+    "Invention": 85
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  },
+  {
+   "guide": "Money making guide/Making unfinished dwarf weed potions",
+   "activity": "Making unfinished dwarf weed potions",
+   "monster": "dwarf weed potion (unfinished)",
+   "kph": 2500.0,
+   "per_kill": true,
+   "skills": {
+    "Herblore": 70
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Dwarf weed potion (unfinished)": 1.15
+   }
+  },
+  {
+   "guide": "Money making guide/Making waterfiend binding contracts",
+   "activity": "Killing Waterfiends",
+   "monster": "Waterfiend",
+   "kph": 1000.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 50,
+    "Archaeology": 68,
+    "Firemaking": 35
+   },
+   "recommended_skills": {
+    "Ranged": 90,
+    "Defence": 90,
+    "Prayer": 95,
+    "Herblore": 96
+   },
+   "quests": [
+    "Dagon Bye",
+    "Barbarian Firemaking"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Binding contract (waterfiend)": 1.0,
+    "Water orb": 0.09140000000000001,
+    "Raw shark": 0.060899999999999996,
+    "Raw lobster": 0.203,
+    "Coins": 103.593
+   }
+  },
+  {
+   "guide": "Money making guide/Mining common gem rocks in Al Kharid mine",
+   "activity": "Mining common gem rocks in Al Kharid mine",
+   "monster": "common gem rock",
+   "kph": 1400.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Dungeoneering": 99,
+    "Mining": 40
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Uncut lapis lazuli": 0.25,
+    "Uncut opal": 0.3,
+    "Uncut jade": 0.25,
+    "Uncut red topaz": 0.2
+   }
+  },
+  {
+   "guide": "Money making guide/Opening alchemist's chests",
+   "activity": "Opening the Alchemist's chest",
+   "monster": "Alchemist's chest",
+   "kph": 2000.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Accursed ashes": 0.2988954865704704,
+    "Alchemist's key": 3.0766390794695876e-05,
+    "Cadantine seed": 0.08319232070885764,
+    "Cave nightshade": 0.15552410546718765,
+    "Dragon scale dust": 0.7220871919515122,
+    "Grimy cadantine": 0.06147124880780236,
+    "Grimy harralander": 0.1573700889148694,
+    "Grimy irit": 0.05925606867058426,
+    "Grimy toadflax": 0.06350183060025229,
+    "Hydrix bolt tips": 0.49841553087407314,
+    "Impious ashes": 0.4093468295234286,
+    "Infernal ashes": 0.36888902562840353,
+    "Kwuarm seed": 0.07740823923945482,
+    "Marrentill seed": 0.07802356705534874,
+    "Mud rune": 1.4684798326308341,
+    "Onyx bolt tips": 0.5107220871919514,
+    "Onyx dust": 0.004614958619204381,
+    "Poison ivy berries": 0.5254899547734055,
+    "Raw rat meat": 1.5560102144417438,
+    "Snake hide": 0.13814109466818447,
+    "Unicorn horn dust": 0.7187028889640956,
+    "Wine of Saradomin": 0.04298064794019014,
+    "Wine of Zamorak": 0.3613512598837031
+   }
+  },
+  {
+   "guide": "Money making guide/Opening muddy chests",
+   "activity": "Opening muddy chests",
+   "monster": "muddy chest",
+   "kph": 850.0,
+   "per_kill": true,
+   "skills": {
+    "Summoning": 96
+   },
+   "recommended_skills": {
+    "Combat": 70,
+    "Prayer": 43,
+    "Agility": 5
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": 70,
+   "drops": {
+    "Crystal key": 0.016,
+    "Dragon longsword": 0.04,
+    "Blood rune": 2.1176470588235294,
+    "Bloodweed seed": 0.08705882352941176,
+    "Battlestaff": 0.08705882352941176,
+    "Coins": 6705.882352941177,
+    "Adrenaline crystal": 0.0075,
+    "Fremennik equipment patch": 0.0075,
+    "Wilderness hilt": 0.000588235294117647,
+    "Ancient warriors' equipment patch": 0.0003529411764705882
+   }
+  },
+  {
+   "guide": "Money making guide/Performing greater necroplasm rituals",
+   "activity": "Performing greater necroplasm rituals",
+   "monster": "greater necroplasm (ritual)",
+   "kph": 45.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {
+    "Necromancy": 103
+   },
+   "quests": [
+    "Necromancy!"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Greater necroplasm": 345.0,
+    "Ectoplasm": 23.0
+   }
+  },
+  {
+   "guide": "Money making guide/Performing lesser necroplasm rituals",
+   "activity": "Performing lesser necroplasm rituals",
+   "monster": "lesser necroplasm (ritual)",
+   "kph": 90.0,
+   "per_kill": true,
+   "skills": {
+    "Necromancy": 5
+   },
+   "recommended_skills": {},
+   "quests": [
+    "Necromancy!"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Lesser necroplasm": 100.0,
+    "Ectoplasm": 3.0
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing Archaeology professors",
+   "activity": "Pickpocketing archaeology professors",
+   "monster": "archaeology professor",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 108
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 257.6,
+    "Chronotes": 0.5249999999999999,
+    "Binding contract": 0.01,
+    "Tetracompass (unpowered)": 0.00025,
+    "Hi-spec monocle": 0.0005,
+    "Archaeologist's tea": 0.0005,
+    "Tarpaulin sheet": 0.0005,
+    "Material manual": 0.0005,
+    "Animal furs": 0.0075,
+    "Fossilised bone": 0.0075,
+    "Goldrune": 0.0075,
+    "Leather scraps": 0.0075,
+    "Orthenglass": 0.0075,
+    "Soapstone": 0.0075,
+    "Samite silk": 0.0075,
+    "Third Age iron": 0.0075,
+    "Vellum": 0.0075,
+    "White oak": 0.0075
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing Crux Eqal Knights",
+   "activity": "Pickpocketing Crux Eqal Knights",
+   "monster": "Crux Eqal Knight",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 83,
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "recommended_skills": {
+    "Thieving": 103,
+    "Agility": 93
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 240.0,
+    "Elemental anima stone": 0.55,
+    "Catalytic anima stone": 0.0749063670411985,
+    "Guam seed": 0.004132231404958678,
+    "Tarromin seed": 0.0035971223021582736,
+    "Marrentill seed": 0.005434782608695652,
+    "Harralander seed": 0.004016064257028112,
+    "Ranarr seed": 0.004016064257028112,
+    "Toadflax seed": 0.004132231404958678,
+    "Spirit weed seed": 0.004424778761061947,
+    "Irit seed": 0.0028328611898017,
+    "Wergali seed": 0.002777777777777778,
+    "Avantoe seed": 0.0028328611898017,
+    "Kwuarm seed": 0.0029498525073746312,
+    "Snapdragon seed": 0.002421307506053269,
+    "Cadantine seed": 0.002304147465437788,
+    "Lantadyme seed": 0.002066115702479339,
+    "Dwarf weed seed": 0.0007680491551459293,
+    "Torstol seed": 0.001358695652173913,
+    "Fellstalk seed": 0.0007680491551459293,
+    "Mystical sand seed": 0.00029533372711163615
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing Gnomes",
+   "activity": "Pickpocketing Gnomes",
+   "monster": "Gnome",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 99
+   },
+   "recommended_skills": {
+    "Thieving": 105,
+    "Archaeology": 84,
+    "Magic": 90
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 72.65625,
+    "Earth rune": 0.0390625,
+    "Gold stone spirit": 0.0625,
+    "Starbloom flower seed": 0.015625,
+    "Sunchoke seed": 0.0234375,
+    "Barberry seed": 0.0234375,
+    "Prickly pear seed": 0.0234375,
+    "Butterfly flower seed": 0.015625,
+    "Fly trap seed": 0.0234375,
+    "Snape grass seed": 0.015625,
+    "Swamp toad": 0.21875,
+    "King worm": 0.234375,
+    "Reed seed": 0.0234375,
+    "Potato cactus seed": 0.015625,
+    "Fire orb": 0.015625,
+    "Godly grapevine seed": 0.0078125
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing Goebie scavengers",
+   "activity": "Pickpocketing Goebie scavengers",
+   "monster": "Goebie scavenger",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 102
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 155.4,
+    "Cooked eeligator": 0.125,
+    "Teci": 0.625,
+    "Small goebie burial charm": 0.002,
+    "Goebie burial charm": 0.0015,
+    "Large goebie burial charm": 0.001,
+    "Liberation of Mazcab reroll token": 0.0005
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing Menaphos market guards",
+   "activity": "Pickpocketing Menaphos market guards",
+   "monster": "Menaphos market guard",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 104
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [
+    "The Jack of Spades"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 344.89,
+    "Acadia wood spirit": 0.05,
+    "Waterskin (4)": 0.05,
+    "Potato cactus": 0.005,
+    "Large bladed adamant salvage": 0.02,
+    "Extra fine sand": 0.1,
+    "Vital spark": 0.002,
+    "Menaphite gift offering (small)": 0.004,
+    "Menaphite gift offering (medium)": 0.002,
+    "Sealed clue scroll (hard)": 0.006,
+    "Sealed clue scroll (elite)": 0.00495,
+    "Sealed clue scroll (master)": 5e-05
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing TzHaar-Hur traders",
+   "activity": "Pickpocketing TzHaar-Hur traders",
+   "monster": "TzHaar-Hur trader",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 111
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Tokkul": 12.8645,
+    "Uncut sapphire": 0.1,
+    "Uncut emerald": 0.13333333333333333,
+    "Uncut ruby": 0.1,
+    "Uncut diamond": 0.06666666666666667,
+    "Uncut onyx": 0.0003333333333333333,
+    "Onyx bolt tips": 0.06,
+    "Sealed clue scroll (medium)": 0.01,
+    "Jal-tok-yt": 5.154639175257732e-05
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing Vyrewatch tither",
+   "activity": "Pickpocketing Vyrewatch tithers",
+   "monster": "Vyrewatch tither",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 100
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [
+    "The Branches of Darkmeyer"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 382.72499999999997,
+    "Blood rune": 0.195,
+    "Death rune": 0.195,
+    "Congealed blood": 0.22499999999999998,
+    "Uncut ruby": 0.111,
+    "Small bladed orikalkum salvage": 0.005,
+    "Elder wood spirit": 0.01,
+    "Shiny columbarium key": 0.002,
+    "Tiny spiky rune salvage": 0.01,
+    "Inert adrenaline crystal": 0.01
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing Wizards' Tower master mages",
+   "activity": "Pickpocketing Wizards' Tower master mages",
+   "monster": "Wizards' Tower master mage",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 106
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 188.53333333333333,
+    "Pure essence": 1.875,
+    "Cosmic rune": 0.15,
+    "Soul rune": 0.25,
+    "Astral rune": 0.18,
+    "Law rune": 0.18,
+    "Time rune": 0.0625,
+    "Dust rune": 0.6,
+    "Steam rune": 0.5625,
+    "Blood talisman": 0.0003333333333333333,
+    "Death talisman": 0.0003333333333333333,
+    "Soul talisman": 0.0003333333333333333
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing elven workers",
+   "activity": "Pickpocketing elven clan workers",
+   "monster": "elven clan worker",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 91
+   },
+   "recommended_skills": {
+    "Thieving": 99,
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [
+    "Plague's End"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 234.21875,
+    "Crystal triskelion": 3.3333333333333335e-05,
+    "Sealed clue scroll (hard)": 0.0015625,
+    "Sealed clue scroll (elite)": 0.0007734375,
+    "Sealed clue scroll (master)": 7.8125e-06,
+    "Adamantite stone spirit": 0.046875,
+    "Super attack (1)": 0.078125,
+    "Super strength (1)": 0.078125,
+    "Super defence (1)": 0.0625,
+    "Shark": 0.03125
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing fairy traders",
+   "activity": "Pickpocketing fairy traders",
+   "monster": "fairy trader",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 113
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [
+    "Lost City"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 418.88,
+    "Crimson charm": 0.1,
+    "Blue charm": 0.1,
+    "Mahogany wood spirit": 0.054,
+    "Yew wood spirit": 0.036,
+    "Magic wood spirit": 0.026,
+    "Dwarf weed seed": 0.028,
+    "Spirit weed seed": 0.028,
+    "Godly grapevine seed": 0.01,
+    "Irit seed": 0.009,
+    "Starbloom flower seed": 0.003,
+    "Moonstone dust": 0.015,
+    "Onyx dust": 0.015,
+    "Inert adrenaline crystal": 0.005,
+    "Dragon longsword": 0.005
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing paladins",
+   "activity": "Pickpocketing Paladins",
+   "monster": "Paladin",
+   "kph": 3000.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 70
+   },
+   "recommended_skills": {
+    "Archaeology": 84
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 80.0,
+    "Chaos rune": 2.0
+   }
+  },
+  {
+   "guide": "Money making guide/Pickpocketing vyrelord and vyrelady consumers",
+   "activity": "Pickpocketing vyrelords and vyrelady consumers",
+   "monster": "vyrelord consumer",
+   "kph": 3210.0,
+   "per_kill": true,
+   "skills": {
+    "Thieving": 118
+   },
+   "recommended_skills": {
+    "Archaeology": 84,
+    "Magic": 90,
+    "Prayer": 80
+   },
+   "quests": [
+    "The Branches of Darkmeyer"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Coins": 637.1999999999999,
+    "Blood rune": 0.26,
+    "Death rune": 0.195,
+    "Congealed blood": 0.22499999999999998,
+    "Ruby necklace": 0.05,
+    "Necrite stone spirit": 0.0225,
+    "Eternal magic wood spirit": 0.01,
+    "Shiny columbarium key": 0.002,
+    "Small spiky rune salvage": 0.01,
+    "Small bladed orikalkum salvage": 0.005,
+    "Ring of Vitur": 5.154639175257732e-05
+   }
+  },
+  {
+   "guide": "Money making guide/Running the Anachronia Agility Course for codex pages",
+   "activity": "Running the Anachronia Agility Course for codex pages",
+   "monster": "Anachronia Agility Course",
+   "kph": 9.0,
+   "per_kill": false,
+   "skills": {
+    "Agility": 85
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "{{#ifexpr:{{GEP|Double Surge codex}} > {{GEP|Double Escape codex}}|Double Surge codex|Double Escape codex}}": 0.016
+   }
+  },
+  {
+   "guide": "Money making guide/Scavenging",
+   "activity": "Obtaining rare components using Scavenging from Lumbridge Catacomb skeletons",
+   "monster": "component",
+   "kph": 5000.0,
+   "per_kill": true,
+   "skills": {
+    "Invention": 85
+   },
+   "recommended_skills": {
+    "Combat": 80,
+    "Prayer": 92
+   },
+   "quests": [
+    "The Blood Pact"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Third-age components": 1.3333333333333333e-05,
+    "Ecliptic components": 1.3333333333333333e-05,
+    "Noxious components": 1.3333333333333333e-05,
+    "Ilujankan components": 1.3333333333333333e-05,
+    "Cywir components": 1.3333333333333333e-05
+   }
+  },
+  {
+   "guide": "Money making guide/Smithing adamant dart tips",
+   "activity": "Smithing adamant dart tips",
+   "monster": "adamant dart tip",
+   "kph": 120.0,
+   "per_kill": true,
+   "skills": {
+    "Smithing": 40
+   },
+   "recommended_skills": {},
+   "quests": [
+    "The Tourist Trap"
+   ],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Adamant dart tip": 50.0
+   }
+  },
+  {
+   "guide": "Money making guide/Smithing rune knives",
+   "activity": "Smithing rune knives",
+   "monster": null,
+   "kph": 100.0,
+   "per_kill": true,
+   "skills": {
+    "Smithing": 50
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Rune knife": 25.0
+   }
+  },
+  {
+   "guide": "Money making guide/Smithing steel nails",
+   "activity": "Smithing steel nails",
+   "monster": "steel nails",
+   "kph": 240.0,
+   "per_kill": true,
+   "skills": {
+    "Smithing": 20
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Steel nails": 75.0
+   }
+  },
+  {
+   "guide": "Money making guide/Spinning wool",
+   "activity": "Spinning wool",
+   "monster": null,
+   "kph": 50.0,
+   "per_kill": true,
+   "skills": {},
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Ball of wool": 28.0
+   }
+  },
+  {
+   "guide": "Money making guide/Stringing magic shortbows",
+   "activity": "Stringing magic shortbows",
+   "monster": "magic shortbow",
+   "kph": 2800.0,
+   "per_kill": true,
+   "skills": {
+    "Fletching": 80
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Magic shortbow": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Stringing maple longbows",
+   "activity": "Stringing maple longbows",
+   "monster": "maple longbow",
+   "kph": 2800.0,
+   "per_kill": true,
+   "skills": {
+    "Fletching": 45
+   },
+   "recommended_skills": {},
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {
+    "Maple longbow": 1.0
+   }
+  },
+  {
+   "guide": "Money making guide/Swarm fishing",
+   "activity": "Swarm fishing",
+   "monster": "Swarm",
+   "kph": 390.0,
+   "per_kill": true,
+   "skills": {
+    "Fishing": 92
+   },
+   "recommended_skills": {
+    "Summoning": 74
+   },
+   "quests": [],
+   "partial_quests": [],
+   "gear_tier": null,
+   "drops": {}
+  }
+ ]
+}

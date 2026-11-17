@@ -1,0 +1,58 @@
+# Bonus-XP resources the planner may spend instead of grinding.
+#
+# Fields: name, source, lamp (small|medium|large|huge|giant: xp from the wiki lamp table),
+#         xp_fixed, xp_per_level (otherwise xp per unit = xp_fixed + xp_per_level * level),
+#         units (stock), hours_per_unit (time to obtain/claim one unit), skills (omit = any),
+#         cadence (stock|daily|weekly|once), item (count units across bank/backpack/worn exports),
+#         verified (true once the xp formula has been checked against the wiki).
+#
+# Lamps use the wiki's lamp table (data/lamp_xp.json) and are trustworthy. The D&Ds below are
+# placeholder shapes with verified = false until their formulas are filled in from the wiki
+# (/w/Distractions_and_Diversions).
+# Per-player stock (e.g. "I have 12 huge lamps waiting") goes in rune_advisor.toml:
+#
+#   [[resources]]
+#   name = "Huge lamps from Chuck"
+#   source = "Chuck"
+#   lamp = "huge"
+#   units = 12
+
+[[resources]]
+name = "Huge XP lamp"
+item = "Huge XP lamp"
+lamp = "huge"
+cadence = "stock"
+hours_per_unit = 0.0
+
+# Effigy Incubator lamps (https://runescape.wiki/w/Effigy_lamp): a medium lamp each, restricted to the
+# effigy's skills. Both variants share the item name, so the export's item id tells them apart.
+[[resources]]
+name = "Effigy lamp (volatile)"
+source = "Effigy Incubator"
+item = "Effigy lamp"
+item_id = 50528
+lamp = "medium"
+skills = ["Cooking", "Fishing", "Mining", "Woodcutting"]
+cadence = "stock"
+hours_per_unit = 0.0
+
+[[resources]]
+name = "Effigy lamp (erratic)"
+source = "Effigy Incubator"
+item = "Effigy lamp"
+item_id = 50529
+lamp = "medium"
+skills = ["Divination", "Farming", "Hunter", "Runecrafting"]
+cadence = "stock"
+hours_per_unit = 0.0
+
+# Penguin points need no row: resources.load_pool adds them from PlayerState.penguin_points (overrides.toml)
+# as small-lamp xp a point. Task-set antique lamps held as items are added from achievement_xp.json likewise.
+
+[[resources]]
+name = "Tears of Guthix"
+source = "Juna"
+cadence = "weekly"
+units = 1
+hours_per_unit = 0.15
+verified = false

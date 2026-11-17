@@ -1,0 +1,24 @@
+{
+ "source": "RuneScape Wiki, Update:Patch Notes: Dailyscape Overhaul (16 March 2026) and shop pages (CC BY-NC-SA 3.0)",
+ "note": "weekly: 'now accumulate up to one week's worth of stock' (the listed stock is a week's cap, not a 30-second refill). daily: {shop: {item: units per day}}. per_seconds: one unit restocks every N seconds (White Knight Master Armoury: 'restock at a rate of 1 item per minute', stock 10; its rank gates, Wanted! and Black Knight kills, aren't modelled; Tamayu's Spear Stall: stock 10, about one a minute, seen in game 2026-11-12).",
+ "weekly": [
+  "Slayer Equipment", "Slayer Equipment (Burthorpe)", "Sophanem Slayer Supplies",
+  "Contraband Yak Produce", "Fresh Meat", "Beefy Bill's Supplies",
+  "Gerrant's Fishy Business", "Lumbridge Fishing Supplies", "Fishing Guild Shop", "Fernahei's Fishing Hut",
+  "Shantay Pass Shop", "Ava's Odds and Ends", "Gift Shop", "Island Fishmonger", "Etceteria Fish",
+  "Fremennik Fishmonger", "Meena's Fishing Shop", "Survival Shop",
+  "Magic Guild Store - Runes and Staves", "Baba Yaga's Magic Shop", "Tutab's Magical Market",
+  "Void Knight Magic Store", "Lundail's Arena-side Rune Shop", "Ali's Discount Wares", "Rune Shop (Anachronia)",
+  "Battle Runes", "TzHaar-Mej-Roh's Rune Store", "Aubury's Rune Shop", "Betty's Magic Emporium",
+  "Carwen Essencebinder Magical Runes Shop",
+  "The Lighthouse Store", "Meilyr Clan Store", "Aemad's Adventuring Supplies", "Obli's General Store",
+  "Jatix's Herblore Shop", "Sigmund the Merchant (shop)", "Granny Rowan's Supplies",
+  "Sarah's Farming Shop", "Vanessa's Farming Shop", "Richard's Farming Shop", "Alice's Farming Shop",
+  "Papa Mambo's Shop",
+  "Culinaromancer's Chest", "Rodney's Independent Trading Co",
+  "Bandit Duty Free", "Arhein's Store", "Gem Shop (Anachronia)", "Razmire Builders' Merchants", "Mami Rimba's Shop",
+  "Thalmund's Wares"
+ ],
+ "daily": {"Soul Supplies": {"Bucket of slime": 10}},
+ "per_seconds": {"Mazcab Emergency Merchants": 120, "White Knight Master Armoury": 60, "Tamayu's Spear Stall": 60}
+}

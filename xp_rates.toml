@@ -1,0 +1,44 @@
+# Rough default xp/hr by level band, used only to estimate the *cost* of goals.
+# These are ballpark "reasonably efficient, not sweaty" numbers, not authoritative.
+# Each entry is [from_level, xp_per_hour]; the rate applies until the next band.
+# Override per player in rune_advisor.toml:  [xp_rates]  Hunter = 900000
+
+[rates]
+Attack        = [[1, 50_000], [50, 200_000], [80, 450_000], [90, 650_000]]
+Strength      = [[1, 50_000], [50, 200_000], [80, 450_000], [90, 650_000]]
+Defence       = [[1, 50_000], [50, 200_000], [80, 450_000], [90, 650_000]]
+# Hitpoints (Constitution) has no rate of its own: it's derived as 0.33x the best combat
+# skill's rate (see cost.CONSTITUTION_SHARE). Set [xp_rates] Hitpoints in rune_advisor.toml to override.
+Ranged        = [[1, 50_000], [50, 200_000], [80, 450_000], [90, 650_000]]
+Magic         = [[1, 50_000], [50, 200_000], [80, 450_000], [90, 650_000]]
+Necromancy    = [[1, 80_000], [50, 300_000], [80, 600_000], [90, 800_000]]
+Prayer        = [[1, 100_000], [50, 500_000], [80, 1_000_000]]
+Cooking       = [[1, 100_000], [50, 300_000], [80, 600_000]]
+Woodcutting   = [[1, 30_000], [50, 100_000], [80, 200_000], [90, 280_000]]
+Fletching     = [[1, 100_000], [50, 300_000], [80, 600_000]]
+Fishing       = [[1, 30_000], [50, 100_000], [80, 200_000], [90, 300_000]]
+Firemaking    = [[1, 100_000], [50, 300_000], [80, 600_000]]
+Crafting      = [[1, 100_000], [50, 300_000], [80, 600_000]]
+Smithing      = [[1, 80_000], [50, 250_000], [80, 500_000]]
+Mining        = [[1, 30_000], [50, 100_000], [80, 200_000], [90, 280_000]]
+Herblore      = [[1, 100_000], [50, 300_000], [80, 700_000]]
+Agility       = [[1, 30_000], [50, 80_000], [80, 150_000], [90, 220_000]]
+Thieving      = [[1, 50_000], [50, 150_000], [80, 300_000], [90, 400_000]]
+Slayer        = [[1, 30_000], [50, 80_000], [80, 150_000], [90, 200_000]]
+Farming       = [[1, 100_000], [50, 300_000], [80, 600_000]]
+Runecraft     = [[1, 30_000], [50, 70_000], [80, 120_000], [90, 180_000]]
+Hunter        = [[1, 40_000], [50, 150_000], [80, 300_000], [90, 450_000]]
+Construction  = [[1, 100_000], [50, 400_000], [80, 900_000]]
+Summoning     = [[1, 100_000], [50, 300_000], [80, 600_000]]
+Dungeoneering = [[1, 50_000], [50, 150_000], [80, 300_000], [90, 400_000]]
+Divination    = [[1, 30_000], [50, 80_000], [80, 150_000], [90, 220_000]]
+Invention     = [[1, 100_000], [50, 300_000], [80, 600_000], [99, 900_000]]
+Archaeology   = [[1, 30_000], [50, 100_000], [80, 200_000], [90, 280_000]]
+
+# Hours to finish a quest by the wiki's official length, before requirement grinding.
+[quest_length_hours]
+"Very Short" = 0.25
+"Short" = 0.5
+"Medium" = 1.0
+"Long" = 2.0
+"Very Long" = 3.5

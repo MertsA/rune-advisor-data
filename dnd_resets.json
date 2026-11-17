@@ -1,0 +1,28 @@
+{
+  "source": "https://runescape.wiki/w/Distraction_%26_Diversion_reset_token_(daily|weekly|monthly) and the D&D pages (CC BY-NC-SA 3.0), read 2026-11-11",
+  "removal": "2026-11-23",
+  "removal_note": "the wiki's 2026 microtransaction items changes page lists all three reset tokens under 'Items to be removed' on 23 November 2026; items left are converted to coins at a reduced rate (the rate isn't given)",
+  "rules": [
+    "a token resets one D&D of your choice, and each D&D only once per reset period (the game says 'You've already used a token for the <D&D> this month' on a second try)",
+    "daily D&Ds reset at 00:00 UTC, weekly ones on Wednesday 00:00 UTC, monthly ones on the 1st at 00:00 UTC",
+    "7 daily tokens convert into a weekly one and 4 weekly ones into a monthly one (the Convert option); nothing converts down",
+    "The Pit: a daily token grants the event at the next talent scout; Sinkholes: the token resets both daily rounds, but Talsar's three daily teleports don't come back (use the Prifddinas Dungeoneering portal)",
+    "Penguin Hide and Seek: a weekly token lets you spy another 10 agents too"
+  ],
+  "tokens": {
+    "daily": {"item": "Distraction & Diversion reset token (daily)", "convert": ["weekly", 7]},
+    "weekly": {"item": "Distraction & Diversion reset token (weekly)", "convert": ["monthly", 4]},
+    "monthly": {"item": "Distraction & Diversion reset token (monthly)"}
+  },
+  "dnds": {
+    "daily": ["Big Chinchompa", "The Pit", "Sinkholes"],
+    "weekly": ["Champion's Challenge", "Balthazar Beauregard's Big Top Bonanza", "Familiarisation", "Herby Werby", "Memory of Nomad",
+               "Penguin Hide and Seek", "Rush of Blood", "Shattered Worlds challenges", "Skeletal Horror", "Tears of Guthix", "Wisps of the Grove"],
+    "monthly": ["God Statues", "Troll Invasion", "Giant Oyster", "Effigy Incubator"]
+  },
+  "not_valued": {
+    "Champion's Challenge": "re-fighting beaten champions pays xp lamps, but which champions you've beaten isn't exported",
+    "Rush of Blood": "the wiki gives no Slayer xp figure for a reward run; the reward book and chest aren't modelled",
+    "Shattered Worlds challenges": "anima only (250k/1m/7.5m for bronze/silver/gold), and the token resets your progress, not the challenge"
+  }
+}

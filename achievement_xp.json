@@ -1,0 +1,637 @@
+{
+ "Ardougne Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000,
+    "skills": "any",
+    "min_level": 25
+   }
+  ]
+ },
+ "Ardougne Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 85
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 85
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 85
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 85
+   }
+  ]
+ },
+ "Ardougne Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 28000,
+    "skills": "any",
+    "min_level": 60
+   }
+  ]
+ },
+ "Ardougne Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 7500,
+    "skills": "any",
+    "min_level": 45
+   }
+  ]
+ },
+ "Daemonheim Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 2000,
+    "skills": "any",
+    "min_level": 23
+   }
+  ]
+ },
+ "Daemonheim Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 90
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 90
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 90
+   },
+   {
+    "xp": 60000,
+    "skills": "any",
+    "min_level": 98
+   }
+  ]
+ },
+ "Daemonheim Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 20000,
+    "skills": "any",
+    "min_level": 74
+   }
+  ]
+ },
+ "Daemonheim Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 8000,
+    "skills": "any",
+    "min_level": 41
+   }
+  ]
+ },
+ "Desert Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 2000,
+    "skills": "any",
+    "min_level": 29
+   }
+  ]
+ },
+ "Desert Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 77
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 77
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 93
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 93
+   }
+  ]
+ },
+ "Desert Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 20000,
+    "skills": "any",
+    "min_level": 60
+   }
+  ]
+ },
+ "Desert Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 8000,
+    "skills": "any",
+    "min_level": 43
+   }
+  ]
+ },
+ "Falador Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Falador Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 90
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 90
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 72
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 84
+   }
+  ]
+ },
+ "Falador Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Falador Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 5000,
+    "skills": "any",
+    "min_level": 40
+   }
+  ]
+ },
+ "Fremennik Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 5000,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Fremennik Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 86
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 86
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 86
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 86
+   },
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 89
+   }
+  ]
+ },
+ "Fremennik Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 15000,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Fremennik Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 40
+   }
+  ]
+ },
+ "Karamja Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Karamja Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 64
+   },
+   {
+    "xp": 55000,
+    "skills": "any",
+    "min_level": 87
+   },
+   {
+    "xp": 55000,
+    "skills": "any",
+    "min_level": 87
+   }
+  ]
+ },
+ "Karamja Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Karamja Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 5000,
+    "skills": "any",
+    "min_level": 40
+   }
+  ]
+ },
+ "Lumbridge Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Lumbridge Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 9000,
+    "skills": "any",
+    "min_level": 49
+   }
+  ]
+ },
+ "Lumbridge Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1500,
+    "skills": "any",
+    "min_level": 35
+   }
+  ]
+ },
+ "Morytania Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 4000,
+    "skills": "any",
+    "min_level": 25
+   }
+  ]
+ },
+ "Morytania Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 75
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 80
+   },
+   {
+    "xp": 50000,
+    "skills": "any",
+    "min_level": 80
+   }
+  ]
+ },
+ "Morytania Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 20000,
+    "skills": "any",
+    "min_level": 65
+   }
+  ]
+ },
+ "Morytania Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 46
+   }
+  ]
+ },
+ "Seers' Village Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Seers' Village Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 25000,
+    "skills": "any",
+    "min_level": 70
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 83
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 83
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 83
+   },
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 83
+   }
+  ]
+ },
+ "Seers' Village Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Seers' Village Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 5000,
+    "skills": "any",
+    "min_level": 40
+   }
+  ]
+ },
+ "Tirannwn Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 47
+   }
+  ]
+ },
+ "Tirannwn Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 95
+   },
+   {
+    "xp": 60000,
+    "skills": "any",
+    "min_level": 95
+   },
+   {
+    "xp": 60000,
+    "skills": "any",
+    "min_level": 95
+   }
+  ]
+ },
+ "Tirannwn Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 78
+   }
+  ]
+ },
+ "Tirannwn Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 68
+   }
+  ]
+ },
+ "Varrock Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Varrock Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000,
+    "skills": "any",
+    "min_level": 65
+   },
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 88
+   },
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 88
+   },
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 88
+   }
+  ]
+ },
+ "Varrock Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Varrock Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 5000,
+    "skills": "any",
+    "min_level": 40
+   }
+  ]
+ },
+ "Wilderness Set Tasks - Easy": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 30
+   },
+   {
+    "xp": 10000,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Wilderness Set Tasks - Elite": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 95000,
+    "skills": "any",
+    "min_level": 85
+   },
+   {
+    "xp": 95000,
+    "skills": "any",
+    "min_level": 85
+   }
+  ]
+ },
+ "Wilderness Set Tasks - Hard": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 77000,
+    "skills": "any",
+    "min_level": 67
+   },
+   {
+    "xp": 77000,
+    "skills": "any",
+    "min_level": 67
+   }
+  ]
+ },
+ "Wilderness Set Tasks - Medium": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 52
+   },
+   {
+    "xp": 40000,
+    "skills": "any",
+    "min_level": 52
+   }
+  ]
+ }
+}

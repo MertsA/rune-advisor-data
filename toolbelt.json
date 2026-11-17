@@ -1,0 +1,570 @@
+{
+ "Pickaxe": {
+  "note": "All metal pickaxes from bronze to primal pickaxe + 5. Includes gilded pickaxes, crystal pickaxes, Imcando pickaxes, pickaxe of earth and song and the pickaxe of life and death. Does not include augmented pickaxes, the dwarven army axe or inferno adze. Dragon pickaxes and above act as rune pickaxes on free worlds. Can be freely removed.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Hatchet": {
+  "note": "All hatchets except for the inferno adze and the dwarven army axe. Dragon hatchets and above act as rune hatchets on free worlds. Augmented hatchets cannot be placed on the tool belt. Can be freely removed.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Hammer": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Chisel": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Knife": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Tinderbox": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Saw": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Pestle and mortar": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Machete": {
+  "note": "Includes the regular, opal, jade, and red topaz machetes.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Watch": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Chart": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Sextant": {
+  "note": "Has a right-click \"Look through\" option on the tool belt, which displays the player's current geographic coordinates.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Shears": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Noose wand": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Tongs": {
+  "note": "Added automatically, discontinued outside the tool belt.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Enhanced grappling hook": {
+  "note": "Created from a mithril crossbow, mithril grapple, and 5 mithril bars. Requires level 54 Fletching to create.",
+  "purchases": [],
+  "levels": {
+   "Fletching": 54
+  },
+  "quests": []
+ },
+ "Master thief's lockpick": {
+  "note": "Purchased from Dodgy Derek's Dirty Deals for 2,500 pilfer points.",
+  "purchases": [
+   {
+    "cost": 2500,
+    "currency": "pilfer points"
+   }
+  ],
+  "levels": {},
+  "quests": []
+ },
+ "Master thief's stethoscope": {
+  "note": "Purchased from Dodgy Derek's Dirty Deals for 2,500 pilfer points.",
+  "purchases": [
+   {
+    "cost": 2500,
+    "currency": "pilfer points"
+   }
+  ],
+  "levels": {},
+  "quests": []
+ },
+ "Insect repellent": {
+  "note": "Can be obtained by speaking to the beekeeper, or from the table in the easternmost house in Catherby.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Steel key ring": {
+  "note": "Added automatically upon completion of the One Small Favour quest.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "One Small Favour"
+  ]
+ },
+ "Incense burner": {
+  "note": "Added automatically, unobtainable outside of the tool belt.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Infernal Puzzle Box": {
+  "note": "Needs to be fully upgraded in order to be added, including completion of the Succession quest.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "Succession"
+  ]
+ },
+ "Fishing rod": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Crayfish cage": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Small fishing net": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Big fishing net": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Fly fishing rod": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Harpoon": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Lobster pot": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Barbarian rod": {
+  "note": "Obtained during Barbarian Training.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "Barbarian Training"
+  ]
+ },
+ "Needle": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Glassblowing pipe": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Amulet mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Bracelet mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Necklace mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Ring mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Tiara mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Ammo mould": {
+  "note": "Obtained during Dwarf Cannon.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "Dwarf Cannon"
+  ]
+ },
+ "Double ammo mould": {
+  "note": "Obtained from thieving the chests in the western part of the dwarven mines.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Bolt mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Holy mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Unholy mould": {
+  "note": "Obtained by speaking to the Spirit of Scorpius or as a drop from chaos druids or zombies in the Lair of Tarn Razorlor.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Sickle mould": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Chain link mould": {
+  "note": "Obtained during Legacy of Seergaze.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "Legacy of Seergaze"
+  ]
+ },
+ "Rod clay mould": {
+  "note": "Obtained during In Aid of the Myreque.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "In Aid of the Myreque"
+  ]
+ },
+ "Rake": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Seed dibber": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Spade": {
+  "note": "Can also be used for Treasure Trails. Miscellaneous activities still require using a spade outside the tool belt.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Gardening trowel": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Secateurs": {
+  "note": "Members can replace these with magic secateurs, obtained during A Fairy Tale I - Growing Pains.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "A Fairy Tale I - Growing Pains"
+  ]
+ },
+ "Magic watering can": {
+  "note": "Reward from A Fairy Tale III - Battle at Ork's Rift.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "A Fairy Tale III - Battle at Ork's Rift"
+  ]
+ },
+ "Rock hammer": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Salt shaker": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Ice shaker": {
+  "note": "Requires level 22 Slayer to be added to the tool belt.",
+  "purchases": [],
+  "levels": {
+   "Slayer": 22
+  },
+  "quests": []
+ },
+ "Fungicide shaker": {
+  "note": "Requires level 57 Slayer to be added to the tool belt.",
+  "purchases": [],
+  "levels": {
+   "Slayer": 57
+  },
+  "quests": []
+ },
+ "Explosive shaker": {
+  "note": "(Super) explosive shaker A super explosive shaker can be made by filling a super explosive flask with 100 rubium. Both variants require level 32 Slayer to be added to the tool belt.",
+  "purchases": [],
+  "levels": {
+   "Slayer": 32
+  },
+  "quests": []
+ },
+ "Slayer bell": {
+  "note": "Requires level 39 Slayer to be added to the tool belt.",
+  "purchases": [],
+  "levels": {
+   "Slayer": 39
+  },
+  "quests": []
+ },
+ "Crystal chime": {
+  "note": "Adding either the crystal chime or the chime from Prifddinas will return the seed used to create it.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Ouroboros pouch": {
+  "note": "Obtained from the Temple Trekking minigame as a reward for raising Jayene Kliyn's level to 99.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Bonecrusher": {
+  "note": "Purchased from the Daemonheim Rewards for 50,000 Dungeoneering tokens requiring level 41 Dungeoneering and level 21 Prayer. Can benefit from the bonecrusher upgrade purchased from Waiko Reward Shop. Requires 500 Slayer points to purchase the ability for it to be added to the tool belt. Its effects can be enabled or disabled in the tool belt settings.",
+  "purchases": [
+   {
+    "cost": 50000,
+    "currency": "Dungeoneering token"
+   }
+  ],
+  "levels": {
+   "Dungeoneering": 41,
+   "Prayer": 21
+  },
+  "quests": []
+ },
+ "Seedicide": {
+  "note": "Purchased from either the Quartermaster of the Cabbage Facepunch Bonanza minigame for 2,200 renown, the Farmers' Market for 10,000 beans, or from Stanley Limelight for 360 thaler. Can benefit from the seedicide upgrade purchased from the Farmers' Market. Requires 500 Slayer points to purchase the ability for it to be added to the tool belt. Its effects can be enabled or disabled in the tool belt settings.",
+  "purchases": [
+   {
+    "cost": 2200,
+    "currency": "renown"
+   },
+   {
+    "cost": 10000,
+    "currency": "beans"
+   },
+   {
+    "cost": 360,
+    "currency": "thaler"
+   }
+  ],
+  "levels": {},
+  "quests": []
+ },
+ "Charming imp": {
+  "note": "Purchased from the Daemonheim Rewards for 50,000 Dungeoneering tokens, requiring level 41 Dungeoneering and level 21 Summoning. Requires 500 slayer points to purchase the ability for it to be added to the tool belt. Its effects can be enabled or disabled in the tool belt settings.",
+  "purchases": [
+   {
+    "cost": 50000,
+    "currency": "Dungeoneering tokens"
+   }
+  ],
+  "levels": {
+   "Dungeoneering": 41,
+   "Summoning": 21
+  },
+  "quests": []
+ },
+ "Herbicide": {
+  "note": "Purchased from Daemonheim Rewards for 50,000 Dungeoneering tokens or from the Farmers' Market for 10,000 beans, requiring level 21 Herblore and level 41 Dungeoneering. Can benefit from the herbicide upgrade purchased from the Farmers' Market. Requires 500 slayer points to purchase the ability for it to be added to the tool belt. Its effects can be enabled or disabled in the tool belt settings.",
+  "purchases": [
+   {
+    "cost": 50000,
+    "currency": "Dungeoneering token"
+   },
+   {
+    "cost": 10000,
+    "currency": "beans"
+   }
+  ],
+  "levels": {
+   "Herblore": 21,
+   "Dungeoneering": 41
+  },
+  "quests": []
+ },
+ "Advanced gold accumulator": {
+  "note": "Purchased from the Daemonheim Rewards for 1,500,000 Dungeoneering tokens requiring level 60 Dungeoneering. Requires 500 slayer points to purchase the ability for it to be added to the tool belt. Its effects can be enabled or disabled in the tool belt settings.",
+  "purchases": [
+   {
+    "cost": 1500000,
+    "currency": "Dungeoneering token"
+   }
+  ],
+  "levels": {
+   "Dungeoneering": 60
+  },
+  "quests": []
+ },
+ "Inventor's tools": {
+  "note": "Obtained during Invention tutorial.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "Invention"
+  ]
+ },
+ "Bag of materials": {
+  "note": "Obtained during Invention tutorial.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "Invention"
+  ]
+ },
+ "Charge pack": {
+  "note": "Obtained during Invention tutorial.",
+  "purchases": [],
+  "levels": {},
+  "quests": [
+   "Invention"
+  ]
+ },
+ "Archaeologist's tools": {
+  "note": "",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Mattock": {
+  "note": "All metal mattocks from bronze to elder rune. Includes crystal mattocks, Imcando mattocks, and the Mattock of Time and Space. Can be freely removed (with the exception of the bronze mattock). Does not include augmented mattocks, or Guildmaster Tony's mattock.",
+  "purchases": [],
+  "levels": {},
+  "quests": []
+ },
+ "Legatus pendant": {
+  "note": "Requires level 47 Archaeology to excavate and restore. Grants access to the legatus barrier inside the prison section of Kharid-et. Grants access to the maximum security barrier along with the pontifex signet ring.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 47
+  },
+  "quests": []
+ },
+ "Pontifex signet ring": {
+  "note": "Requires level 58 Archaeology to excavate and restore. Grants access to the Chapel in the Kharid-et Dig Site. Grants access to the maximum security barrier along with the legatus pendant.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 58
+  },
+  "quests": []
+ },
+ "Chaos star": {
+  "note": "Requires level 68 Archaeology to excavate and restore. Stops portals at The Source from misfiring. Allows players to traverse the Dagon portal from the Dagon Overlook to the lowest level of the Infernal Source.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 68
+  },
+  "quests": []
+ },
+ "Ikovian gerege": {
+  "note": "Requires level 70 Archaeology to excavate and restore. Grants access to the Stormguard Citadel Dig Site.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 70
+  },
+  "quests": []
+ },
+ "Stormguard gerege": {
+  "note": "Requires level 95 Archaeology to excavate and restore. Grants access to Howl's Floating Workshop along with the Wingsuit v3.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 95
+  },
+  "quests": []
+ },
+ "Boots of Flight": {
+  "note": "Requires level 70 Archaeology to restore. Allow players to traverse the small gaps between islands in the Stormguard Citadel Dig Site.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 70
+  },
+  "quests": []
+ },
+ "Wingsuit v1": {
+  "note": "Requires level 76 Archaeology to restore. Allows players to fly between islands in the Stormguard Citadel Dig Site. Can be upgraded to Wingsuit v2 and then to Wingsuit v3.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 76
+  },
+  "quests": []
+ },
+ "Friendship bracelet": {
+  "note": "Requires level 87 Archaeology to restore. Allows players to enter the imposing door and access the Daemonheim - Depths excavation site.",
+  "purchases": [],
+  "levels": {
+   "Archaeology": 87
+  },
+  "quests": []
+ }
+}

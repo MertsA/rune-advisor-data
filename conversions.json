@@ -1,0 +1,657 @@
+{
+ "source": "RuneScape Wiki, Remnant energy and Robust glass (CC BY-NC-SA 3.0), Refined components (junk refiner bands); hand-written: conversions the recipe bucket lacks",
+ "recipes": [
+  {
+   "skill": "Divination",
+   "output": "Lustrous energy",
+   "output_qty": 200.0,
+   "level": 70,
+   "xp": 0.0,
+   "ticks": 1.0,
+   "materials": [
+    [
+     "Remnant energy",
+     150.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (Weave)",
+   "conversion": true
+  },
+  {
+   "skill": "Divination",
+   "output": "Brilliant energy",
+   "output_qty": 175.0,
+   "level": 80,
+   "xp": 0.0,
+   "ticks": 1.0,
+   "materials": [
+    [
+     "Remnant energy",
+     150.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (Weave)",
+   "conversion": true
+  },
+  {
+   "skill": "Divination",
+   "output": "Radiant energy",
+   "output_qty": 150.0,
+   "level": 85,
+   "xp": 0.0,
+   "ticks": 1.0,
+   "materials": [
+    [
+     "Remnant energy",
+     150.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (Weave)",
+   "conversion": true
+  },
+  {
+   "skill": "Divination",
+   "output": "Luminous energy",
+   "output_qty": 125.0,
+   "level": 90,
+   "xp": 0.0,
+   "ticks": 1.0,
+   "materials": [
+    [
+     "Remnant energy",
+     150.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (Weave)",
+   "conversion": true
+  },
+  {
+   "skill": "Divination",
+   "output": "Incandescent energy",
+   "output_qty": 100.0,
+   "level": 95,
+   "xp": 0.0,
+   "ticks": 1.0,
+   "materials": [
+    [
+     "Remnant energy",
+     150.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (Weave)",
+   "conversion": true
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter I",
+   "output_qty": 1.0,
+   "level": 6,
+   "xp": 1.7,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Pale energy",
+     30.0
+    ],
+    [
+     "Sapphire necklace",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter II",
+   "output_qty": 1.0,
+   "level": 28,
+   "xp": 5.9,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Bright energy",
+     35.0
+    ],
+    [
+     "Sapphire necklace",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter III",
+   "output_qty": 1.0,
+   "level": 48,
+   "xp": 9.9,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Sparkling energy",
+     40.0
+    ],
+    [
+     "Emerald necklace",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter IV",
+   "output_qty": 1.0,
+   "level": 68,
+   "xp": 13.9,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Vibrant energy",
+     45.0
+    ],
+    [
+     "Emerald necklace",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter IV",
+   "output_qty": 1.0,
+   "level": 68,
+   "xp": 13.9,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Memory shard",
+     16.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter V",
+   "output_qty": 1.0,
+   "level": 88,
+   "xp": 20.0,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Radiant energy",
+     60.0
+    ],
+    [
+     "Ruby necklace",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter V",
+   "output_qty": 1.0,
+   "level": 88,
+   "xp": 20.0,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Memory shard",
+     22.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter VI",
+   "output_qty": 1.0,
+   "level": 94,
+   "xp": 24.0,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Luminous energy",
+     80.0
+    ],
+    [
+     "Diamond necklace",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter VI",
+   "output_qty": 1.0,
+   "level": 94,
+   "xp": 24.0,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Memory shard",
+     30.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter VII",
+   "output_qty": 1.0,
+   "level": 99,
+   "xp": 30.0,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Incandescent energy",
+     120.0
+    ],
+    [
+     "Dragonstone necklace",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Divination",
+   "output": "Sign of the porter VII",
+   "output_qty": 1.0,
+   "level": 99,
+   "xp": 30.0,
+   "ticks": 4.0,
+   "materials": [
+    [
+     "Memory shard",
+     50.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": ""
+  },
+  {
+   "skill": "Invention",
+   "output": "Mechanised chinchompa",
+   "output_qty": 50.0,
+   "level": 50,
+   "xp": 7150.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Red chinchompa",
+     50.0
+    ],
+    [
+     "Plated parts",
+     65.0
+    ],
+    [
+     "Connector parts",
+     65.0
+    ],
+    [
+     "Living components",
+     5.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Inventor's workbench",
+   "note": "needs the Mechanised chinchompas blueprint (cave goblin technology tree)"
+  },
+  {
+   "skill": "",
+   "output": "Ultracompost",
+   "output_qty": 1.0,
+   "level": 1,
+   "xp": 0.0,
+   "ticks": 1.0,
+   "materials": [
+    [
+     "Dinosaur 'propellant'",
+     50.0
+    ],
+    [
+     "Bucket",
+     1.0
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Compost bin",
+   "conversion": true
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 5,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.1111
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 22,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.1
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 30,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0909
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 40,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0833
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 50,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0769
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 60,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0714
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 70,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0667
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 80,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0625
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 90,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0588
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 100,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0556
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 110,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.0526
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  },
+  {
+   "skill": "Invention",
+   "output": "Refined components",
+   "output_qty": 1.0,
+   "level": 120,
+   "xp": 10.0,
+   "ticks": 5.0,
+   "materials": [
+    [
+     "Junk",
+     100.0
+    ],
+    [
+     "Junk refiner",
+     0.05
+    ]
+   ],
+   "members": true,
+   "quests": [],
+   "other_skills": [],
+   "facility": "Backpack (junk refiner)",
+   "conversion": false
+  }
+ ],
+ "note": " Sign of the porter, Mechanised chinchompa and Ultracompost rows added 2026-10-30 from their wiki pages."
+}

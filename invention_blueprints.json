@@ -1,0 +1,996 @@
+{
+ "source": "https://runescape.wiki/w/Blueprints (CC BY-NC-SA 3.0); xp at a perfect optimisation",
+ "blueprints": [
+  {
+   "name": "Charge pack",
+   "kind": "Device",
+   "level": 1,
+   "xp": 200.0
+  },
+  {
+   "name": "Augmentor",
+   "kind": "Research",
+   "level": 2,
+   "xp": 250.0
+  },
+  {
+   "name": "Gizmo",
+   "kind": "Device",
+   "level": 3,
+   "xp": 400.0
+  },
+  {
+   "name": "Augmented item maximum level 5",
+   "kind": "Research",
+   "level": 4,
+   "xp": 107.8
+  },
+  {
+   "name": "Divine charge",
+   "kind": "Research",
+   "level": 4,
+   "xp": 107.8
+  },
+  {
+   "name": "Gizmo dissolver",
+   "kind": "Device",
+   "level": 8,
+   "xp": 161.2
+  },
+  {
+   "name": "Equipment dissolver",
+   "kind": "Device",
+   "level": 16,
+   "xp": 628.8
+  },
+  {
+   "name": "Augmented armour",
+   "kind": "Research",
+   "level": 16,
+   "xp": 628.8
+  },
+  {
+   "name": "Augmentation dissolver",
+   "kind": "Device",
+   "level": 16,
+   "xp": 628.8
+  },
+  {
+   "name": "Gemstone golem outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0
+  },
+  {
+   "name": "Rune ethereal outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0
+  },
+  {
+   "name": "Shark outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0
+  },
+  {
+   "name": "Camouflage outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0
+  },
+  {
+   "name": "Divination outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0
+  },
+  {
+   "name": "Dungeoneering outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0,
+   "gate": "bryll"
+  },
+  {
+   "name": "Master farmer outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0,
+   "gate": "shop"
+  },
+  {
+   "name": "Sentinel outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0
+  },
+  {
+   "name": "Trapper outfit piece",
+   "kind": "Research",
+   "level": 20,
+   "xp": 1198.0,
+   "gate": "shop"
+  },
+  {
+   "name": "Junk refiner",
+   "kind": "Device",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Maximum charge improvement 1",
+   "kind": "Research",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Refined components",
+   "kind": "Material",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Augmented hatchet",
+   "kind": "Research",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Augmented pickaxe",
+   "kind": "Research",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Fishing rod-o-matic",
+   "kind": "Device",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Pyro-matic",
+   "kind": "Device",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Hammer-tron",
+   "kind": "Device",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Tool gizmo",
+   "kind": "Device",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Binding rod",
+   "kind": "Device",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Pickpocketing bag",
+   "kind": "Device",
+   "level": 22,
+   "xp": 1541.0
+  },
+  {
+   "name": "Augmented mattock",
+   "kind": "Research",
+   "level": 22,
+   "xp": 800.0
+  },
+  {
+   "name": "Urn enhancer",
+   "kind": "Device",
+   "level": 24,
+   "xp": 1945.2,
+   "gate": "elegy"
+  },
+  {
+   "name": "Soul-in-a-box",
+   "kind": "Device",
+   "level": 24,
+   "xp": 1945.2,
+   "gate": "elegy"
+  },
+  {
+   "name": "Equipment siphon",
+   "kind": "Device",
+   "level": 27,
+   "xp": 2675.8
+  },
+  {
+   "name": "Augmented item maximum level 10",
+   "kind": "Research",
+   "level": 27,
+   "xp": 2675.8
+  },
+  {
+   "name": "Charge drain reduction 1",
+   "kind": "Research",
+   "level": 34,
+   "xp": 5446.3
+  },
+  {
+   "name": "Junk chance reduction 1",
+   "kind": "Research",
+   "level": 34,
+   "xp": 5446.3
+  },
+  {
+   "name": "Knightly components",
+   "kind": "Material",
+   "level": 34,
+   "xp": 5446.3
+  },
+  {
+   "name": "Maximum charge improvement 2",
+   "kind": "Research",
+   "level": 40,
+   "xp": 9184.4
+  },
+  {
+   "name": "Corporeal components",
+   "kind": "Material",
+   "level": 40,
+   "xp": 9184.4,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Pestiferous components",
+   "kind": "Material",
+   "level": 40,
+   "xp": 9184.4,
+   "gate": "goblin"
+  },
+  {
+   "name": "Spring cleaner and Tight springs",
+   "kind": "Device",
+   "level": 43,
+   "xp": 11220.7
+  },
+  {
+   "name": "Harnessed components",
+   "kind": "Material",
+   "level": 45,
+   "xp": 12726.7
+  },
+  {
+   "name": "Augmented leg armour",
+   "kind": "Research",
+   "level": 45,
+   "xp": 12726.7
+  },
+  {
+   "name": "Culinary components",
+   "kind": "Material",
+   "level": 45,
+   "xp": 12726.7
+  },
+  {
+   "name": "Junk chance reduction 2",
+   "kind": "Research",
+   "level": 49,
+   "xp": 16114.4
+  },
+  {
+   "name": "Dragonfire components",
+   "kind": "Material",
+   "level": 49,
+   "xp": 16114.4
+  },
+  {
+   "name": "Explosive components",
+   "kind": "Material",
+   "level": 49,
+   "xp": 16114.4
+  },
+  {
+   "name": "Charge drain reduction 2",
+   "kind": "Research",
+   "level": 49,
+   "xp": 16114.4
+  },
+  {
+   "name": "Sprinkler MK1",
+   "kind": "Device",
+   "level": 50,
+   "xp": 18257.4,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Mining accumulator",
+   "kind": "Device",
+   "level": 50,
+   "xp": 18257.4,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Woodcutting accumulator",
+   "kind": "Device",
+   "level": 50,
+   "xp": 18257.4,
+   "gate": "goblin"
+  },
+  {
+   "name": "Mechanised chinchompa",
+   "kind": "Device",
+   "level": 50,
+   "xp": 18257.4,
+   "gate": "goblin"
+  },
+  {
+   "name": "Brassican components",
+   "kind": "Material",
+   "level": 54,
+   "xp": 22600.3
+  },
+  {
+   "name": "Fortunate components",
+   "kind": "Material",
+   "level": 54,
+   "xp": 22600.3
+  },
+  {
+   "name": "Undead components",
+   "kind": "Material",
+   "level": 54,
+   "xp": 22600.3
+  },
+  {
+   "name": "Fungal components",
+   "kind": "Material",
+   "level": 54,
+   "xp": 22600.3
+  },
+  {
+   "name": "Crystal tool siphon",
+   "kind": "Device",
+   "level": 54,
+   "xp": 22600.3,
+   "gate": "shop"
+  },
+  {
+   "name": "Clockwork components",
+   "kind": "Material",
+   "level": 55,
+   "xp": 23780.0
+  },
+  {
+   "name": "Faceted components",
+   "kind": "Material",
+   "level": 55,
+   "xp": 23780.0
+  },
+  {
+   "name": "Augmented item maximum level 15",
+   "kind": "Research",
+   "level": 60,
+   "xp": 32284.7
+  },
+  {
+   "name": "Fishing accumulator",
+   "kind": "Device",
+   "level": 60,
+   "xp": 32284.7
+  },
+  {
+   "name": "B.A.N.K. Stander",
+   "kind": "Device",
+   "level": 60,
+   "xp": 32284.7,
+   "gate": "goblin"
+  },
+  {
+   "name": "Calorie bomb",
+   "kind": "Device",
+   "level": 60,
+   "xp": 32284.7,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Monkey mind-control helmet",
+   "kind": "Device",
+   "level": 60,
+   "xp": 32284.7,
+   "gate": "goblin"
+  },
+  {
+   "name": "Book switcher",
+   "kind": "Device",
+   "level": 60,
+   "xp": 32284.7,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Simple generator",
+   "kind": "Machine",
+   "level": 60,
+   "xp": 32284.7
+  },
+  {
+   "name": "Auto disassembler",
+   "kind": "Machine",
+   "level": 60,
+   "xp": 32284.7
+  },
+  {
+   "name": "Maximum charge improvement 3",
+   "kind": "Research",
+   "level": 64,
+   "xp": 38610.8
+  },
+  {
+   "name": "Charge drain reduction 3",
+   "kind": "Research",
+   "level": 64,
+   "xp": 38610.8
+  },
+  {
+   "name": "Junk chance reduction 3",
+   "kind": "Research",
+   "level": 64,
+   "xp": 38610.8
+  },
+  {
+   "name": "Auto-screener v1.080",
+   "kind": "Device",
+   "level": 67,
+   "xp": 21500.0,
+   "gate": "stormguard"
+  },
+  {
+   "name": "Lab coat",
+   "kind": "Device",
+   "level": 69,
+   "xp": 47562.9
+  },
+  {
+   "name": "Junk chance reduction 4",
+   "kind": "Research",
+   "level": 69,
+   "xp": 47562.9
+  },
+  {
+   "name": "Charge drain reduction 4",
+   "kind": "Research",
+   "level": 69,
+   "xp": 47562.9
+  },
+  {
+   "name": "Shifting components",
+   "kind": "Material",
+   "level": 69,
+   "xp": 47562.9
+  },
+  {
+   "name": "Auto-sanctifier",
+   "kind": "Device",
+   "level": 70,
+   "xp": 52591.3,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Dungeoneering lock melter",
+   "kind": "Device",
+   "level": 70,
+   "xp": 52591.3,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Electrified box trap",
+   "kind": "Device",
+   "level": 70,
+   "xp": 52591.3,
+   "gate": "goblin"
+  },
+  {
+   "name": "Kinetic cyclone",
+   "kind": "Device",
+   "level": 70,
+   "xp": 52591.3,
+   "gate": "dwarven"
+  },
+  {
+   "name": "Oldak coil",
+   "kind": "Device",
+   "level": 70,
+   "xp": 52591.3,
+   "gate": "goblin"
+  },
+  {
+   "name": "Alchemiser",
+   "kind": "Machine",
+   "level": 72,
+   "xp": 56862.0
+  },
+  {
+   "name": "Zamorak components",
+   "kind": "Material",
+   "level": 74,
+   "xp": 61347.6
+  },
+  {
+   "name": "Saradomin components",
+   "kind": "Material",
+   "level": 74,
+   "xp": 61347.6
+  },
+  {
+   "name": "Armadyl components",
+   "kind": "Material",
+   "level": 74,
+   "xp": 61347.6
+  },
+  {
+   "name": "Bandos components",
+   "kind": "Material",
+   "level": 74,
+   "xp": 61347.6
+  },
+  {
+   "name": "Small gizmo bag",
+   "kind": "Device",
+   "level": 75,
+   "xp": 63672.5
+  },
+  {
+   "name": "Mechanised siphon",
+   "kind": "Device",
+   "level": 77,
+   "xp": 68488.9
+  },
+  {
+   "name": "Charge drain reduction 5",
+   "kind": "Research",
+   "level": 78,
+   "xp": 70981.7
+  },
+  {
+   "name": "Junk chance reduction 5",
+   "kind": "Research",
+   "level": 78,
+   "xp": 70981.7
+  },
+  {
+   "name": "Manufactured components",
+   "kind": "Material",
+   "level": 79,
+   "xp": 73531.6
+  },
+  {
+   "name": "Large generator",
+   "kind": "Machine",
+   "level": 80,
+   "xp": 80618.3
+  },
+  {
+   "name": "Auto disassembler mk. II",
+   "kind": "Machine",
+   "level": 81,
+   "xp": 83440.9
+  },
+  {
+   "name": "Crystal binding rod",
+   "kind": "Device",
+   "level": 82,
+   "xp": 86325.8
+  },
+  {
+   "name": "Mushroomy pickpocketing bag",
+   "kind": "Device",
+   "level": 82,
+   "xp": 86325.8
+  },
+  {
+   "name": "Junk chance reduction 6",
+   "kind": "Research",
+   "level": 83,
+   "xp": 89273.4
+  },
+  {
+   "name": "Charge drain reduction 6",
+   "kind": "Research",
+   "level": 83,
+   "xp": 89273.4
+  },
+  {
+   "name": "Third-age components",
+   "kind": "Material",
+   "level": 83,
+   "xp": 89273.4
+  },
+  {
+   "name": "Seren components",
+   "kind": "Material",
+   "level": 83,
+   "xp": 89273.4
+  },
+  {
+   "name": "Zaros components",
+   "kind": "Material",
+   "level": 83,
+   "xp": 89273.4
+  },
+  {
+   "name": "Historic components",
+   "kind": "Material",
+   "level": 85,
+   "xp": 21000.0,
+   "gate": "ancient"
+  },
+  {
+   "name": "Classic components",
+   "kind": "Material",
+   "level": 85,
+   "xp": 21000.0,
+   "gate": "ancient"
+  },
+  {
+   "name": "Ancient gizmo",
+   "kind": "Device",
+   "level": 85,
+   "xp": 42500.0,
+   "gate": "ancient"
+  },
+  {
+   "name": "Lightbulb hat",
+   "kind": "Device",
+   "level": 87,
+   "xp": 101703.5
+  },
+  {
+   "name": "Maximum charge improvement 4",
+   "kind": "Research",
+   "level": 87,
+   "xp": 101703.5
+  },
+  {
+   "name": "Oceanic components",
+   "kind": "Material",
+   "level": 87,
+   "xp": 101703.5
+  },
+  {
+   "name": "Silent components",
+   "kind": "Material",
+   "level": 87,
+   "xp": 101703.5
+  },
+  {
+   "name": "Resilient components",
+   "kind": "Material",
+   "level": 87,
+   "xp": 101703.5
+  },
+  {
+   "name": "Undead slayer ability codex",
+   "kind": "Research",
+   "level": 88,
+   "xp": 104973.7,
+   "gate": "bryll"
+  },
+  {
+   "name": "Demon slayer ability codex",
+   "kind": "Research",
+   "level": 88,
+   "xp": 104973.7,
+   "gate": "bryll"
+  },
+  {
+   "name": "Dragon slayer ability codex",
+   "kind": "Research",
+   "level": 88,
+   "xp": 104973.7,
+   "gate": "bryll"
+  },
+  {
+   "name": "Avernic components",
+   "kind": "Material",
+   "level": 89,
+   "xp": 108310.3,
+   "gate": "reputation"
+  },
+  {
+   "name": "Cywir components",
+   "kind": "Material",
+   "level": 89,
+   "xp": 108310.3,
+   "gate": "reputation"
+  },
+  {
+   "name": "Ilujankan components",
+   "kind": "Material",
+   "level": 89,
+   "xp": 108310.3,
+   "gate": "reputation"
+  },
+  {
+   "name": "Shadow components",
+   "kind": "Material",
+   "level": 89,
+   "xp": 108310.3,
+   "gate": "reputation"
+  },
+  {
+   "name": "Partial potion producer",
+   "kind": "Machine",
+   "level": 90,
+   "xp": 117921.1
+  },
+  {
+   "name": "Charge drain reduction 7",
+   "kind": "Research",
+   "level": 91,
+   "xp": 121584.7
+  },
+  {
+   "name": "Junk chance reduction 7",
+   "kind": "Research",
+   "level": 91,
+   "xp": 121584.7
+  },
+  {
+   "name": "Pogo stick",
+   "kind": "Device",
+   "level": 91,
+   "xp": 121584.7
+  },
+  {
+   "name": "Ecliptic components",
+   "kind": "Material",
+   "level": 92,
+   "xp": 125320.1
+  },
+  {
+   "name": "Spirit tree re-rooter",
+   "kind": "Device",
+   "level": 92,
+   "xp": 125320.1
+  },
+  {
+   "name": "Automatic hide tanner",
+   "kind": "Machine",
+   "level": 93,
+   "xp": 129127.8
+  },
+  {
+   "name": "Ancient enhanced tools",
+   "kind": "Device",
+   "level": 93,
+   "xp": 65000.0,
+   "gate": "ancient_tools"
+  },
+  {
+   "name": "Portable fairy ring",
+   "kind": "Device",
+   "level": 94,
+   "xp": 133008.4
+  },
+  {
+   "name": "Vintage components",
+   "kind": "Material",
+   "level": 94,
+   "xp": 66000.0,
+   "gate": "ancient"
+  },
+  {
+   "name": "Charge drain reduction 8",
+   "kind": "Research",
+   "level": 95,
+   "xp": 136962.6
+  },
+  {
+   "name": "Maximum charge improvement 5",
+   "kind": "Research",
+   "level": 95,
+   "xp": 136962.6
+  },
+  {
+   "name": "Junk chance reduction 8",
+   "kind": "Research",
+   "level": 95,
+   "xp": 136962.6
+  },
+  {
+   "name": "Professor title",
+   "kind": "Research",
+   "level": 95,
+   "xp": 136962.6
+  },
+  {
+   "name": "Medium gizmo bag",
+   "kind": "Device",
+   "level": 95,
+   "xp": 136962.6
+  },
+  {
+   "name": "Herb protector",
+   "kind": "Device",
+   "level": 96,
+   "xp": 140990.9
+  },
+  {
+   "name": "Enchanted Notepaper",
+   "kind": "Research",
+   "level": 97,
+   "xp": 145093.8,
+   "gate": "bryll"
+  },
+  {
+   "name": "Energy barrel",
+   "kind": "Device",
+   "level": 98,
+   "xp": 149272.1
+  },
+  {
+   "name": "Augmented item maximum level 20",
+   "kind": "Research",
+   "level": 99,
+   "xp": 153526.2
+  },
+  {
+   "name": "Noxious components",
+   "kind": "Material",
+   "level": 99,
+   "xp": 153526.2
+  },
+  {
+   "name": "Rumbling components",
+   "kind": "Material",
+   "level": 99,
+   "xp": 153526.2
+  },
+  {
+   "name": "Ascended components",
+   "kind": "Material",
+   "level": 99,
+   "xp": 153526.2
+  },
+  {
+   "name": "Plank maker",
+   "kind": "Machine",
+   "level": 99,
+   "xp": 153526.2
+  },
+  {
+   "name": "Whetstone",
+   "kind": "Device",
+   "level": 100,
+   "xp": 166166.9
+  },
+  {
+   "name": "Divine-o-matic vacuum and empty Divine charge",
+   "kind": "Device",
+   "level": 101,
+   "xp": 170806.6
+  },
+  {
+   "name": "Jumbo generator",
+   "kind": "Machine",
+   "level": 102,
+   "xp": 175528.0
+  },
+  {
+   "name": "Timeworn components",
+   "kind": "Material",
+   "level": 103,
+   "xp": 90000.0,
+   "gate": "ancient"
+  },
+  {
+   "name": "Liquid patch bomb",
+   "kind": "Device",
+   "level": 104,
+   "xp": 185218.5
+  },
+  {
+   "name": "Charge drain reduction 9",
+   "kind": "Research",
+   "level": 105,
+   "xp": 190188.8
+  },
+  {
+   "name": "Junk chance reduction 9",
+   "kind": "Research",
+   "level": 105,
+   "xp": 190188.8
+  },
+  {
+   "name": "XP capacitor",
+   "kind": "Device",
+   "level": 106,
+   "xp": 42500.0,
+   "gate": "capacitor"
+  },
+  {
+   "name": "Alchemical onyx",
+   "kind": "Device",
+   "level": 107,
+   "xp": 200382.4
+  },
+  {
+   "name": "Alchemiser mk. II",
+   "kind": "Machine",
+   "level": 108,
+   "xp": 205606.9
+  },
+  {
+   "name": "Furniture depacker",
+   "kind": "Device",
+   "level": 109,
+   "xp": 210917.4
+  },
+  {
+   "name": "Teleportation compactor",
+   "kind": "Device",
+   "level": 110,
+   "xp": 216314.5
+  },
+  {
+   "name": "Optimised hide tanner",
+   "kind": "Machine",
+   "level": 111,
+   "xp": 221798.8
+  },
+  {
+   "name": "Potion reservoir",
+   "kind": "Device",
+   "level": 112,
+   "xp": 227370.9
+  },
+  {
+   "name": "Combat dummy MKII",
+   "kind": "Device",
+   "level": 113,
+   "xp": 233031.4
+  },
+  {
+   "name": "Ingenuity of the Humans ability codex",
+   "kind": "Research",
+   "level": 114,
+   "xp": 238780.8
+  },
+  {
+   "name": "Partial potion producer DX",
+   "kind": "Machine",
+   "level": 114,
+   "xp": 238780.8
+  },
+  {
+   "name": "Equipment separator",
+   "kind": "Device",
+   "level": 115,
+   "xp": 244619.8
+  },
+  {
+   "name": "High capacity plank maker",
+   "kind": "Machine",
+   "level": 117,
+   "xp": 256568.9
+  },
+  {
+   "name": "Alchemical hydrix",
+   "kind": "Research",
+   "level": 117,
+   "xp": 256568.9
+  },
+  {
+   "name": "Passage of the Abyss",
+   "kind": "Research",
+   "level": 118,
+   "xp": 262680.1
+  },
+  {
+   "name": "Large gizmo bag",
+   "kind": "Device",
+   "level": 118,
+   "xp": 262680.1
+  }
+ ]
+}

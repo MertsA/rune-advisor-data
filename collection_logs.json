@@ -1,0 +1,844 @@
+{
+ "source": "RuneScape Wiki Module:Collection log calculator/Boss/Data, Boss Logs achievements; CC BY-NC-SA 3.0",
+ "collections": {
+  "Amascut": {
+   "items": {
+    "Amaskitty": null,
+    "Boots of Tumeken's resplendence": null,
+    "Devourer's Guard": null,
+    "Gloves of Tumeken's resplendence": null,
+    "Mask of Tumeken's resplendence": null,
+    "Memoirs of the Devourer": null,
+    "Robe bottom of Tumeken's resplendence": null,
+    "Robe top of Tumeken's resplendence": null,
+    "Shard of Genesis Essence": null,
+    "The Devourer's Nexus (unattuned)": null,
+    "Tumeken's Light": null
+   },
+   "pets": [
+    "Amaskitty"
+   ],
+   "achievement": "Pspspspsp"
+  },
+  "Araxxi": {
+   "items": {
+    "Araxxi's eye": null,
+    "Araxxi's fang": null,
+    "Araxxi's web": null,
+    "Araxyte pet": null,
+    "Araxyte pheromone": null,
+    "Barry": null,
+    "Mallory": null,
+    "Spider leg bottom": null,
+    "Spider leg middle": null,
+    "Spider leg top": null
+   },
+   "pets": [],
+   "achievement": "Friendly Neighbour"
+  },
+  "Arch-Glacor": {
+   "items": {
+    "Arch-Glacor's Adornment": null,
+    "Dark Shard of Leng": null,
+    "Dark Sliver of Leng": null,
+    "Dark ice shard": null,
+    "Dark ice sliver": null,
+    "Glacor's Adornment": null,
+    "Gladys": null,
+    "Leng artefact": null,
+    "Scripture of Wen": null,
+    "Ur-Glacor's Adornment": null
+   },
+   "pets": [
+    "Gladys"
+   ],
+   "achievement": "The Cold Never Bothered Me Anyway"
+  },
+  "Barrows Brothers": {
+   "items": {
+    "Corruption sigil": null,
+    "Ahrim's book of magic": null,
+    "Ahrim's hood": null,
+    "Ahrim's robe skirt": null,
+    "Ahrim's robe top": null,
+    "Ahrim's staff": null,
+    "Ahrim's wand": null,
+    "Akrisae's hood": null,
+    "Akrisae's robe skirt": null,
+    "Akrisae's robe top": null,
+    "Akrisae's war mace": null,
+    "Dharok's greataxe": null,
+    "Dharok's helm": null,
+    "Dharok's platebody": null,
+    "Dharok's platelegs": null,
+    "Guthan's chainskirt": null,
+    "Guthan's helm": null,
+    "Guthan's platebody": null,
+    "Guthan's warspear": null,
+    "Karil's coif": null,
+    "Karil's crossbow": null,
+    "Karil's off-hand pistol crossbow": null,
+    "Karil's pistol crossbow": null,
+    "Karil's skirt": null,
+    "Karil's top": null,
+    "Linza's cuirass": null,
+    "Linza's greaves": null,
+    "Linza's hammer": null,
+    "Linza's helm": null,
+    "Linza's shield": null,
+    "Torag's hammer": null,
+    "Torag's helm": null,
+    "Torag's platebody": null,
+    "Torag's platelegs": null,
+    "Verac's brassard": null,
+    "Verac's flail": null,
+    "Verac's helm": null,
+    "Verac's plateskirt": null
+   },
+   "pets": [],
+   "achievement": "Barrowed Time"
+  },
+  "Barrows: Rise of the Six": {
+   "items": {
+    "Ahrim the Bobbled": null,
+    "Dharok the Bobbled": null,
+    "Guthan the Bobbled": null,
+    "Karil the Bobbled": null,
+    "Malevolent kiteshield": 0.004166666667,
+    "Merciless kiteshield": 0.004166666667,
+    "Torag the Bobbled": null,
+    "Vengeful kiteshield": 0.004166666667,
+    "Verac the Bobbled": null
+   },
+   "pets": [],
+   "achievement": "Family Affair"
+  },
+  "Chaos Elemental": {
+   "items": {
+    "Corrupt dragon battleaxe": 3.472222222e-05,
+    "Corrupt dragon chainbody": 3.472222222e-05,
+    "Corrupt dragon dagger": 3.472222222e-05,
+    "Corrupt dragon helm": 3.472222222e-05,
+    "Corrupt dragon longsword": 3.472222222e-05,
+    "Corrupt dragon mace": 3.472222222e-05,
+    "Corrupt dragon platelegs": 3.472222222e-05,
+    "Corrupt dragon plateskirt": 3.472222222e-05,
+    "Corrupt dragon scimitar": 3.472222222e-05,
+    "Corrupt dragon spear": 3.472222222e-05,
+    "Corrupt dragon sq shield": 3.472222222e-05,
+    "Dragon 2h sword": 0.0078125,
+    "Ellie": 0.0004,
+    "Morrigan's coif": 6.944444444e-05,
+    "Morrigan's javelin": 6.944444444e-05,
+    "Morrigan's leather body": 6.944444444e-05,
+    "Morrigan's leather chaps": 6.944444444e-05,
+    "Morrigan's throwing axe": 6.944444444e-05,
+    "Statius's full helm": 6.944444444e-05,
+    "Statius's platebody": 6.944444444e-05,
+    "Statius's platelegs": 6.944444444e-05,
+    "Statius's warhammer": 6.944444444e-05,
+    "Vesta's chainbody": 6.944444444e-05,
+    "Vesta's longsword": 6.944444444e-05,
+    "Vesta's plateskirt": 6.944444444e-05,
+    "Vesta's spear": 6.944444444e-05,
+    "Zuriel's hood": 6.944444444e-05,
+    "Zuriel's robe bottom": 6.944444444e-05,
+    "Zuriel's robe top": 6.944444444e-05,
+    "Zuriel's staff": 6.944444444e-05
+   },
+   "pets": [
+    "Ellie"
+   ],
+   "achievement": "Chaos Theory"
+  },
+  "Commander Zilyana": {
+   "items": {
+    "Armadyl crossbow": 0.002604166667,
+    "Commander Miniana": 0.0002,
+    "Godsword shard 1": 0.001302083333,
+    "Godsword shard 2": 0.001302083333,
+    "Godsword shard 3": 0.001302083333,
+    "Off-hand Armadyl crossbow": 0.002604166667,
+    "Saradomin hilt": 0.001953125,
+    "Saradomin sword": 0.002604166667,
+    "Saradomin's hiss": 0.002604166667,
+    "Saradomin's murmur": 0.002604166667,
+    "Saradomin's whisper": 0.002604166667,
+    "Warpriest of Saradomin boots": null,
+    "Warpriest of Saradomin cape": null,
+    "Warpriest of Saradomin cuirass": null,
+    "Warpriest of Saradomin gauntlets": null,
+    "Warpriest of Saradomin greaves": null,
+    "Warpriest of Saradomin helm": null,
+    "Zilyana's Notes": 0.015625
+   },
+   "pets": [
+    "Commander Miniana"
+   ],
+   "achievement": "Keeper of the Faith"
+  },
+  "Corporeal Beast": {
+   "items": {
+    "Arcane sigil": 0.0009765625,
+    "Corporeal Puppy": 0.0004,
+    "Divine sigil": 0.0009765625,
+    "Elysian sigil": 0.0009765625,
+    "Holy elixir": 0.005847953216,
+    "Spectral sigil": 0.0009765625,
+    "Spirit shield": 0.015625
+   },
+   "pets": [
+    "Corporeal Puppy"
+   ],
+   "achievement": "Out of Body Experience"
+  },
+  "Croesus": {
+   "items": {
+    "Croesus foultorch": null,
+    "Croesus spore sack": null,
+    "Croesus sporehammer": null,
+    "Cryptbloom boots (incomplete)": null,
+    "Cryptbloom bottoms (incomplete)": null,
+    "Cryptbloom gloves (incomplete)": null,
+    "Cryptbloom helm (incomplete)": null,
+    "Cryptbloom top (incomplete)": null,
+    "Little sus": 0.001,
+    "Scripture of Bik": null
+   },
+   "pets": [
+    "Little sus"
+   ],
+   "achievement": "Some Fungi are Only Edible Once"
+  },
+  "Dagannoth Kings": {
+   "items": {
+    "Archers' ring": null,
+    "Berserker ring": null,
+    "Dragon hatchet": null,
+    "Mud battlestaff": null,
+    "Prime hatchling": null,
+    "Rex hatchling": null,
+    "Seercull": null,
+    "Seers' ring": null,
+    "Supreme hatchling": null,
+    "Warrior ring": null
+   },
+   "pets": [],
+   "achievement": "Long Live the Kings!"
+  },
+  "Dragonkin Laboratory": {
+   "items": {
+    "Bisdi": null,
+    "Diary of an Overzealous Gnome": null,
+    "Draconic energy": null,
+    "Greater Barge ability codex": null,
+    "Greater Flurry ability codex": null,
+    "Greater Fury ability codex": null,
+    "Redacted Dragonkin Research": null
+   },
+   "pets": [],
+   "achievement": "Dragonkin Swag"
+  },
+  "Flesh-hatcher Mhekarnahz": {
+   "items": {
+    "Dragon harpoon": 0.0078125,
+    "Flesh-hatchling Mhekarnahz": 0.00125,
+    "Stalker's charm": 0.0078125
+   },
+   "pets": [
+    "Flesh-hatchling Mhekarnahz"
+   ],
+   "achievement": "Ocularis Rift"
+  },
+  "Gate of Elidinis": {
+   "items": {
+    "After The Flood": 0.1,
+    "Eclipsed Soul prayer codex": 0.002083333333,
+    "Edie": 0.0006666666667,
+    "Latent Offering": 0.01408450704,
+    "Memory dowser": 0.002083333333,
+    "Runic attuner": 0.002083333333,
+    "Scripture of Elidinis": 0.002083333333
+   },
+   "pets": [
+    "Edie"
+   ],
+   "achievement": "A Chip Off The Old Block"
+  },
+  "General Graardor": {
+   "items": {
+    "Bandos boots": 0.002604166667,
+    "Bandos chestplate": 0.002604166667,
+    "Bandos gloves": 0.002604166667,
+    "Bandos helmet": 0.002604166667,
+    "Bandos hilt": 0.001953125,
+    "Bandos tassets": 0.002604166667,
+    "Bandos warshield": 0.002604166667,
+    "General Awwdor": 0.0002,
+    "Godsword shard 1": 0.001302083333,
+    "Godsword shard 2": 0.001302083333,
+    "Godsword shard 3": 0.001302083333,
+    "The Glory of General Graardor": 0.015625,
+    "Warpriest of Bandos boots": null,
+    "Warpriest of Bandos cape": null,
+    "Warpriest of Bandos cuirass": null,
+    "Warpriest of Bandos gauntlets": null,
+    "Warpriest of Bandos greaves": null,
+    "Warpriest of Bandos helm": null
+   },
+   "pets": [
+    "General Awwdor"
+   ],
+   "achievement": "Five-Star General"
+  },
+  "Giant Mole": {
+   "items": {
+    "Clingy mole": 0.009615384615,
+    "Dragon 2h sword": 0.001992031873,
+    "Rotten fang": 0.0004
+   },
+   "pets": [
+    "Rotten fang"
+   ],
+   "achievement": "Can You Dig It?"
+  },
+  "Gregorovic": {
+   "items": {
+    "Crest of Sliske": 0.00390625,
+    "Dormant anima core body": 0.00390625,
+    "Dormant anima core helm": 0.00390625,
+    "Dormant anima core legs": 0.00390625,
+    "Greg": 0.0005,
+    "Off-hand shadow glaive": 0.00390625,
+    "Shadow glaive": 0.00390625,
+    "Sliskean essence": 0.015625
+   },
+   "pets": [
+    "Greg"
+   ],
+   "achievement": "Game Over"
+  },
+  "Helwyr": {
+   "items": {
+    "Crest of Seren": 0.00390625,
+    "Dormant anima core body": 0.00390625,
+    "Dormant anima core helm": 0.00390625,
+    "Dormant anima core legs": 0.00390625,
+    "Lilwyr": 0.0005,
+    "Orb of the Cywir elders": 0.00390625,
+    "Serenic essence": 0.015625,
+    "Wand of the Cywir elders": 0.00390625
+   },
+   "pets": [
+    "Lilwyr"
+   ],
+   "achievement": "Once the Hunter, Now the Hunted"
+  },
+  "Hermod": {
+   "items": {
+    "Animated drumsticks": null,
+    "Herman": 0.0005,
+    "Hermodic plate": 0.1111111111
+   },
+   "pets": [
+    "Herman"
+   ],
+   "achievement": "War, huh. What is it good for?"
+  },
+  "Ivar, King of Bones": {
+   "items": {
+    "Bonecrusher maul": 0.015625,
+    "Ivarsson": 0.0008,
+    "Magic skull mask": 0.015625
+   },
+   "pets": [
+    "Ivarsson"
+   ],
+   "achievement": "Deboned"
+  },
+  "Kalphite King": {
+   "items": {
+    "Drygore longsword": 0.00390625,
+    "Drygore mace": 0.00390625,
+    "Drygore rapier": 0.00390625,
+    "Kalphite Grubling": 0.0005,
+    "Off-hand drygore longsword": 0.00390625,
+    "Off-hand drygore mace": 0.00390625,
+    "Off-hand drygore rapier": 0.00390625,
+    "Perfect chitin": 0.02
+   },
+   "pets": [
+    "Kalphite Grubling"
+   ],
+   "achievement": "Exiled"
+  },
+  "Kalphite Queen": {
+   "items": {
+    "Dragon 2h sword": 0.00390625,
+    "Dragon chainbody": 0.0078125,
+    "Kalphite Grublet": 0.0004,
+    "Kalphite queen head": 0.0078125
+   },
+   "pets": [
+    "Kalphite Grublet"
+   ],
+   "achievement": "Checkmate"
+  },
+  "Kerapac": {
+   "items": {
+    "Fractured Armadyl symbol": null,
+    "Fractured stabilisation gem": null,
+    "Greater Concentrated blast ability codex": null,
+    "Kerapac's wrist wraps": null,
+    "Kerry": null,
+    "Scripture of Jas": null,
+    "Staff of Armadyl's fractured shaft": null
+   },
+   "pets": [],
+   "achievement": "Naughty Dragonkin"
+  },
+  "King Black Dragon": {
+   "items": {
+    "Draconic visage": 0.0002,
+    "Dragon Rider boots": 0.0005,
+    "Dragon Rider gloves": 0.0005,
+    "Dragon kite ornament kit (or)": 0.0005,
+    "Dragon kite ornament kit (sp)": 0.0005,
+    "King Black Dragonling": 0.0004,
+    "King black dragon head": 0.0078125,
+    "Last riders": null
+   },
+   "pets": [
+    "King Black Dragonling"
+   ],
+   "achievement": "How to Shame your Dragon"
+  },
+  "Kree'arra": {
+   "items": {
+    "Armadyl boots": 0.002604166667,
+    "Armadyl buckler": 0.002604166667,
+    "Armadyl chainskirt": 0.002604166667,
+    "Armadyl chestplate": 0.002604166667,
+    "Armadyl gloves": 0.002604166667,
+    "Armadyl helmet": 0.002604166667,
+    "Armadyl hilt": 0.001953125,
+    "Armadyl's Assault": 0.015625,
+    "Chick'arra": 0.0002,
+    "Godsword shard 1": 0.001302083333,
+    "Godsword shard 2": 0.001302083333,
+    "Godsword shard 3": 0.001302083333,
+    "Warpriest of Armadyl boots": null,
+    "Warpriest of Armadyl cape": null,
+    "Warpriest of Armadyl cuirass": null,
+    "Warpriest of Armadyl gauntlets": null,
+    "Warpriest of Armadyl greaves": null,
+    "Warpriest of Armadyl helm": null
+   },
+   "pets": [
+    "Chick'arra"
+   ],
+   "achievement": "Light as a Feather"
+  },
+  "Kril Tsutsaroth": {
+   "items": {
+    "Boots of subjugation": 0.001953125,
+    "Garb of subjugation": 0.001953125,
+    "Gloves of subjugation": 0.001953125,
+    "Godsword shard 1": 0.001302083333,
+    "Godsword shard 2": 0.001302083333,
+    "Godsword shard 3": 0.001302083333,
+    "Gown of subjugation": 0.001953125,
+    "Hood of subjugation": 0.001953125,
+    "K'ril Tinyroth": 0.0002,
+    "Razulei's Tale": 0.015625,
+    "Steam battlestaff": 0.001953125,
+    "Ward of subjugation": 0.001953125,
+    "Warpriest of Zamorak boots": null,
+    "Warpriest of Zamorak cape": null,
+    "Warpriest of Zamorak cuirass": null,
+    "Warpriest of Zamorak gauntlets": null,
+    "Warpriest of Zamorak greaves": null,
+    "Warpriest of Zamorak helm": null,
+    "Zamorak hilt": 0.001953125,
+    "Zamorakian spear": 0.001953125
+   },
+   "pets": [
+    "K'ril Tinyroth"
+   ],
+   "achievement": "Whale Food"
+  },
+  "Legiones": {
+   "items": {
+    "Ascension signet I": null,
+    "Ascension signet II": null,
+    "Ascension signet III": null,
+    "Ascension signet IV": null,
+    "Ascension signet V": null,
+    "Ascension signet VI": null,
+    "Legio Primulus": null,
+    "Legio Quartulus": null,
+    "Legio Quintulus": null,
+    "Legio Secundulus": null,
+    "Legio Sextulus": null,
+    "Legio Tertiolus": null
+   },
+   "pets": [],
+   "achievement": "We Are Legion"
+  },
+  "Liberation of Mazcab": {
+   "items": {
+    "Achto Primeval boots": null,
+    "Achto Primeval gloves": null,
+    "Achto Primeval mask": null,
+    "Achto Primeval robe legs": null,
+    "Achto Primeval robe top": null,
+    "Achto Tempest body": null,
+    "Achto Tempest boots": null,
+    "Achto Tempest chaps": null,
+    "Achto Tempest cowl": null,
+    "Achto Tempest gloves": null,
+    "Achto Teralith boots": null,
+    "Achto Teralith cuirass": null,
+    "Achto Teralith gauntlets": null,
+    "Achto Teralith helmet": null,
+    "Achto Teralith leggings": null,
+    "Diddyzag": null,
+    "Lil' Tuzzy": null,
+    "Mazcab ability codex": null,
+    "Yakaminu": null
+   },
+   "pets": [],
+   "achievement": "Liberated"
+  },
+  "Magister": {
+   "items": {
+    "The Magister's Journal 1": null,
+    "The Magister's Journal 2": null,
+    "The Magister's Journal 3": null,
+    "The Magister's Journal 4": null,
+    "The Magister's Journal 5": null,
+    "Gloves of passage": 0.002,
+    "Phylactery": 0.05555555556,
+    "The Minister": 0.001
+   },
+   "pets": [
+    "The Minister"
+   ],
+   "achievement": "Superior Successor"
+  },
+  "Nex": {
+   "items": {
+    "Ancient emblem": 0.02,
+    "Nex's Followers": 0.046875,
+    "Nexterminator": 0.0005,
+    "Pernix body": 0.002604166667,
+    "Pernix boots": 0.002604166667,
+    "Pernix chaps": 0.002604166667,
+    "Pernix cowl": 0.002604166667,
+    "Pernix gloves": 0.002604166667,
+    "Torva boots": 0.002604166667,
+    "Torva full helm": 0.002604166667,
+    "Torva gloves": 0.002604166667,
+    "Torva platebody": 0.002604166667,
+    "Torva platelegs": 0.002604166667,
+    "Virtus book": 0.002604166667,
+    "Virtus boots": 0.002604166667,
+    "Virtus gloves": 0.002604166667,
+    "Virtus mask": 0.002604166667,
+    "Virtus robe legs": 0.002604166667,
+    "Virtus robe top": 0.002604166667,
+    "Virtus wand": 0.002604166667,
+    "Zaryte bow": 0.002604166667
+   },
+   "pets": [
+    "Nexterminator"
+   ],
+   "achievement": "Prison Log"
+  },
+  "Nex, Angel of Death": {
+   "items": {
+    "Imperium core": null,
+    "Intricate blood stained chest": null,
+    "Intricate ice chest": null,
+    "Intricate shadow chest": null,
+    "Intricate smoke-shrouded chest": null,
+    "Praesul codex": null,
+    "Reeves": 0.0003333333333,
+    "The Praesul": 1,
+    "The Promised Gift": 1,
+    "Wand of the praesul": null
+   },
+   "pets": [
+    "Reeves"
+   ],
+   "achievement": "Fallen Angel"
+  },
+  "Queen Black Dragon": {
+   "items": {
+    "Draconic visage": 0.009174311927,
+    "Dragon kiteshield": 0.004,
+    "Dragonbone upgrade kit": 0.008,
+    "First dragonkin journal": null,
+    "Fourth dragonkin journal": null,
+    "Queen Black Dragonling": 0.0004,
+    "Royal bolt stabiliser": 0.02,
+    "Royal frame": 0.02,
+    "Royal sight": 0.02,
+    "Royal torsion spring": 0.02,
+    "Second dragonkin journal": null,
+    "Third dragonkin journal": null
+   },
+   "pets": [
+    "Queen Black Dragonling"
+   ],
+   "achievement": "Blackout"
+  },
+  "Raksha": {
+   "items": {
+    "Divert ability codex": 0.003076923077,
+    "Fleeting boots": 0.007692307692,
+    "Greater Chain ability codex": 0.003076923077,
+    "Greater Ricochet ability codex": 0.003076923077,
+    "Raklette": 0.001,
+    "Shadow spike": 0.003076923077
+   },
+   "pets": [
+    "Raklette"
+   ],
+   "achievement": "Tyrannosaurus Wrecked"
+  },
+  "Rasial": {
+   "items": {
+    "Crown of the First Necromancer": 0.0015625,
+    "Foot wraps of the First Necromancer": 0.0015625,
+    "Hand wrap of the First Necromancer": 0.0015625,
+    "Miso": 0.0006666666667,
+    "Omni guard": 0.0015625,
+    "Robe bottom of the First Necromancer": 0.0015625,
+    "Robe top of the First Necromancer": 0.0015625,
+    "Soulbound lantern": 0.0015625
+   },
+   "pets": [
+    "Miso"
+   ],
+   "achievement": "Stranger Things"
+  },
+  "Rex Matriarchs": {
+   "items": {
+    "Bagra": null,
+    "Corbi": null,
+    "Heart of the Archer": null,
+    "Heart of the Berserker": null,
+    "Heart of the Seer": null,
+    "Heart of the Warrior": null,
+    "Pavo": null,
+    "Savage plume": null,
+    "Savage spear cap": null,
+    "Savage spear shaft": null,
+    "Savage spear tip": null
+   },
+   "pets": [],
+   "achievement": "Rex Flex"
+  },
+  "Rex Matriarchs: Osseous": {
+   "items": {
+    "Baby Osseous": 0.0005,
+    "Heart of the Berserker": 0.004444444444,
+    "Jail cell key": 0.002506265664,
+    "Occultist's ring": 0.005012531328,
+    "Savage plume": 0.002222222222,
+    "Savage spear cap": 0.002222222222,
+    "Savage spear shaft": 0.002222222222,
+    "Savage spear tip": 0.002222222222
+   },
+   "pets": [
+    "Baby Osseous"
+   ],
+   "achievement": "Ossy Ossy Ossy!"
+  },
+  "Sanctum of Rebirth": {
+   "items": {
+    "Death and Devourers": null,
+    "Divine Rage prayer codex": 0.005555555556,
+    "Neffie": 0.0025,
+    "Ode to Deceit": 0.01,
+    "Roar of Awakening": 0.01,
+    "Scripture of Amascut": 0.005555555556,
+    "Shard of Genesis Essence": 0,
+    "The Beast of Darkness": null,
+    "The Brood Mother": null
+   },
+   "pets": [
+    "Neffie"
+   ],
+   "achievement": "Birth of a New Devourer"
+  },
+  "Shadow Reef": {
+   "items": {
+    "Ambi": null,
+    "Black stone heart": null,
+    "Eldritch crossbow limb": null,
+    "Eldritch crossbow mechanism": null,
+    "Eldritch crossbow stock": null,
+    "Kranon's Ancient Journal": null,
+    "The Last Offering": null
+   },
+   "pets": [],
+   "achievement": "The Shadow Thief"
+  },
+  "Silverquill, the Dreadhog": {
+   "items": {
+    "Needlemouse": 0.001,
+    "Sanguine spines": 0.5,
+    "Silver spines": 0.5
+   },
+   "pets": [
+    "Needlemouse"
+   ],
+   "achievement": "The Whole Hog"
+  },
+  "Solak": {
+   "items": {
+    "Blightbound crossbow": 0.0025,
+    "Erethdor's grimoire": 0.005,
+    "Merethiel's stave": 0.002,
+    "Off-hand Blightbound crossbow": 0.0025,
+    "Purple mushroom": 0.002,
+    "Solly": 0.0008333333333,
+    "Torn grimoire page": 1
+   },
+   "pets": [
+    "Solly"
+   ],
+   "achievement": "So-lacking in Drops"
+  },
+  "Telos": {
+   "items": {
+    "Dormant Seren godbow": null,
+    "Dormant Zaros godsword": null,
+    "Dormant staff of Sliske": null,
+    "Orb of corrupted anima": null,
+    "Orb of pure anima": null,
+    "Orb of volcanic anima": null,
+    "Reprisal ability codex": null,
+    "Tess": null
+   },
+   "pets": [
+    "Tess"
+   ],
+   "achievement": "Party Anima"
+  },
+  "Temple of Aminishi": {
+   "items": {
+    "Ancient scale": null,
+    "Crassian Allegiance": null,
+    "Fishy treat": null,
+    "Himiko's Vision": null,
+    "Kuroryu": null,
+    "Masuta's warspear": null
+   },
+   "pets": [],
+   "achievement": "Raiders of the Lost Arc"
+  },
+  "Twin Furies": {
+   "items": {
+    "Ava": 0.0005,
+    "Blade of Avaryss": 0.00390625,
+    "Blade of Nymora": 0.00390625,
+    "Crest of Zamorak": 0.00390625,
+    "Dormant anima core body": 0.00390625,
+    "Dormant anima core helm": 0.00390625,
+    "Dormant anima core legs": 0.00390625,
+    "Nylessa": 0.0005,
+    "Zamorakian essence": 0.015625
+   },
+   "pets": [
+    "Ava",
+    "Nylessa"
+   ],
+   "achievement": "Heart to Heart"
+  },
+  "TzKal-Zuk": {
+   "items": {
+    "Ancient hilt": null,
+    "Igneous stone": 1,
+    "Little Zuk": 0.002,
+    "Magma Tempest ability codex": 0.01,
+    "Magma core": null,
+    "Obsidian blade": null,
+    "Scripture of Ful": 0.01
+   },
+   "pets": [
+    "Little Zuk"
+   ],
+   "achievement": "Are You Not Entertained?"
+  },
+  "TzTok-Jad and Har-Aken": {
+   "items": {
+    "Shrimpy": 0.005
+   },
+   "pets": [
+    "Shrimpy"
+   ],
+   "achievement": "First Rule of Fight Caves"
+  },
+  "Vindicta & Gorvek": {
+   "items": {
+    "Crest of Zaros": 0.003921568627,
+    "Dormant anima core body": 0.003921568627,
+    "Dormant anima core helm": 0.003921568627,
+    "Dormant anima core legs": 0.003921568627,
+    "Dragon Rider lance": 0.003921568627,
+    "Rawrvek": 0.0005,
+    "Vindiddy": 0.0005,
+    "Zarosian essence": 0.015625
+   },
+   "pets": [
+    "Rawrvek",
+    "Vindiddy"
+   ],
+   "achievement": "Revenge is Sweet"
+  },
+  "Vorago": {
+   "items": {
+    "Bombi": null,
+    "Seismic singularity": null,
+    "Seismic wand": null,
+    "Tectonic energy": null,
+    "Vitalis": null
+   },
+   "pets": [],
+   "achievement": "Hard as a Rock"
+  },
+  "Zamorak": {
+   "items": {
+    "Bottom of the Last Guardian's bow": null,
+    "Chaos Roar ability codex": null,
+    "Codex of lost knowledge": null,
+    "Divine bowstring": null,
+    "Jewels of Zamorak": null,
+    "Top of the Last Guardian's bow": null,
+    "Vestments of havoc boots": null,
+    "Vestments of havoc hood": null,
+    "Vestments of havoc robe bottom": null,
+    "Vestments of havoc robe top": null
+   },
+   "pets": [
+    "Jewels of Zamorak"
+   ],
+   "achievement": "Been There, Done That, Got the Z-shirt"
+  },
+  "Zemouregal & Vorkath": {
+   "items": {
+    "Invoke Lord of Bones incantation codex": 0.004016064257,
+    "Vorkath's scale": 0,
+    "Vorkath's spike": 0.02222222222,
+    "Vorki": 0.0005
+   },
+   "pets": [
+    "Vorki"
+   ],
+   "achievement": "Wall gets knocked down, I'll build it up again"
+  }
+ }
+}

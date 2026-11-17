@@ -1,0 +1,440 @@
+{
+ "Divination": {
+  "fragment_var": "CURRENCY_FRAGMENTS_DIVINATION",
+  "per_drop": 100,
+  "minutes": 5,
+  "components": [
+   {
+    "outfit": "Divination energy outfit",
+    "pieces": [
+     "Divination energy head",
+     "Divination energy body",
+     "Divination energy legs",
+     "Divination energy hands",
+     "Divination energy feet"
+    ]
+   },
+   {
+    "outfit": "Divination chronicle outfit",
+    "pieces": [
+     "Divination chronicle head",
+     "Divination chronicle body",
+     "Divination chronicle legs",
+     "Divination chronicle hands",
+     "Divination chronicle feet"
+    ]
+   },
+   {
+    "outfit": "Divination memory outfit",
+    "pieces": [
+     "Divination memory head",
+     "Divination memory body",
+     "Divination memory legs",
+     "Divination memory hands",
+     "Divination memory feet"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Elder divination outfit",
+   "pieces": [
+    "Elder divination head",
+    "Elder divination body",
+    "Elder divination legs",
+    "Elder divination hands",
+    "Elder divination feet"
+   ]
+  }
+ },
+ "Dungeoneering": {
+  "fragment_var": "CURRENCY_FRAGMENTS_DUNGEONEERING",
+  "per_drop": 100,
+  "minutes": null,
+  "unlock": "blueprints from Marmaros (Daemonheim) for 100,000 Dungeoneering tokens",
+  "components": [
+   {
+    "outfit": "Frozen gorajan trailblazer outfit",
+    "pieces": [
+     "Frozen gorajan trailblazer head",
+     "Frozen gorajan trailblazer body",
+     "Frozen gorajan trailblazer legs",
+     "Frozen gorajan trailblazer hands",
+     "Frozen gorajan trailblazer feet"
+    ]
+   },
+   {
+    "outfit": "Furnished gorajan trailblazer outfit",
+    "pieces": [
+     "Furnished gorajan trailblazer head",
+     "Furnished gorajan trailblazer body",
+     "Furnished gorajan trailblazer legs",
+     "Furnished gorajan trailblazer hands",
+     "Furnished gorajan trailblazer feet"
+    ]
+   },
+   {
+    "outfit": "Abandoned gorajan trailblazer outfit",
+    "pieces": [
+     "Abandoned gorajan trailblazer head",
+     "Abandoned gorajan trailblazer body",
+     "Abandoned gorajan trailblazer legs",
+     "Abandoned gorajan trailblazer hands",
+     "Abandoned gorajan trailblazer feet"
+    ]
+   },
+   {
+    "outfit": "Occult gorajan trailblazer outfit",
+    "pieces": [
+     "Occult gorajan trailblazer head",
+     "Occult gorajan trailblazer body",
+     "Occult gorajan trailblazer legs",
+     "Occult gorajan trailblazer hands",
+     "Occult gorajan trailblazer feet"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Warped gorajan trailblazer outfit",
+   "pieces": [
+    "Warped gorajan trailblazer head",
+    "Warped gorajan trailblazer body",
+    "Warped gorajan trailblazer legs",
+    "Warped gorajan trailblazer hands",
+    "Warped gorajan trailblazer feet"
+   ]
+  }
+ },
+ "Farming": {
+  "fragment_var": "CURRENCY_FRAGMENTS_FARMING",
+  "per_drop": 20,
+  "minutes": 1,
+  "components": [
+   {
+    "outfit": "Animal farmer outfit",
+    "pieces": [
+     "Animal farmer hat",
+     "Animal farmer jacket",
+     "Animal farmer legwear",
+     "Animal farmer gloves",
+     "Animal farmer boots"
+    ]
+   },
+   {
+    "outfit": "Crop farmer outfit",
+    "pieces": [
+     "Crop farmer hat",
+     "Crop farmer jacket",
+     "Crop farmer legwear",
+     "Crop farmer gloves",
+     "Crop farmer boots"
+    ]
+   },
+   {
+    "outfit": "Tree farmer outfit",
+    "pieces": [
+     "Tree farmer hat",
+     "Tree farmer jacket",
+     "Tree farmer legwear",
+     "Tree farmer gloves",
+     "Tree farmer boots"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Master farmer outfit",
+   "pieces": [
+    "Master farmer hat",
+    "Master farmer jacket",
+    "Master farmer legwear",
+    "Master farmer gloves",
+    "Master farmer boots"
+   ]
+  }
+ },
+ "Fishing": {
+  "fragment_var": "CURRENCY_FRAGMENTS_SHARK",
+  "per_drop": 100,
+  "minutes": 5,
+  "components": [
+   {
+    "outfit": "Shark outfit",
+    "pieces": [
+     "Shark head",
+     "Shark body",
+     "Shark legs",
+     "Shark hands",
+     "Shark feet"
+    ]
+   },
+   {
+    "outfit": "Tiger shark outfit",
+    "pieces": [
+     "Tiger shark head",
+     "Tiger shark body",
+     "Tiger shark legs",
+     "Tiger shark hands",
+     "Tiger shark feet"
+    ]
+   },
+   {
+    "outfit": "Burnt shark outfit",
+    "pieces": [
+     "Burnt shark head",
+     "Burnt shark body",
+     "Burnt shark legs",
+     "Burnt shark hands",
+     "Burnt shark feet"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Fury shark outfit",
+   "pieces": [
+    "Fury shark head",
+    "Fury shark body",
+    "Fury shark legs",
+    "Fury shark hands",
+    "Fury shark feet"
+   ]
+  }
+ },
+ "Hunter": {
+  "fragment_var": "CURRENCY_FRAGMENTS_TRAPPER",
+  "per_drop": 100.5,
+  "minutes": 5,
+  "unlock": "Trapper outfit piece blueprint from the Hunter Mark Shop (Anachronia) for 100 Hunter marks",
+  "unlock_var": "DINO_GAME_SHOP_ELITE_OUTFIT_BLUEPRINT",
+  "unlock_currency_var": "DINO_GAME_HUNTER_MARKS",
+  "unlock_cost": 100,
+  "components": [
+   {
+    "outfit": "Desert trapper outfit",
+    "pieces": [
+     "Desert trapper head",
+     "Desert trapper chest",
+     "Desert trapper legguards",
+     "Desert trapper arms",
+     "Desert trapper boots"
+    ]
+   },
+   {
+    "outfit": "Jungle trapper outfit",
+    "pieces": [
+     "Jungle trapper head",
+     "Jungle trapper chest",
+     "Jungle trapper legguards",
+     "Jungle trapper arms",
+     "Jungle trapper boots"
+    ]
+   },
+   {
+    "outfit": "Arctic trapper outfit",
+    "pieces": [
+     "Arctic trapper head",
+     "Arctic trapper chest",
+     "Arctic trapper legguards",
+     "Arctic trapper arms",
+     "Arctic trapper boots"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Volcanic trapper outfit",
+   "pieces": [
+    "Volcanic trapper head",
+    "Volcanic trapper chest",
+    "Volcanic trapper legguards",
+    "Volcanic trapper arms",
+    "Volcanic trapper boots"
+   ]
+  }
+ },
+ "Mining": {
+  "fragment_var": "CURRENCY_FRAGMENTS_GEMSTONE",
+  "per_drop": 100,
+  "minutes": 5,
+  "components": [
+   {
+    "outfit": "Sapphire golem outfit",
+    "pieces": [
+     "Sapphire golem head",
+     "Sapphire golem torso",
+     "Sapphire golem legs",
+     "Sapphire golem gloves",
+     "Sapphire golem boots"
+    ]
+   },
+   {
+    "outfit": "Emerald golem outfit",
+    "pieces": [
+     "Emerald golem head",
+     "Emerald golem torso",
+     "Emerald golem legs",
+     "Emerald golem gloves",
+     "Emerald golem boots"
+    ]
+   },
+   {
+    "outfit": "Ruby golem outfit",
+    "pieces": [
+     "Ruby golem head",
+     "Ruby golem torso",
+     "Ruby golem legs",
+     "Ruby golem gloves",
+     "Ruby golem boots"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Magic golem outfit",
+   "pieces": [
+    "Magic golem head",
+    "Magic golem torso",
+    "Magic golem legs",
+    "Magic golem gloves",
+    "Magic golem boots"
+   ]
+  }
+ },
+ "Runecrafting": {
+  "fragment_var": "CURRENCY_FRAGMENTS_ETHEREAL",
+  "per_drop": 100,
+  "minutes": 5,
+  "components": [
+   {
+    "outfit": "Law ethereal outfit",
+    "pieces": [
+     "Law ethereal head",
+     "Law ethereal body",
+     "Law ethereal legs",
+     "Law ethereal hands",
+     "Law ethereal feet"
+    ]
+   },
+   {
+    "outfit": "Blood ethereal outfit",
+    "pieces": [
+     "Blood ethereal head",
+     "Blood ethereal body",
+     "Blood ethereal legs",
+     "Blood ethereal hands",
+     "Blood ethereal feet"
+    ]
+   },
+   {
+    "outfit": "Death ethereal outfit",
+    "pieces": [
+     "Death ethereal head",
+     "Death ethereal body",
+     "Death ethereal legs",
+     "Death ethereal hands",
+     "Death ethereal feet"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Infinity ethereal outfit",
+   "pieces": [
+    "Infinity ethereal head",
+    "Infinity ethereal body",
+    "Infinity ethereal legs",
+    "Infinity ethereal hands",
+    "Infinity ethereal feet"
+   ]
+  }
+ },
+ "Thieving": {
+  "fragment_var": "CURRENCY_FRAGMENTS_CAMOUFLAGE",
+  "per_drop": 50,
+  "minutes": 5,
+  "components": [
+   {
+    "outfit": "Keldagrim camouflage outfit",
+    "pieces": [
+     "Keldagrim camouflage head",
+     "Keldagrim camouflage body",
+     "Keldagrim camouflage legs",
+     "Keldagrim camouflage hands",
+     "Keldagrim camouflage feet"
+    ]
+   },
+   {
+    "outfit": "Prifddinas camouflage outfit",
+    "pieces": [
+     "Prifddinas camouflage head",
+     "Prifddinas camouflage body",
+     "Prifddinas camouflage legs",
+     "Prifddinas camouflage hands",
+     "Prifddinas camouflage feet"
+    ]
+   },
+   {
+    "outfit": "Desert camouflage outfit",
+    "pieces": [
+     "Desert camouflage head",
+     "Desert camouflage body",
+     "Desert camouflage legs",
+     "Desert camouflage hands",
+     "Desert camouflage feet"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Master camouflage outfit",
+   "pieces": [
+    "Master camouflage head",
+    "Master camouflage body",
+    "Master camouflage legs",
+    "Master camouflage hands",
+    "Master camouflage feet"
+   ]
+  }
+ },
+ "Woodcutting": {
+  "fragment_var": "CURRENCY_FRAGMENTS_WOODCUTTING",
+  "per_drop": 100,
+  "minutes": 5,
+  "components": [
+   {
+    "outfit": "Oaken sentinel outfit",
+    "pieces": [
+     "Oaken sentinel helm",
+     "Oaken sentinel chest",
+     "Oaken sentinel trunks",
+     "Oaken sentinel branch",
+     "Oaken sentinel boots"
+    ]
+   },
+   {
+    "outfit": "Willow sentinel outfit",
+    "pieces": [
+     "Willow sentinel helm",
+     "Willow sentinel chest",
+     "Willow sentinel trunks",
+     "Willow sentinel branch",
+     "Willow sentinel boots"
+    ]
+   },
+   {
+    "outfit": "Maple sentinel outfit",
+    "pieces": [
+     "Maple sentinel helm",
+     "Maple sentinel chest",
+     "Maple sentinel trunks",
+     "Maple sentinel branch",
+     "Maple sentinel boots"
+    ]
+   }
+  ],
+  "combined": {
+   "outfit": "Nature's sentinel outfit",
+   "pieces": [
+    "Nature's sentinel helm",
+    "Nature's sentinel chest",
+    "Nature's sentinel trunks",
+    "Nature's sentinel branch",
+    "Nature's sentinel boots"
+   ]
+  }
+ }
+}

@@ -1,0 +1,88 @@
+{
+  "source": "https://runescape.wiki/w/Deathtouched_dart (CC BY-NC-SA 3.0), read 2026-11-11; names as the drop tables spell them",
+  "removal": "the wiki says the dart is scheduled for removal on 23 November 2026 with the other MTX items",
+  "rules": [
+    "a dart kill doesn't count in the Beasts tab (so not for boss kill-count achievements, Soul Reaper or fastest kills), awards no Marks of War and no combat xp (Slayer xp still), and starts a 15-minute penalty during which other boss kills aren't recorded either",
+    "drops from a dart kill do count for boss collection logs; augmented items gain item xp as normal",
+    "in a group no one gets kill count when any player darts the boss"
+  ],
+  "immune": [
+    "Flesh-hatcher Mhekarnahz",
+    "Arch-Glacor",
+    "Nakatra, Devourer Eternal",
+    "Vermyx, Brood Mother",
+    "Kezalam, the Wanderer",
+    "TzKal-Zuk",
+    "Croesus",
+    "Kerapac, the bound",
+    "Zamorak, Lord of Chaos",
+    "Raksha, the Shadow Colossus",
+    "Blood nihil",
+    "Beastmaster Durzag",
+    "Yakamaru",
+    "Vorago",
+    "Solak, Guardian of the Grove",
+    "Clawdia",
+    "Mega Duck",
+    "Mrs Duck",
+    "Hermod, the Spirit of War",
+    "Rasial, the First Necromancer",
+    "Zemouregal & Vorkath",
+    "Vorkath",
+    "Nex, Angel of Death",
+    "Shadow of Amascut",
+    "Amascut, the Devourer"
+  ],
+  "immune_notes": {
+    "TzKal-Zuk": "the minions can be darted, Zuk himself not",
+    "Blood nihil": "they recover and heal their allies"
+  },
+  "partial": {
+    "Telos, the Warden": "clears one phase only, whatever the enrage (the 100% trimmed-comp kill still counts)",
+    "Seiryu the Azure Serpent": "only collapses Seiryu: the black crystals still have to be destroyed (they can be darted too)",
+    "Kalphite Queen": "kills one form only",
+    "Exiled Kalphite Queen": "kills one form only",
+    "Araxxor": "the first dart kills all three Araxxor phases, a second one Araxxi",
+    "Nomad": "kills one phase only",
+    "Har-Aken": "must be thrown at the head, not a tentacle"
+  },
+  "achievements_unlocked": {
+    "Corporeal Beast": "Core Problem",
+    "Har-Aken": "Kiln Fighter",
+    "Queen Black Dragon": "Long Live the Queen (and 5 kudos)",
+    "Nex": "works on Nex (not Nex, Angel of Death); use Anticipation or Freedom before she is attackable"
+  },
+  "quest_bosses_immune": [
+    "Fern and Dawn (The Death of Chivalry)",
+    "Sliske (Sliske's Endgame)",
+    "General Graardor (The Mighty Fall)",
+    "The Dark Lord (Plague's End)",
+    "Lucien (Ritual of the Mahjarrat)",
+    "Captain Rabid Jack (Pieces of Hate)",
+    "Chaos Hreidmar and Chaos Grimsson (Birthright of the Dwarves)",
+    "Dagannoth Mother (Blood Runs Deep, except her ranged stage)",
+    "TokHaar-Hok in lava (The Brink of Extinction)",
+    "Lowerniel Drakan (The Lord of Vampyrium)",
+    "Fire Warrior of Lesarkus (Temple of Ikov)",
+    "Avaryss as Moia (Daughter of Chaos)",
+    "Seren's final phase (Extinction)",
+    "Amascut (Eclipse of the Heart)"
+  ],
+  "no_area": [
+    "Daemonheim",
+    "PvP",
+    "Morvran's Slayer challenges (no dark crystals from dart kills)"
+  ],
+  "access": {
+    "The Sanctum Guardian": "Temple of Aminishi: reached by clearing the dungeon's first section",
+    "Masuta the Ascended": "Temple of Aminishi: after the Sanctum Guardian and the second section",
+    "Seiryu the Azure Serpent": "Temple of Aminishi: the whole dungeon and both earlier bosses first",
+    "Astellarn": "Dragonkin Laboratory: the first section first",
+    "Verak Lith": "Dragonkin Laboratory: after Astellarn and the second section",
+    "Black stone dragon": "Dragonkin Laboratory: the whole dungeon and both earlier bosses first",
+    "The Crassian Leviathan": "Shadow Reef: the first section first",
+    "Taraket the Necromancer": "Shadow Reef: after the Leviathan and the second section",
+    "The Ambassador": "Shadow Reef: the whole dungeon and both earlier bosses first"
+  },
+  "access_note": "Elite Dungeon bosses: a dart skips the boss, not the run to it; story mode has no drops"
+}

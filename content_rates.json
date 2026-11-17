@@ -1,0 +1,298 @@
+{
+ "source": "Rates derived from RuneScape Wiki activity pages for content the training guides don't rate yet (CC BY-NC-SA 3.0); see docs/wiki-rate-extraction.md",
+ "rows": [
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "skill": "Divination",
+   "method": "Colossi Divination (2-tick charging, Agility shortcuts + canoes)",
+   "level_min": 77,
+   "xp_per_hour_low": 779325,
+   "afk": false,
+   "figure": "max",
+   "requirements": "Heralds of Crimson (partial). This rate assumes Agility 73 for the shortcuts and Construction 80 for the canoe stations.",
+   "yields": {
+    "Remnant energy": 24453
+   },
+   "side_xp": {
+    "Agility": 121997
+   },
+   "derivation": "Per 7-mural cycle: 255,482 Div xp from deposits (mural table total, level 99) + 7 charges x 9,031.6 xp (100 harvests x 88 xp, 5% failed at 44 xp); 120 s per charge x 1.0526 for failures, 24 s deposits per mural, mural travel with shortcuts + canoes, stonevein amulet back. Agility 49,890.5 and 9,022-10,742 remnant energy per cycle.",
+   "level_note": "mural xp is the page's level-99 figure; lower levels get less",
+   "source": "https://runescape.wiki/w/Colossi_Divination",
+   "quote": "derived"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "skill": "Divination",
+   "method": "Colossi Divination (AFK charging, Agility shortcuts + canoes)",
+   "level_min": 77,
+   "xp_per_hour_low": 599343,
+   "afk": true,
+   "figure": "typical",
+   "requirements": "Heralds of Crimson (partial). This rate assumes Agility 73 for the shortcuts and Construction 80 for the canoe stations.",
+   "yields": {
+    "Remnant energy": 18806
+   },
+   "side_xp": {
+    "Agility": 93822
+   },
+   "derivation": "As the 2-tick row with 180 s charges (300 ticks).",
+   "level_note": "level-99 mural xp",
+   "source": "https://runescape.wiki/w/Colossi_Divination",
+   "quote": "derived"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "skill": "Hunter",
+   "method": "Jackalope snaring (3 burrows, 3 snares)",
+   "level_min": 32,
+   "xp_per_hour_low": 65000,
+   "afk": false,
+   "figure": "typical",
+   "requirements": "",
+   "yields": {
+    "Jackalope antlers": 322,
+    "Raw rabbit": 322,
+    "Bones": 322
+   },
+   "side_xp": {},
+   "derivation": "Page range midpoint (65,000 xp/h); 202 xp per jackalope",
+   "source": "https://runescape.wiki/w/Jackalope",
+   "quote": "stated"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "skill": "Hunter",
+   "method": "Jackalope snaring (2 burrows + ferret)",
+   "level_min": 32,
+   "xp_per_hour_low": 85000,
+   "afk": false,
+   "figure": "typical",
+   "requirements": "Eagles' Peak; a ferret",
+   "yields": {
+    "Jackalope antlers": 421,
+    "Raw rabbit": 421,
+    "Bones": 421
+   },
+   "side_xp": {},
+   "derivation": "Page range midpoint (85,000 xp/h); 202 xp per jackalope",
+   "source": "https://runescape.wiki/w/Jackalope",
+   "quote": "stated"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "skill": "Hunter",
+   "method": "Jackalope snaring (central 3-snare spot + ferret)",
+   "level_min": 32,
+   "xp_per_hour_low": 115000,
+   "afk": false,
+   "figure": "typical",
+   "requirements": "Eagles' Peak; a ferret",
+   "yields": {
+    "Jackalope antlers": 569,
+    "Raw rabbit": 569,
+    "Bones": 569
+   },
+   "side_xp": {},
+   "derivation": "Page range midpoint (115,000 xp/h); 202 xp per jackalope",
+   "source": "https://runescape.wiki/w/Jackalope",
+   "quote": "stated"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "afk": false,
+   "figure": "typical",
+   "quote": "derived",
+   "skill": "Firemaking",
+   "method": "Zygomite Carestyling (drying: tempered fungal shafts)",
+   "level_min": 82,
+   "xp_per_hour_low": 287040,
+   "requirements": "Extinction",
+   "yields": {
+    "Tempered fungal shaft": 15525
+   },
+   "derivation": "249.6 xp per 5-tick action, ~1,150 actions/h as the page's 287,040 xp/h implies; 12-15 shafts (avg 13.5) each",
+   "source": "https://runescape.wiki/w/'Accidental'_Fletching_and_Firemaking"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "afk": false,
+   "figure": "typical",
+   "quote": "derived",
+   "skill": "Fletching",
+   "method": "Zygomite Carestyling (cutting: tempered fungal shafts)",
+   "level_min": 82,
+   "xp_per_hour_low": 225515,
+   "requirements": "Extinction",
+   "yields": {
+    "Tempered fungal shaft": 15525
+   },
+   "derivation": "196.1 xp per 5-tick action, ~1,150 actions/h as the page's 225,515 xp/h implies; 12-15 shafts (avg 13.5) each; a crystal knife adds 5% doubles",
+   "source": "https://runescape.wiki/w/'Accidental'_Fletching_and_Firemaking"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "afk": false,
+   "figure": "typical",
+   "quote": "derived",
+   "skill": "Firemaking",
+   "method": "Eggsperimentation (feeding Tummisaurus Rex, burning Potterington Blend #102)",
+   "level_min": 95,
+   "xp_per_hour_low": 600000,
+   "requirements": "Extinction",
+   "yields": {
+    "Dinosaur 'propellant'": 18750
+   },
+   "side_xp": {
+    "Farming": 2500
+   },
+   "derivation": "page: 'over 600,000 Firemaking experience can be gained per hour if fully feeding'; the money making guide assumes 625 burns/h x 1,057.1 xp and 30 propellant; 4 free trough feeds per fertiliser, 1 Farming xp a feed",
+   "source": "https://runescape.wiki/w/'Accidental'_Fletching_and_Firemaking"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": 340000,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "range",
+   "suspicious": false,
+   "afk": false,
+   "figure": "typical",
+   "quote": "derived",
+   "skill": "Firemaking",
+   "method": "Seggregation (dinosaur eggs into the incubator/compost bin: sharp shell shards)",
+   "level_min": 87,
+   "xp_per_hour_low": 262080,
+   "requirements": "Extinction",
+   "yields": {
+    "Sharp shell shard": 12324
+   },
+   "side_xp": {
+    "Farming": 948
+   },
+   "derivation": "page: 'roughly 262,080 Firemaking experience per hour' (276.4 xp per 2-tick deposit = ~948 eggs/h, 13 shards each), 'up to 340,000' with Dive; 1 Farming xp per egg",
+   "source": "https://runescape.wiki/w/'Accidental'_Fletching_and_Firemaking"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": true,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "afk": false,
+   "figure": "typical",
+   "quote": "derived",
+   "skill": "Prayer",
+   "method": "Cleansing crystals (Hefin Cathedral)",
+   "level_min": 75,
+   "xp_per_hour_low": 284200,
+   "requirements": "Plague's End",
+   "recipe": {
+    "output": "Cleansing crystal (drained)",
+    "variants": [
+     {
+      "output_qty": 1,
+      "xp": 9800,
+      "ticks": 200,
+      "materials": [
+       [
+        "Cleansing crystal",
+        1.0
+       ]
+      ]
+     }
+    ],
+    "match": "high"
+   },
+   "derivation": "9,800 Prayer xp per crystal, 2 minutes each, up to 29/h; 110,000 gp each from the Hefin monks (shop stock 30); +20% while the Voice of Seren is in Hefin (341,040)",
+   "source": "https://runescape.wiki/w/Cleansing_crystal"
+  },
+  {
+   "level_max": null,
+   "xp_per_hour_high": null,
+   "boosted": false,
+   "bought_supplies": false,
+   "solo": true,
+   "regular_training": true,
+   "low_high_meaning": "single",
+   "suspicious": false,
+   "afk": false,
+   "figure": "typical",
+   "quote": "derived",
+   "skill": "Prayer",
+   "method": "Vyrelords with the Sunspear (auto-cremation, six-vyre tree)",
+   "level_min": 75,
+   "xp_per_hour_low": 350000,
+   "requirements": "The Lord of Vampyrium; Sunspear",
+   "side_xp": {
+    "Firemaking": 250000
+   },
+   "drop_sources": [
+    "Vyrelord"
+   ],
+   "derivation": "page Vyrelord: the Sunspear cremates each kill for 210 Prayer xp (280 at 90 Prayer) and 150 Firemaking xp (200 at 90); 'about 350,000' Prayer xp/h at the six-vyre tree without Morytania legs 4 (+50% worn, figure unstated); ~1,250 kills/h implied",
+   "source": "https://runescape.wiki/w/Vyrelord"
+  }
+ ]
+}

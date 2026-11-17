@@ -1,0 +1,5742 @@
+[
+ {
+  "skill": "Cooking",
+  "method": "Cream cheese from buckets of milk (Falador farm)",
+  "level_min": 38,
+  "level_max": null,
+  "xp_per_hour_low": 50000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "32 Cooking, partial completion of Chef's Assistant",
+  "section": "Level 38: Cream cheese",
+  "quote": "about 50,000 Cooking experience per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Cooking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Cream cheese",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 80.0,
+     "ticks": 8.0,
+     "materials": [
+      [
+       "Bucket of milk",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Bowstrings",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 20160,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Bowstrings",
+  "quote": "{{formatnum:20160}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Bowstring",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Flax",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Air rune",
+       1.0
+      ],
+      [
+       "Astral rune",
+       0.2
+      ],
+      [
+       "Flax",
+       1.0
+      ],
+      [
+       "Nature rune",
+       0.4
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Leather chaps",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 43740,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Leather chaps",
+  "quote": "{{formatnum:43740}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Leather chaps",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 27.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Leather",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Gold necklaces",
+  "level_min": 6,
+  "level_max": null,
+  "xp_per_hour_low": 31360,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Gold necklaces",
+  "quote": "{{formatnum:31360}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Gold necklace",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 20.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Unstrung gold amulets",
+  "level_min": 8,
+  "level_max": null,
+  "xp_per_hour_low": 47040,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Unstrung gold amulets",
+  "quote": "{{formatnum:47040}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Gold amulet (unstrung)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 30.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncut sapphires",
+  "level_min": 20,
+  "level_max": null,
+  "xp_per_hour_low": 148400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Uncut sapphires",
+  "quote": "{{formatnum:148400}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Sapphire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 50.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Uncut sapphire",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Silver bolts (unf)",
+  "level_min": 21,
+  "level_max": null,
+  "xp_per_hour_low": 78400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Silver bolts (unf)",
+  "quote": "{{formatnum:78400}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Silver bolts (unf)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 5.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Silver bar",
+       0.1
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Sapphire necklaces",
+  "level_min": 22,
+  "level_max": null,
+  "xp_per_hour_low": 92400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Sapphire necklaces",
+  "quote": "{{formatnum:92400}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Sapphire necklace",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 105.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ],
+      [
+       "Uncut sapphire",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Tiara",
+  "level_min": 23,
+  "level_max": null,
+  "xp_per_hour_low": 81536,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Tiara",
+  "quote": "{{formatnum:81536}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Tiara",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 52.5,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Silver bar",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncut emeralds",
+  "level_min": 27,
+  "level_max": null,
+  "xp_per_hour_low": 200340,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Uncut emeralds",
+  "quote": "{{formatnum:200340}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Emerald",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 67.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Uncut emerald",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Hard leather shields",
+  "level_min": 29,
+  "level_max": null,
+  "xp_per_hour_low": 58320,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Hard leather shields",
+  "quote": "{{formatnum:58320}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Hard leather shield",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 36.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Hard leather",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Emerald necklaces",
+  "level_min": 29,
+  "level_max": null,
+  "xp_per_hour_low": 100800,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Emerald necklaces",
+  "quote": "{{formatnum:100800}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Emerald necklace",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 127.5,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ],
+      [
+       "Uncut emerald",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncut rubies",
+  "level_min": 34,
+  "level_max": null,
+  "xp_per_hour_low": 252280,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Uncut rubies",
+  "quote": "{{formatnum:252280}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Ruby",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 85.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Uncut ruby",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Ruby necklaces",
+  "level_min": 40,
+  "level_max": null,
+  "xp_per_hour_low": 126000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Ruby necklaces",
+  "quote": "{{formatnum:126000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Ruby necklace",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 160.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ],
+      [
+       "Uncut ruby",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Green dragonhide bodies",
+  "level_min": 40,
+  "level_max": null,
+  "xp_per_hour_low": 267840,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Green dragonhide bodies",
+  "quote": "{{formatnum:267840}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Dragonhide armour/shields: levels shown (40/50) do not match known RS3 d'hide requirements and the items are normally members content",
+  "recipe": {
+   "output": "Green dragonhide body",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 186.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Green dragon leather",
+       3.0
+      ],
+      [
+       "Thread",
+       0.2
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Green dragonhide shields",
+  "level_min": 40,
+  "level_max": null,
+  "xp_per_hour_low": 357120,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Green dragonhide shields",
+  "quote": "{{formatnum:357120}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Dragonhide armour/shields: levels shown (40/50) do not match known RS3 d'hide requirements and the items are normally members content",
+  "recipe": {
+   "output": "Green dragonhide shield",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 248.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Green dragon leather",
+       4.0
+      ],
+      [
+       "Thread",
+       0.2
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncut diamonds",
+  "level_min": 43,
+  "level_max": null,
+  "xp_per_hour_low": 319060,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Uncut diamonds",
+  "quote": "{{formatnum:319060}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Diamond",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 107.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Uncut diamond",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Diamond rings",
+  "level_min": 43,
+  "level_max": null,
+  "xp_per_hour_low": 142800,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Diamond rings",
+  "quote": "{{formatnum:142800}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Diamond ring",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 192.5,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ],
+      [
+       "Uncut diamond",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Woodcutting urns",
+  "level_min": 44,
+  "level_max": null,
+  "xp_per_hour_low": 31360,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Woodcutting urns",
+  "quote": "{{formatnum:31360}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Plain woodcutting urn (unfired)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 36.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Clay",
+       2.0
+      ]
+     ]
+    }
+   ],
+   "match": "low"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Strong mining urns",
+  "level_min": 48,
+  "level_max": null,
+  "xp_per_hour_low": 33398,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Strong mining urns",
+  "quote": "{{formatnum:33398.4}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Strong mining urn (unfired)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 38.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Clay",
+       2.0
+      ]
+     ]
+    }
+   ],
+   "match": "low"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Strong smithing urns",
+  "level_min": 49,
+  "level_max": null,
+  "xp_per_hour_low": 41552,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Strong smithing urns",
+  "quote": "{{formatnum:41552}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Strong smithing urn (unfired)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 38.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Clay",
+       2.0
+      ]
+     ]
+    }
+   ],
+   "match": "low"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Blue dragonhide bodies",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 302400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Blue dragonhide bodies",
+  "quote": "{{formatnum:302400}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Dragonhide armour/shields: levels shown (40/50) do not match known RS3 d'hide requirements and the items are normally members content",
+  "recipe": {
+   "output": "Blue dragonhide body",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 210.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Blue dragon leather",
+       3.0
+      ],
+      [
+       "Thread",
+       0.2
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Blue dragonhide shields",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 403200,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Blue dragonhide shields",
+  "quote": "{{formatnum:403200}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Dragonhide armour/shields: levels shown (40/50) do not match known RS3 d'hide requirements and the items are normally members content",
+  "recipe": {
+   "output": "Blue dragonhide shield",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 280.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Blue dragon leather",
+       4.0
+      ],
+      [
+       "Thread",
+       0.2
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Diamond necklaces",
+  "level_min": 56,
+  "level_max": null,
+  "xp_per_hour_low": 151200,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Diamond necklaces",
+  "quote": "{{formatnum:151200}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Diamond necklace",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 197.5,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ],
+      [
+       "Uncut diamond",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Unstrung diamond amulets",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": 168000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Unstrung diamond amulets",
+  "quote": "{{formatnum:168000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Diamond amulet (unstrung)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 207.5,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Gold bar",
+       1.0
+      ],
+      [
+       "Uncut diamond",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncommon gem rock: cut and drop sapphires, bank the rest",
+  "level_min": 36,
+  "level_max": null,
+  "xp_per_hour_low": 12000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Gem rocks: Uncommon gem rock (test at 36 Mining)",
+  "quote": "gain about 12000 Crafting xp per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min is the Mining level used for a Crafting row"
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncommon gem rock: cut and drop sapphires and emeralds, bank rubies",
+  "level_min": 46,
+  "level_max": null,
+  "xp_per_hour_low": 26000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Gem rocks: Uncommon gem rock (test at 46 Mining)",
+  "quote": "gain about 26000 Crafting xp per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min is the Mining level used for a Crafting row"
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncommon gem rock: cut and bank sapphires, emeralds and rubies",
+  "level_min": 46,
+  "level_max": null,
+  "xp_per_hour_low": 28400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Gem rocks: Uncommon gem rock (test at 46 Mining)",
+  "quote": "it results in about 28400 Crafting xp",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min is the Mining level used for a Crafting row"
+ },
+ {
+  "skill": "Crafting",
+  "method": "Uncommon gem rock (gem bag, Archaeology journal)",
+  "level_min": 75,
+  "level_max": null,
+  "xp_per_hour_low": 55776,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Gem bag and Archaeology journal",
+  "section": "Gem rocks: Uncommon and precious gem rock table (75 Mining)",
+  "quote": "55,776",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min is the Mining level used for a Crafting row; needs Archaeology journal (membership)"
+ },
+ {
+  "skill": "Crafting",
+  "method": "Precious gem rock (gem bag, Archaeology journal)",
+  "level_min": 75,
+  "level_max": null,
+  "xp_per_hour_low": 33188,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "75 Dungeoneering (Al Kharid resource dungeon); gem bag and Archaeology journal",
+  "section": "Gem rocks: Uncommon and precious gem rock table (75 Mining)",
+  "quote": "33,188",
+  "source": "https://runescape.wiki/w/Free-to-play_Crafting_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min is the Mining level used for a Crafting row; needs Archaeology journal (membership)"
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Logs, lit individually",
+  "level_min": 1,
+  "level_max": 15,
+  "xp_per_hour_low": 48000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Logs",
+  "quote": "{{formatnum:48000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 40.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Logs, bonfire solo",
+  "level_min": 1,
+  "level_max": 15,
+  "xp_per_hour_low": 47500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Logs",
+  "quote": "{{formatnum:47500}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 40.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Logs, bonfire with 4 or more others",
+  "level_min": 1,
+  "level_max": 15,
+  "xp_per_hour_low": 49638,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Logs",
+  "quote": "{{formatnum:49637.5}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": false,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 40.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Logs, portable brazier",
+  "level_min": 1,
+  "level_max": 15,
+  "xp_per_hour_low": 54625,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Logs",
+  "quote": "54,625",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 40.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Oak logs, lit individually",
+  "level_min": 15,
+  "level_max": 30,
+  "xp_per_hour_low": 72000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Oak logs",
+  "quote": "{{formatnum:72000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 60.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Oak logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Oak logs, bonfire solo",
+  "level_min": 15,
+  "level_max": 30,
+  "xp_per_hour_low": 80750,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Oak logs",
+  "quote": "80,750",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 60.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Oak logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Oak logs, bonfire with 4 or more others",
+  "level_min": 15,
+  "level_max": 30,
+  "xp_per_hour_low": 84788,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Oak logs",
+  "quote": "{{formatnum:84787.5}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": false,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 60.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Oak logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Oak logs, portable brazier",
+  "level_min": 15,
+  "level_max": 30,
+  "xp_per_hour_low": 92340,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Oak logs",
+  "quote": "92,340",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 60.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Oak logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Willow logs, lit individually",
+  "level_min": 30,
+  "level_max": 45,
+  "xp_per_hour_low": 108000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Willow logs",
+  "quote": "{{formatnum:108000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 90.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Willow logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Willow logs, bonfire solo",
+  "level_min": 30,
+  "level_max": 45,
+  "xp_per_hour_low": 99750,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Willow logs",
+  "quote": "{{formatnum:99750}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 90.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Willow logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Willow logs, bonfire with 4 or more others",
+  "level_min": 30,
+  "level_max": 45,
+  "xp_per_hour_low": 104738,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Willow logs",
+  "quote": "{{formatnum:104737.5}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": false,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 90.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Willow logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Willow logs, portable brazier",
+  "level_min": 30,
+  "level_max": 45,
+  "xp_per_hour_low": 114000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Willow logs",
+  "quote": "114,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 90.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Willow logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Maple logs, lit individually",
+  "level_min": 45,
+  "level_max": 99,
+  "xp_per_hour_low": 162000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Maple logs",
+  "quote": "{{formatnum:162000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 135.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Maple logs, bonfire solo",
+  "level_min": 45,
+  "level_max": 99,
+  "xp_per_hour_low": 128250,
+  "xp_per_hour_high": 166250,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Maple logs",
+  "quote": "{{formatnum:128250}} to {{formatnum:166250}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 135.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Maple logs, bonfire with 4 or more others",
+  "level_min": 45,
+  "level_max": 99,
+  "xp_per_hour_low": 133380,
+  "xp_per_hour_high": 172900,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Maple logs",
+  "quote": "{{formatnum:133380}} to {{formatnum:172900}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": false,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 135.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Yew logs, lit individually",
+  "level_min": 60,
+  "level_max": 75,
+  "xp_per_hour_low": 243000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Yew logs",
+  "quote": "{{formatnum:243000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 202.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Yew logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Yew logs, bonfire solo",
+  "level_min": 60,
+  "level_max": 75,
+  "xp_per_hour_low": 247000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Yew logs",
+  "quote": "{{formatnum:247000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 202.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Yew logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Yew logs, bonfire with 4 or more others",
+  "level_min": 60,
+  "level_max": 75,
+  "xp_per_hour_low": 256738,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Yew logs",
+  "quote": "{{formatnum:256737.5}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": false,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 202.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Yew logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Yew logs, portable brazier",
+  "level_min": 60,
+  "level_max": 75,
+  "xp_per_hour_low": 269800,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Overview table: Yew logs",
+  "quote": "269,800",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Fire",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 202.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Yew logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Willow logs, cut and burned (Woodcutting and Firemaking)",
+  "level_min": 75,
+  "level_max": null,
+  "xp_per_hour_low": 40000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "30 Dungeoneering (Daemonheim Peninsula resource dungeon)",
+  "section": "Combining Woodcutting and Firemaking training (75 Woodcutting)",
+  "quote": "around 70,000 experience per hour (40,000 for Firemaking, 30,000 for Woodcutting)",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min is the Woodcutting level, not Firemaking; combined cut-and-burn needs resource dungeon"
+ },
+ {
+  "skill": "Firemaking",
+  "method": "Maple logs, cut and burned (Woodcutting and Firemaking)",
+  "level_min": 90,
+  "level_max": null,
+  "xp_per_hour_low": 90000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "30 Dungeoneering (Daemonheim Peninsula resource dungeon)",
+  "section": "Combining Woodcutting and Firemaking training (90 Woodcutting)",
+  "quote": "approximately 140,000 experience per hour (90,000 for Firemaking, 50,000 for Woodcutting)",
+  "source": "https://runescape.wiki/w/Free-to-play_Firemaking_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min is the Woodcutting level, not Firemaking; combined cut-and-burn needs resource dungeon"
+ },
+ {
+  "skill": "Fishing",
+  "method": "Crayfish",
+  "level_min": 1,
+  "level_max": 20,
+  "xp_per_hour_low": 11500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 1-20: crayfish",
+  "quote": "Fishing crayfish gives around 11,500 Fishing experience an hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Fishing_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Fishing",
+  "method": "Fly fishing (trout and salmon)",
+  "level_min": 20,
+  "level_max": null,
+  "xp_per_hour_low": 17000,
+  "xp_per_hour_high": 67000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Feathers (bait)",
+  "section": "Levels 20-99+: fly fishing",
+  "quote": "This gives between 17,000 and 67,000 Fishing experience per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Fishing_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Fletching",
+  "method": "Maple shortbow (unstrung), fletched from logs",
+  "level_min": 40,
+  "level_max": 45,
+  "xp_per_hour_low": 84000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Maple shortbow (unstrung)",
+  "quote": "{{formatnum:84000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Maple shortbow (unstrung)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 41.5,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Maple shortbow, strung",
+  "level_min": 40,
+  "level_max": 45,
+  "xp_per_hour_low": 126000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Maple shortbow",
+  "quote": "{{formatnum:126000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Maple shortbow",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 83.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Bowstring",
+       1.0
+      ],
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 158.2,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Maple logs",
+       1.0
+      ],
+      [
+       "Tempered fungal shaft",
+       5.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 83.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Chima bowstring",
+       1.0
+      ],
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Maple longbow (unstrung), fletched from logs",
+  "level_min": 45,
+  "level_max": 50,
+  "xp_per_hour_low": 97944,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Maple longbow (unstrung)",
+  "quote": "{{formatnum:97944}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Maple longbow (unstrung)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 46.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Maple longbow, strung",
+  "level_min": 45,
+  "level_max": 50,
+  "xp_per_hour_low": 146916,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Maple longbow",
+  "quote": "{{formatnum:146916}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Maple longbow",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 92.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Bowstring",
+       1.0
+      ],
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 167.2,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Maple logs",
+       1.0
+      ],
+      [
+       "Tempered fungal shaft",
+       5.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 92.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Chima bowstring",
+       1.0
+      ],
+      [
+       "Maple logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Acadia shortbow (unstrung), fletched from logs",
+  "level_min": 50,
+  "level_max": 55,
+  "xp_per_hour_low": 113400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Acadia shortbow (unstrung)",
+  "quote": "{{formatnum:113400}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Acadia shortbow (unstrung)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 50.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Acadia shortbow, strung",
+  "level_min": 50,
+  "level_max": 55,
+  "xp_per_hour_low": 170100,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Acadia shortbow",
+  "quote": "{{formatnum:170100}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Acadia shortbow",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 100.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ],
+      [
+       "Bowstring",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 175.2,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ],
+      [
+       "Tempered fungal shaft",
+       5.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 100.0,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ],
+      [
+       "Chima bowstring",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Acadia longbow (unstrung), fletched from logs",
+  "level_min": 55,
+  "level_max": 99,
+  "xp_per_hour_low": 126000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Acadia longbow (unstrung)",
+  "quote": "{{formatnum:126000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Acadia longbow (unstrung)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 58.3,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Acadia longbow, strung",
+  "level_min": 55,
+  "level_max": 99,
+  "xp_per_hour_low": 189000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Experience per hour table: Acadia longbow",
+  "quote": "{{formatnum:189000}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Acadia longbow",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 116.6,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ],
+      [
+       "Bowstring",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 191.8,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ],
+      [
+       "Tempered fungal shaft",
+       5.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 116.6,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Acadia logs",
+       1.0
+      ],
+      [
+       "Chima bowstring",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Adamant darts",
+  "level_min": 67,
+  "level_max": 81,
+  "xp_per_hour_low": 900000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Level 67-81: Adamant darts",
+  "quote": "This may yield approximately 900,000 xp per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Darts are members-oriented and 0.9-1.1M xp/h is an extreme best case, not realistic F2P",
+  "recipe": {
+   "output": "Adamant dart",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Adamant dart tip",
+       1.0
+      ],
+      [
+       "Feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Adamant dart tip",
+       1.0
+      ],
+      [
+       "Yellow feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Adamant dart tip",
+       1.0
+      ],
+      [
+       "Red feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Adamant dart tip",
+       1.0
+      ],
+      [
+       "Blue feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Adamant dart tip",
+       1.0
+      ],
+      [
+       "Stripy feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Adamant dart tip",
+       1.0
+      ],
+      [
+       "Orange feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 15.0,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Adamant dart tip",
+       1.0
+      ],
+      [
+       "Wimpy feather",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Fletching",
+  "method": "Rune darts",
+  "level_min": 81,
+  "level_max": 99,
+  "xp_per_hour_low": 1100000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Level 81-99: Rune darts",
+  "quote": "This may yield about 1.1 million xp per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Fletching_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Darts are members-oriented and 0.9-1.1M xp/h is an extreme best case, not realistic F2P",
+  "recipe": {
+   "output": "Rune dart",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 18.8,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Feather",
+       1.0
+      ],
+      [
+       "Rune dart tip",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 18.8,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune dart tip",
+       1.0
+      ],
+      [
+       "Yellow feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 18.8,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Red feather",
+       1.0
+      ],
+      [
+       "Rune dart tip",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 18.8,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Blue feather",
+       1.0
+      ],
+      [
+       "Rune dart tip",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 18.8,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune dart tip",
+       1.0
+      ],
+      [
+       "Stripy feather",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 18.8,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Orange feather",
+       1.0
+      ],
+      [
+       "Rune dart tip",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 18.8,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune dart tip",
+       1.0
+      ],
+      [
+       "Wimpy feather",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Magic",
+  "method": "Casting Varrock Teleport repeatedly",
+  "level_min": 25,
+  "level_max": null,
+  "xp_per_hour_low": 65000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 20-30",
+  "quote": "Approx. 65k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Varrock Teleport",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 35.0,
+     "ticks": 4,
+     "materials": [
+      [
+       "Fire rune",
+       1.0
+      ],
+      [
+       "Law rune",
+       1.0
+      ]
+     ],
+     "assumes": "a staff supplies the air runes"
+    }
+   ],
+   "match": "spell"
+  }
+ },
+ {
+  "skill": "Magic",
+  "method": "Casting Lumbridge Teleport repeatedly",
+  "level_min": 31,
+  "level_max": null,
+  "xp_per_hour_low": 75000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 31-40",
+  "quote": "Approx. 75k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Lumbridge Teleport",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 41.0,
+     "ticks": 4,
+     "materials": [
+      [
+       "Earth rune",
+       1.0
+      ],
+      [
+       "Law rune",
+       1.0
+      ]
+     ],
+     "assumes": "a staff supplies the air runes"
+    }
+   ],
+   "match": "spell"
+  }
+ },
+ {
+  "skill": "Magic",
+  "method": "Casting Falador Teleport repeatedly",
+  "level_min": 37,
+  "level_max": null,
+  "xp_per_hour_low": 88000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 31-40",
+  "quote": "Approx. 88k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Falador Teleport",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 48.0,
+     "ticks": 4,
+     "materials": [
+      [
+       "Law rune",
+       1.0
+      ],
+      [
+       "Water rune",
+       1.0
+      ]
+     ],
+     "assumes": "a staff supplies the air runes"
+    }
+   ],
+   "match": "spell"
+  }
+ },
+ {
+  "skill": "Magic",
+  "method": "Lvl-1 Enchant on sapphire necklaces",
+  "level_min": 7,
+  "level_max": 27,
+  "xp_per_hour_low": 48000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": true,
+  "requirements": "",
+  "section": "Levels 7-27",
+  "quote": "leading to ~48k magic experience per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Games necklace (8)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 17.5,
+     "ticks": 2.0,
+     "materials": [
+      [
+       "Cosmic rune",
+       1.0
+      ],
+      [
+       "Sapphire necklace",
+       1.0
+      ],
+      [
+       "Water rune",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Magic",
+  "method": "Superheat Item (bank preset)",
+  "level_min": 43,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 94000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Smithing level to smelt the bar normally",
+  "section": "Levels 40+",
+  "quote": "up to 94k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Magic",
+  "method": "High Level Alchemy",
+  "level_min": 55,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 78000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 55+",
+  "quote": "theoretical maximum of 78,000 XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Magic",
+  "method": "Air Blast on lesser demons",
+  "level_min": 60,
+  "level_max": null,
+  "xp_per_hour_low": 100000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 40+",
+  "quote": "Approx. 100k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Lesser demon"
+  ]
+ },
+ {
+  "skill": "Magic",
+  "method": "Air Blast on ankou",
+  "level_min": 60,
+  "level_max": null,
+  "xp_per_hour_low": 140000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 40+",
+  "quote": "Approx. 140k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Ankou"
+  ]
+ },
+ {
+  "skill": "Magic",
+  "method": "Air Blast on shades",
+  "level_min": 61,
+  "level_max": null,
+  "xp_per_hour_low": 115000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 40+",
+  "quote": "Approx. 115k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Shade"
+  ]
+ },
+ {
+  "skill": "Magic",
+  "method": "Air Blast on greater demons",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": 120000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 40+",
+  "quote": "Approx. 120k {{scm|Magic}} XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Greater demon"
+  ]
+ },
+ {
+  "skill": "Magic",
+  "method": "Lvl-4 Enchant on diamond amulets",
+  "level_min": 57,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 201000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 57+",
+  "quote": "theoretical maximum of 201,000 XP per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Magic_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Diamond amulet",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 83.0,
+     "ticks": 3.0,
+     "materials": [
+      [
+       "Astral rune",
+       2.0
+      ],
+      [
+       "Diamond amulet (unstrung)",
+       1.0
+      ],
+      [
+       "Earth rune",
+       10.0
+      ],
+      [
+       "Water rune",
+       5.0
+      ]
+     ]
+    }
+   ],
+   "match": "low"
+  }
+ },
+ {
+  "skill": "Mining",
+  "method": "Copper and tin rocks",
+  "level_min": 1,
+  "level_max": 10,
+  "xp_per_hour_low": 5000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 1-10: Copper/tin",
+  "quote": "should gain an experience rate equivalent to around 5,000 experience an hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Iron rocks",
+  "level_min": 10,
+  "level_max": 20,
+  "xp_per_hour_low": 15000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 10-20: Iron",
+  "quote": "Players should gain around 15,000 experience an hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Coal rocks",
+  "level_min": 20,
+  "level_max": 30,
+  "xp_per_hour_low": 25000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 20-30: Coal",
+  "quote": "players should be able to gain around 25,000 experience an hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Mithril rocks",
+  "level_min": 30,
+  "level_max": 40,
+  "xp_per_hour_low": 40000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 30-40: Mithril",
+  "quote": "for around 40,000 experience an hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Adamantite or luminite rocks",
+  "level_min": 40,
+  "level_max": 50,
+  "xp_per_hour_low": 45000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 40-50: Adamantite/Luminite",
+  "quote": "both of which give around 45,000 experience an hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Runite rocks",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 60000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 50-99+: Runite",
+  "quote": "This gives around 60,000 experience an hour, at level 50 Mining",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Shooting star (size 5 mined to the core)",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 88000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 50-110+: Shooting Star",
+  "quote": "which comes to an effective 88,000 experience per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Shooting star (skipping the last two sizes)",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 144400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 50-110+: Shooting Star",
+  "quote": "which comes to an effective 144,400 experience per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Shooting star (skipping the last two sizes), with Strong mining urn",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 172500,
+  "xp_per_hour_high": null,
+  "boosted": true,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Strong mining urn",
+  "section": "Levels 50-110+: Shooting Star",
+  "quote": "or 172,500 per hour with a [[Strong mining urn]]",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Shooting star (summary table average)",
+  "level_min": 50,
+  "level_max": 99,
+  "xp_per_hour_low": 117000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "117,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Mining clay (money making guide)",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 4200,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Mining clay",
+  "quote": "4,200 {{scm|Mining}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Mining iron ore (money making guide)",
+  "level_min": 15,
+  "level_max": null,
+  "xp_per_hour_low": 33600,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "15 Dungeoneering; 29 Combat (multicombat)",
+  "section": "Mining iron ore",
+  "quote": "33,600 {{scm|Mining}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Mining adamantite ore (money making guide)",
+  "level_min": 40,
+  "level_max": null,
+  "xp_per_hour_low": 45000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Mining adamantite ore",
+  "quote": "45,000 {{scm|Mining}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Mining luminite ore (money making guide)",
+  "level_min": 40,
+  "level_max": null,
+  "xp_per_hour_low": 57000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "15 Dungeoneering (recommended)",
+  "section": "Mining luminite ore",
+  "quote": "57,000 {{scm|Mining}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Mining",
+  "method": "Mining runite ore (money making guide)",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 60000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Mining runite ore",
+  "quote": "60,000 {{scm|Mining}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Mining_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Prayer",
+  "method": "Dragon bones + Accursed ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 473200,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"1\" | 473,200",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Dragon bones + Accursed ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 84.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Dragon bones",
+       1
+      ],
+      [
+       "Accursed ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Dragon bones + Impious ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 425600,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"2\" | 425,600",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Dragon bones + Impious ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 76,
+     "ticks": null,
+     "materials": [
+      [
+       "Dragon bones",
+       1
+      ],
+      [
+       "Impious ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Dragon bones (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 403200,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"3\" | 403,200",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Dragon bones (buried)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 72,
+     "ticks": null,
+     "materials": [
+      [
+       "Dragon bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Baby dragon bones + Accursed ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 238000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"4\" | 238,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Baby dragon bones + Accursed ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 42.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Baby dragon bones",
+       1
+      ],
+      [
+       "Accursed ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Baby dragon bones + Impious ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 190400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"5\" | 190,400",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Baby dragon bones + Impious ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 34,
+     "ticks": null,
+     "materials": [
+      [
+       "Baby dragon bones",
+       1
+      ],
+      [
+       "Impious ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Baby dragon bones (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 168000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"6\" | 168,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Baby dragon bones (buried)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 30,
+     "ticks": null,
+     "materials": [
+      [
+       "Baby dragon bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Big bones + Accursed ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 154000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"7\" | 154,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Big bones + Accursed ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 27.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Big bones",
+       1
+      ],
+      [
+       "Accursed ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Big bones + Impious ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 106400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"8\" | 106,400",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Big bones + Impious ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 19,
+     "ticks": null,
+     "materials": [
+      [
+       "Big bones",
+       1
+      ],
+      [
+       "Impious ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Bones + Accursed ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 95200,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"9\" | 95,200",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Bones + Accursed ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 17.0,
+     "ticks": null,
+     "materials": [
+      [
+       "Bones",
+       1
+      ],
+      [
+       "Accursed ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Big bones (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 84000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"10\" | 84,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Big bones (buried)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 15,
+     "ticks": null,
+     "materials": [
+      [
+       "Big bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Accursed ashes (bought, scattered)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 70000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"11\" | 70,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Accursed ashes (scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 12.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Accursed ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Bones + Impious ashes (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 47600,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"12\" | 47,600",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Bones + Impious ashes (buried, scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 8.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Bones",
+       1
+      ],
+      [
+       "Impious ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Bones (bought, buried)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 25000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"13\" | 25,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Bones (buried)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 4.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Impious ashes (bought, scattered)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 22400,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Purchasing bones and/or ashes",
+  "quote": "data-sort-value=\"14\" | 22,400",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Impious ashes (scattered)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 4,
+     "ticks": null,
+     "materials": [
+      [
+       "Impious ashes",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Dragon bones (cremated)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 272340,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Cremation ability (rare drop from ghost-like monsters)",
+  "section": "Cremation",
+  "quote": "272,340",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Dragon bones (cremated)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 180,
+     "ticks": null,
+     "materials": [
+      [
+       "Dragon bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp); cremation Prayer xp (Firemaking side xp not counted)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Baby dragon bones (cremated)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 113514,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Cremation ability (rare drop from ghost-like monsters)",
+  "section": "Cremation",
+  "quote": "113,513.514",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Baby dragon bones (cremated)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 75,
+     "ticks": null,
+     "materials": [
+      [
+       "Baby dragon bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp); cremation Prayer xp (Firemaking side xp not counted)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Big bones (cremated)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 56757,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Cremation ability (rare drop from ghost-like monsters)",
+  "section": "Cremation",
+  "quote": "56,756.76",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Big bones (cremated)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 37.5,
+     "ticks": null,
+     "materials": [
+      [
+       "Big bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp); cremation Prayer xp (Firemaking side xp not counted)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Bones (cremated)",
+  "level_min": 1,
+  "level_max": 99,
+  "xp_per_hour_low": 17027,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Cremation ability (rare drop from ghost-like monsters)",
+  "section": "Cremation",
+  "quote": "17,027.03",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Bones (cremated)",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 11.2,
+     "ticks": null,
+     "materials": [
+      [
+       "Bones",
+       1
+      ]
+     ]
+    }
+   ],
+   "match": "hand",
+   "source": "https://runescape.wiki/w/Bones, Big_bones, Baby_dragon_bones, Dragon_bones, Impious_ashes, Accursed_ashes (production data, buried/scattered xp); cremation Prayer xp (Firemaking side xp not counted)"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Impious incense sticks (wooden incense sticks + impious ashes)",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 8944,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Adding ashes to incense sticks",
+  "quote": "{{formatnum:8944}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Impious incense sticks",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 8.0,
+     "ticks": 5.0,
+     "materials": [
+      [
+       "Impious ashes",
+       2.0
+      ],
+      [
+       "Wooden incense sticks",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Impious oak incense sticks (oak incense sticks + impious ashes)",
+  "level_min": 20,
+  "level_max": null,
+  "xp_per_hour_low": 11180,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Adding ashes to incense sticks",
+  "quote": "{{formatnum:11180}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Impious oak incense sticks",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 10.0,
+     "ticks": 5.0,
+     "materials": [
+      [
+       "Impious ashes",
+       2.0
+      ],
+      [
+       "Oak incense sticks",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Impious willow incense sticks (willow incense sticks + impious ashes)",
+  "level_min": 30,
+  "level_max": null,
+  "xp_per_hour_low": 13416,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Adding ashes to incense sticks",
+  "quote": "{{formatnum:13416}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Impious willow incense sticks",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 12.0,
+     "ticks": 5.0,
+     "materials": [
+      [
+       "Impious ashes",
+       2.0
+      ],
+      [
+       "Willow incense sticks",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Prayer",
+  "method": "Accursed maple incense sticks (maple incense sticks + accursed ashes)",
+  "level_min": 40,
+  "level_max": null,
+  "xp_per_hour_low": 22360,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Adding ashes to incense sticks",
+  "quote": "{{formatnum:22360}}",
+  "source": "https://runescape.wiki/w/Free-to-play_Prayer_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "recipe": {
+   "output": "Accursed maple incense sticks",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 20.0,
+     "ticks": 5.0,
+     "materials": [
+      [
+       "Accursed ashes",
+       2.0
+      ],
+      [
+       "Maple incense sticks",
+       1.0
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Ranged",
+  "method": "Catablepon (with rune arrows, no drops picked up)",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 111000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Third floor of the Stronghold of Security",
+  "section": "Levels 50-70: Catablepon",
+  "quote": "Up to 111,000 {{scm|Ranged}} exp/hour with rune arrows at levels 70+",
+  "source": "https://runescape.wiki/w/Free-to-play_Ranged_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Duplicate of row 112 (level 70 catablepon)",
+  "drop_sources": [
+   "Catablepon"
+  ]
+ },
+ {
+  "skill": "Ranged",
+  "method": "Catablepon",
+  "level_min": 70,
+  "level_max": 99,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 111000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Third floor of the Stronghold of Security",
+  "section": "Levels 70-99: Catablepon",
+  "quote": "Up to 111,000 {{scm|Ranged}} exp/hour (assumes 360 kills/hour)",
+  "source": "https://runescape.wiki/w/Free-to-play_Ranged_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Catablepon"
+  ]
+ },
+ {
+  "skill": "Ranged",
+  "method": "Flesh Crawler",
+  "level_min": 70,
+  "level_max": 99,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 110000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 70-99: Flesh Crawler",
+  "quote": "Up to 110,000 {{scm|Ranged}} exp/hour (assumes 475 kills/hour)",
+  "source": "https://runescape.wiki/w/Free-to-play_Ranged_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Flesh Crawler"
+  ]
+ },
+ {
+  "skill": "Ranged",
+  "method": "Lesser demon",
+  "level_min": 70,
+  "level_max": 99,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 110000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "30 coins (needed to travel to Karamja or Crandor)",
+  "section": "Levels 70-99: Lesser demons",
+  "quote": "Up to 110,000 {{scm|Ranged}} exp/hour  (assumes 440 kills/hour)",
+  "source": "https://runescape.wiki/w/Free-to-play_Ranged_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Lesser demon"
+  ]
+ },
+ {
+  "skill": "Ranged",
+  "method": "Greater demon",
+  "level_min": 70,
+  "level_max": 99,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 105000,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Willing to brave the Wilderness",
+  "section": "Levels 70-99: Greater demons",
+  "quote": "Up to 105,000 {{scm|Ranged}} exp/hour  (assumes 350 kills/hour)",
+  "source": "https://runescape.wiki/w/Free-to-play_Ranged_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Greater demon"
+  ]
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Vine node (Runespan, lower level)",
+  "level_min": 17,
+  "level_max": null,
+  "xp_per_hour_low": 83000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "83,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Fireball node (Runespan, lower level)",
+  "level_min": 14,
+  "level_max": null,
+  "xp_per_hour_low": 76000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "76,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Rock fragment node (Runespan, lower level)",
+  "level_min": 9,
+  "level_max": null,
+  "xp_per_hour_low": 68500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "68,500",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Water pool node (Runespan, lower level)",
+  "level_min": 5,
+  "level_max": null,
+  "xp_per_hour_low": 64500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "64,500",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Mind storm node (Runespan, lower level)",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 56500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "56,500",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Cyclone node (Runespan, lower level)",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 56000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "56,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Siphoning nodes on island 1 (Runespan, lower level)",
+  "level_min": 1,
+  "level_max": 9,
+  "xp_per_hour_low": 16500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "can gain experience rates equivalent to around 16,500 experience an hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Siphoning nodes on island 16 (Runespan, lower level)",
+  "level_min": 9,
+  "level_max": 33,
+  "xp_per_hour_low": 26000,
+  "xp_per_hour_high": 28500,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Levels 1-110+: Runespan",
+  "quote": "Players can gain between 26,000 experience an hour, with level 9 Runecrafting, and 28,500 experience an hour, with level 33 Runecrafting",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Fleshy growth node (Runespan, middle level)",
+  "level_min": 20,
+  "level_max": null,
+  "xp_per_hour_low": 93000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "93,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Vine node (Runespan, middle level)",
+  "level_min": 17,
+  "level_max": null,
+  "xp_per_hour_low": 83000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "83,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Fire storm node (Runespan, middle level)",
+  "level_min": 27,
+  "level_max": null,
+  "xp_per_hour_low": 80000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "80,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Fireball node (Runespan, middle level)",
+  "level_min": 14,
+  "level_max": null,
+  "xp_per_hour_low": 76000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "76,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Rock fragment node (Runespan, middle level)",
+  "level_min": 9,
+  "level_max": null,
+  "xp_per_hour_low": 68500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "68,500",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Water pool node (Runespan, middle level)",
+  "level_min": 5,
+  "level_max": null,
+  "xp_per_hour_low": 64500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "64,500",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Mind storm node (Runespan, middle level)",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 56500,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "56,500",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Cyclone node (Runespan, middle level)",
+  "level_min": 1,
+  "level_max": null,
+  "xp_per_hour_low": 56000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Theoretical rate at 99 Runecrafting",
+  "section": "Middle level of Runespan",
+  "quote": "56,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "Rate is theoretical at 99 Runecrafting; invalid at the listed node level (also duplicated between lower/middle Runespan)"
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Siphoning nodes on islands 1 and 5 (Runespan, middle level)",
+  "level_min": 33,
+  "level_max": 99,
+  "xp_per_hour_low": 36000,
+  "xp_per_hour_high": 53500,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "Middle level of Runespan (33 Runecrafting)",
+  "section": "Middle level of Runespan",
+  "quote": "Players can gain between 36,000 experience an hour, with level 33 Runecrafting, and 53,500 experience an hour, with level 99 Runecrafting",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar (base)",
+  "level_min": 25,
+  "level_max": 34,
+  "xp_per_hour_low": 44100,
+  "xp_per_hour_high": 66150,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 75%",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "44,100-66,150",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar (base)",
+  "level_min": 35,
+  "level_max": 59,
+  "xp_per_hour_low": 63000,
+  "xp_per_hour_high": 94500,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 150%",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "63,000-94,500",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar (base)",
+  "level_min": 60,
+  "level_max": 69,
+  "xp_per_hour_low": 75600,
+  "xp_per_hour_high": 113400,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 200%",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "75,600-113,400",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar (base)",
+  "level_min": 70,
+  "level_max": 94,
+  "xp_per_hour_low": 88200,
+  "xp_per_hour_high": 132300,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 250%",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "88,200-132,300",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar (base)",
+  "level_min": 95,
+  "level_max": 104,
+  "xp_per_hour_low": 94500,
+  "xp_per_hour_high": 141750,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 275%",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "94,500-141,750",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar (base)",
+  "level_min": 105,
+  "level_max": 105,
+  "xp_per_hour_low": 100800,
+  "xp_per_hour_high": 151200,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 300%",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "100,800-151,200",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar, with Plain runecrafting urn",
+  "level_min": 20,
+  "level_max": 24,
+  "xp_per_hour_low": 28080,
+  "xp_per_hour_high": 42120,
+  "boosted": true,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 0%; Plain runecrafting urn",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "28,080-42,120",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar, with Plain runecrafting urn",
+  "level_min": 25,
+  "level_max": 34,
+  "xp_per_hour_low": 49140,
+  "xp_per_hour_high": 73710,
+  "boosted": true,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 75%; Plain runecrafting urn",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "49,140-73,710",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar, with Plain runecrafting urn",
+  "level_min": 35,
+  "level_max": 59,
+  "xp_per_hour_low": 70200,
+  "xp_per_hour_high": 105300,
+  "boosted": true,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 150%; Plain runecrafting urn",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "70,200-105,300",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar, with Plain runecrafting urn",
+  "level_min": 60,
+  "level_max": 69,
+  "xp_per_hour_low": 84240,
+  "xp_per_hour_high": 126360,
+  "boosted": true,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 200%; Plain runecrafting urn",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "84,240-126,360",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar, with Plain runecrafting urn",
+  "level_min": 70,
+  "level_max": 94,
+  "xp_per_hour_low": 98280,
+  "xp_per_hour_high": 147420,
+  "boosted": true,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 250%; Plain runecrafting urn",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "98,280-147,420",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar, with Plain runecrafting urn",
+  "level_min": 95,
+  "level_max": 104,
+  "xp_per_hour_low": 105300,
+  "xp_per_hour_high": 157950,
+  "boosted": true,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 275%; Plain runecrafting urn",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "105,300-157,950",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Runecrafting",
+  "method": "Body runes at body altar, with Plain runecrafting urn",
+  "level_min": 105,
+  "level_max": 105,
+  "xp_per_hour_low": 112320,
+  "xp_per_hour_high": 168480,
+  "boosted": true,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "Savvy 300%; Plain runecrafting urn",
+  "section": "Levels 20-110+: Body Rune",
+  "quote": "112,320-168,480",
+  "source": "https://runescape.wiki/w/Free-to-play_Runecrafting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false,
+  "recipe": {
+   "output": "Body rune",
+   "variants": [
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Rune essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 7.5,
+     "ticks": 1.0,
+     "materials": [
+      [
+       "Pure essence",
+       1.0
+      ]
+     ]
+    },
+    {
+     "output_qty": 1,
+     "xp": 5.625,
+     "ticks": null,
+     "materials": [
+      [
+       "Exalted essence",
+       0.25
+      ]
+     ]
+    }
+   ],
+   "match": "high"
+  }
+ },
+ {
+  "skill": "Smithing",
+  "method": "Smithing rune burial sets (Artisans' Workshop)",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 170000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": true,
+  "afk": null,
+  "requirements": "59 Smithing for full-heat rune items; Artisans' Workshop",
+  "section": "Artisans' Workshop",
+  "quote": "smithing rune burial sets yields about 170,000 xp per hour",
+  "source": "https://runescape.wiki/w/Free-to-play_Smithing_training",
+  "solo": true,
+  "regular_training": false,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": true,
+  "review_note": "level_min 50 below stated 59 Smithing requirement; Artisans' Workshop is membership content"
+ },
+ {
+  "skill": "Woodcutting",
+  "method": "Regular trees",
+  "level_min": 1,
+  "level_max": 10,
+  "xp_per_hour_low": 9000,
+  "xp_per_hour_high": 17000,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "|9,000 - 17,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Woodcutting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Woodcutting",
+  "method": "Oak trees",
+  "level_min": 10,
+  "level_max": 20,
+  "xp_per_hour_low": 13000,
+  "xp_per_hour_high": 20000,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "|13,000 - 20,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Woodcutting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Woodcutting",
+  "method": "Willow trees",
+  "level_min": 20,
+  "level_max": null,
+  "xp_per_hour_low": 17000,
+  "xp_per_hour_high": 69000,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "|17,000 - 69,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Woodcutting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Woodcutting",
+  "method": "Teak trees",
+  "level_min": 30,
+  "level_max": null,
+  "xp_per_hour_low": 28500,
+  "xp_per_hour_high": 83000,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "|28,500 - 83,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Woodcutting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": true,
+  "review_note": "Teak trees require membership"
+ },
+ {
+  "skill": "Woodcutting",
+  "method": "Maple trees",
+  "level_min": 40,
+  "level_max": null,
+  "xp_per_hour_low": 38000,
+  "xp_per_hour_high": 80000,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "|38,000 - 80,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Woodcutting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Woodcutting",
+  "method": "Acadia trees",
+  "level_min": 50,
+  "level_max": null,
+  "xp_per_hour_low": 51000,
+  "xp_per_hour_high": 84000,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "|51,000 - 84,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Woodcutting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": false
+ },
+ {
+  "skill": "Woodcutting",
+  "method": "Yew trees",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": 50000,
+  "xp_per_hour_high": 77000,
+  "boosted": false,
+  "bought_supplies": false,
+  "afk": null,
+  "requirements": "",
+  "section": "Summary",
+  "quote": "|50,000 - 77,000",
+  "source": "https://runescape.wiki/w/Free-to-play_Woodcutting_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "range",
+  "suspicious": true,
+  "review_note": "Yew trees need 60 Woodcutting; level_min 70 is odd"
+ },
+ {
+  "skill": "Melee",
+  "method": "Troll chucker",
+  "level_min": 1,
+  "level_max": 20,
+  "xp_per_hour_low": 35000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Level 1 to 20: Troll chucker",
+  "quote": "Around 35,000 xp/h",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Troll chucker"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Warped cockroach, Corpse spider",
+  "level_min": 1,
+  "level_max": 20,
+  "xp_per_hour_low": 20000,
+  "xp_per_hour_high": null,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "Completion of The Blood Pact quest",
+  "section": "Level 1 to 20: Warped cockroach, Corpse spider",
+  "quote": "Around 20,000 exp/h",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "typical",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Corpse spider",
+   "Warped cockroach"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Clan Wars free-for-all (white portal, world 3)",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 160000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Level 70+: Clan Wars free-for-all (white portal)",
+  "quote": "Up to 160,000 exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false
+ },
+ {
+  "skill": "Melee",
+  "method": "Poison spider",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 90000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": true,
+  "requirements": "",
+  "section": "Level 70+: Poison spider",
+  "quote": "Up to 90,000 {{scm|Attack}} ''',''' {{scm|Strength}} '''or''' {{scm|Defence}} exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Poison spider"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Giant spider",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 170000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "Access to Stronghold of Security",
+  "section": "Level 70+: Giant spider",
+  "quote": "Up to 170,000 {{scm|Attack}} ''',''' {{scm|Strength}} '''or''' {{scm|Defence}} exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Giant spider"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Ice giant, Ice warrior",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 135000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Level 70+: Ice giant, Ice warrior",
+  "quote": "Up to 135,000 {{scm|Attack}} ''',''' {{scm|Strength}} '''or''' {{scm|Defence}} exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Ice giant",
+   "Ice warrior"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Ankou, Ghost",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 200000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "Partial completion of the Stronghold of Security",
+  "section": "Level 70+: Ankou, Ghost",
+  "quote": "Up to 200,000 {{scm|Attack}} ''',''' {{scm|Strength}} '''or''' {{scm|Defence}} exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Ankou",
+   "Ghost"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Deadly red spider",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 114000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Level 70+: Deadly red spider",
+  "quote": "Up to 114,000 {{scm|Attack}} ''',''' {{scm|Strength}} '''or''' {{scm|Defence}} exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Deadly red spider"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Hellhound",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 124000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "",
+  "section": "Level 70+: Hellhound",
+  "quote": "Up to 124,000 {{scm|Attack}} ''',''' {{scm|Strength}} '''or''' {{scm|Defence}} exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Hellhound"
+  ]
+ },
+ {
+  "skill": "Melee",
+  "method": "Ivar, King of Bones",
+  "level_min": 70,
+  "level_max": null,
+  "xp_per_hour_low": null,
+  "xp_per_hour_high": 150000,
+  "boosted": false,
+  "bought_supplies": null,
+  "afk": null,
+  "requirements": "Visions of Havenhythe",
+  "section": "Level 70+: Ivar, King of Bones",
+  "quote": "Up to 150,000 {{scm|Attack}} ''',''' {{scm|Strength}} '''or''' {{scm|Defence}} exp/hour",
+  "source": "https://runescape.wiki/w/Free-to-play_melee_training",
+  "solo": true,
+  "regular_training": true,
+  "figure": "max",
+  "low_high_meaning": "single",
+  "suspicious": false,
+  "drop_sources": [
+   "Ivar, King of Bones"
+  ]
+ }
+]

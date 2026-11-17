@@ -1,0 +1,7 @@
+{
+ "source": "Hand-written from RuneScape Wiki NPC pages (CC BY-NC-SA 3.0)",
+ "note": "Coin sellers the Storeline bucket lacks because they sell through dialogue, not a shop interface. Same shape as shops.json offers: [shop, stock per transaction, price in gp, members]. Merged into gathering.tables_shops().",
+ "items": {
+  "Woad leaf": [["Wyson the gardener (Falador Park, dialogue)", 10000, 25.0, false]]
+ }
+}

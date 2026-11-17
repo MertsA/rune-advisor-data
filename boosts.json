@@ -1,0 +1,1593 @@
+{
+ "source": "https://runescape.wiki/w/Temporary_skill_boost (CC BY-NC-SA 3.0)",
+ "boosts": [
+  {
+   "name": "Super melee potion",
+   "label": "Super melee potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Super warmaster's potion",
+   "label": "Super warmaster's potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Extreme brawler's potion",
+   "label": "Extreme brawler's potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Extreme battlemage's potion",
+   "label": "Extreme battlemage's potion",
+   "skills": [
+    "Magic",
+    "Defence"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Extreme sharpshooter's potion",
+   "label": "Extreme sharpshooter's potion",
+   "skills": [
+    "Ranged",
+    "Defence"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Extreme warmaster's potion",
+   "label": "Extreme warmaster's potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Overload",
+   "label": "Overload",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": true
+  },
+  {
+   "name": "Holy overload potion",
+   "label": "Holy overload potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": true
+  },
+  {
+   "name": "Searing overload potion",
+   "label": "Searing overload potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": true
+  },
+  {
+   "name": "Overload salve",
+   "label": "Overload salve",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": true
+  },
+  {
+   "name": "Aggroverload",
+   "label": "Aggroverload",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": true
+  },
+  {
+   "name": "Holy aggroverload",
+   "label": "Holy aggroverload",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": true
+  },
+  {
+   "name": "Supreme overload potion",
+   "label": "Supreme overload potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 4,
+   "percent": 16.0,
+   "static": true
+  },
+  {
+   "name": "Supreme overload salve",
+   "label": "Supreme overload salve",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 4,
+   "percent": 16.0,
+   "static": true
+  },
+  {
+   "name": "Elder overload potion",
+   "label": "Elder overload potion",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 5,
+   "percent": 17.0,
+   "static": true
+  },
+  {
+   "name": "Elder overload salve",
+   "label": "Elder overload salve",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Defence",
+    "Magic",
+    "Ranged",
+    "Necromancy"
+   ],
+   "flat": 5,
+   "percent": 17.0,
+   "static": true
+  },
+  {
+   "name": "Sugar skull",
+   "label": "Sugar skull or Toffee apple",
+   "skills": [
+    "Hitpoints",
+    "Invention",
+    "Prayer",
+    "Summoning",
+    "Archaeology"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Jitterberry",
+   "label": "Jitterberry",
+   "skills": [
+    "Agility"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Spirit terrorbird",
+   "label": "Spirit Terrorbird scroll (Tireless Run)",
+   "skills": [
+    "Agility"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Agility potion",
+   "label": "Agility potion (or mix)",
+   "skills": [
+    "Agility"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Stamina potion",
+   "label": "Stamina potion",
+   "skills": [
+    "Agility"
+   ],
+   "flat": 6,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Abyssal lurker",
+   "label": "Abyssal Lurker scroll (Abyssal Stealth)",
+   "skills": [
+    "Agility",
+    "Thieving"
+   ],
+   "flat": 4,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Summer pie",
+   "label": "Summer pie",
+   "skills": [
+    "Agility"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Mead",
+   "label": "Mead",
+   "skills": [
+    "Agility"
+   ],
+   "flat": 1,
+   "percent": 1.0,
+   "static": false
+  },
+  {
+   "name": "Mature mead",
+   "label": "Mature mead",
+   "skills": [
+    "Agility"
+   ],
+   "flat": 2,
+   "percent": 1.0,
+   "static": false
+  },
+  {
+   "name": "Cup of soil tea",
+   "label": "Cup of soil tea",
+   "skills": [
+    "Archaeology"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Archaeology potion",
+   "label": "Archaeology potion",
+   "skills": [
+    "Archaeology"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Attack potion",
+   "label": "Attack potion (or mix)",
+   "skills": [
+    "Attack"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Super attack",
+   "label": "Super attack (or mix)",
+   "skills": [
+    "Attack"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Extreme attack",
+   "label": "Extreme attack",
+   "skills": [
+    "Attack"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Zamorak brew",
+   "label": "Zamorak brew (or Zamorak mix)",
+   "skills": [
+    "Attack",
+    "Strength"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Super Zamorak brew",
+   "label": "Super Zamorak brew",
+   "skills": [
+    "Attack",
+    "Strength",
+    "Ranged",
+    "Magic",
+    "Necromancy"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Combat potion",
+   "label": "Combat potion (or mix)",
+   "skills": [
+    "Attack",
+    "Strength"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Rumberry",
+   "label": "Rumberry",
+   "skills": [
+    "Attack"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Grand attack potion",
+   "label": "Grand attack potion",
+   "skills": [
+    "Attack"
+   ],
+   "flat": 2,
+   "percent": 14.0,
+   "static": false
+  },
+  {
+   "name": "Supreme attack potion",
+   "label": "Supreme attack potion",
+   "skills": [
+    "Attack"
+   ],
+   "flat": 4,
+   "percent": 16.0,
+   "static": false
+  },
+  {
+   "name": "Chef's delight",
+   "label": "Chef's delight",
+   "skills": [
+    "Cooking"
+   ],
+   "flat": 1,
+   "percent": 5.0,
+   "static": false
+  },
+  {
+   "name": "Chef's delight (m)",
+   "label": "Mature chef's delight",
+   "skills": [
+    "Cooking"
+   ],
+   "flat": 2,
+   "percent": 5.0,
+   "static": false
+  },
+  {
+   "name": "Cooking potion",
+   "label": "Cooking potion",
+   "skills": [
+    "Cooking"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super cooking potion",
+   "label": "Super cooking potion",
+   "skills": [
+    "Cooking"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Squiffberry",
+   "label": "Squiffberry",
+   "skills": [
+    "Cooking"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Crafting potion",
+   "label": "Crafting potion",
+   "skills": [
+    "Crafting"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Defence potion",
+   "label": "Defence potion (or mix)",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Super defence",
+   "label": "Super defence (or mix)",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Extreme defence",
+   "label": "Extreme defence",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Saradomin brew",
+   "label": "Saradomin brew / Dom saradomin brew",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 1,
+   "percent": 4.0,
+   "static": false
+  },
+  {
+   "name": "Super Saradomin brew",
+   "label": "Super Saradomin brew",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 1,
+   "percent": 6.0,
+   "static": false
+  },
+  {
+   "name": "War Tortoise scroll (Testudo)",
+   "label": "War Tortoise scroll (Testudo)",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 8,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Elemental Titan scroll (Titan's Constitution)",
+   "label": "Elemental Titan scroll (Titan's Constitution)",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 4,
+   "percent": 10.0,
+   "static": false
+  },
+  {
+   "name": "Grand defence potion",
+   "label": "Grand defence potion",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 2,
+   "percent": 14.0,
+   "static": false
+  },
+  {
+   "name": "Supreme defence potion",
+   "label": "Supreme defence potion",
+   "skills": [
+    "Defence"
+   ],
+   "flat": 4,
+   "percent": 16.0,
+   "static": false
+  },
+  {
+   "name": "Divination potion",
+   "label": "Divination potion",
+   "skills": [
+    "Divination"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super divination",
+   "label": "Super divination",
+   "skills": [
+    "Divination"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Meloberry",
+   "label": "Meloberry",
+   "skills": [
+    "Divination"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Dreadfowl",
+   "label": "Dreadfowl",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 1,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Compost mound",
+   "label": "Compost mound",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 1,
+   "percent": 2.0,
+   "static": false
+  },
+  {
+   "name": "Stranger plant",
+   "label": "Stranger plant",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 1,
+   "percent": 4.0,
+   "static": false
+  },
+  {
+   "name": "Cider",
+   "label": "Cider",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 1,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Mature cider",
+   "label": "Mature cider",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Cocoaberry",
+   "label": "Cocoaberry",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Garden pie",
+   "label": "Garden pie",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Pork pie",
+   "label": "Pork pie",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Pigswill",
+   "label": "Pigswill",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Mature pigswill",
+   "label": "Mature pigswill",
+   "skills": [
+    "Farming"
+   ],
+   "flat": 4,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Smoulderberry",
+   "label": "Smoulderberry",
+   "skills": [
+    "Firemaking"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Fishing potion",
+   "label": "Fishing potion (or mix)",
+   "skills": [
+    "Fishing"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super fishing potion",
+   "label": "Super fishing potion",
+   "skills": [
+    "Fishing"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Fishstabber",
+   "label": "Fishstabber",
+   "skills": [
+    "Fishing"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Fish pie",
+   "label": "Fish pie",
+   "skills": [
+    "Fishing"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Admiral pie",
+   "label": "Admiral pie",
+   "skills": [
+    "Fishing"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Stormberry",
+   "label": "Stormberry",
+   "skills": [
+    "Fishing"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Squeck juice",
+   "label": "Squeck juice",
+   "skills": [
+    "Fishing"
+   ],
+   "flat": 1,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Fletching potion",
+   "label": "Fletching potion",
+   "skills": [
+    "Fletching"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Greenman's ale",
+   "label": "Greenman's ale",
+   "skills": [
+    "Herblore"
+   ],
+   "flat": 1,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Greenman's ale (m)",
+   "label": "Mature Greenman's ale",
+   "skills": [
+    "Herblore"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Gloomberry",
+   "label": "Gloomberry",
+   "skills": [
+    "Herblore"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Hunter potion",
+   "label": "Hunter potion (or mix)",
+   "skills": [
+    "Hunter"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super hunter",
+   "label": "Super hunter",
+   "skills": [
+    "Hunter"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Mournberry",
+   "label": "Mournberry",
+   "skills": [
+    "Hunter"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Invention potion",
+   "label": "Invention potion",
+   "skills": [
+    "Invention"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super invention",
+   "label": "Super invention",
+   "skills": [
+    "Invention"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Elidinis Statuette",
+   "label": "Elidinis Statuette",
+   "skills": [
+    "Life points"
+   ],
+   "flat": 500,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Fireberry",
+   "label": "Fireberry",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Magic essence potion",
+   "label": "Magic essence potion (or mix)",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Wizard's mind bomb",
+   "label": "Wizard's mind bomb",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 2,
+   "percent": 2.0,
+   "static": false
+  },
+  {
+   "name": "Wizard's mind bomb (m)",
+   "label": "Mature wizard's mind bomb",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 3,
+   "percent": 2.0,
+   "static": false
+  },
+  {
+   "name": "Magic potion",
+   "label": "Magic potion (or mix)",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Vecna skull",
+   "label": "Vecna skull",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 2,
+   "percent": 10.0,
+   "static": false
+  },
+  {
+   "name": "Super magic potion",
+   "label": "Super magic potion (or mix)",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Extreme magic",
+   "label": "Extreme magic",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Wolpertinger",
+   "label": "Wolpertinger scroll (Magic Focus)",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 7,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Grand magic potion",
+   "label": "Grand magic potion",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 2,
+   "percent": 14.0,
+   "static": false
+  },
+  {
+   "name": "Supreme magic potion",
+   "label": "Supreme magic potion",
+   "skills": [
+    "Magic"
+   ],
+   "flat": 4,
+   "percent": 16.0,
+   "static": false
+  },
+  {
+   "name": "Stoneberry",
+   "label": "Stoneberry",
+   "skills": [
+    "Mining"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Mining potion",
+   "label": "Mining potion",
+   "skills": [
+    "Mining"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super mining potion",
+   "label": "Super mining potion",
+   "skills": [
+    "Mining"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Dwarven stout",
+   "label": "Dwarven stout",
+   "skills": [
+    "Mining",
+    "Smithing"
+   ],
+   "flat": 1,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Dwarven stout (m)",
+   "label": "Mature dwarven stout",
+   "skills": [
+    "Mining",
+    "Smithing"
+   ],
+   "flat": 2,
+   "percent": 1.0,
+   "static": false
+  },
+  {
+   "name": "Necromancy potion",
+   "label": "Necromancy potion",
+   "skills": [
+    "Necromancy"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Super necromancy",
+   "label": "Super necromancy",
+   "skills": [
+    "Necromancy"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Extreme necromancy",
+   "label": "Extreme necromancy",
+   "skills": [
+    "Necromancy"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Wendlewick ale",
+   "label": "Wendlewick ale",
+   "skills": [
+    "Prayer"
+   ],
+   "flat": 2,
+   "percent": 1.0,
+   "static": false
+  },
+  {
+   "name": "Wendlewick ale (m)",
+   "label": "Wendlewick ale (m)",
+   "skills": [
+    "Prayer"
+   ],
+   "flat": 3,
+   "percent": 1.0,
+   "static": false
+  },
+  {
+   "name": "Ranging potion",
+   "label": "Ranging potion (or mix)",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Super ranging potion",
+   "label": "Super ranging potion (or mix)",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Extreme ranging",
+   "label": "Extreme ranging",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Geyser titan",
+   "label": "Geyser titan",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 1,
+   "percent": 3.0,
+   "static": false
+  },
+  {
+   "name": "Ranger's aid",
+   "label": "Ranger's aid",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Ranger's aid (m)",
+   "label": "Mature ranger's aid",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Grand ranging potion",
+   "label": "Grand ranging potion",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 2,
+   "percent": 14.0,
+   "static": false
+  },
+  {
+   "name": "Exuberry",
+   "label": "Exuberry",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Supreme ranging potion",
+   "label": "Supreme ranging potion",
+   "skills": [
+    "Ranged"
+   ],
+   "flat": 4,
+   "percent": 16.0,
+   "static": false
+  },
+  {
+   "name": "Slayer's respite",
+   "label": "Slayer's respite",
+   "skills": [
+    "Slayer"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Slayer's respite (m)",
+   "label": "Mature slayer's respite",
+   "skills": [
+    "Slayer"
+   ],
+   "flat": 4,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Runecrafting potion",
+   "label": "Runecrafting potion",
+   "skills": [
+    "Runecraft"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super runecrafting",
+   "label": "Super runecrafting",
+   "skills": [
+    "Runecraft"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Blisterberry",
+   "label": "Blisterberry",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Blurberry Special",
+   "label": "Blurberry Special/Premade Blurberry Special",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 7,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Drunk Dragon",
+   "label": "Drunk Dragon/Premade Drunk Dragon",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 7,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Wizard Blizzard",
+   "label": "Wizard Blizzard/Premade Wizard Blizzard",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 6,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Short Green Guy",
+   "label": "Short Green Guy/Premade Short Green Guy",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 4,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Asgarnian ale",
+   "label": "Asgarnian ale",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Asgarnian ale (m)",
+   "label": "Mature Asgarnian ale",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Beer",
+   "label": "Beer",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 1,
+   "percent": 2.0,
+   "static": false
+  },
+  {
+   "name": "Dragon bitter",
+   "label": "Dragon bitter",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Dragon bitter (m)",
+   "label": "Mature dragon bitter",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Grog",
+   "label": "Grog",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 4,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Karamjan rum",
+   "label": "Karamjan rum",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Brandy",
+   "label": "Brandy / Gin / Vodka / Whisky",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Strength potion",
+   "label": "Strength potion (or mix)",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 1,
+   "percent": 8.0,
+   "static": false
+  },
+  {
+   "name": "Super strength",
+   "label": "Super strength (or mix)",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 2,
+   "percent": 12.0,
+   "static": false
+  },
+  {
+   "name": "Extreme strength",
+   "label": "Extreme strength",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 3,
+   "percent": 15.0,
+   "static": false
+  },
+  {
+   "name": "Obsidian Golem scroll (Volcanic Strength)",
+   "label": "Obsidian Golem scroll (Volcanic Strength)",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 9,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Grand strength potion",
+   "label": "Grand strength potion",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 2,
+   "percent": 14.0,
+   "static": false
+  },
+  {
+   "name": "Supreme strength potion",
+   "label": "Supreme strength potion",
+   "skills": [
+    "Strength"
+   ],
+   "flat": 4,
+   "percent": 16.0,
+   "static": false
+  },
+  {
+   "name": "Musaberry",
+   "label": "Musaberry",
+   "skills": [
+    "Summoning"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Bandit's brew",
+   "label": "Bandit's brew",
+   "skills": [
+    "Thieving",
+    "Attack"
+   ],
+   "flat": 1,
+   "percent": 1.0,
+   "static": false
+  },
+  {
+   "name": "Magpie",
+   "label": "Magpie scroll (Thieving Fingers)",
+   "skills": [
+    "Thieving"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Spring sq'irkjuice",
+   "label": "Spring sq'irkjuice",
+   "skills": [
+    "Thieving"
+   ],
+   "flat": 1,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Autumn sq'irkjuice",
+   "label": "Autumn sq'irkjuice",
+   "skills": [
+    "Thieving"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Summer sq'irkjuice",
+   "label": "Summer sq'irkjuice",
+   "skills": [
+    "Thieving"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Sourberry",
+   "label": "Sourberry",
+   "skills": [
+    "Thieving"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Axeman's folly",
+   "label": "Axeman's folly",
+   "skills": [
+    "Woodcutting"
+   ],
+   "flat": 1,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Axeman's folly (m)",
+   "label": "Mature axeman's folly",
+   "skills": [
+    "Woodcutting"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Rosaberry",
+   "label": "Rosaberry",
+   "skills": [
+    "Woodcutting"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Woodcutting potion",
+   "label": "Woodcutting potion",
+   "skills": [
+    "Woodcutting"
+   ],
+   "flat": 3,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Super woodcutting potion",
+   "label": "Super woodcutting potion",
+   "skills": [
+    "Woodcutting"
+   ],
+   "flat": 5,
+   "percent": 0.0,
+   "static": false
+  },
+  {
+   "name": "Extreme invention",
+   "label": "Extreme invention (+1 per 150,000 Invention xp, up to +17; held for 6 minutes a dose)",
+   "skills": [
+    "Invention"
+   ],
+   "flat": 17,
+   "percent": 0.0,
+   "static": true,
+   "minutes": 6,
+   "xp_per_level": 150000
+  },
+  {
+   "name": "God banner",
+   "label": "God banner powerup (daily, 30 minutes)",
+   "skills": [
+    "Fishing",
+    "Mining",
+    "Runecraft",
+    "Crafting",
+    "Woodcutting",
+    "Firemaking",
+    "Fletching",
+    "Construction",
+    "Hunter",
+    "Thieving",
+    "Cooking",
+    "Herblore",
+    "Smithing",
+    "Farming",
+    "Divination",
+    "Archaeology"
+   ],
+   "flat": 2,
+   "percent": 0.0,
+   "static": true,
+   "daily_minutes": 30
+  }
+ ]
+}

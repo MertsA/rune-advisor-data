@@ -1,0 +1,31 @@
+{
+ "source": "RuneScape Wiki, Repeatable events: Weekly free claims (CC BY-NC-SA 3.0); hand-written",
+ "note": "Free noted supplies an NPC hands over once a week (7 days after the last claim). `tiers`: the best one the player meets counts; a tier needs its achievement (an area task set) and/or quest. `choice`: claims at one NPC where only one of the items can be taken each week.",
+ "claims": [
+  {"item": "Flax", "npc": "Geoffrey in Seers' Village", "tiers": [
+   {"achievement": "Seers' Village Set Tasks - Easy", "qty": 210},
+   {"achievement": "Seers' Village Set Tasks - Medium", "qty": 420},
+   {"achievement": "Seers' Village Set Tasks - Hard", "qty": 840},
+   {"achievement": "Seers' Village Set Tasks - Elite", "qty": 1400}]},
+  {"item": "Potato cactus", "npc": "the Weird Old Man by the Kalphite Lair", "tiers": [
+   {"achievement": "Desert Set Tasks - Medium", "qty": 140},
+   {"achievement": "Desert Set Tasks - Hard", "qty": 210},
+   {"achievement": "Desert Set Tasks - Elite", "qty": 280}]},
+  {"item": "Pineapple", "npc": "Dell Monti in Brimhaven", "tiers": [
+   {"achievement": "Karamja Set Tasks - Easy", "qty": 140}]},
+  {"item": "Cooking apple", "npc": "Dell Monti in Brimhaven", "tiers": [
+   {"achievement": "Karamja Set Tasks - Elite", "qty": 140}]},
+  {"item": "Pure essence", "npc": "Wizard Cromperty in Ardougne", "tiers": [
+   {"achievement": "Ardougne Set Tasks - Medium", "qty": 700},
+   {"achievement": "Ardougne Set Tasks - Hard", "qty": 1050}]},
+  {"item": "Bucket of sand", "npc": "Bert in Yanille (sent to the bank)", "tiers": [
+   {"quest": "The Hand in the Sand", "qty": 294},
+   {"quest": "The Hand in the Sand", "achievement": "Ardougne Set Tasks - Elite", "qty": 420}]},
+  {"item": "Plank", "npc": "Razmire in Mort'ton", "choice": "Razmire's planks", "tiers": [
+   {"achievement": "Morytania Set Tasks - Medium", "qty": 210}]},
+  {"item": "Oak plank", "npc": "Razmire in Mort'ton", "choice": "Razmire's planks", "tiers": [
+   {"achievement": "Morytania Set Tasks - Medium", "qty": 140}]},
+  {"item": "Teak plank", "npc": "Razmire in Mort'ton", "choice": "Razmire's planks", "tiers": [
+   {"achievement": "Morytania Set Tasks - Medium", "qty": 70}]}
+ ]
+}

@@ -1,0 +1,2444 @@
+{
+ "source": "RuneScape Wiki calculator modules (Module:SkillUtils/TreeData, Module:SkillUtils/HatchetData, Module:MS Data, Module:MiningPicks/Data) and Bucket:Infobox_ore, CC BY-NC-SA 3.0",
+ "trees": [
+  {
+   "name": "Tree",
+   "logs": "Logs",
+   "level": 1,
+   "xp": 25,
+   "chance": 64,
+   "ratio": 31250,
+   "fell": 96,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Achey Tree",
+   "logs": "Achey tree logs",
+   "level": 1,
+   "xp": 25,
+   "chance": 64,
+   "ratio": 31250,
+   "fell": -1,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Oak",
+   "logs": "Oak logs",
+   "level": 10,
+   "xp": 37.5,
+   "chance": 32,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Willow",
+   "logs": "Willow logs",
+   "level": 20,
+   "xp": 67.5,
+   "chance": 16,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Teak",
+   "logs": "Teak logs",
+   "level": 30,
+   "xp": 85,
+   "chance": 15,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Maple Tree",
+   "logs": "Maple logs",
+   "level": 40,
+   "xp": 100,
+   "chance": 12.5,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Hollow tree",
+   "logs": "Bark",
+   "level": 45,
+   "xp": 82.5,
+   "chance": 12,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Acadia tree",
+   "logs": "Acadia logs",
+   "level": 50,
+   "xp": 80,
+   "chance": 16,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": true,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Mahogany",
+   "logs": "Mahogany logs",
+   "level": 60,
+   "xp": 125,
+   "chance": 9.5,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Arctic Pine",
+   "logs": "Arctic pine logs",
+   "level": 54,
+   "xp": 145,
+   "chance": 8,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Eucalyptus tree",
+   "logs": "Eucalyptus logs",
+   "level": 58,
+   "xp": 165,
+   "chance": 7,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Yew",
+   "logs": "Yew logs",
+   "level": 70,
+   "xp": 187.5,
+   "chance": 6,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Ivy",
+   "logs": null,
+   "level": 68,
+   "xp": 332.5,
+   "chance": 7,
+   "ratio": 18500,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Magic tree",
+   "logs": "Magic logs",
+   "level": 80,
+   "xp": 365,
+   "chance": 3,
+   "ratio": 31250,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Blisterwood Tree",
+   "logs": "Blisterwood logs",
+   "level": 76,
+   "xp": 265,
+   "chance": 4,
+   "ratio": 31250,
+   "fell": 64,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Jade root (straight)",
+   "logs": "Straight root",
+   "level": 83,
+   "xp": 80.8,
+   "chance": 15,
+   "ratio": 31250,
+   "fell": -1,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Jade root (curly)",
+   "logs": "Curly root",
+   "level": 83,
+   "xp": 80.8,
+   "chance": 15,
+   "ratio": 31250,
+   "fell": -1,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Jade root (mutated)",
+   "logs": "Mutated vine",
+   "level": 83,
+   "xp": 161.6,
+   "chance": 8,
+   "ratio": 31250,
+   "fell": -1,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Bloodwood tree",
+   "logs": "Bloodwood logs",
+   "level": 85,
+   "xp": 320,
+   "chance": 12,
+   "ratio": 31250,
+   "fell": 64,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Elder tree",
+   "logs": "Elder logs",
+   "level": 90,
+   "xp": 425,
+   "chance": 2.5,
+   "ratio": 31250,
+   "fell": 0,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  },
+  {
+   "name": "Bamboo (tree)",
+   "logs": "Bamboo",
+   "level": 90,
+   "xp": 202.5,
+   "chance": 9,
+   "ratio": 15000,
+   "fell": 8,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Crystal tree",
+   "logs": null,
+   "level": 94,
+   "xp": 350,
+   "chance": 7,
+   "ratio": 18500,
+   "fell": 32,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Golden Bamboo (tree)",
+   "logs": "Golden bamboo",
+   "level": 96,
+   "xp": 655.5,
+   "chance": 3.6,
+   "ratio": 31250,
+   "fell": 0,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Branching crystal",
+   "logs": "Crystal fragment",
+   "level": 80,
+   "xp": 160,
+   "chance": 7,
+   "ratio": 31250,
+   "fell": -1,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Overgrown idol",
+   "logs": null,
+   "level": 81,
+   "xp": 315,
+   "chance": 4,
+   "ratio": 31250,
+   "fell": 0,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": false
+  },
+  {
+   "name": "Tree (Big Game Hunter)",
+   "logs": "Jungle logs",
+   "level": 1,
+   "xp": 1,
+   "chance": 14,
+   "ratio": 31250,
+   "fell": 0,
+   "is_menaphos": null,
+   "is_bgh_tree": true,
+   "can_crystallise": false
+  },
+  {
+   "name": "Jungle vines",
+   "logs": "Vine",
+   "level": 1,
+   "xp": 1,
+   "chance": 7,
+   "ratio": 18000,
+   "fell": 0,
+   "is_menaphos": null,
+   "is_bgh_tree": true,
+   "can_crystallise": false
+  },
+  {
+   "name": "Eternal magic tree",
+   "logs": "Eternal magic logs",
+   "level": 100,
+   "xp": 635,
+   "chance": 3.2,
+   "ratio": 31250,
+   "fell": 0,
+   "is_menaphos": null,
+   "is_bgh_tree": null,
+   "can_crystallise": true
+  }
+ ],
+ "hatchets": [
+  {
+   "label": "Bronze",
+   "level": 1,
+   "power": 100,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Dwarven army axe",
+   "level": 1,
+   "power": 100,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Iron",
+   "level": 10,
+   "power": 200,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Steel",
+   "level": 20,
+   "power": 300,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Black",
+   "level": 25,
+   "power": 350,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Mithril",
+   "level": 30,
+   "power": 420,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Adamant",
+   "level": 40,
+   "power": 525,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Rune",
+   "level": 50,
+   "power": 630,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Sacred clay",
+   "level": 50,
+   "power": 630,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Volatile clay",
+   "level": 50,
+   "power": 630,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Orikalkum",
+   "level": 60,
+   "power": 770,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Dragon",
+   "level": 60,
+   "power": 800,
+   "proficiency": null,
+   "augmentable": true
+  },
+  {
+   "label": "Inferno adze",
+   "level": 60,
+   "power": 800,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Necronium",
+   "level": 70,
+   "power": 880,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Crystal",
+   "level": 70,
+   "power": 910,
+   "proficiency": null,
+   "augmentable": true
+  },
+  {
+   "label": "Bane",
+   "level": 80,
+   "power": 990,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Imcando",
+   "level": 80,
+   "power": 1070,
+   "proficiency": null,
+   "augmentable": true
+  },
+  {
+   "label": "Elder rune",
+   "level": 90,
+   "power": 1150,
+   "proficiency": null,
+   "augmentable": null
+  },
+  {
+   "label": "Ember and glade",
+   "level": 90,
+   "power": 1185,
+   "proficiency": null,
+   "augmentable": true
+  },
+  {
+   "label": "Primal",
+   "level": 100,
+   "power": 1265,
+   "proficiency": {
+    "level": 106,
+    "power": 20
+   },
+   "augmentable": null
+  },
+  {
+   "label": "Bloom and blight",
+   "level": 100,
+   "power": 1300,
+   "proficiency": {
+    "level": 106,
+    "power": 20
+   },
+   "augmentable": true
+  }
+ ],
+ "rocks": [
+  {
+   "name": "Copper",
+   "ore": "Copper ore",
+   "level": 1,
+   "durability": 40,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    2,
+    8
+   ],
+   "double_ore_chance": [
+    4,
+    5
+   ],
+   "rockertunity_level": [
+    6
+   ]
+  },
+  {
+   "name": "Tin",
+   "ore": "Tin ore",
+   "level": 1,
+   "durability": 40,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    2,
+    8
+   ],
+   "double_ore_chance": [
+    4,
+    5
+   ],
+   "rockertunity_level": [
+    6
+   ]
+  },
+  {
+   "name": "Clay",
+   "ore": "Clay",
+   "level": 1,
+   "durability": 50,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Rune essence",
+   "ore": "Rune essence",
+   "level": 1,
+   "durability": 50,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 4,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Shooting Star",
+   "ore": "Shooting Star",
+   "level": 1,
+   "durability": 1,
+   "hardness": 0,
+   "xp": 1,
+   "core": false,
+   "drain": false,
+   "ore_qty": 0,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Common gem rock",
+   "ore": "Uncut opal",
+   "level": 1,
+   "durability": 50,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Iron",
+   "ore": "Iron ore",
+   "level": 10,
+   "durability": 120,
+   "hardness": 5,
+   "xp": 0.68,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    12
+   ],
+   "double_ore_chance": [
+    13
+   ],
+   "rockertunity_level": [
+    14
+   ]
+  },
+  {
+   "name": "Limestone",
+   "ore": "Limestone",
+   "level": 10,
+   "durability": 150,
+   "hardness": 5,
+   "xp": 0.68,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Blurite",
+   "ore": "Blurite",
+   "level": 10,
+   "durability": 150,
+   "hardness": 15,
+   "xp": 0.7,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Coal",
+   "ore": "Coal",
+   "level": 20,
+   "durability": 140,
+   "hardness": 15,
+   "xp": 0.7,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    25
+   ],
+   "double_ore_chance": [
+    27
+   ],
+   "rockertunity_level": [
+    21
+   ]
+  },
+  {
+   "name": "Silver",
+   "ore": "Silver ore",
+   "level": 20,
+   "durability": 140,
+   "hardness": 15,
+   "xp": 0.7,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Daeyalt",
+   "ore": "Daeyalt",
+   "level": 20,
+   "durability": 200,
+   "hardness": 0,
+   "xp": 0.72,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Uncommon gem rock",
+   "ore": "Uncut emerald",
+   "level": 20,
+   "durability": 140,
+   "hardness": 15,
+   "xp": 0.7,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Rare gem rock",
+   "ore": "Uncut emerald",
+   "level": 23,
+   "durability": 1300,
+   "hardness": 140,
+   "xp": 0.8,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Precious gem rock",
+   "ore": "Uncut emerald",
+   "level": 25,
+   "durability": 380,
+   "hardness": 50,
+   "xp": 0.74,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Mithril",
+   "ore": "Mithril ore",
+   "level": 30,
+   "durability": 240,
+   "hardness": 30,
+   "xp": 0.72,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    31,
+    35
+   ],
+   "double_ore_chance": [
+    36
+   ],
+   "rockertunity_level": [
+    38
+   ]
+  },
+  {
+   "name": "Sandstone",
+   "ore": "Sandstone (1kg)",
+   "level": 35,
+   "durability": 150,
+   "hardness": 30,
+   "xp": 0.72,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Adamantite",
+   "ore": "Adamantite ore",
+   "level": 40,
+   "durability": 380,
+   "hardness": 50,
+   "xp": 0.74,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    45,
+    48
+   ],
+   "double_ore_chance": [
+    49
+   ],
+   "rockertunity_level": [
+    47
+   ]
+  },
+  {
+   "name": "Luminite",
+   "ore": "Luminite",
+   "level": 40,
+   "durability": 380,
+   "hardness": 50,
+   "xp": 0.74,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    45,
+    48
+   ],
+   "double_ore_chance": [
+    49
+   ],
+   "rockertunity_level": [
+    47
+   ]
+  },
+  {
+   "name": "Gold",
+   "ore": "Gold ore",
+   "level": 40,
+   "durability": 200,
+   "hardness": 50,
+   "xp": 0.74,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Perfect Gold",
+   "ore": "Perfect Gold",
+   "level": 40,
+   "durability": 200,
+   "hardness": 0,
+   "xp": 0.1,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Granite",
+   "ore": "Granite (5kg)",
+   "level": 45,
+   "durability": 400,
+   "hardness": 50,
+   "xp": 0.74,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Rubium",
+   "ore": "Rubium",
+   "level": 46,
+   "durability": 100,
+   "hardness": 0,
+   "xp": 0.74,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Runite",
+   "ore": "Runite ore",
+   "level": 50,
+   "durability": 600,
+   "hardness": 75,
+   "xp": 0.76,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    56,
+    58
+   ],
+   "double_ore_chance": [
+    53
+   ],
+   "rockertunity_level": [
+    54
+   ]
+  },
+  {
+   "name": "Mineral deposit",
+   "ore": "Sandstone (1kg)",
+   "level": 50,
+   "durability": 150,
+   "hardness": 75,
+   "xp": 0.76,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Orichalcite",
+   "ore": "Orichalcite ore",
+   "level": 60,
+   "durability": 1000,
+   "hardness": 105,
+   "xp": 0.78,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    64
+   ],
+   "double_ore_chance": [
+    62
+   ],
+   "rockertunity_level": [
+    68
+   ]
+  },
+  {
+   "name": "Drakolith",
+   "ore": "Drakolith",
+   "level": 60,
+   "durability": 1000,
+   "hardness": 105,
+   "xp": 0.78,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    64
+   ],
+   "double_ore_chance": [
+    62
+   ],
+   "rockertunity_level": [
+    68
+   ]
+  },
+  {
+   "name": "Lava Flow Mine",
+   "ore": "Lava Flow Mine",
+   "level": 68,
+   "durability": 200000,
+   "hardness": 105,
+   "xp": 0.78,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Necrite",
+   "ore": "Necrite ore",
+   "level": 70,
+   "durability": 1300,
+   "hardness": 140,
+   "xp": 0.8,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    75
+   ],
+   "double_ore_chance": [
+    76
+   ],
+   "rockertunity_level": [
+    73,
+    77
+   ]
+  },
+  {
+   "name": "Phasmatite",
+   "ore": "Phasmatite",
+   "level": 70,
+   "durability": 1300,
+   "hardness": 140,
+   "xp": 0.8,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    75
+   ],
+   "double_ore_chance": [
+    76
+   ],
+   "rockertunity_level": [
+    73,
+    77
+   ]
+  },
+  {
+   "name": "Concentrated Coal",
+   "ore": "Coal",
+   "level": 70,
+   "durability": 500,
+   "hardness": 140,
+   "xp": 0.8,
+   "core": true,
+   "drain": false,
+   "ore_qty": 5,
+   "crit_chance_level": [
+    25
+   ],
+   "double_ore_chance": [
+    27
+   ],
+   "rockertunity_level": [
+    21
+   ]
+  },
+  {
+   "name": "Living rock remains",
+   "ore": "Living rock remains",
+   "level": 73,
+   "durability": 1300,
+   "hardness": 140,
+   "xp": 0.8,
+   "core": false,
+   "drain": false,
+   "ore_qty": 11,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Soft clay",
+   "ore": "Soft clay",
+   "level": 75,
+   "durability": 75,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Solid crystal",
+   "ore": "Solid crystal",
+   "level": 75,
+   "durability": 800,
+   "hardness": 105,
+   "xp": 0.8,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Prifddinas gem rock",
+   "ore": "Uncut sapphire",
+   "level": 75,
+   "durability": 1150,
+   "hardness": 140,
+   "xp": 0.8,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Banite",
+   "ore": "Banite ore",
+   "level": 80,
+   "durability": 1700,
+   "hardness": 180,
+   "xp": 0.82,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    81
+   ],
+   "double_ore_chance": [
+    82,
+    86
+   ],
+   "rockertunity_level": [
+    89
+   ]
+  },
+  {
+   "name": "Concentrated Gold",
+   "ore": "Gold ore",
+   "level": 80,
+   "durability": 750,
+   "hardness": 180,
+   "xp": 0.82,
+   "core": false,
+   "drain": false,
+   "ore_qty": 5,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Lava Flow Mine Geyser",
+   "ore": "Lava Flow Mine Geyser",
+   "level": 80,
+   "durability": 1,
+   "hardness": 185,
+   "xp": 0.78,
+   "core": false,
+   "drain": false,
+   "ore_qty": 0,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Red sandstone (Oo'glog)",
+   "ore": "Potion flask",
+   "level": 81,
+   "durability": 700,
+   "hardness": 180,
+   "xp": 0.5,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Red sandstone (Sophanem)",
+   "ore": "Potion flask",
+   "level": 81,
+   "durability": 650,
+   "hardness": 180,
+   "xp": 0.5,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Meteorite",
+   "ore": "Meteorite chunk",
+   "level": 85,
+   "durability": 600,
+   "hardness": 125,
+   "xp": 0.94,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Crystal-flecked sandstone (Ithell)",
+   "ore": "Crystal flask",
+   "level": 81,
+   "durability": 800,
+   "hardness": 180,
+   "xp": 0.5,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Crystal-flecked sandstone (Meilyr)",
+   "ore": "Crystal flask",
+   "level": 81,
+   "durability": 750,
+   "hardness": 180,
+   "xp": 0.5,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Seren stone",
+   "ore": "Seren stone",
+   "level": 89,
+   "durability": 2000,
+   "hardness": 140,
+   "xp": 1.2,
+   "core": false,
+   "drain": true,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Light animica",
+   "ore": "Light animica",
+   "level": 90,
+   "durability": 2000,
+   "hardness": 225,
+   "xp": 0.84,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    91,
+    97
+   ],
+   "double_ore_chance": [
+    92,
+    98
+   ],
+   "rockertunity_level": [
+    94,
+    96
+   ]
+  },
+  {
+   "name": "Dark animica",
+   "ore": "Dark animica",
+   "level": 90,
+   "durability": 2000,
+   "hardness": 225,
+   "xp": 0.84,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    91,
+    97
+   ],
+   "double_ore_chance": [
+    92,
+    98
+   ],
+   "rockertunity_level": [
+    94,
+    96
+   ]
+  },
+  {
+   "name": "Salty crabletine",
+   "ore": "Salty crabletine",
+   "level": 90,
+   "durability": 800,
+   "hardness": 185,
+   "xp": 0.78,
+   "core": false,
+   "drain": true,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Salty crablet",
+   "ore": "Salty crablet",
+   "level": 90,
+   "durability": 1200,
+   "hardness": 185,
+   "xp": 0.82,
+   "core": false,
+   "drain": true,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Alaea crablet",
+   "ore": "Alaea crablet",
+   "level": 97,
+   "durability": 800,
+   "hardness": 185,
+   "xp": 1.5,
+   "core": false,
+   "drain": true,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Novite",
+   "ore": "Novite ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Bathus",
+   "ore": "Bathus ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Marmaros",
+   "ore": "Marmaros ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Kratonium",
+   "ore": "Kratonium ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Fractite",
+   "ore": "Fractite ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Zephyrium",
+   "ore": "Zephyrium ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Argonite",
+   "ore": "Argonite ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Katagon",
+   "ore": "Katagon ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Gorgonite",
+   "ore": "Gorgonite ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Promethium",
+   "ore": "Promethium ore",
+   "level": 100,
+   "durability": 3000,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": true,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": [
+    104,
+    109
+   ],
+   "double_ore_chance": [
+    103,
+    107
+   ],
+   "rockertunity_level": [
+    101,
+    106
+   ]
+  },
+  {
+   "name": "Calcified fungus",
+   "ore": "Calcified fungus",
+   "level": 88,
+   "durability": 1800,
+   "hardness": 140,
+   "xp": 0.82,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Enriched calcified fungus",
+   "ore": "Enriched calcified fungus",
+   "level": 92,
+   "durability": 1900,
+   "hardness": 225,
+   "xp": 0.84,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Platinum",
+   "ore": "Platinum ore",
+   "level": 104,
+   "durability": 1900,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Porcelain clay",
+   "ore": "Porcelain clay",
+   "level": 102,
+   "durability": 1800,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Soft porcelain clay",
+   "ore": "Soft porcelain clay",
+   "level": 102,
+   "durability": 1800,
+   "hardness": 275,
+   "xp": 0.86,
+   "core": false,
+   "drain": false,
+   "ore_qty": 2,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null
+  },
+  {
+   "name": "Sandstone rock",
+   "ore": "Sandstone (10kg)",
+   "level": 35,
+   "durability": 150,
+   "hardness": 30,
+   "xp": 0.72,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Slab",
+   "ore": "Mysterious black stone fragment",
+   "level": 100,
+   "durability": 66600,
+   "hardness": 225,
+   "xp": 0.84,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Idol crablet",
+   "ore": "Golden idol",
+   "level": 98,
+   "durability": 800,
+   "hardness": 185,
+   "xp": 1.5,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Red sandstone (rock)",
+   "ore": "Red sandstone",
+   "level": 81,
+   "durability": 650,
+   "hardness": 180,
+   "xp": 0.5,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Feldip swamp rock",
+   "ore": "Rock (ore)",
+   "level": 1,
+   "durability": 50,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Blurite rock",
+   "ore": "Blurite ore",
+   "level": 10,
+   "durability": 150,
+   "hardness": 15,
+   "xp": 0.7,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Daeyalt vein",
+   "ore": "Daeyalt ore",
+   "level": 20,
+   "durability": 200,
+   "hardness": 0,
+   "xp": 0.72,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "'Perfect' gold rock",
+   "ore": "'Perfect' gold ore",
+   "level": 40,
+   "durability": 200,
+   "hardness": 0,
+   "xp": 0.1,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Stone slab vein",
+   "ore": "Stone slab",
+   "level": 40,
+   "durability": 490,
+   "hardness": 62,
+   "xp": 0.74,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Rune essence (rock)",
+   "ore": "Pure essence",
+   "level": 30,
+   "durability": 50,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 4,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Crystal-flecked sandstone (rock)",
+   "ore": "Crystal-flecked sandstone",
+   "level": 81,
+   "durability": 750,
+   "hardness": 180,
+   "xp": 0.5,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Gem rock (Tai Bwo Wannai)",
+   "ore": "Uncut lapis lazuli",
+   "level": 1,
+   "durability": 300,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Punishment rock",
+   "ore": "Punishment rock (ore)",
+   "level": 1,
+   "durability": 250,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Copper rock (Beneath Cursed Tides)",
+   "ore": "Soggy copper ore",
+   "level": 1,
+   "durability": 40,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Tin rock (Beneath Cursed Tides)",
+   "ore": "Soggy tin ore",
+   "level": 1,
+   "durability": 40,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Shadow animica rock",
+   "ore": "Shadow animica",
+   "level": 1,
+   "durability": 150,
+   "hardness": 65,
+   "xp": 0.84,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Argonlike rock",
+   "ore": "Argonlike ore",
+   "level": 60,
+   "durability": 150,
+   "hardness": 0,
+   "xp": 0.78,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Cleansed shard of Elidinis",
+   "ore": "Cleansed statue shard",
+   "level": 1,
+   "durability": 340,
+   "hardness": 0,
+   "xp": 1.0,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Havensilver rock",
+   "ore": "Havensilver ore",
+   "level": 1,
+   "durability": 40,
+   "hardness": 0,
+   "xp": 0.66,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Large essence deposit",
+   "ore": "Essence slab",
+   "level": 105,
+   "durability": 39000,
+   "hardness": 275,
+   "xp": 1.0,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Essence deposit",
+   "ore": "Essence chunk",
+   "level": 85,
+   "durability": 29000,
+   "hardness": 180,
+   "xp": 0.93,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Essence vein",
+   "ore": "Essence lump",
+   "level": 65,
+   "durability": 19000,
+   "hardness": 105,
+   "xp": 0.85,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  },
+  {
+   "name": "Exalted colossus",
+   "ore": "Exalted essence lump",
+   "level": 65,
+   "durability": 1000,
+   "hardness": 105,
+   "xp": 0.78,
+   "core": false,
+   "drain": false,
+   "ore_qty": 1,
+   "crit_chance_level": null,
+   "double_ore_chance": null,
+   "rockertunity_level": null,
+   "source": "Bucket:Infobox_ore"
+  }
+ ],
+ "picks": [
+  {
+   "label": "Bronze",
+   "level": 1,
+   "min": 3,
+   "max": 7,
+   "avg": 5,
+   "pen": 0
+  },
+  {
+   "label": "Dwarven army axe",
+   "level": 1,
+   "min": 3,
+   "max": 7,
+   "avg": 5,
+   "pen": 0
+  },
+  {
+   "label": "Iron",
+   "level": 10,
+   "min": 5,
+   "max": 15,
+   "avg": 10,
+   "pen": 5
+  },
+  {
+   "label": "Iron + 1",
+   "level": 10,
+   "min": 6,
+   "max": 16,
+   "avg": 11,
+   "pen": 5
+  },
+  {
+   "label": "Steel",
+   "level": 20,
+   "min": 10,
+   "max": 30,
+   "avg": 20,
+   "pen": 15
+  },
+  {
+   "label": "Steel + 1",
+   "level": 20,
+   "min": 11,
+   "max": 31,
+   "avg": 21,
+   "pen": 15
+  },
+  {
+   "label": "Mithril",
+   "level": 30,
+   "min": 15,
+   "max": 45,
+   "avg": 30,
+   "pen": 30
+  },
+  {
+   "label": "Mithril + 1",
+   "level": 30,
+   "min": 16,
+   "max": 46,
+   "avg": 31,
+   "pen": 30
+  },
+  {
+   "label": "Mithril + 2",
+   "level": 30,
+   "min": 17,
+   "max": 47,
+   "avg": 32,
+   "pen": 30
+  },
+  {
+   "label": "Adamant",
+   "level": 40,
+   "min": 20,
+   "max": 60,
+   "avg": 40,
+   "pen": 50
+  },
+  {
+   "label": "Adamant + 1",
+   "level": 40,
+   "min": 21,
+   "max": 61,
+   "avg": 41,
+   "pen": 50
+  },
+  {
+   "label": "Adamant + 2",
+   "level": 40,
+   "min": 22,
+   "max": 62,
+   "avg": 42,
+   "pen": 50
+  },
+  {
+   "label": "Rune",
+   "level": 50,
+   "min": 25,
+   "max": 75,
+   "avg": 50,
+   "pen": 75
+  },
+  {
+   "label": "Sacred clay",
+   "level": 50,
+   "min": 25,
+   "max": 75,
+   "avg": 50,
+   "pen": 75
+  },
+  {
+   "label": "Volatile clay",
+   "level": 50,
+   "min": 25,
+   "max": 75,
+   "avg": 50,
+   "pen": 75
+  },
+  {
+   "label": "Rune + 1",
+   "level": 50,
+   "min": 26,
+   "max": 76,
+   "avg": 51,
+   "pen": 75
+  },
+  {
+   "label": "Rune + 2",
+   "level": 50,
+   "min": 27,
+   "max": 77,
+   "avg": 52,
+   "pen": 75
+  },
+  {
+   "label": "Inferno adze",
+   "level": 50,
+   "min": 28,
+   "max": 78,
+   "avg": 53,
+   "pen": 75
+  },
+  {
+   "label": "Rune + 3",
+   "level": 50,
+   "min": 28,
+   "max": 78,
+   "avg": 53,
+   "pen": 75
+  },
+  {
+   "label": "Orikalkum",
+   "level": 60,
+   "min": 30,
+   "max": 90,
+   "avg": 60,
+   "pen": 105
+  },
+  {
+   "label": "Orikalkum + 1",
+   "level": 60,
+   "min": 31,
+   "max": 91,
+   "avg": 61,
+   "pen": 105
+  },
+  {
+   "label": "Orikalkum + 2",
+   "level": 60,
+   "min": 32,
+   "max": 92,
+   "avg": 62,
+   "pen": 105
+  },
+  {
+   "label": "Dragon",
+   "level": 60,
+   "min": 33,
+   "max": 93,
+   "avg": 63,
+   "pen": 105
+  },
+  {
+   "label": "Orikalkum + 3",
+   "level": 60,
+   "min": 33,
+   "max": 93,
+   "avg": 63,
+   "pen": 105
+  },
+  {
+   "label": "Necronium",
+   "level": 70,
+   "min": 35,
+   "max": 105,
+   "avg": 70,
+   "pen": 140
+  },
+  {
+   "label": "Necronium + 1",
+   "level": 70,
+   "min": 36,
+   "max": 106,
+   "avg": 71,
+   "pen": 140
+  },
+  {
+   "label": "Necronium + 2",
+   "level": 70,
+   "min": 37,
+   "max": 107,
+   "avg": 72,
+   "pen": 140
+  },
+  {
+   "label": "Necronium + 3",
+   "level": 70,
+   "min": 38,
+   "max": 108,
+   "avg": 73,
+   "pen": 140
+  },
+  {
+   "label": "Crystal",
+   "level": 70,
+   "min": 39,
+   "max": 109,
+   "avg": 74,
+   "pen": 140
+  },
+  {
+   "label": "Necronium + 4",
+   "level": 70,
+   "min": 39,
+   "max": 109,
+   "avg": 74,
+   "pen": 140
+  },
+  {
+   "label": "Bane",
+   "level": 80,
+   "min": 40,
+   "max": 120,
+   "avg": 80,
+   "pen": 180
+  },
+  {
+   "label": "Bane + 1",
+   "level": 80,
+   "min": 41,
+   "max": 121,
+   "avg": 81,
+   "pen": 180
+  },
+  {
+   "label": "Bane + 2",
+   "level": 80,
+   "min": 42,
+   "max": 122,
+   "avg": 82,
+   "pen": 180
+  },
+  {
+   "label": "Bane + 3",
+   "level": 80,
+   "min": 43,
+   "max": 123,
+   "avg": 83,
+   "pen": 180
+  },
+  {
+   "label": "Bane + 4",
+   "level": 80,
+   "min": 44,
+   "max": 124,
+   "avg": 84,
+   "pen": 180
+  },
+  {
+   "label": "Imcando",
+   "level": 80,
+   "min": 44,
+   "max": 124,
+   "avg": 84,
+   "pen": 180
+  },
+  {
+   "label": "Elder rune",
+   "level": 90,
+   "min": 45,
+   "max": 135,
+   "avg": 90,
+   "pen": 225
+  },
+  {
+   "label": "Elder rune + 1",
+   "level": 90,
+   "min": 46,
+   "max": 136,
+   "avg": 91,
+   "pen": 225
+  },
+  {
+   "label": "Elder rune + 2",
+   "level": 90,
+   "min": 47,
+   "max": 137,
+   "avg": 92,
+   "pen": 225
+  },
+  {
+   "label": "Elder rune + 3",
+   "level": 90,
+   "min": 48,
+   "max": 138,
+   "avg": 93,
+   "pen": 225
+  },
+  {
+   "label": "Elder rune + 4",
+   "level": 90,
+   "min": 49,
+   "max": 139,
+   "avg": 94,
+   "pen": 225
+  },
+  {
+   "label": "Earth and song",
+   "level": 90,
+   "min": 50,
+   "max": 140,
+   "avg": 95,
+   "pen": 225
+  },
+  {
+   "label": "Elder rune + 5",
+   "level": 90,
+   "min": 50,
+   "max": 140,
+   "avg": 95,
+   "pen": 225
+  },
+  {
+   "label": "Primal",
+   "level": 100,
+   "min": 50,
+   "max": 150,
+   "avg": 100,
+   "pen": 275
+  },
+  {
+   "label": "Primal + 1",
+   "level": 100,
+   "min": 51,
+   "max": 151,
+   "avg": 101,
+   "pen": 275
+  },
+  {
+   "label": "Primal + 2",
+   "level": 100,
+   "min": 52,
+   "max": 152,
+   "avg": 102,
+   "pen": 275
+  },
+  {
+   "label": "Primal + 3",
+   "level": 100,
+   "min": 53,
+   "max": 153,
+   "avg": 103,
+   "pen": 275
+  },
+  {
+   "label": "Primal + 4",
+   "level": 100,
+   "min": 54,
+   "max": 154,
+   "avg": 104,
+   "pen": 275
+  },
+  {
+   "label": "Primal + 5",
+   "level": 100,
+   "min": 55,
+   "max": 155,
+   "avg": 105,
+   "pen": 275
+  },
+  {
+   "label": "Life and death",
+   "level": 100,
+   "min": 55,
+   "max": 160,
+   "avg": 107.5,
+   "pen": 275
+  }
+ ],
+ "mining": {
+  "base_xp": 0.4,
+  "swing": 4,
+  "swing_hr": 1500,
+  "rck_hr": 100,
+  "rck_loss": 0.75,
+  "crit_chance_base": 0.1,
+  "crit_chances": [
+   0.15,
+   0.2
+  ],
+  "crit_bonus_level": [
+   1,
+   3,
+   9,
+   11,
+   17,
+   22,
+   24,
+   32,
+   34,
+   43,
+   44,
+   52,
+   59,
+   61,
+   65,
+   74,
+   79,
+   84,
+   87,
+   99,
+   105
+  ],
+  "crit_bonus": [
+   5,
+   10,
+   15,
+   20,
+   25,
+   30,
+   35,
+   40,
+   45,
+   50,
+   55,
+   60,
+   65,
+   70,
+   75,
+   80,
+   85,
+   90,
+   95,
+   100,
+   105
+  ],
+  "double_ore_chance_base": 0,
+  "double_ore_chances": [
+   0.05,
+   0.1
+  ],
+  "rockertunity_mult_base": 4,
+  "rockertunity_mult": [
+   5,
+   6
+  ],
+  "method_m": {
+   "4-Ticking": {
+    "name": "4-Ticking",
+    "rck": 0,
+    "xp": 1
+   },
+   "4-Ticking + Rockertunities": {
+    "name": "4-Ticking + Rockertunities",
+    "rck": 1,
+    "xp": 1
+   },
+   "AFK": {
+    "name": "AFK",
+    "rck": 0,
+    "xp": 0.2
+   },
+   "AFK + Rockertunities": {
+    "name": "AFK + Rockertunities",
+    "rck": 1,
+    "xp": 0.9
+   },
+   "Semi-AFK": {
+    "name": "Semi-AFK",
+    "rck": 0,
+    "xp": 0.9
+   },
+   "Semi-AFK + Rockertunities": {
+    "name": "Semi-AFK + Rockertunities",
+    "rck": 1,
+    "xp": 0.9
+   }
+  }
+ }
+}

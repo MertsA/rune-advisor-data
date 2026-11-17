@@ -1,0 +1,3048 @@
+{
+ "A Clockwork Syringe": {
+  "set": {
+   "Construction": 11250.0,
+   "Defence": 19000.0,
+   "Dungeoneering": 5000.0,
+   "Slayer": 11000.0,
+   "Smithing": 18000.0,
+   "Summoning": 15000.0,
+   "Thieving": 18000.0
+  },
+  "choice": []
+ },
+ "A Fairy Tale I - Growing Pains": {
+  "set": {
+   "Attack": 2000.0,
+   "Farming": 3500.0,
+   "Magic": 1000.0
+  },
+  "choice": []
+ },
+ "A Fairy Tale II - Cure a Queen": {
+  "set": {
+   "Herblore": 3500.0,
+   "Thieving": 2500.0
+  },
+  "choice": [
+   {
+    "xp": 2500.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "A Fairy Tale III - Battle at Ork's Rift": {
+  "set": {
+   "Crafting": 1000.0,
+   "Farming": 11000.0,
+   "Firemaking": 10000.0,
+   "Magic": 11000.0,
+   "Summoning": 1000.0,
+   "Thieving": 11000.0
+  },
+  "choice": []
+ },
+ "A Guild of Our Own (miniquest)": {
+  "set": {
+   "Herblore": 4000.0,
+   "Thieving": 30000.0
+  },
+  "choice": []
+ },
+ "A Shadow over Ashdale": {
+  "set": {
+   "Attack": 300.0,
+   "Constitution": 300.0,
+   "Defence": 300.0,
+   "Strength": 300.0
+  },
+  "choice": []
+ },
+ "A Soul's Bane": {
+  "set": {
+   "Constitution": 500.0,
+   "Defence": 500.0
+  },
+  "choice": []
+ },
+ "A Tail of Two Cats": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 5000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "A Void Dance": {
+  "set": {
+   "Construction": 5000.0,
+   "Herblore": 10000.0,
+   "Hunter": 10000.0,
+   "Mining": 5000.0,
+   "Summoning": 8000.0,
+   "Thieving": 5000.0,
+   "Woodcutting": 8000.0
+  },
+  "choice": []
+ },
+ "Aftermath": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "small lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "All Fired Up": {
+  "set": {
+   "Firemaking": 5500.0
+  },
+  "choice": []
+ },
+ "Alpha vs Omega": {
+  "set": {
+   "Necromancy": 150000.0
+  },
+  "choice": []
+ },
+ "Ancient Awakening": {
+  "set": {
+   "Necromancy": 15000.0
+  },
+  "choice": [
+   {
+    "xp": 10000.0,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Animal Magnetism": {
+  "set": {
+   "Crafting": 1000.0,
+   "Fletching": 1000.0,
+   "Slayer": 1000.0,
+   "Woodcutting": 2500.0
+  },
+  "choice": []
+ },
+ "Another Slice of H.A.M.": {
+  "set": {
+   "Mining": 3000.0,
+   "Prayer": 3000.0
+  },
+  "choice": []
+ },
+ "As a First Resort": {
+  "set": {
+   "Firemaking": 15000.0,
+   "Hunter": 15000.0,
+   "Woodcutting": 15000.0
+  },
+  "choice": []
+ },
+ "Azzanadra's Quest": {
+  "set": {
+   "Archaeology": 15000.0,
+   "Divination": 25000.0
+  },
+  "choice": [
+   {
+    "xp": 10000.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Back to my Roots": {
+  "set": {
+   "Agility": 15000.0,
+   "Farming": 24000.0,
+   "Slayer": 23000.0,
+   "Woodcutting": 40000.0
+  },
+  "choice": []
+ },
+ "Back to the Freezer": {
+  "set": {
+   "Agility": 15000.0,
+   "Divination": 25000.0,
+   "Invention": 10000.0,
+   "Runecrafting": 25000.0,
+   "Slayer": 15000.0
+  },
+  "choice": []
+ },
+ "Battle of Forinthry": {
+  "set": {
+   "Necromancy": 30000.0
+  },
+  "choice": []
+ },
+ "Beneath Cursed Tides": {
+  "set": {
+   "Cooking": 5000.0,
+   "Fishing": 5000.0
+  },
+  "choice": [
+   {
+    "xp": 10000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Summoning",
+     "Necromancy",
+     "Herblore",
+     "Slayer"
+    ],
+    "min_level": 10
+   }
+  ]
+ },
+ "Beneath Scabaras' Sands": {
+  "set": {
+   "Archaeology": 100000.0,
+   "Prayer": 40000.0,
+   "Slayer": 100000.0
+  },
+  "choice": [
+   {
+    "xp": 75000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 75
+   }
+  ]
+ },
+ "Benedict's World Tour (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "small lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Between a Rock...": {
+  "set": {
+   "Defence": 5000.0,
+   "Mining": 5000.0,
+   "Smithing": 5000.0
+  },
+  "choice": []
+ },
+ "Big Chompy Bird Hunting": {
+  "set": {
+   "Cooking": 1470.0,
+   "Fletching": 262.0,
+   "Ranged": 735.0
+  },
+  "choice": []
+ },
+ "Biohazard": {
+  "set": {
+   "Thieving": 1250.0
+  },
+  "choice": []
+ },
+ "Birthright of the Dwarves": {
+  "set": {
+   "Mining": 350000.0,
+   "Smithing": 100000.0,
+   "Strength": 200000.0
+  },
+  "choice": []
+ },
+ "Blood Runs Deep": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 450000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Necromancy"
+    ],
+    "min_level": 75
+   }
+  ]
+ },
+ "Boric's Task I (miniquest)": {
+  "set": {
+   "Mining": 1500.0
+  },
+  "choice": []
+ },
+ "Boric's Task II (miniquest)": {
+  "set": {
+   "Mining": 3500.0
+  },
+  "choice": []
+ },
+ "Boric's Task III (miniquest)": {
+  "set": {
+   "Mining": 8000.0
+  },
+  "choice": []
+ },
+ "Bringing Home the Bacon": {
+  "set": {
+   "Construction": 1450.0,
+   "Crafting": 1100.0,
+   "Farming": 350.0,
+   "Summoning": 350.0
+  },
+  "choice": []
+ },
+ "Broken Home": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "small lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Buyers and Cellars": {
+  "set": {
+   "Thieving": 1025.0
+  },
+  "choice": []
+ },
+ "Cabin Fever": {
+  "set": {
+   "Agility": 7000.0,
+   "Crafting": 7000.0,
+   "Smithing": 7000.0
+  },
+  "choice": []
+ },
+ "Call of the Ancestors": {
+  "set": {
+   "Magic": 1000.0
+  },
+  "choice": []
+ },
+ "Carnillean Rising": {
+  "set": {
+   "Construction": 2500.0,
+   "Thieving": 2500.0
+  },
+  "choice": [
+   {
+    "xp": 3000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Catapult Construction": {
+  "set": {
+   "Construction": 15000.0,
+   "Fletching": 5000.0
+  },
+  "choice": []
+ },
+ "Chef's Assistant": {
+  "set": {
+   "Cooking": 9500.0
+  },
+  "choice": []
+ },
+ "Children of Mah": {
+  "set": {
+   "Agility": 100000.0,
+   "Divination": 100000.0
+  },
+  "choice": [
+   {
+    "xp": 300000.0,
+    "skills": "any",
+    "min_level": 75
+   }
+  ]
+ },
+ "City of Senntisten": {
+  "set": {
+   "Archaeology": 50000.0,
+   "Magic": 50000.0,
+   "Slayer": 50000.0
+  },
+  "choice": [
+   {
+    "xp": 50000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Summoning",
+     "Necromancy"
+    ],
+    "min_level": 75
+   }
+  ]
+ },
+ "Civil War I (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "small lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Civil War II (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "small lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Civil War III (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "small lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Cold War": {
+  "set": {
+   "Agility": 5000.0,
+   "Construction": 1500.0,
+   "Crafting": 2000.0
+  },
+  "choice": []
+ },
+ "Contact!": {
+  "set": {
+   "Thieving": 7000.0
+  },
+  "choice": [
+   {
+    "xp": 14000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Summoning",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Cook's Assistant": {
+  "set": {
+   "Cooking": 300.0
+  },
+  "choice": []
+ },
+ "Creature of Fenkenstrain": {
+  "set": {
+   "Thieving": 1000.0
+  },
+  "choice": []
+ },
+ "Crocodile Tears": {
+  "set": {
+   "Agility": 15000.0,
+   "Constitution": 20000.0,
+   "Fishing": 35000.0,
+   "Hunter": 35000.0,
+   "Woodcutting": 15000.0
+  },
+  "choice": []
+ },
+ "Curse of the Black Stone": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "huge lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Damage Control (miniquest)": {
+  "set": {
+   "Thieving": "medium lamp"
+  },
+  "choice": []
+ },
+ "Daughter of Chaos": {
+  "set": {
+   "Archaeology": 30000.0,
+   "Divination": 30000.0
+  },
+  "choice": []
+ },
+ "Dead and Buried": {
+  "set": {
+   "Construction": 8000.0
+  },
+  "choice": [
+   {
+    "xp": 3000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Deadliest Catch": {
+  "set": {
+   "Fishing": 70000.0,
+   "Hunter": 72660.0,
+   "Thieving": 8000.0
+  },
+  "choice": []
+ },
+ "Dealing with Scabaras": {
+  "set": {
+   "Agility": 7000.0,
+   "Prayer": 7000.0,
+   "Strength": 7000.0,
+   "Thieving": 7000.0
+  },
+  "choice": []
+ },
+ "Death Plateau": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 300.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Death to the Dorgeshuun": {
+  "set": {
+   "Thieving": 2000.0
+  },
+  "choice": [
+   {
+    "xp": 2000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Defender of Varrock": {
+  "set": {
+   "Agility": 2000.0,
+   "Defence": 10000.0,
+   "Hunter": 15000.0,
+   "Mining": 10000.0,
+   "Smithing": 10000.0
+  },
+  "choice": []
+ },
+ "Demon Slayer": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 300.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Desert Slayer Dungeon (miniquest)": {
+  "set": {
+   "Slayer": 4000.0
+  },
+  "choice": []
+ },
+ "Desert Treasure": {
+  "set": {
+   "Magic": 20006.0
+  },
+  "choice": []
+ },
+ "Desperate Measures": {
+  "set": {
+   "Archaeology": 20000.0
+  },
+  "choice": [
+   {
+    "xp": 20000.0,
+    "skills": [
+     "Attack",
+     "Constitution",
+     "Defence",
+     "Magic",
+     "Prayer",
+     "Ranged",
+     "Strength"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Desperate Times": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "huge lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Devious Minds": {
+  "set": {
+   "Fletching": 5000.0,
+   "Runecrafting": 5000.0,
+   "Smithing": 6500.0
+  },
+  "choice": []
+ },
+ "Diamond in the Rough": {
+  "set": {
+   "Agility": 250.0,
+   "Constitution": 250.0,
+   "Mining": 20000.0,
+   "Thieving": 250.0
+  },
+  "choice": []
+ },
+ "Dimension of Disaster: Curse of Arrav": {
+  "set": {
+   "Agility": 9000.0,
+   "Crafting": 9000.0,
+   "Farming": 4000.0,
+   "Magic": 2500.0,
+   "Ranged": 9000.0,
+   "Thieving": 14000.0
+  },
+  "choice": [
+   {
+    "xp": 30000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 40
+   }
+  ]
+ },
+ "Dimension of Disaster: Defender of Varrock": {
+  "set": {
+   "Construction": 2000.0,
+   "Defence": 10000.0,
+   "Magic": 10000.0,
+   "Thieving": 10000.0
+  },
+  "choice": [
+   {
+    "xp": 15000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 30
+   }
+  ]
+ },
+ "Dimension of Disaster: Demon Slayer": {
+  "set": {
+   "Crafting": 5000.0,
+   "Magic": 5000.0
+  },
+  "choice": []
+ },
+ "Dimension of Disaster: Shield of Arrav": {
+  "set": {
+   "Thieving": 100.0
+  },
+  "choice": []
+ },
+ "Dishonour among Thieves": {
+  "set": {
+   "Agility": 1500.0,
+   "Dungeoneering": 500.0,
+   "Thieving": 1500.0
+  },
+  "choice": [
+   {
+    "xp": 1500.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Do No Evil": {
+  "set": {
+   "Agility": 20000.0,
+   "Construction": 30000.0,
+   "Crafting": 40000.0,
+   "Magic": 50000.0,
+   "Thieving": 50000.0
+  },
+  "choice": []
+ },
+ "Doric's Task I (miniquest)": {
+  "set": {
+   "Smithing": 250.0
+  },
+  "choice": []
+ },
+ "Doric's Task II (miniquest)": {
+  "set": {
+   "Smithing": 500.0
+  },
+  "choice": []
+ },
+ "Doric's Task III (miniquest)": {
+  "set": {
+   "Smithing": 750.0
+  },
+  "choice": []
+ },
+ "Doric's Task IV (miniquest)": {
+  "set": {
+   "Smithing": 1500.0
+  },
+  "choice": []
+ },
+ "Doric's Task V (miniquest)": {
+  "set": {
+   "Smithing": 5000.0
+  },
+  "choice": []
+ },
+ "Doric's Task VI (miniquest)": {
+  "set": {
+   "Smithing": 8000.0
+  },
+  "choice": []
+ },
+ "Doric's Task VII (miniquest)": {
+  "set": {
+   "Smithing": 12000.0
+  },
+  "choice": []
+ },
+ "Doric's Task VIII (miniquest)": {
+  "set": {
+   "Smithing": 20000.0
+  },
+  "choice": []
+ },
+ "Dragon Slayer": {
+  "set": {
+   "Defence": 18650.0,
+   "Strength": 18650.0
+  },
+  "choice": []
+ },
+ "Dream Mentor": {
+  "set": {
+   "Constitution": 15000.0,
+   "Magic": 10000.0
+  },
+  "choice": [
+   {
+    "xp": 15000.0,
+    "skills": [
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Druidic Ritual": {
+  "set": {
+   "Herblore": 250.0
+  },
+  "choice": []
+ },
+ "Duck Quest": {
+  "set": {
+   "Herblore": 500.0
+  },
+  "choice": []
+ },
+ "Dwarf Cannon": {
+  "set": {
+   "Crafting": 750.0
+  },
+  "choice": []
+ },
+ "Eadgar's Ruse": {
+  "set": {
+   "Herblore": 11000.0
+  },
+  "choice": []
+ },
+ "Eagles' Peak": {
+  "set": {
+   "Hunter": 2500.0
+  },
+  "choice": []
+ },
+ "Eclipse of the Heart": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000000.0,
+    "skills": "any",
+    "min_level": 85
+   }
+  ]
+ },
+ "Elemental Workshop I": {
+  "set": {
+   "Crafting": 5000.0,
+   "Smithing": 5000.0
+  },
+  "choice": []
+ },
+ "Elemental Workshop II": {
+  "set": {
+   "Crafting": 7500.0,
+   "Smithing": 7500.0
+  },
+  "choice": []
+ },
+ "Elemental Workshop III": {
+  "set": {
+   "Defence": 12750.0,
+   "Smithing": 8500.0
+  },
+  "choice": []
+ },
+ "Elemental Workshop IV": {
+  "set": {
+   "Crafting": 9000.0,
+   "Runecrafting": 7500.0
+  },
+  "choice": []
+ },
+ "Enakhra's Lament": {
+  "set": {
+   "Crafting": 7000.0,
+   "Firemaking": 7000.0,
+   "Magic": 7000.0,
+   "Mining": 7000.0
+  },
+  "choice": []
+ },
+ "Enlightened Journey": {
+  "set": {
+   "Crafting": 2000.0,
+   "Farming": 3000.0,
+   "Firemaking": 4000.0,
+   "Woodcutting": 1500.0
+  },
+  "choice": []
+ },
+ "Enter the Abyss (miniquest)": {
+  "set": {
+   "Runecrafting": 1000.0
+  },
+  "choice": []
+ },
+ "Evil Dave's Big Day Out": {
+  "set": {
+   "Agility": 20000.0,
+   "Cooking": 20000.0,
+   "Herblore": 20000.0,
+   "Magic": 50000.0
+  },
+  "choice": []
+ },
+ "Extinction": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 700000.0,
+    "skills": "any",
+    "min_level": 75
+   }
+  ]
+ },
+ "Eye for an Eye (miniquest)": {
+  "set": {
+   "Prayer": "medium lamp"
+  },
+  "choice": []
+ },
+ "Eye of Het I": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "medium lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Eye of Het II": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "medium lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Fate of the Gods": {
+  "set": {
+   "Agility": 75000.0,
+   "Divination": 175000.0,
+   "Magic": 125000.0,
+   "Slayer": 100000.0,
+   "Summoning": 50000.0
+  },
+  "choice": []
+ },
+ "Father and Son (miniquest)": {
+  "set": {
+   "Hunter": "medium lamp"
+  },
+  "choice": []
+ },
+ "Fight Arena": {
+  "set": {
+   "Attack": 12175.0,
+   "Thieving": 2175.0
+  },
+  "choice": []
+ },
+ "Final Destination (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "large lamp",
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Summoning",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Fishing Contest": {
+  "set": {
+   "Fishing": 2437.0
+  },
+  "choice": []
+ },
+ "Forgettable Tale of a Drunken Dwarf": {
+  "set": {
+   "Cooking": 5000.0,
+   "Farming": 5000.0
+  },
+  "choice": []
+ },
+ "Forgiveness of a Chaos Dwarf": {
+  "set": {
+   "Firemaking": 30000.0,
+   "Hunter": 30000.0,
+   "Strength": 30000.0
+  },
+  "choice": []
+ },
+ "From Tiny Acorns (miniquest)": {
+  "set": {
+   "Thieving": 1000.0
+  },
+  "choice": []
+ },
+ "Fur 'n Seek": {
+  "set": {
+   "Constitution": 2500.0,
+   "Crafting": 500.0,
+   "Firemaking": 500.0,
+   "Prayer": 1500.0,
+   "Slayer": 2500.0
+  },
+  "choice": []
+ },
+ "Garden of Tranquillity": {
+  "set": {
+   "Farming": 5012.0
+  },
+  "choice": []
+ },
+ "Gertrude's Cat": {
+  "set": {
+   "Cooking": 1525.0
+  },
+  "choice": []
+ },
+ "Ghosts Ahoy": {
+  "set": {
+   "Prayer": 2400.0
+  },
+  "choice": []
+ },
+ "Ghosts from the Past (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "medium lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Glorious Memories": {
+  "set": {
+   "Herblore": 5000.0,
+   "Magic": 10000.0
+  },
+  "choice": [
+   {
+    "xp": 15000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Necromancy"
+    ],
+    "min_level": 40
+   }
+  ]
+ },
+ "Goblin Diplomacy": {
+  "set": {
+   "Crafting": 200.0
+  },
+  "choice": []
+ },
+ "Great Egg-spectations": {
+  "set": {
+   "Cooking": 5000.0
+  },
+  "choice": []
+ },
+ "Grim Tales": {
+  "set": {
+   "Agility": 6000.0,
+   "Constitution": 5000.0,
+   "Farming": 4000.0,
+   "Herblore": 5000.0,
+   "Thieving": 6000.0,
+   "Woodcutting": 14000.0
+  },
+  "choice": []
+ },
+ "Gunnar's Ground": {
+  "set": {
+   "Crafting": 32300.0
+  },
+  "choice": [
+   {
+    "xp": 200.0,
+    "skills": "any",
+    "min_level": 5
+   }
+  ]
+ },
+ "Harbinger (miniquest)": {
+  "set": {
+   "Construction": "medium lamp"
+  },
+  "choice": []
+ },
+ "Haunted Mine": {
+  "set": {
+   "Strength": 22000.0
+  },
+  "choice": []
+ },
+ "Hazeel Cult": {
+  "set": {
+   "Thieving": 1500.0
+  },
+  "choice": []
+ },
+ "Head of the Family (miniquest)": {
+  "set": {
+   "Agility": "medium lamp"
+  },
+  "choice": []
+ },
+ "Heart of Stone": {
+  "set": {
+   "Magic": 1500.0,
+   "Runecrafting": 1500.0
+  },
+  "choice": [
+   {
+    "xp": 1000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Summoning",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Hearts of Sanguine": {
+  "set": {
+   "Herblore": 250.0,
+   "Smithing": 250.0
+  },
+  "choice": []
+ },
+ "Heartstealer": {
+  "set": {
+   "Thieving": 2500.0
+  },
+  "choice": []
+ },
+ "Heralds of Crimson": {
+  "set": {
+   "Crafting": 15000.0,
+   "Herblore": 15000.0,
+   "Mining": 25000.0,
+   "Smithing": 30000.0
+  },
+  "choice": []
+ },
+ "Hermit Permits": {
+  "set": {
+   "Construction": 500.0,
+   "Crafting": 1000.0
+  },
+  "choice": []
+ },
+ "Hero's Welcome": {
+  "set": {
+   "Divination": 10000.0,
+   "Mining": 10000.0,
+   "Slayer": 10000.0,
+   "Smithing": 10000.0
+  },
+  "choice": []
+ },
+ "Heroes' Quest": {
+  "set": {
+   "Attack": 3075.0,
+   "Constitution": 3075.0,
+   "Cooking": 2825.0,
+   "Defence": 3075.0,
+   "Firemaking": 1575.0,
+   "Fishing": 2725.0,
+   "Herblore": 1325.0,
+   "Mining": 2575.0,
+   "Ranged": 2075.0,
+   "Smithing": 2257.0,
+   "Strength": 3075.0,
+   "Woodcutting": 1575.0
+  },
+  "choice": []
+ },
+ "Holy Grail": {
+  "set": {
+   "Defence": 15300.0,
+   "Prayer": 11000.0
+  },
+  "choice": []
+ },
+ "Hopespear's Will (miniquest)": {
+  "set": {
+   "Prayer": 13750.0
+  },
+  "choice": []
+ },
+ "Horror from the Deep": {
+  "set": {
+   "Magic": 4662.0,
+   "Ranged": 4662.0,
+   "Strength": 4662.0
+  },
+  "choice": []
+ },
+ "Housing of Parliament": {
+  "set": {
+   "Necromancy": 20000.0
+  },
+  "choice": []
+ },
+ "Hunt for Red Raktuber": {
+  "set": {
+   "Construction": 3000.0,
+   "Hunter": 1500.0,
+   "Thieving": 2000.0
+  },
+  "choice": []
+ },
+ "Icthlarin's Little Helper": {
+  "set": {
+   "Agility": 4000.0,
+   "Thieving": 4500.0,
+   "Woodcutting": 4000.0
+  },
+  "choice": []
+ },
+ "Imp Catcher": {
+  "set": {
+   "Magic": 875.0
+  },
+  "choice": []
+ },
+ "In Aid of the Myreque": {
+  "set": {
+   "Attack": 2000.0,
+   "Crafting": 2000.0,
+   "Defence": 2000.0,
+   "Strength": 2000.0
+  },
+  "choice": []
+ },
+ "In Memory of the Myreque (miniquest)": {
+  "set": {
+   "Construction": 20000.0,
+   "Prayer": 10000.0
+  },
+  "choice": []
+ },
+ "In Pyre Need": {
+  "set": {
+   "Crafting": 11556.0,
+   "Firemaking": 14400.0,
+   "Fletching": 12500.0
+  },
+  "choice": []
+ },
+ "In Search of the Myreque": {
+  "set": {
+   "Attack": 600.0,
+   "Constitution": 600.0,
+   "Crafting": 600.0,
+   "Defence": 600.0,
+   "Strength": 600.0
+  },
+  "choice": []
+ },
+ "Jed Hunter (miniquest)": {
+  "set": {
+   "Hunter": "medium lamp"
+  },
+  "choice": []
+ },
+ "Jungle Potion": {
+  "set": {
+   "Herblore": 775.0
+  },
+  "choice": []
+ },
+ "Kennith's Concerns": {
+  "set": {
+   "Agility": 5000.0,
+   "Mining": 12000.0
+  },
+  "choice": []
+ },
+ "Kindred Spirits": {
+  "set": {
+   "Agility": 25000.0,
+   "Crafting": 25000.0,
+   "Herblore": 25000.0,
+   "Smithing": 25000.0
+  },
+  "choice": []
+ },
+ "King of the Dwarves": {
+  "set": {
+   "Mining": 45000.0,
+   "Smithing": 50000.0,
+   "Strength": 55000.0
+  },
+  "choice": []
+ },
+ "King's Ransom": {
+  "set": {
+   "Defence": 33000.0,
+   "Magic": 5000.0
+  },
+  "choice": [
+   {
+    "xp": 5000.0,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Koschei's Troubles (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000.0,
+    "skills": "any",
+    "min_level": 75
+   }
+  ]
+ },
+ "Lair of Tarn Razorlor (miniquest)": {
+  "set": {
+   "Slayer": 5000.0
+  },
+  "choice": []
+ },
+ "Land of the Goblins": {
+  "set": {
+   "Agility": 3000.0,
+   "Fishing": 3000.0,
+   "Herblore": 3000.0,
+   "Prayer": 2000.0,
+   "Strength": 3000.0,
+   "Thieving": 3000.0
+  },
+  "choice": []
+ },
+ "Legacy of Seergaze": {
+  "set": {
+   "Agility": 2000.0,
+   "Construction": 1000.0,
+   "Crafting": 4000.0,
+   "Magic": 3000.0,
+   "Mining": 2000.0,
+   "Slayer": 2000.0
+  },
+  "choice": [
+   {
+    "xp": 5000.0,
+    "skills": "any",
+    "min_level": 35
+   }
+  ]
+ },
+ "Legends' Quest": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30600.0,
+    "skills": [],
+    "min_level": 0
+   }
+  ]
+ },
+ "Let Them Eat Pie": {
+  "set": {
+   "Cooking": 100.0,
+   "Thieving": 150.0
+  },
+  "choice": []
+ },
+ "Lost Her Marbles (miniquest)": {
+  "set": {
+   "Thieving": 9800.0
+  },
+  "choice": []
+ },
+ "Love Story": {
+  "set": {
+   "Construction": 50000.0,
+   "Crafting": 40000.0,
+   "Magic": 50000.0,
+   "Smithing": 40000.0
+  },
+  "choice": []
+ },
+ "Lunar Diplomacy": {
+  "set": {
+   "Magic": 15338.0,
+   "Runecrafting": 5000.0
+  },
+  "choice": []
+ },
+ "Mahjarrat Memories (miniquest)": {
+  "set": {
+   "Divination": 400000.0
+  },
+  "choice": []
+ },
+ "Making History": {
+  "set": {
+   "Crafting": 1000.0,
+   "Prayer": 1000.0
+  },
+  "choice": []
+ },
+ "Meeting History": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 2500.0,
+    "skills": "any",
+    "min_level": 25
+   }
+  ]
+ },
+ "Missing My Mummy": {
+  "set": {
+   "Constitution": 7000.0,
+   "Construction": 2100.0,
+   "Cooking": 2100.0,
+   "Crafting": 3350.0,
+   "Magic": 5000.0,
+   "Prayer": 6500.0,
+   "Thieving": 3000.0
+  },
+  "choice": []
+ },
+ "Missing, Presumed Death": {
+  "set": {
+   "Agility": 1000.0,
+   "Constitution": 50000.0,
+   "Prayer": 500.0,
+   "Thieving": 50000.0
+  },
+  "choice": [
+   {
+    "xp": 1500.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Monk's Friend": {
+  "set": {
+   "Woodcutting": 2000.0
+  },
+  "choice": []
+ },
+ "Monkey Madness": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 110000.0,
+    "skills": [
+     "Attack",
+     "Constitution",
+     "Defence",
+     "Strength"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Mountain Daughter": {
+  "set": {
+   "Attack": 1000.0,
+   "Prayer": 2000.0
+  },
+  "choice": []
+ },
+ "Mourning's End Part I": {
+  "set": {
+   "Constitution": 25000.0,
+   "Thieving": 25000.0
+  },
+  "choice": []
+ },
+ "Mourning's End Part II": {
+  "set": {
+   "Agility": 20000.0
+  },
+  "choice": []
+ },
+ "Murder Mystery": {
+  "set": {
+   "Crafting": 1406.0
+  },
+  "choice": []
+ },
+ "Murder on the Border": {
+  "set": {
+   "Construction": 8000.0
+  },
+  "choice": [
+   {
+    "xp": 3000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "My Arm's Big Adventure": {
+  "set": {
+   "Farming": 5000.0,
+   "Herblore": 10000.0
+  },
+  "choice": []
+ },
+ "Myths of the White Lands": {
+  "set": {
+   "Agility": 10000.0,
+   "Crafting": 2000.0,
+   "Woodcutting": 20000.0
+  },
+  "choice": [
+   {
+    "xp": 500.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Nadir (saga)": {
+  "set": {
+   "Attack": 37080.0,
+   "Dungeoneering": 25420.0,
+   "Thieving": 11660.0
+  },
+  "choice": [
+   {
+    "xp": 11660.0,
+    "skills": [
+     "Attack",
+     "Thieving"
+    ],
+    "min_level": 45
+   }
+  ]
+ },
+ "Nature Spirit": {
+  "set": {
+   "Constitution": 2000.0,
+   "Crafting": 3000.0,
+   "Defence": 2000.0
+  },
+  "choice": []
+ },
+ "Necromancy!": {
+  "set": {
+   "Necromancy": 200.0
+  },
+  "choice": []
+ },
+ "Nomad's Elegy": {
+  "set": {
+   "Construction": 50000.0,
+   "Mining": 50000.0,
+   "Woodcutting": 50000.0
+  },
+  "choice": [
+   {
+    "xp": 50000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Ode of the Devourer": {
+  "set": {
+   "Agility": 50000.0,
+   "Crafting": 50000.0,
+   "Divination": 50000.0,
+   "Mining": 50000.0
+  },
+  "choice": []
+ },
+ "Olaf's Quest": {
+  "set": {
+   "Defence": 12000.0
+  },
+  "choice": []
+ },
+ "Once Upon a Slime": {
+  "set": {
+   "Cooking": 2500.0
+  },
+  "choice": []
+ },
+ "One Piercing Note": {
+  "set": {
+   "Prayer": 50250.0
+  },
+  "choice": []
+ },
+ "One Small Favour": {
+  "set": {
+   "Smithing": 1000.0
+  },
+  "choice": [
+   {
+    "xp": 20000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "One of a Kind": {
+  "set": {
+   "Divination": 5000.0,
+   "Dungeoneering": 45000.0,
+   "Magic": 90000.0,
+   "Summoning": 80000.0
+  },
+  "choice": [
+   {
+    "xp": 10000.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "One of a Kind[1]": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 25000.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Our Man in the North": {
+  "set": {
+   "Strength": 20000.0
+  },
+  "choice": []
+ },
+ "Perils of Ice Mountain": {
+  "set": {
+   "Construction": 500.0,
+   "Farming": 500.0,
+   "Hunter": 500.0,
+   "Thieving": 500.0
+  },
+  "choice": []
+ },
+ "Pharaoh's Folly": {
+  "set": {
+   "Agility": 60000.0,
+   "Thieving": 60000.0
+  },
+  "choice": []
+ },
+ "Pieces of Hate": {
+  "set": {
+   "Agility": 50000.0,
+   "Construction": 50000.0,
+   "Firemaking": 50000.0,
+   "Thieving": 50000.0
+  },
+  "choice": []
+ },
+ "Plague City": {
+  "set": {
+   "Mining": 2425.0
+  },
+  "choice": []
+ },
+ "Plague's End": {
+  "set": {
+   "Agility": 50000.0,
+   "Construction": 50000.0,
+   "Crafting": 50000.0,
+   "Dungeoneering": 50000.0,
+   "Herblore": 50000.0,
+   "Mining": 50000.0,
+   "Prayer": 50000.0,
+   "Ranged": 50000.0,
+   "Summoning": 50000.0,
+   "Woodcutting": 50000.0
+  },
+  "choice": []
+ },
+ "Priest in Peril": {
+  "set": {
+   "Prayer": 1406.0
+  },
+  "choice": []
+ },
+ "Princess and the Pauper": {
+  "set": {
+   "Construction": 1000.0,
+   "Cooking": 1000.0
+  },
+  "choice": []
+ },
+ "Quiet Before the Swarm": {
+  "set": {
+   "Attack": 4000.0,
+   "Strength": 4900.0
+  },
+  "choice": []
+ },
+ "Rag and Bone Man": {
+  "set": {
+   "Cooking": 500.0,
+   "Prayer": 500.0
+  },
+  "choice": []
+ },
+ "Rat Catchers": {
+  "set": {
+   "Thieving": 4500.0
+  },
+  "choice": []
+ },
+ "Rebuilding Edgeville (miniquest)": {
+  "set": {
+   "Construction": 18000.0,
+   "Farming": 20000.0,
+   "Magic": 50000.0,
+   "Mining": 10000.0,
+   "Prayer": 5000.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Defeating the Culinaromancer": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 20000.0,
+    "skills": "any",
+    "min_level": 50
+   }
+  ]
+ },
+ "Recipe for Disaster: Freeing Evil Dave": {
+  "set": {
+   "Cooking": 7000.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Freeing King Awowogei": {
+  "set": {
+   "Agility": 10000.0,
+   "Cooking": 10000.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Freeing Pirate Pete": {
+  "set": {
+   "Cooking": 1000.0,
+   "Crafting": 1000.0,
+   "Fishing": 1000.0,
+   "Smithing": 1000.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Freeing Sir Amik Varze": {
+  "set": {
+   "Constitution": 4000.0,
+   "Cooking": 4000.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Freeing Skrach Uglogwee": {
+  "set": {
+   "Cooking": 1500.0,
+   "Crafting": 1500.0,
+   "Ranged": 1500.0,
+   "Woodcutting": 1500.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Freeing the Goblin Generals": {
+  "set": {
+   "Cooking": 1000.0,
+   "Crafting": 1000.0,
+   "Farming": 1000.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Freeing the Lumbridge Sage": {
+  "set": {
+   "Cooking": 2500.0,
+   "Magic": 2500.0
+  },
+  "choice": []
+ },
+ "Recipe for Disaster: Freeing the Mountain Dwarf": {
+  "set": {
+   "Cooking": 1000.0,
+   "Slayer": 1000.0
+  },
+  "choice": []
+ },
+ "Recruitment Drive": {
+  "set": {
+   "Agility": 1000.0,
+   "Herblore": 1000.0,
+   "Prayer": 1000.0
+  },
+  "choice": []
+ },
+ "Regicide": {
+  "set": {
+   "Agility": 13750.0
+  },
+  "choice": []
+ },
+ "Remains of the Necrolord": {
+  "set": {
+   "Dungeoneering": 50000.0,
+   "Necromancy": 100000.0
+  },
+  "choice": []
+ },
+ "Requiem for a Dragon": {
+  "set": {
+   "Archaeology": 100000.0,
+   "Necromancy": 100000.0
+  },
+  "choice": []
+ },
+ "Ritual of the Mahjarrat": {
+  "set": {
+   "Agility": 110000.0,
+   "Crafting": 40000.0,
+   "Mining": 40000.0,
+   "Prayer": 3000.0
+  },
+  "choice": [
+   {
+    "xp": 240000.0,
+    "skills": "any",
+    "min_level": 72
+   }
+  ]
+ },
+ "River of Blood": {
+  "set": {
+   "Firemaking": 50000.0,
+   "Fletching": 50000.0,
+   "Herblore": 75000.0,
+   "Mining": 50000.0
+  },
+  "choice": [
+   {
+    "xp": 225000.0,
+    "skills": "any",
+    "min_level": 75
+   }
+  ]
+ },
+ "Rocking Out": {
+  "set": {
+   "Agility": 25000.0,
+   "Crafting": 25000.0,
+   "Smithing": 25000.0,
+   "Thieving": 25000.0
+  },
+  "choice": []
+ },
+ "Roving Elves": {
+  "set": {
+   "Strength": 10000.0
+  },
+  "choice": []
+ },
+ "Royal Trouble": {
+  "set": {
+   "Agility": 5000.0,
+   "Constitution": 5000.0,
+   "Slayer": 5000.0
+  },
+  "choice": []
+ },
+ "Rum Deal": {
+  "set": {
+   "Farming": 7000.0,
+   "Fishing": 7000.0,
+   "Prayer": 7000.0
+  },
+  "choice": []
+ },
+ "Rune Mechanics": {
+  "set": {
+   "Construction": 900.0,
+   "Magic": 2300.0,
+   "Runecrafting": 1850.0
+  },
+  "choice": []
+ },
+ "Rune Memories": {
+  "set": {
+   "Magic": 10300.0,
+   "Prayer": 10000.0,
+   "Runecrafting": 300.0
+  },
+  "choice": []
+ },
+ "Rune Mysteries": {
+  "set": {
+   "Magic": 250.0,
+   "Runecrafting": 250.0
+  },
+  "choice": []
+ },
+ "Rune Mythos": {
+  "set": {
+   "Necromancy": 1500.0
+  },
+  "choice": []
+ },
+ "Salt in the Wound": {
+  "set": {
+   "Constitution": 17500.0,
+   "Defence": 45000.0,
+   "Dungeoneering": 5000.0,
+   "Herblore": 15000.0,
+   "Summoning": 12500.0
+  },
+  "choice": []
+ },
+ "Scorpion Catcher": {
+  "set": {
+   "Strength": 6625.0
+  },
+  "choice": []
+ },
+ "Sea Slug": {
+  "set": {
+   "Fishing": 7175.0
+  },
+  "choice": []
+ },
+ "Secrets of Amberfell": {
+  "set": {
+   "Construction": 2500.0,
+   "Herblore": 2500.0,
+   "Hunter": 2500.0,
+   "Summoning": 2500.0
+  },
+  "choice": [
+   {
+    "xp": 2500.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Necromancy"
+    ],
+    "min_level": 30
+   }
+  ]
+ },
+ "Shades of Mort'ton": {
+  "set": {
+   "Crafting": 2000.0,
+   "Herblore": 2000.0
+  },
+  "choice": []
+ },
+ "Shadow of the Storm": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 10000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "Sheep Shearer (miniquest)": {
+  "set": {
+   "Crafting": 300.0
+  },
+  "choice": []
+ },
+ "Shilo Village": {
+  "set": {
+   "Crafting": 3875.0
+  },
+  "choice": []
+ },
+ "Sliske's Endgame": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1250000.0,
+    "skills": "any",
+    "min_level": 85
+   }
+  ]
+ },
+ "Smoking Kills": {
+  "set": {
+   "Slayer": 5000.0
+  },
+  "choice": []
+ },
+ "Some Like It Cold": {
+  "set": {
+   "Construction": 10000.0,
+   "Crafting": 40000.0,
+   "Fishing": 40000.0,
+   "Thieving": 10000.0
+  },
+  "choice": []
+ },
+ "Song from the Depths": {
+  "set": {
+   "Constitution": 700.0
+  },
+  "choice": []
+ },
+ "Spirit of Summer": {
+  "set": {
+   "Attack": 11250.0,
+   "Construction": 7500.0,
+   "Farming": 17000.0,
+   "Prayer": 20000.0,
+   "Summoning": 1000.0
+  },
+  "choice": []
+ },
+ "Spirits of the Elid": {
+  "set": {
+   "Magic": 1000.0,
+   "Prayer": 8000.0,
+   "Thieving": 1000.0
+  },
+  "choice": []
+ },
+ "Spiritual Enlightenment (miniquest)": {
+  "set": {
+   "Slayer": "medium lamp"
+  },
+  "choice": []
+ },
+ "Stellar Born": {
+  "set": {
+   "Divination": 30000.0,
+   "Mining": 30000.0
+  },
+  "choice": []
+ },
+ "Stolen Hearts": {
+  "set": {
+   "Agility": 250.0,
+   "Constitution": 250.0,
+   "Thieving": 250.0
+  },
+  "choice": []
+ },
+ "Succession": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 50000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Necromancy"
+    ],
+    "min_level": 60
+   },
+   {
+    "xp": 60000.0,
+    "skills": "any",
+    "min_level": 60
+   }
+  ]
+ },
+ "Summer's End": {
+  "set": {
+   "Firemaking": 15000.0,
+   "Hunter": 5000.0,
+   "Mining": 5000.0,
+   "Prayer": 10000.0,
+   "Summoning": 1500.0,
+   "Woodcutting": 5000.0
+  },
+  "choice": []
+ },
+ "Swan Song": {
+  "set": {
+   "Fishing": 10000.0,
+   "Magic": 15000.0,
+   "Prayer": 10000.0
+  },
+  "choice": []
+ },
+ "Tai Bwo Wannai Trio": {
+  "set": {
+   "Attack": 2500.0,
+   "Cooking": 5000.0,
+   "Fishing": 6500.0,
+   "Strength": 2500.0
+  },
+  "choice": []
+ },
+ "Tales of Nomad (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 4500.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Tales of the God Wars (miniquest)": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 30000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Summoning",
+     "Necromancy",
+     "Divination",
+     "Slayer"
+    ],
+    "min_level": 50
+   }
+  ]
+ },
+ "Tears of Guthix (quest)": {
+  "set": {
+   "Crafting": 1000.0
+  },
+  "choice": []
+ },
+ "Temple of Ikov": {
+  "set": {
+   "Fletching": 8000.0,
+   "Ranged": 10500.0
+  },
+  "choice": []
+ },
+ "That Old Black Magic: Flesh and Bone": {
+  "set": {
+   "Necromancy": 12500.0
+  },
+  "choice": []
+ },
+ "That Old Black Magic: Hermy and Bass": {
+  "set": {
+   "Necromancy": 20000.0
+  },
+  "choice": []
+ },
+ "That Old Black Magic: My One and Only Lute": {
+  "set": {
+   "Necromancy": 5000.0
+  },
+  "choice": []
+ },
+ "That Old Black Magic: Skelly By Everlight": {
+  "set": {
+   "Necromancy": 7500.0
+  },
+  "choice": []
+ },
+ "The Blood Pact": {
+  "set": {
+   "Attack": 100.0,
+   "Defence": 100.0,
+   "Magic": 100.0,
+   "Ranged": 100.0,
+   "Strength": 100.0
+  },
+  "choice": []
+ },
+ "The Branches of Darkmeyer": {
+  "set": {
+   "Agility": 20000.0,
+   "Crafting": 20000.0,
+   "Farming": 20000.0,
+   "Fletching": 40000.0,
+   "Magic": 35000.0,
+   "Slayer": 25000.0,
+   "Woodcutting": 50000.0
+  },
+  "choice": [
+   {
+    "xp": 150000.0,
+    "skills": "any",
+    "min_level": 60
+   }
+  ]
+ },
+ "The Brink of Extinction": {
+  "set": {
+   "Mining": 100000.0
+  },
+  "choice": [
+   {
+    "xp": 275000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 80
+   }
+  ]
+ },
+ "The Chosen Commander": {
+  "set": {
+   "Agility": 20000.0,
+   "Strength": 20000.0,
+   "Thieving": 20000.0
+  },
+  "choice": []
+ },
+ "The Curse of Arrav": {
+  "set": {
+   "Agility": 9000.0,
+   "Mining": 30000.0,
+   "Ranged": 9000.0,
+   "Slayer": 2500.0,
+   "Strength": 9000.0,
+   "Summoning": 4000.0,
+   "Thieving": 14000.0
+  },
+  "choice": []
+ },
+ "The Darkness of Hallowvale": {
+  "set": {
+   "Agility": 7000.0,
+   "Construction": 2000.0,
+   "Thieving": 6000.0
+  },
+  "choice": [
+   {
+    "xp": 6000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "The Death of Chivalry": {
+  "set": {
+   "Farming": 250.0,
+   "Magic": 250.0,
+   "Prayer": 70250.0,
+   "Strength": 250.0
+  },
+  "choice": [
+   {
+    "xp": 500.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "The Dig Site": {
+  "set": {
+   "Herblore": 2000.0,
+   "Mining": 15300.0
+  },
+  "choice": []
+ },
+ "The Elder Kiln": {
+  "set": {
+   "Agility": 30000.0,
+   "Magic": 50000.0
+  },
+  "choice": [
+   {
+    "xp": 100000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 75
+   }
+  ]
+ },
+ "The Eyes of Glouphrie": {
+  "set": {
+   "Construction": 250.0,
+   "Magic": 12000.0,
+   "Runecrafting": 6000.0,
+   "Woodcutting": 2500.0
+  },
+  "choice": []
+ },
+ "The Feud": {
+  "set": {
+   "Thieving": 15000.0
+  },
+  "choice": []
+ },
+ "The Firemaker's Curse": {
+  "set": {
+   "Agility": 30000.0,
+   "Constitution": 76000.0,
+   "Firemaking": 80000.0
+  },
+  "choice": []
+ },
+ "The Fremennik Isles": {
+  "set": {
+   "Construction": 5000.0,
+   "Crafting": 5000.0,
+   "Woodcutting": 10000.0
+  },
+  "choice": [
+   {
+    "xp": 20000.0,
+    "skills": [
+     "Attack",
+     "Constitution",
+     "Defence",
+     "Strength"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "The Fremennik Trials": {
+  "set": {
+   "Agility": 2812.0,
+   "Attack": 2812.0,
+   "Constitution": 2812.0,
+   "Crafting": 2812.0,
+   "Defence": 2812.0,
+   "Fishing": 2812.0,
+   "Fletching": 2812.0,
+   "Strength": 2812.0,
+   "Thieving": 2812.0,
+   "Woodcutting": 2812.0
+  },
+  "choice": []
+ },
+ "The General's Shadow (miniquest)": {
+  "set": {
+   "Slayer": 2000.0
+  },
+  "choice": []
+ },
+ "The Giant Dwarf": {
+  "set": {
+   "Crafting": 2500.0,
+   "Firemaking": 1500.0,
+   "Magic": 1500.0,
+   "Mining": 2500.0,
+   "Smithing": 2500.0,
+   "Thieving": 1500.0
+  },
+  "choice": []
+ },
+ "The Golem": {
+  "set": {
+   "Crafting": 1000.0,
+   "Thieving": 1000.0
+  },
+  "choice": []
+ },
+ "The Grand Tree": {
+  "set": {
+   "Agility": 7900.0,
+   "Magic": 2150.0
+  },
+  "choice": [
+   {
+    "xp": 18400.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "The Great Brain Robbery": {
+  "set": {
+   "Construction": 2000.0,
+   "Crafting": 3000.0,
+   "Prayer": 6000.0
+  },
+  "choice": [
+   {
+    "xp": 5000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "The Hand in the Sand": {
+  "set": {
+   "Crafting": 9000.0,
+   "Thieving": 1000.0
+  },
+  "choice": []
+ },
+ "The Hunt for Surok (miniquest)": {
+  "set": {
+   "Slayer": 35000.0
+  },
+  "choice": []
+ },
+ "The Jack of Spades": {
+  "set": {
+   "Agility": 500.0,
+   "Construction": 500.0,
+   "Dungeoneering": 500.0,
+   "Thieving": 500.0
+  },
+  "choice": []
+ },
+ "The Knight's Sword": {
+  "set": {
+   "Smithing": 12725.0
+  },
+  "choice": []
+ },
+ "The Light Within": {
+  "set": {
+   "Agility": 90000.0,
+   "Crafting": 90000.0,
+   "Divination": 90000.0,
+   "Herblore": 90000.0,
+   "Prayer": 90000.0,
+   "Slayer": 90000.0,
+   "Woodcutting": 90000.0
+  },
+  "choice": []
+ },
+ "The Lord of Vampyrium": {
+  "set": {
+   "Construction": 75000.0,
+   "Hunter": 50000.0,
+   "Slayer": 50000.0
+  },
+  "choice": [
+   {
+    "xp": 225000.0,
+    "skills": [
+     "Agility",
+     "Archaeology",
+     "Attack",
+     "Constitution",
+     "Construction",
+     "Cooking",
+     "Crafting",
+     "Defence",
+     "Divination",
+     "Farming",
+     "Firemaking",
+     "Fishing",
+     "Fletching",
+     "Herblore",
+     "Hunter",
+     "Invention",
+     "Magic",
+     "Mining",
+     "Necromancy",
+     "Prayer",
+     "Ranged",
+     "Runecrafting",
+     "Slayer",
+     "Smithing",
+     "Strength",
+     "Summoning",
+     "Thieving",
+     "Woodcutting"
+    ],
+    "min_level": 75
+   }
+  ]
+ },
+ "The Lost Tribe": {
+  "set": {
+   "Mining": 3000.0
+  },
+  "choice": []
+ },
+ "The Mighty Fall": {
+  "set": {
+   "Attack": 80000.0,
+   "Strength": 80000.0
+  },
+  "choice": [
+   {
+    "xp": 50000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Summoning",
+     "Slayer"
+    ],
+    "min_level": 69
+   },
+   {
+    "xp": 75000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Prayer",
+     "Summoning",
+     "Slayer"
+    ],
+    "min_level": 79
+   }
+  ]
+ },
+ "The Needle Skips": {
+  "set": {},
+  "choice": [
+   {
+    "xp": "small lamp",
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "The Path of Glouphrie": {
+  "set": {
+   "Magic": 5000.0,
+   "Slayer": 20000.0,
+   "Strength": 30000.0,
+   "Thieving": 5000.0
+  },
+  "choice": []
+ },
+ "The Prisoner of Glouphrie": {
+  "set": {
+   "Agility": 60000.0,
+   "Construction": 50000.0,
+   "Runecrafting": 45000.0,
+   "Thieving": 60000.0
+  },
+  "choice": []
+ },
+ "The Restless Ghost": {
+  "set": {
+   "Prayer": 1125.0
+  },
+  "choice": []
+ },
+ "The Slug Menace": {
+  "set": {
+   "Crafting": 3500.0,
+   "Runecrafting": 3500.0,
+   "Thieving": 3500.0
+  },
+  "choice": []
+ },
+ "The Spirit of War": {
+  "set": {
+   "Necromancy": 45000.0
+  },
+  "choice": []
+ },
+ "The Tale of the Muspah": {
+  "set": {
+   "Firemaking": 500.0,
+   "Magic": 1000.0,
+   "Mining": 800.0,
+   "Woodcutting": 800.0
+  },
+  "choice": [
+   {
+    "xp": 200.0,
+    "skills": "any",
+    "min_level": 10
+   }
+  ]
+ },
+ "The Temple at Senntisten": {
+  "set": {
+   "Prayer": 10000.0
+  },
+  "choice": [
+   {
+    "xp": 40000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Summoning",
+     "Necromancy"
+    ],
+    "min_level": 50
+   }
+  ]
+ },
+ "The Tourist Trap": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 9300.0,
+    "skills": [
+     "Agility",
+     "Fletching",
+     "Smithing",
+     "Thieving"
+    ],
+    "min_level": 0
+   }
+  ]
+ },
+ "The Void Stares Back": {
+  "set": {
+   "Construction": 20000.0,
+   "Crafting": 20000.0,
+   "Firemaking": 20000.0,
+   "Magic": 20000.0,
+   "Smithing": 20000.0,
+   "Summoning": 20000.0
+  },
+  "choice": []
+ },
+ "The World Wakes": {
+  "set": {
+   "Firemaking": 50000.0,
+   "Prayer": 350000.0,
+   "Slayer": 110000.0
+  },
+  "choice": [
+   {
+    "xp": 150000.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Summoning",
+     "Necromancy"
+    ],
+    "min_level": 65
+   },
+   {
+    "xp": 300000.0,
+    "skills": "any",
+    "min_level": 75
+   }
+  ]
+ },
+ "There's No Place Like Home...": {
+  "set": {
+   "Construction": 250.0
+  },
+  "choice": []
+ },
+ "Thok It To 'Em (saga)": {
+  "set": {
+   "Dungeoneering": 37080.0,
+   "Strength": 75765.0
+  },
+  "choice": []
+ },
+ "Thok Your Block Off (saga)": {
+  "set": {
+   "Dungeoneering": 53440.0,
+   "Strength": 105010.0
+  },
+  "choice": []
+ },
+ "Three's Company (saga)": {
+  "set": {
+   "Dungeoneering": 750.0
+  },
+  "choice": [
+   {
+    "xp": 3750.0,
+    "skills": [
+     "Attack",
+     "Magic",
+     "Ranged"
+    ],
+    "min_level": 30
+   }
+  ]
+ },
+ "TokTz-Ket-Dill": {
+  "set": {
+   "Attack": 5000.0,
+   "Construction": 20000.0,
+   "Crafting": 10000.0,
+   "Mining": 15000.0,
+   "Strength": 5000.0
+  },
+  "choice": []
+ },
+ "Tomes of the Warlock": {
+  "set": {
+   "Archaeology": 40000.0,
+   "Necromancy": 60000.0
+  },
+  "choice": []
+ },
+ "Tortle Combat (miniquest)": {
+  "set": {
+   "Construction": 10000.0,
+   "Farming": 1000.0,
+   "Magic": 1000.0
+  },
+  "choice": []
+ },
+ "Tower of Life": {
+  "set": {
+   "Construction": 1000.0,
+   "Crafting": 500.0,
+   "Thieving": 500.0
+  },
+  "choice": []
+ },
+ "Tree Gnome Village": {
+  "set": {
+   "Attack": 11450.0
+  },
+  "choice": []
+ },
+ "Tribal Totem": {
+  "set": {
+   "Thieving": 1775.0
+  },
+  "choice": []
+ },
+ "Troll Romance": {
+  "set": {
+   "Agility": 8000.0,
+   "Strength": 4000.0
+  },
+  "choice": []
+ },
+ "Troll Stronghold": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 20000.0,
+    "skills": "any",
+    "min_level": 30
+   }
+  ]
+ },
+ "Twilight of the Gods": {
+  "set": {
+   "Divination": 30000.0,
+   "Magic": 30000.0
+  },
+  "choice": []
+ },
+ "Underground Pass": {
+  "set": {
+   "Agility": 3000.0,
+   "Attack": 3000.0
+  },
+  "choice": []
+ },
+ "Vampyre Slayer": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 4825.0,
+    "skills": [
+     "Attack",
+     "Strength",
+     "Defence",
+     "Constitution",
+     "Ranged",
+     "Magic",
+     "Necromancy"
+    ],
+    "min_level": 10
+   }
+  ]
+ },
+ "Vengeance (saga)": {
+  "set": {
+   "Agility": 25415.0,
+   "Dungeoneering": 2410.0,
+   "Thieving": 25415.0
+  },
+  "choice": [
+   {
+    "xp": 25415.0,
+    "skills": [
+     "Agility",
+     "Thieving"
+    ],
+    "min_level": 55
+   }
+  ]
+ },
+ "Vessel of the Harbinger": {
+  "set": {
+   "Necromancy": 10000.0,
+   "Prayer": 5000.0
+  },
+  "choice": []
+ },
+ "Violet is Blue": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 1000.0,
+    "skills": "any",
+    "min_level": 0
+   },
+   {
+    "xp": 1000.0,
+    "skills": "any",
+    "min_level": 0
+   },
+   {
+    "xp": 1000.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Violet is Blue Too": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 4000.0,
+    "skills": "any",
+    "min_level": 0
+   },
+   {
+    "xp": 4000.0,
+    "skills": "any",
+    "min_level": 0
+   },
+   {
+    "xp": 4000.0,
+    "skills": "any",
+    "min_level": 0
+   }
+  ]
+ },
+ "Wanted!": {
+  "set": {
+   "Slayer": 5000.0
+  },
+  "choice": []
+ },
+ "Watchtower": {
+  "set": {
+   "Magic": 15250.0
+  },
+  "choice": []
+ },
+ "Waterfall Quest": {
+  "set": {
+   "Attack": 13750.0,
+   "Strength": 13750.0
+  },
+  "choice": []
+ },
+ "What Lies Below": {
+  "set": {
+   "Defence": 2000.0,
+   "Runecrafting": 8000.0
+  },
+  "choice": []
+ },
+ "What's Mine is Yours": {
+  "set": {
+   "Mining": 1000.0,
+   "Smithing": 400.0
+  },
+  "choice": []
+ },
+ "While Guthix Sleeps": {
+  "set": {},
+  "choice": [
+   {
+    "xp": 400000.0,
+    "skills": "any",
+    "min_level": 65
+   }
+  ]
+ },
+ "Witch's House": {
+  "set": {
+   "Constitution": 6325.0
+  },
+  "choice": []
+ },
+ "Witch's Potion (miniquest)": {
+  "set": {
+   "Magic": 325.0
+  },
+  "choice": []
+ },
+ "Within the Light": {
+  "set": {
+   "Agility": 35000.0,
+   "Fletching": 20000.0,
+   "Ranged": 20000.0,
+   "Woodcutting": 20000.0
+  },
+  "choice": []
+ },
+ "Wiz Kid": {
+  "set": {
+   "Magic": 3500.0
+  },
+  "choice": []
+ },
+ "Wolf Whistle": {
+  "set": {
+   "Summoning": 276.0
+  },
+  "choice": []
+ },
+ "Zogre Flesh Eaters": {
+  "set": {
+   "Fletching": 2000.0,
+   "Herblore": 2000.0,
+   "Ranged": 2000.0
+  },
+  "choice": []
+ }
+}

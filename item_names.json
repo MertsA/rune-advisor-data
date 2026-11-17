@@ -1,0 +1,4981 @@
+{
+"source": "the player's own plugin exports (item names as the client shows them)",
+"items": {
+"2": {
+"name": "Cannonball",
+"config": "MCANNONBALL"
+},
+"36": {
+"name": "White candle",
+"config": "UNLIT_CANDLE"
+},
+"52": {
+"name": "Shaft",
+"config": "ARROW_SHAFT"
+},
+"53": {
+"name": "Headless shaft",
+"config": "HEADLESS_ARROW"
+},
+"62": {
+"name": "Maple longbow (unstrung)",
+"config": "UNSTRUNG_MAPLE_LONGBOW"
+},
+"117": {
+"name": "Strength potion (2)",
+"config": "_2DOSE1STRENGTH"
+},
+"121": {
+"name": "Attack potion (3)",
+"config": "_3DOSE1ATTACK"
+},
+"123": {
+"name": "Attack potion (2)",
+"config": "_2DOSE1ATTACK"
+},
+"139": {
+"name": "Prayer potion (3)",
+"config": "_3DOSEPRAYERRESTORE"
+},
+"141": {
+"name": "Prayer potion (2)",
+"config": "_2DOSEPRAYERRESTORE"
+},
+"143": {
+"name": "Prayer potion (1)",
+"config": "_1DOSEPRAYERRESTORE"
+},
+"147": {
+"name": "Super attack (2)",
+"config": ""
+},
+"149": {
+"name": "Super attack (1)",
+"config": "_1DOSE2ATTACK"
+},
+"157": {
+"name": "Super strength (3)",
+"config": "_3DOSE2STRENGTH"
+},
+"161": {
+"name": "Super strength (1)",
+"config": "_1DOSE2STRENGTH"
+},
+"163": {
+"name": "Super defence (3)",
+"config": "_3DOSE2DEFENSE"
+},
+"165": {
+"name": "Super defence (2)",
+"config": "_2DOSE2DEFENSE"
+},
+"167": {
+"name": "Super defence (1)",
+"config": "_1DOSE2DEFENSE"
+},
+"173": {
+"name": "Super ranging potion (1)",
+"config": "_1DOSERANGERSPOTION"
+},
+"175": {
+"name": "Antipoison (3)",
+"config": "_3DOSEANTIPOISON"
+},
+"201": {
+"name": "Grimy marrentill",
+"config": "UNIDENTIFIED_MARENTILL"
+},
+"203": {
+"name": "Grimy tarromin",
+"config": "UNIDENTIFIED_TARROMIN"
+},
+"205": {
+"name": "Grimy harralander",
+"config": "UNIDENTIFIED_HARRALANDER"
+},
+"207": {
+"name": "Grimy ranarr",
+"config": "UNIDENTIFIED_RANARR"
+},
+"209": {
+"name": "Grimy irit",
+"config": "UNIDENTIFIED_IRIT"
+},
+"211": {
+"name": "Grimy avantoe",
+"config": "UNIDENTIFIED_AVANTOE"
+},
+"213": {
+"name": "Grimy kwuarm",
+"config": "UNIDENTIFIED_KWUARM"
+},
+"215": {
+"name": "Grimy cadantine",
+"config": ""
+},
+"217": {
+"name": "Grimy dwarf weed",
+"config": "UNIDENTIFIED_DWARF_WEED"
+},
+"219": {
+"name": "Grimy torstol",
+"config": "UNIDENTIFIED_TORSTOL"
+},
+"221": {
+"name": "Eye of newt",
+"config": "EYE_OF_NEWT"
+},
+"223": {
+"name": "Red spiders' eggs",
+"config": "RED_SPIDERS_EGGS"
+},
+"225": {
+"name": "Limpwurt root",
+"config": "LIMPWURT_ROOT"
+},
+"227": {
+"name": "Vial of water",
+"config": "VIAL_WATER"
+},
+"229": {
+"name": "Vial",
+"config": "VIAL_EMPTY"
+},
+"231": {
+"name": "Snape grass",
+"config": "SNAPE_GRASS"
+},
+"237": {
+"name": "Unicorn horn",
+"config": "UNICORN_HORN"
+},
+"239": {
+"name": "White berries",
+"config": "WHITE_BERRIES"
+},
+"241": {
+"name": "Dragon scale dust",
+"config": "DRAGON_SCALE_DUST"
+},
+"245": {
+"name": "Wine of Zamorak",
+"config": "WINE_OF_ZAMORAK"
+},
+"247": {
+"name": "Jangerberries",
+"config": "JANGERBERRIES"
+},
+"249": {
+"name": "Clean guam",
+"config": "GUAM_LEAF"
+},
+"251": {
+"name": "Clean marrentill",
+"config": "MARENTILL"
+},
+"253": {
+"name": "Clean tarromin",
+"config": "TARROMIN"
+},
+"255": {
+"name": "Clean harralander",
+"config": "HARRALANDER"
+},
+"257": {
+"name": "Clean ranarr",
+"config": "RANARR_WEED"
+},
+"259": {
+"name": "Clean irit",
+"config": "IRIT_LEAF"
+},
+"261": {
+"name": "Clean avantoe",
+"config": "AVANTOE"
+},
+"263": {
+"name": "Clean kwuarm",
+"config": "KWUARM"
+},
+"265": {
+"name": "Clean cadantine",
+"config": "CADANTINE"
+},
+"267": {
+"name": "Clean dwarf weed",
+"config": "DWARF_WEED"
+},
+"269": {
+"name": "Clean torstol",
+"config": "TORSTOL"
+},
+"314": {
+"name": "Feather",
+"config": "FEATHER"
+},
+"329": {
+"name": "Salmon",
+"config": "SALMON"
+},
+"333": {
+"name": "Trout",
+"config": "TROUT"
+},
+"335": {
+"name": "Raw trout",
+"config": "RAW_TROUT"
+},
+"359": {
+"name": "Raw tuna",
+"config": "RAW_TUNA"
+},
+"361": {
+"name": "Tuna",
+"config": "TUNA"
+},
+"371": {
+"name": "Raw swordfish",
+"config": ""
+},
+"373": {
+"name": "Swordfish",
+"config": "SWORDFISH"
+},
+"377": {
+"name": "Raw lobster",
+"config": "RAW_LOBSTER"
+},
+"379": {
+"name": "Lobster",
+"config": "LOBSTER"
+},
+"383": {
+"name": "Raw shark",
+"config": "RAW_SHARK"
+},
+"385": {
+"name": "Shark",
+"config": "SHARK"
+},
+"391": {
+"name": "Manta ray",
+"config": "MANTARAY"
+},
+"397": {
+"name": "Sea turtle",
+"config": "SEATURTLE"
+},
+"401": {
+"name": "Seaweed",
+"config": "SEAWEED"
+},
+"405": {
+"name": "Casket",
+"config": ""
+},
+"436": {
+"name": "Copper ore",
+"config": ""
+},
+"438": {
+"name": "Tin ore",
+"config": ""
+},
+"526": {
+"name": "Bones",
+"config": "BONES"
+},
+"532": {
+"name": "Big bones",
+"config": "BIG_BONES"
+},
+"534": {
+"name": "Baby dragon bones",
+"config": "BABYDRAGON_BONES"
+},
+"536": {
+"name": "Dragon bones",
+"config": "DRAGON_BONES"
+},
+"554": {
+"name": "Fire rune",
+"config": "FIRERUNE"
+},
+"555": {
+"name": "Water rune",
+"config": "WATERRUNE"
+},
+"556": {
+"name": "Air rune",
+"config": "AIRRUNE"
+},
+"557": {
+"name": "Earth rune",
+"config": "EARTHRUNE"
+},
+"558": {
+"name": "Mind rune",
+"config": "MINDRUNE"
+},
+"559": {
+"name": "Body rune",
+"config": "BODYRUNE"
+},
+"560": {
+"name": "Death rune",
+"config": "DEATHRUNE"
+},
+"561": {
+"name": "Nature rune",
+"config": "NATURERUNE"
+},
+"562": {
+"name": "Chaos rune",
+"config": "CHAOSRUNE"
+},
+"563": {
+"name": "Law rune",
+"config": "LAWRUNE"
+},
+"564": {
+"name": "Cosmic rune",
+"config": "COSMICRUNE"
+},
+"565": {
+"name": "Blood rune",
+"config": "BLOODRUNE"
+},
+"566": {
+"name": "Soul rune",
+"config": "SOULRUNE"
+},
+"567": {
+"name": "Unpowered orb",
+"config": "STAFFORB"
+},
+"569": {
+"name": "Fire orb",
+"config": "FIRE_ORB"
+},
+"573": {
+"name": "Air orb",
+"config": "AIR_ORB"
+},
+"592": {
+"name": "Ashes",
+"config": "ASHES"
+},
+"753": {
+"name": "Cadava berries",
+"config": "CADAVABERRIES"
+},
+"775": {
+"name": "Cooking gauntlets",
+"config": "GAUNTLETS_OF_COOKING"
+},
+"807": {
+"name": "Iron dart",
+"config": "IRON_DART"
+},
+"830": {
+"name": "Rune javelin",
+"config": "RUNE_JAVELIN"
+},
+"851": {
+"name": "Maple longbow",
+"config": "MAPLE_LONGBOW"
+},
+"892": {
+"name": "Rune arrow",
+"config": "RUNE_ARROW"
+},
+"954": {
+"name": "Rope",
+"config": "ROPE"
+},
+"960": {
+"name": "Plank",
+"config": "WOODPLANK"
+},
+"985": {
+"name": "Tooth half of a key",
+"config": "KEYHALF1"
+},
+"987": {
+"name": "Loop half of a key",
+"config": "KEYHALF2"
+},
+"989": {
+"name": "Crystal key",
+"config": "CRYSTAL_KEY"
+},
+"991": {
+"name": "Muddy key",
+"config": "MUDDY_KEY"
+},
+"995": {
+"name": "Coins",
+"config": "COINS"
+},
+"1149": {
+"name": "Dragon helm",
+"config": "DRAGON_MED_HELM"
+},
+"1249": {
+"name": "Dragon spear",
+"config": "DRAGON_SPEAR"
+},
+"1387": {
+"name": "Staff of fire",
+"config": ""
+},
+"1391": {
+"name": "Battlestaff",
+"config": "BATTLESTAFF"
+},
+"1393": {
+"name": "Fire battlestaff",
+"config": "FIRE_BATTLESTAFF"
+},
+"1395": {
+"name": "Water battlestaff",
+"config": "WATER_BATTLESTAFF"
+},
+"1397": {
+"name": "Air battlestaff",
+"config": "AIR_BATTLESTAFF"
+},
+"1399": {
+"name": "Earth battlestaff",
+"config": "EARTH_BATTLESTAFF"
+},
+"1436": {
+"name": "Rune essence",
+"config": "BLANKRUNE"
+},
+"1438": {
+"name": "Air talisman",
+"config": "AIR_TALISMAN"
+},
+"1440": {
+"name": "Earth talisman",
+"config": "EARTH_TALISMAN"
+},
+"1442": {
+"name": "Fire talisman",
+"config": "FIRE_TALISMAN"
+},
+"1444": {
+"name": "Water talisman",
+"config": "WATER_TALISMAN"
+},
+"1450": {
+"name": "Blood talisman",
+"config": "BLOOD_TALISMAN"
+},
+"1456": {
+"name": "Death talisman",
+"config": "DEATH_TALISMAN"
+},
+"1464": {
+"name": "Archery ticket",
+"config": "ARCHERY_TICKET"
+},
+"1511": {
+"name": "Logs",
+"config": "LOGS"
+},
+"1513": {
+"name": "Magic logs",
+"config": "MAGIC_LOGS"
+},
+"1515": {
+"name": "Yew logs",
+"config": "YEW_LOGS"
+},
+"1517": {
+"name": "Maple logs",
+"config": "MAPLE_LOGS"
+},
+"1519": {
+"name": "Willow logs",
+"config": "WILLOW_LOGS"
+},
+"1521": {
+"name": "Oak logs",
+"config": "OAK_LOGS"
+},
+"1601": {
+"name": "Diamond",
+"config": "DIAMOND"
+},
+"1603": {
+"name": "Ruby",
+"config": "RUBY"
+},
+"1605": {
+"name": "Emerald",
+"config": "EMERALD"
+},
+"1607": {
+"name": "Sapphire",
+"config": "SAPPHIRE"
+},
+"1609": {
+"name": "Opal",
+"config": "OPAL"
+},
+"1611": {
+"name": "Jade",
+"config": "JADE"
+},
+"1613": {
+"name": "Red topaz",
+"config": "RED_TOPAZ"
+},
+"1615": {
+"name": "Dragonstone",
+"config": "DRAGONSTONE"
+},
+"1617": {
+"name": "Uncut diamond",
+"config": "UNCUT_DIAMOND"
+},
+"1619": {
+"name": "Uncut ruby",
+"config": "UNCUT_RUBY"
+},
+"1621": {
+"name": "Uncut emerald",
+"config": "UNCUT_EMERALD"
+},
+"1623": {
+"name": "Uncut sapphire",
+"config": "UNCUT_SAPPHIRE"
+},
+"1631": {
+"name": "Uncut dragonstone",
+"config": "UNCUT_DRAGONSTONE"
+},
+"1635": {
+"name": "Gold ring",
+"config": "GOLD_RING"
+},
+"1637": {
+"name": "Sapphire ring",
+"config": "SAPPHIRE_RING"
+},
+"1639": {
+"name": "Emerald ring",
+"config": "EMERALD_RING"
+},
+"1641": {
+"name": "Ruby ring",
+"config": "RUBY_RING"
+},
+"1643": {
+"name": "Diamond ring",
+"config": "DIAMOND_RING"
+},
+"1645": {
+"name": "Dragonstone ring",
+"config": "DRAGONSTONE_RING"
+},
+"1660": {
+"name": "Ruby necklace",
+"config": "RUBY_NECKLACE"
+},
+"1664": {
+"name": "Dragonstone necklace",
+"config": "DRAGONSTONE_NECKLACE"
+},
+"1712": {
+"name": "Amulet of glory (4)",
+"config": "AMULET_OF_GLORY_4"
+},
+"1734": {
+"name": "Thread",
+"config": "THREAD"
+},
+"1737": {
+"name": "Wool",
+"config": "WOOL"
+},
+"1739": {
+"name": "Cowhide",
+"config": "COW_HIDE"
+},
+"1747": {
+"name": "Black dragonhide",
+"config": "DRAGONHIDE_BLACK"
+},
+"1749": {
+"name": "Red dragonhide",
+"config": "DRAGONHIDE_RED"
+},
+"1751": {
+"name": "Blue dragonhide",
+"config": "DRAGONHIDE_BLUE"
+},
+"1753": {
+"name": "Green dragonhide",
+"config": "DRAGONHIDE_GREEN"
+},
+"1759": {
+"name": "Ball of wool",
+"config": "BALL_OF_WOOL"
+},
+"1761": {
+"name": "Soft clay",
+"config": "SOFTCLAY"
+},
+"1775": {
+"name": "Molten glass",
+"config": "MOLTEN_GLASS"
+},
+"1777": {
+"name": "Bowstring",
+"config": "BOW_STRING"
+},
+"1779": {
+"name": "Flax",
+"config": "FLAX"
+},
+"1781": {
+"name": "Soda ash",
+"config": "SODA_ASH"
+},
+"1783": {
+"name": "Bucket of sand",
+"config": "BUCKET_SAND"
+},
+"1793": {
+"name": "Woad leaf",
+"config": "WOADLEAF"
+},
+"1925": {
+"name": "Bucket",
+"config": "BUCKET_EMPTY"
+},
+"1927": {
+"name": "Bucket of milk",
+"config": "BUCKET_MILK"
+},
+"1939": {
+"name": "Swamp tar",
+"config": "SWAMP_TAR"
+},
+"1942": {
+"name": "Raw potato",
+"config": "POTATO"
+},
+"1944": {
+"name": "Egg",
+"config": "EGG"
+},
+"1963": {
+"name": "Banana",
+"config": "BANANA"
+},
+"1977": {
+"name": "Chocolatey milk",
+"config": "CHOCOLATY_MILK"
+},
+"1987": {
+"name": "Grapes",
+"config": "GRAPES"
+},
+"2114": {
+"name": "Pineapple",
+"config": "PINEAPPLE"
+},
+"2142": {
+"name": "Cooked meat",
+"config": ""
+},
+"2353": {
+"name": "Steel bar",
+"config": "STEEL_BAR"
+},
+"2398": {
+"name": "Cave nightshade",
+"config": "NIGHTSHADE"
+},
+"2413": {
+"name": "Guthix cape",
+"config": "GUTHIX_CAPE"
+},
+"2432": {
+"name": "Defence potion (4)",
+"config": "_4DOSE1DEFENSE"
+},
+"2434": {
+"name": "Prayer potion (4)",
+"config": "_4DOSEPRAYERRESTORE"
+},
+"2436": {
+"name": "Super attack (4)",
+"config": "_4DOSE2ATTACK"
+},
+"2440": {
+"name": "Super strength (4)",
+"config": "_4DOSE2STRENGTH"
+},
+"2442": {
+"name": "Super defence (4)",
+"config": "_4DOSE2DEFENSE"
+},
+"2444": {
+"name": "Super ranging potion (4)",
+"config": "_4DOSERANGERSPOTION"
+},
+"2446": {
+"name": "Antipoison (4)",
+"config": "_4DOSEANTIPOISON"
+},
+"2450": {
+"name": "Zamorak brew (4)",
+"config": "_4DOSEPOTIONOFZAMORAK"
+},
+"2481": {
+"name": "Clean lantadyme",
+"config": "LANTADYME"
+},
+"2485": {
+"name": "Grimy lantadyme",
+"config": "UNIDENTIFIED_LANTADYME"
+},
+"2568": {
+"name": "Ring of forging",
+"config": "RING_OF_FORGING"
+},
+"2581": {
+"name": "Robin Hood hat",
+"config": "ROBINHOODHAT"
+},
+"2601": {
+"name": "Adamant platelegs (t)",
+"config": "ADAMANT_PLATELEGS_TRIM"
+},
+"2607": {
+"name": "Adamant platebody (g)",
+"config": "ADAMANT_PLATEBODY_GOLD"
+},
+"2866": {
+"name": "Ogre arrow",
+"config": "OGRE_ARROW"
+},
+"2871": {
+"name": "Ogre bellows",
+"config": "EMPTY_OGRE_BELLOWS"
+},
+"2876": {
+"name": "Raw chompy",
+"config": "RAW_CHOMPY"
+},
+"2970": {
+"name": "Mort myre fungus",
+"config": "MORTMYREMUSHROOM"
+},
+"2978": {
+"name": "Ogre Bowman hat",
+"config": "CBHAT1"
+},
+"2998": {
+"name": "Clean toadflax",
+"config": "TOADFLAX"
+},
+"3000": {
+"name": "Clean snapdragon",
+"config": "SNAPDRAGON"
+},
+"3024": {
+"name": "Super restore (4)",
+"config": "_4DOSE2RESTORE"
+},
+"3034": {
+"name": "Agility potion (3)",
+"config": "_3DOSE1AGILITY"
+},
+"3040": {
+"name": "Super magic potion (4)",
+"config": "_4DOSE1MAGIC"
+},
+"3044": {
+"name": "Super magic potion (2)",
+"config": "_2DOSE1MAGIC"
+},
+"3046": {
+"name": "Super magic potion (1)",
+"config": "_1DOSE1MAGIC"
+},
+"3049": {
+"name": "Grimy toadflax",
+"config": "UNIDENTIFIED_TOADFLAX"
+},
+"3051": {
+"name": "Grimy snapdragon",
+"config": "UNIDENTIFIED_SNAPDRAGON"
+},
+"3054": {
+"name": "Mystic lava staff",
+"config": "MYSTIC_LAVA_STAFF"
+},
+"3138": {
+"name": "Potato cactus",
+"config": "CACTUS_POTATO"
+},
+"3204": {
+"name": "Dragon halberd",
+"config": "DRAGON_HALBERD"
+},
+"3226": {
+"name": "Raw rabbit",
+"config": "RAW_RABBIT"
+},
+"3385": {
+"name": "Splitbark helm",
+"config": "SPLITBARK_HELM"
+},
+"3387": {
+"name": "Splitbark body",
+"config": "SPLITBARK_BODY"
+},
+"3396": {
+"name": "Loar remains",
+"config": "SHADE_BONES1"
+},
+"3400": {
+"name": "Riyl remains",
+"config": "SHADE_BONES3"
+},
+"3402": {
+"name": "Asyn remains",
+"config": "SHADE_BONES4"
+},
+"3404": {
+"name": "Fiyr remains",
+"config": "SHADE_BONES5"
+},
+"3420": {
+"name": "Limestone brick",
+"config": "LIMESTONEBRICK"
+},
+"3466": {
+"name": "Silver key brown",
+"config": "SHADEKEY_SILVER_BROWN"
+},
+"3467": {
+"name": "Silver key crimson",
+"config": "SHADEKEY_SILVER_CRIMSON"
+},
+"3678": {
+"name": "Flamtaer hammer",
+"config": "FLAMTAER_HAMMER"
+},
+"3749": {
+"name": "Archer helm",
+"config": "VIKING_HELMET_RANGE"
+},
+"3829": {
+"name": "Saradomin page 3",
+"config": "HOLY_BOOK_S_PAGE3"
+},
+"3830": {
+"name": "Saradomin page 4",
+"config": "HOLY_BOOK_S_PAGE4"
+},
+"3832": {
+"name": "Zamorak page 2",
+"config": "HOLY_BOOK_Z_PAGE2"
+},
+"3833": {
+"name": "Zamorak page 3",
+"config": "HOLY_BOOK_Z_PAGE3"
+},
+"3834": {
+"name": "Zamorak page 4",
+"config": "HOLY_BOOK_Z_PAGE4"
+},
+"3835": {
+"name": "Guthix page 1",
+"config": "HOLY_BOOK_G_PAGE1"
+},
+"3839": {
+"name": "Damaged book",
+"config": "UNFINISHED_SARADOMINBOOK"
+},
+"4024": {
+"name": "Ninja monkey greegree (small)",
+"config": "MM_MONKEY_GREEGREE_FOR_SMALL_NINJA_MONKEY"
+},
+"4026": {
+"name": "Gorilla greegree",
+"config": "MM_MONKEY_GREEGREE_FOR_NORMAL_GORILLA"
+},
+"4030": {
+"name": "Zombie monkey greegree",
+"config": "MM_MONKEY_GREEGREE_FOR_LARGE_ZOMBIE_MONKEY"
+},
+"4031": {
+"name": "Monkey greegree",
+"config": "MM_MONKEY_GREEGREE_FOR_NORMAL_MONKEY"
+},
+"4151": {
+"name": "Abyssal whip",
+"config": "ABYSSAL_WHIP"
+},
+"4156": {
+"name": "Mirror shield",
+"config": "SLAYER_MIRROR_SHIELD"
+},
+"4158": {
+"name": "Leaf-bladed spear",
+"config": "SLAYER_LEAFBLADED_SPEAR"
+},
+"4160": {
+"name": "Broad arrow",
+"config": "SLAYER_BROAD_ARROWS"
+},
+"4251": {
+"name": "Ectophial",
+"config": "ECTOPHIAL"
+},
+"4286": {
+"name": "Bucket of slime",
+"config": "BUCKET_ECTOPLASM"
+},
+"4621": {
+"name": "Phoenix feather",
+"config": "GOLEM_PHOENIXFEATHER"
+},
+"4622": {
+"name": "Black mushroom ink",
+"config": "GOLEM_INK"
+},
+"4675": {
+"name": "Ancient staff",
+"config": "STAFF_OF_ZAROS"
+},
+"4694": {
+"name": "Steam rune",
+"config": "STEAMRUNE"
+},
+"4695": {
+"name": "Mist rune",
+"config": "MISTRUNE"
+},
+"4697": {
+"name": "Smoke rune",
+"config": "SMOKERUNE"
+},
+"4698": {
+"name": "Mud rune",
+"config": "MUDRUNE"
+},
+"4699": {
+"name": "Lava rune",
+"config": "LAVARUNE"
+},
+"4708": {
+"name": "Ahrim's hood",
+"config": "BARROWS_AHRIM_HEAD"
+},
+"4730": {
+"name": "Guthan's chainskirt",
+"config": "BARROWS_GUTHAN_LEGS"
+},
+"4740": {
+"name": "Bolt rack",
+"config": "BARROWS_KARIL_AMMO"
+},
+"4824": {
+"name": "Rune nails",
+"config": "NAILS_RUNE"
+},
+"4827": {
+"name": "Ogre composite bow",
+"config": "ZOGRE_BOW"
+},
+"5075": {
+"name": "Bird's nest (empty)",
+"config": "BIRD_NEST_EMPTY"
+},
+"5076": {
+"name": "Bird's egg",
+"config": "BIRD_EGG_RED"
+},
+"5077": {
+"name": "Bird's egg",
+"config": "BIRD_EGG_BLUE"
+},
+"5078": {
+"name": "Bird's egg",
+"config": "BIRD_EGG_GREEN"
+},
+"5096": {
+"name": "Marigold seed",
+"config": "MARIGOLD_SEED"
+},
+"5097": {
+"name": "Rosemary seed",
+"config": "ROSEMARY_SEED"
+},
+"5098": {
+"name": "Nasturtium seed",
+"config": "NASTURTIUM_SEED"
+},
+"5099": {
+"name": "Woad seed",
+"config": "WOAD_SEED"
+},
+"5100": {
+"name": "Limpwurt seed",
+"config": "LIMPWURT_SEED"
+},
+"5101": {
+"name": "Redberry seed",
+"config": "REDBERRY_BUSH_SEED"
+},
+"5102": {
+"name": "Cadavaberry seed",
+"config": "CADAVABERRY_BUSH_SEED"
+},
+"5104": {
+"name": "Jangerberry seed",
+"config": "JANGERBERRY_BUSH_SEED"
+},
+"5105": {
+"name": "Whiteberry seed",
+"config": "WHITEBERRY_BUSH_SEED"
+},
+"5106": {
+"name": "Poison ivy seed",
+"config": "POISONIVY_BUSH_SEED"
+},
+"5280": {
+"name": "Cactus seed",
+"config": "CACTUS_SEED"
+},
+"5281": {
+"name": "Cave nightshade seed",
+"config": "BELLADONNA_SEED"
+},
+"5282": {
+"name": "Bittercap mushroom spore",
+"config": "MUSHROOM_SEED"
+},
+"5283": {
+"name": "Apple tree seed",
+"config": "APPLE_TREE_SEED"
+},
+"5284": {
+"name": "Banana tree seed",
+"config": "BANANA_TREE_SEED"
+},
+"5285": {
+"name": "Orange tree seed",
+"config": "ORANGE_TREE_SEED"
+},
+"5286": {
+"name": "Curry tree seed",
+"config": "CURRY_TREE_SEED"
+},
+"5287": {
+"name": "Pineapple seed",
+"config": "PINEAPPLE_TREE_SEED"
+},
+"5288": {
+"name": "Papaya tree seed",
+"config": "PAPAYA_TREE_SEED"
+},
+"5289": {
+"name": "Palm tree seed",
+"config": "PALM_TREE_SEED"
+},
+"5290": {
+"name": "Calquat tree seed",
+"config": "CALQUAT_TREE_SEED"
+},
+"5291": {
+"name": "Guam seed",
+"config": "GUAM_SEED"
+},
+"5292": {
+"name": "Marrentill seed",
+"config": "MARRENTILL_SEED"
+},
+"5293": {
+"name": "Tarromin seed",
+"config": "TARROMIN_SEED"
+},
+"5294": {
+"name": "Harralander seed",
+"config": "HARRALANDER_SEED"
+},
+"5295": {
+"name": "Ranarr seed",
+"config": "RANARR_SEED"
+},
+"5296": {
+"name": "Toadflax seed",
+"config": "TOADFLAX_SEED"
+},
+"5297": {
+"name": "Irit seed",
+"config": "IRIT_SEED"
+},
+"5298": {
+"name": "Avantoe seed",
+"config": "AVANTOE_SEED"
+},
+"5299": {
+"name": "Kwuarm seed",
+"config": "KWUARM_SEED"
+},
+"5300": {
+"name": "Snapdragon seed",
+"config": "SNAPDRAGON_SEED"
+},
+"5301": {
+"name": "Cadantine seed",
+"config": "CADANTINE_SEED"
+},
+"5302": {
+"name": "Lantadyme seed",
+"config": "LANTADYME_SEED"
+},
+"5303": {
+"name": "Dwarf weed seed",
+"config": "DWARF_WEED_SEED"
+},
+"5304": {
+"name": "Torstol seed",
+"config": "TORSTOL_SEED"
+},
+"5305": {
+"name": "Barley seed",
+"config": "BARLEY_SEED"
+},
+"5306": {
+"name": "Jute seed",
+"config": "JUTE_SEED"
+},
+"5307": {
+"name": "Hammerstone seed",
+"config": "HAMMERSTONE_HOP_SEED"
+},
+"5308": {
+"name": "Asgarnian seed",
+"config": "ASGARNIAN_HOP_SEED"
+},
+"5309": {
+"name": "Yanillian seed",
+"config": "YANILLIAN_HOP_SEED"
+},
+"5310": {
+"name": "Krandorian seed",
+"config": "KRANDORIAN_HOP_SEED"
+},
+"5311": {
+"name": "Wildblood seed",
+"config": "WILDBLOOD_HOP_SEED"
+},
+"5312": {
+"name": "Acorn",
+"config": "ACORN"
+},
+"5313": {
+"name": "Willow seed",
+"config": "WILLOW_SEED"
+},
+"5314": {
+"name": "Maple seed",
+"config": "MAPLE_SEED"
+},
+"5315": {
+"name": "Yew seed",
+"config": "YEW_SEED"
+},
+"5316": {
+"name": "Magic seed",
+"config": "MAGIC_TREE_SEED"
+},
+"5317": {
+"name": "Spirit seed",
+"config": "SPIRIT_TREE_SEED"
+},
+"5318": {
+"name": "Potato seed",
+"config": "POTATO_SEED"
+},
+"5319": {
+"name": "Onion seed",
+"config": "ONION_SEED"
+},
+"5320": {
+"name": "Sweetcorn seed",
+"config": "SWEETCORN_SEED"
+},
+"5321": {
+"name": "Watermelon seed",
+"config": "WATERMELON_SEED"
+},
+"5322": {
+"name": "Tomato seed",
+"config": "TOMATO_SEED"
+},
+"5323": {
+"name": "Strawberry seed",
+"config": "STRAWBERRY_SEED"
+},
+"5324": {
+"name": "Cabbage seed",
+"config": "CABBAGE_SEED"
+},
+"5375": {
+"name": "Spirit sapling",
+"config": "PLANTPOT_SPIRIT_TREE_SAPLING"
+},
+"5502": {
+"name": "Palm sapling",
+"config": "PLANTPOT_PALM_SAPLING"
+},
+"5509": {
+"name": "Small pouch",
+"config": "RCU_POUCH_SMALL"
+},
+"5510": {
+"name": "Medium pouch",
+"config": "RCU_POUCH_MEDIUM"
+},
+"5512": {
+"name": "Large pouch",
+"config": "RCU_POUCH_LARGE"
+},
+"5514": {
+"name": "Giant pouch",
+"config": "RCU_POUCH_GIANT"
+},
+"5521": {
+"name": "Binding necklace",
+"config": "MAGIC_EMERALD_NECKLACE"
+},
+"5560": {
+"name": "Stethoscope",
+"config": "ROGUESDEN_STETHOSCOPE"
+},
+"5769": {
+"name": "Calquat keg",
+"config": "CALQUAT_FRUIT_KEG_EMPTY"
+},
+"5931": {
+"name": "Jute fibre",
+"config": "JUTE_FIBRE"
+},
+"5935": {
+"name": "Coconut milk",
+"config": "VIAL_COCONUT_MILK"
+},
+"5952": {
+"name": "Antipoison++ (4)",
+"config": "ANTIDOTEPLUSPLUS4"
+},
+"5970": {
+"name": "Curry leaf",
+"config": "CURRY_LEAF"
+},
+"5972": {
+"name": "Papaya fruit",
+"config": "PAPAYA"
+},
+"5986": {
+"name": "Sweetcorn",
+"config": "SWEETCORN"
+},
+"6004": {
+"name": "Bittercap mushroom",
+"config": "BITTERCAP_MUSHROOM"
+},
+"6008": {
+"name": "Barley malt",
+"config": "BARLEY_MALT"
+},
+"6016": {
+"name": "Cactus spine",
+"config": "CACTUS_SPINE"
+},
+"6018": {
+"name": "Poison ivy berries",
+"config": "POISONIVY_BERRIES"
+},
+"6043": {
+"name": "Oak roots",
+"config": "OAK_ROOTS"
+},
+"6045": {
+"name": "Willow roots",
+"config": "WILLOW_ROOTS"
+},
+"6047": {
+"name": "Maple roots",
+"config": "MAPLE_ROOTS"
+},
+"6049": {
+"name": "Yew roots",
+"config": "YEW_ROOTS"
+},
+"6128": {
+"name": "Rock-shell helm",
+"config": "DAGGANOTH_MELEE_HELM"
+},
+"6129": {
+"name": "Rock-shell plate",
+"config": "DAGGANOTH_MELEE_BODY"
+},
+"6130": {
+"name": "Rock-shell legs",
+"config": "DAGGANOTH_MELEE_LEGS"
+},
+"6145": {
+"name": "Rock-shell boots",
+"config": "DAGGANOTH_MELEE_FEET"
+},
+"6171": {
+"name": "Flattened hide",
+"config": "DAGGANOTH_RANGE_BODY_PART"
+},
+"6306": {
+"name": "Trading sticks",
+"config": "VILLAGE_TRADE_STICKS"
+},
+"6319": {
+"name": "Proboscis",
+"config": "MOSQUITO_PROBOSCIS"
+},
+"6332": {
+"name": "Mahogany logs",
+"config": "MAHOGANY_LOGS"
+},
+"6333": {
+"name": "Teak logs",
+"config": "TEAK_LOGS"
+},
+"6465": {
+"name": "Ring of charos (a)",
+"config": "RING_OF_CHAROS_UNLOCKED"
+},
+"6570": {
+"name": "Fire cape",
+"config": "TZHAAR_CAPE_FIRE"
+},
+"6571": {
+"name": "Uncut onyx",
+"config": "UNCUT_ONYX"
+},
+"6670": {
+"name": "Fishbowl",
+"config": "FISHBOWL_BLUEFISH"
+},
+"6685": {
+"name": "Saradomin brew (4)",
+"config": "_4DOSEPOTIONOFSARADOMIN"
+},
+"6687": {
+"name": "Saradomin brew (3)",
+"config": "_3DOSEPOTIONOFSARADOMIN"
+},
+"6689": {
+"name": "Saradomin brew (2)",
+"config": "_2DOSEPOTIONOFSARADOMIN"
+},
+"6693": {
+"name": "Crushed nest",
+"config": "CRUSHED_BIRD_NEST"
+},
+"6729": {
+"name": "Dagannoth bones",
+"config": "DAGANNOTH_KING_BONES"
+},
+"6737": {
+"name": "Berserker ring",
+"config": "BERZERKER_RING"
+},
+"6760": {
+"name": "Guthix mjolnir",
+"config": "MAKINGHISTORY_GUTHIX_POLESTAFF"
+},
+"6812": {
+"name": "Wyvern bones",
+"config": "WYVERN_BONES"
+},
+"7060": {
+"name": "Tuna potato",
+"config": "POTATO_TUNAPLUSSWEETCORN"
+},
+"7198": {
+"name": "Admiral pie",
+"config": "ADMIRAL_PIE"
+},
+"7208": {
+"name": "Wild pie",
+"config": "WILD_PIE"
+},
+"7218": {
+"name": "Summer pie",
+"config": "SUMMER_PIE"
+},
+"7225": {
+"name": "Iron spit",
+"config": "SPIT_IRON"
+},
+"7321": {
+"name": "Orange boater",
+"config": "STRAWBOATER_ORANGE"
+},
+"7325": {
+"name": "Blue boater",
+"config": "STRAWBOATER_BLUE"
+},
+"7364": {
+"name": "Studded body (t)",
+"config": "STUDDED_BODY_TRIM_FUR"
+},
+"7390": {
+"name": "Wizard robe top (g)",
+"config": "WIZARDS_ROBE_TRIM_GOLD"
+},
+"7462": {
+"name": "Culinaromancer's gloves 10",
+"config": "HUNDRED_GAUNTLETS_LEVEL_10"
+},
+"7479": {
+"name": "Spicy stew",
+"config": ""
+},
+"7582": {
+"name": "Hellcat",
+"config": "GROWNCATOBJECT_HELL"
+},
+"7800": {
+"name": "Snail shell",
+"config": "TEMPLETREK_SNAIL_SHELL"
+},
+"7801": {
+"name": "Snake hide",
+"config": "TEMPLETREK_SWAMP_SNAKE_HIDE"
+},
+"7936": {
+"name": "Pure essence",
+"config": "BLANKRUNE_HIGH"
+},
+"7946": {
+"name": "Monkfish",
+"config": "MONKFISH"
+},
+"7977": {
+"name": "Basilisk head",
+"config": "POH_TROPHYDROP_BASILISK"
+},
+"7981": {
+"name": "Kalphite queen head",
+"config": "POH_TROPHYDROP_KALPHITEQUEEN"
+},
+"8778": {
+"name": "Oak plank",
+"config": "PLANK_OAK"
+},
+"8780": {
+"name": "Teak plank",
+"config": "PLANK_TEAK"
+},
+"8782": {
+"name": "Mahogany plank",
+"config": "PLANK_MAHOGANY"
+},
+"8790": {
+"name": "Bolt of cloth",
+"config": "CLOTH"
+},
+"8792": {
+"name": "Clockwork",
+"config": "POH_CLOCKWORK_MECHANISM"
+},
+"9013": {
+"name": "Skull sceptre",
+"config": "SOS_SKULL_SCEPTRE"
+},
+"9075": {
+"name": "Astral rune",
+"config": "ASTRALRUNE"
+},
+"9096": {
+"name": "Lunar helm",
+"config": "LUNAR_HELMET"
+},
+"9097": {
+"name": "Lunar torso",
+"config": "LUNAR_TORSO"
+},
+"9098": {
+"name": "Lunar legs",
+"config": "LUNAR_LEGS"
+},
+"9099": {
+"name": "Lunar gloves",
+"config": "LUNAR_GLOVES"
+},
+"9100": {
+"name": "Lunar boots",
+"config": "LUNAR_BOOTS"
+},
+"9101": {
+"name": "Lunar cape",
+"config": "LUNAR_CAPE"
+},
+"9102": {
+"name": "Lunar amulet",
+"config": "LUNAR_AMULET"
+},
+"9104": {
+"name": "Lunar ring",
+"config": "LUNAR_RING"
+},
+"9190": {
+"name": "Emerald bolt tips",
+"config": "XBOWS_BOLT_TIPS_EMERALD"
+},
+"9194": {
+"name": "Onyx bolt tips",
+"config": "XBOWS_BOLT_TIPS_ONYX"
+},
+"9243": {
+"name": "Diamond bolts (e)",
+"config": "XBOWS_CROSSBOW_BOLTS_ADAMANTITE_TIPPED_DIAMOND_ENCHANTED"
+},
+"9244": {
+"name": "Dragon bolts (e)",
+"config": "XBOWS_CROSSBOW_BOLTS_RUNITE_TIPPED_DRAGONSTONE_ENCHANTED"
+},
+"9342": {
+"name": "Onyx bolts",
+"config": "XBOWS_CROSSBOW_BOLTS_RUNITE_TIPPED_ONYX"
+},
+"9475": {
+"name": "Mint cake",
+"config": "ALUFT_GNOME_MINT_CAKE"
+},
+"9594": {
+"name": "Ground mud runes",
+"config": "EYEGLO_GROUND_MUD_RUNES"
+},
+"9625": {
+"name": "Crystal saw",
+"config": "EYEGLO_CRYSTAL_SAW"
+},
+"9736": {
+"name": "Goat horn dust",
+"config": "GROUND_DESERT_GOAT_HORN"
+},
+"9978": {
+"name": "Raw bird meat",
+"config": "SPIT_RAW_BIRD_MEAT"
+},
+"10008": {
+"name": "Box trap",
+"config": "HUNTING_BOX_TRAP"
+},
+"10034": {
+"name": "Red chinchompa",
+"config": "CHINCHOMPA_BIG_CAPTURED"
+},
+"10103": {
+"name": "Kyatt fur",
+"config": "HUNTING_FUR_TIGER_PERFECT"
+},
+"10134": {
+"name": "Rabbit foot",
+"config": "HUNTING_RABBIT_FOOT"
+},
+"10282": {
+"name": "Yew composite bow",
+"config": "TRAIL_COMPOSITE_BOW_YEW"
+},
+"10284": {
+"name": "Magic composite bow",
+"config": "TRAIL_COMPOSITE_BOW_MAGIC"
+},
+"10290": {
+"name": "Rune helm (h3)",
+"config": "TRAIL_HERALDIC_HELM_3_RUNE"
+},
+"10296": {
+"name": "Adamant helm (h1)",
+"config": "TRAIL_HERALDIC_HELM_1_ADAMANT"
+},
+"10310": {
+"name": "Black helm (h3)",
+"config": "TRAIL_HERALDIC_HELM_3_BLACK"
+},
+"10366": {
+"name": "Amulet of magic (t)",
+"config": "TRAIL_AMULET_OF_MAGIC"
+},
+"10394": {
+"name": "Flared trousers",
+"config": "TRAIL_FLARED_PANTS"
+},
+"10396": {
+"name": "Pantaloons",
+"config": "TRAIL_PANTALOONS"
+},
+"10448": {
+"name": "Guthix cloak",
+"config": "TRAIL_GUTHIX_CLOAK"
+},
+"10456": {
+"name": "Zamorak mitre",
+"config": "TRAIL_ZAMORAK_MITRE"
+},
+"10588": {
+"name": "Salve amulet (e)",
+"config": "LOTR_CRYSTALSHARD_NECKLACE_UPGRADE"
+},
+"10937": {
+"name": "Nail beast nails",
+"config": "NAIL_BEAST_NAIL"
+},
+"11037": {
+"name": "Brine sabre",
+"config": "OLAF2_BRINE_SABRE"
+},
+"11060": {
+"name": "Goblin village sphere",
+"config": "SLICE_TELEPORT_ARTIFACT"
+},
+"11118": {
+"name": "Combat bracelet (4)",
+"config": "JEWL_BRACELET_OF_COMBAT_4"
+},
+"11140": {
+"name": "Karamja gloves 3",
+"config": "ATJUN_GLOVES_HARD"
+},
+"11212": {
+"name": "Dragon arrow",
+"config": "DRAGON_ARROW"
+},
+"11232": {
+"name": "Dragon dart tip",
+"config": ""
+},
+"11666": {
+"name": "Void knight seal (8)",
+"config": "PEST_SEAL_8"
+},
+"11714": {
+"name": "Godsword shard 3",
+"config": "GODWARS_GODSWORD_BLADE3"
+},
+"11964": {
+"name": "Raven egg",
+"config": "LORE_RAVEN_EGG"
+},
+"12007": {
+"name": "Spirit terrorbird pouch",
+"config": "LORE_TERRORBIRD"
+},
+"12039": {
+"name": "Unicorn stallion pouch",
+"config": "LORE_UNICORN"
+},
+"12083": {
+"name": "Rune minotaur pouch",
+"config": "LORE_MINOTAUR_6"
+},
+"12148": {
+"name": "Evil turnip seed",
+"config": "LORE_EVIL_TURNIP_SEED"
+},
+"12155": {
+"name": "Pouch",
+"config": "LORE_POUCH"
+},
+"12158": {
+"name": "Gold charm",
+"config": "LORE_CREATURE_CHARM"
+},
+"12159": {
+"name": "Green charm",
+"config": "LORE_INSECT_CHARM"
+},
+"12160": {
+"name": "Crimson charm",
+"config": "LORE_LEECH_CHARM"
+},
+"12161": {
+"name": "Abyssal charm",
+"config": "LORE_MONSTER_CHARM"
+},
+"12163": {
+"name": "Blue charm",
+"config": "LORE_OUTSIDER_CHARM"
+},
+"12168": {
+"name": "Obsidian charm",
+"config": "LORE_ABBY_TITAN_TOKEN"
+},
+"12172": {
+"name": "Clean spirit weed",
+"config": "LORE_SPIRIT_WEED"
+},
+"12176": {
+"name": "Spirit weed seed",
+"config": "LORE_SPIRIT_WEED_SEED"
+},
+"12183": {
+"name": "Spirit shards",
+"config": "LORE_SPIRIT_SHARD"
+},
+"12516": {
+"name": "Labrador puppy",
+"config": "LORE_DOG_LABRADOR_PUPPY_1"
+},
+"12539": {
+"name": "Grenwall spikes",
+"config": "GREN_SPIKE"
+},
+"12786": {
+"name": "Geyser titan pouch",
+"config": "LORE_GEYSER_TITAN"
+},
+"12788": {
+"name": "Lava titan pouch",
+"config": "LORE_LAVA_TITAN"
+},
+"12796": {
+"name": "Abyssal titan pouch",
+"config": ""
+},
+"12802": {
+"name": "Fire titan pouch",
+"config": "LORE_FIRE_TITAN"
+},
+"12804": {
+"name": "Moss titan pouch",
+"config": "LORE_MOSS_TITAN"
+},
+"13006": {
+"name": "Dragon gauntlets",
+"config": "HVH_DRAGON_GAUNTLETS"
+},
+"13566": {
+"name": "Jennica's ring",
+"config": "SUM1_JENNICAS_RING"
+},
+"13610": {
+"name": "Blood altar teleport",
+"config": "RCGUILD_TABLET_BLOOD"
+},
+"13659": {
+"name": "Ring of fire",
+"config": "FIREDUP_RING"
+},
+"13660": {
+"name": "Flame gloves",
+"config": "FIREDUP_GLOVES"
+},
+"13661": {
+"name": "Inferno adze",
+"config": "FIREDUP_ADZE"
+},
+"13727": {
+"name": "Stardust",
+"config": "STAR_DUST"
+},
+"13734": {
+"name": "Spirit shield",
+"config": "SUM2_SPIRIT_SHIELD"
+},
+"14476": {
+"name": "Ruined dragon armour shard",
+"config": "LUC2_DRAGONPLATE_PIECE3"
+},
+"14533": {
+"name": "Broav",
+"config": "LORE_BROAV"
+},
+"14589": {
+"name": "White lily seed",
+"config": "ATFAL_LILY_SEED"
+},
+"14616": {
+"name": "Phoenix quill",
+"config": "LORE_PHOENIX_PINION"
+},
+"14632": {
+"name": "Enhanced Excalibur",
+"config": "ATSEER_EXCALIBUR"
+},
+"14848": {
+"name": "Fletching potion (3)",
+"config": "_3DOSEFLETCHING"
+},
+"14854": {
+"name": "Clean wergali",
+"config": "WERGALI"
+},
+"14870": {
+"name": "Wergali seed",
+"config": "WERGALI_SEED"
+},
+"15215": {
+"name": "Bonesack(e)",
+"config": "RAG2_BONESACK"
+},
+"15241": {
+"name": "Hand cannon",
+"config": "RA3_ARQUEBUS"
+},
+"15243": {
+"name": "Hand cannon shot",
+"config": "RA3_ARQUEBUS_SHOT"
+},
+"15263": {
+"name": "Living minerals",
+"config": "LRC_LIVING_MINERALS"
+},
+"15264": {
+"name": "Raw cavefish",
+"config": "LRC_CAVEFISH_RAW"
+},
+"15266": {
+"name": "Cavefish",
+"config": "LRC_CAVEFISH_COOKED"
+},
+"15270": {
+"name": "Raw rocktail",
+"config": "LRC_ROCKTAIL_RAW"
+},
+"15272": {
+"name": "Rocktail",
+"config": "LRC_ROCKTAIL_COOKED"
+},
+"15301": {
+"name": "Adrenaline potion (3)",
+"config": "_3DOSE1SPECIALATTACK"
+},
+"15305": {
+"name": "Super antifire (3)",
+"config": "_3DOSE2ANTIDRAGON"
+},
+"15307": {
+"name": "Super antifire (1)",
+"config": "_1DOSE2ANTIDRAGON"
+},
+"15309": {
+"name": "Extreme attack (3)",
+"config": "_3DOSE3ATTACK"
+},
+"15311": {
+"name": "Extreme attack (1)",
+"config": "_1DOSE3ATTACK"
+},
+"15313": {
+"name": "Extreme strength (3)",
+"config": "_3DOSE3STRENGTH"
+},
+"15317": {
+"name": "Extreme defence (3)",
+"config": "_3DOSE3DEFENCE"
+},
+"15321": {
+"name": "Extreme magic (3)",
+"config": "_3DOSE2MAGIC"
+},
+"15323": {
+"name": "Extreme magic (1)",
+"config": "_1DOSE2MAGIC"
+},
+"15332": {
+"name": "Overload (4)",
+"config": "_4DOSEOVERLOAD"
+},
+"15334": {
+"name": "Overload (2)",
+"config": "_2DOSEOVERLOAD"
+},
+"15349": {
+"name": "Ardougne cloak 3",
+"config": "ATAR_CLOAK_HARD"
+},
+"15351": {
+"name": "Antique lamp (Elite Ardougne Tasks)",
+"config": ""
+},
+"15398": {
+"name": "Ferocious ring (5)",
+"config": "SLAYGUILD_RING_5"
+},
+"15415": {
+"name": "Black wool",
+"config": "BLACK_WOOL"
+},
+"15483": {
+"name": "Rune guardian",
+"config": "LORE_RUNE_GUARDIAN"
+},
+"15490": {
+"name": "Focus sight",
+"config": "SLAYER_RANGE_MASK"
+},
+"15667": {
+"name": "Basic tackle box",
+"config": "FISHCOMP_TACKLE_BOX_02"
+},
+"15707": {
+"name": "Ring of kinship",
+"config": "RAND_MISSION_CONTRACT"
+},
+"18663": {
+"name": "Vial of stench (a)",
+"config": "THIGUI_VIAL_S"
+},
+"18788": {
+"name": "Climbing boots",
+"config": "DEATH_CLIMBINGBOOTS_QUEST"
+},
+"19152": {
+"name": "Saradomin arrows",
+"config": "TRAIL_SARADOMIN_ARROW"
+},
+"19162": {
+"name": "Zamorak arrows",
+"config": ""
+},
+"19194": {
+"name": "Adamant platebody (h2)",
+"config": "TRAIL_HERALDIC_PLATEBODY_2_ADAMANT"
+},
+"19221": {
+"name": "Rune platebody (h3)",
+"config": "TRAIL_HERALDIC_PLATEBODY_3_RUNE"
+},
+"19443": {
+"name": "Blessed dragonhide vambraces (Zaros)",
+"config": "TRAIL_ZAROS_VAMBRACES"
+},
+"19463": {
+"name": "Blessed dragonhide chaps (Armadyl)",
+"config": "TRAIL_ARMADYL_CHAPS"
+},
+"19475": {
+"name": "Pollnivneach Teleport",
+"config": "TRAIL_SCROLL_NARDAHTELEPORT"
+},
+"19476": {
+"name": "Bandit Camp Teleport",
+"config": "TRAIL_SCROLL_BANDITCAMPTELEPORT"
+},
+"19479": {
+"name": "Tai Bwo Wannai Teleport",
+"config": "TRAIL_SCROLL_TAIBWOWANNAITELEPORT"
+},
+"19480": {
+"name": "Fort Forinthry Teleport",
+"config": "TRAIL_SCROLL_LUMBERYARDTELEPORT"
+},
+"19600": {
+"name": "Bandos page 1",
+"config": "HOLY_BOOK_B_PAGE1"
+},
+"19602": {
+"name": "Bandos page 3",
+"config": "HOLY_BOOK_B_PAGE3"
+},
+"19604": {
+"name": "Armadyl page 1",
+"config": "HOLY_BOOK_A_PAGE1"
+},
+"19609": {
+"name": "Ancient page 2",
+"config": "HOLY_BOOK_ZS_PAGE2"
+},
+"19610": {
+"name": "Ancient page 3",
+"config": "HOLY_BOOK_ZS_PAGE3"
+},
+"19675": {
+"name": "Herbicide",
+"config": "RAND_HERB_BURNER"
+},
+"19704": {
+"name": "Statue collection bag",
+"config": "STATUE_BAG"
+},
+"19748": {
+"name": "Ardougne cloak 4",
+"config": ""
+},
+"19749": {
+"name": "Falador shield 4",
+"config": "ATFAL_SHIELD4"
+},
+"19757": {
+"name": "Varrock armour 4",
+"config": "ATVAR_BODY_ELITE"
+},
+"19760": {
+"name": "Explorer's ring 4",
+"config": "ATLUM_RING_ELITE"
+},
+"19763": {
+"name": "Seer's headband 4",
+"config": "ATSEER_SEERS_HEADBAND4"
+},
+"19766": {
+"name": "Fremennik sea boots 4",
+"config": "ATFREM_BOOTS_ELITE"
+},
+"19784": {
+"name": "Korasi's sword",
+"config": "VKQ3_KORASI_SWORD_REWARD"
+},
+"19787": {
+"name": "Elite void knight top",
+"config": "VKQ3_REWARD_TORSO_GREY"
+},
+"19887": {
+"name": "Split dragontooth necklace",
+"config": "RAND_REWARD_SPLIT_DRAGON_TOOTH_NECKLACE"
+},
+"19897": {
+"name": "Erzille seed",
+"config": "ERZILLE_SEED"
+},
+"19907": {
+"name": "Argway seed",
+"config": "ARGWAY_SEED"
+},
+"19917": {
+"name": "Samaden seed",
+"config": "SAMADEN_SEED"
+},
+"19922": {
+"name": "Red blossom seed",
+"config": "ECOSYSTEM_RED_SEED"
+},
+"19927": {
+"name": "Blue blossom seed",
+"config": "ECOSYSTEM_BLUE_SEED"
+},
+"19932": {
+"name": "Green blossom seed",
+"config": "ECOSYSTEM_GREEN_SEED"
+},
+"19937": {
+"name": "Lergberry seed",
+"config": "LERGBERRY_BUSH_SEED"
+},
+"19942": {
+"name": "Kalferberry seed",
+"config": "KALFERBERRY_BUSH_SEED"
+},
+"19948": {
+"name": "Baron shark",
+"config": "GOLDEN_SHARK"
+},
+"19980": {
+"name": "Marble vine",
+"config": "ECOSYSTEM_MARBLE_VINE"
+},
+"19991": {
+"name": "Clean ugune",
+"config": "UGUNE"
+},
+"19994": {
+"name": "Juju vial of water",
+"config": "ECO_VIAL_WATER"
+},
+"19996": {
+"name": "Juju vial",
+"config": "ECO_VIAL_EMPTY"
+},
+"20042": {
+"name": "Zamorak's favour (1)",
+"config": "_1DOSEZAMORAK_POTION"
+},
+"20068": {
+"name": "Ava's alerter",
+"config": "APMEKEN_ALERTER_REWARD"
+},
+"20072": {
+"name": "Dragon defender",
+"config": "DRAGON_PARRYINGDAGGER"
+},
+"20120": {
+"name": "Frozen key",
+"config": "GODWARS2_FROZEN_KEY"
+},
+"20268": {
+"name": "Infernal ashes",
+"config": "INFERNAL_ASHES"
+},
+"20935": {
+"name": "Reward book",
+"config": "LOY_WAVE_REWARD"
+},
+"21359": {
+"name": "Excrescence",
+"config": "JARO_EXCRESCENCE"
+},
+"21376": {
+"name": "Common fruit",
+"config": "JARO_FRUIT_COMMON"
+},
+"21446": {
+"name": "Constructor's hat",
+"config": "TT2_CONSTRUCTION_HAT"
+},
+"21447": {
+"name": "Constructor's garb",
+"config": "TT2_CONSTRUCTION_BODY"
+},
+"21516": {
+"name": "Master runecrafter robe",
+"config": "HLR4M_RUNECRAFTER_ROBE"
+},
+"21517": {
+"name": "Master runecrafter hat",
+"config": "HLR4M_RUNECRAFTER_HAT"
+},
+"21518": {
+"name": "Master runecrafter skirt",
+"config": "HLR4M_RUNECRAFTER_LEGS"
+},
+"21519": {
+"name": "Master runecrafter boots",
+"config": "HLR4M_RUNECRAFTER_BOOTS"
+},
+"21576": {
+"name": "Drakan's medallion",
+"config": "MYQ5_DRAKAN_PENDANT"
+},
+"21620": {
+"name": "Morchella mushroom spore",
+"config": "MORCHELLA_MUSHROOM_SEED"
+},
+"21621": {
+"name": "Fellstalk seed",
+"config": "FELLSTALK_SEED"
+},
+"21622": {
+"name": "Morchella mushroom",
+"config": "MORCHELLA_MUSHROOM"
+},
+"21624": {
+"name": "Clean fellstalk",
+"config": "FELLSTALK"
+},
+"21630": {
+"name": "Prayer renewal (4)",
+"config": "_4DOSEPRAYERRENEW"
+},
+"21632": {
+"name": "Prayer renewal (3)",
+"config": "_3DOSEPRAYERRENEW"
+},
+"21776": {
+"name": "Shards of Armadyl",
+"config": ""
+},
+"22332": {
+"name": "Wicked hood",
+"config": "HOOKS3_HOOD"
+},
+"22444": {
+"name": "Neem oil",
+"config": "POLYPORE_NEEM_OIL"
+},
+"22445": {
+"name": "Neem drupe",
+"config": "POLYPORE_NEEM_DRUPE"
+},
+"22446": {
+"name": "Gorajian mushroom",
+"config": "GORAJIAN_MUSHROOM"
+},
+"22448": {
+"name": "Polypore spore",
+"config": "POLYPORE_SPORE"
+},
+"22449": {
+"name": "Fungal flake",
+"config": "FUNGAL_FLAKE"
+},
+"22450": {
+"name": "Grifolic flake",
+"config": "GRIFOLIC_FLAKE"
+},
+"22994": {
+"name": "Searing flame",
+"config": "LORE_FMC_BLAZING_MAGMA"
+},
+"23030": {
+"name": "Baby troll",
+"config": "LORE_BABY_TROLL"
+},
+"23191": {
+"name": "Potion flask",
+"config": "BIGPOT_EMPTY"
+},
+"23193": {
+"name": "Robust glass",
+"config": "BIGPOT_ROBUSTGLASS"
+},
+"23194": {
+"name": "Red sandstone",
+"config": "BIGPOT_SANDSTONE"
+},
+"23351": {
+"name": "Saradomin brew flask (6)",
+"config": "BIGPOT_6DOSEPOTIONOFSARADOMIN"
+},
+"23399": {
+"name": "Super restore flask (6)",
+"config": "BIGPOT_6DOSE2RESTORE"
+},
+"23489": {
+"name": "Super antifire flask (6)",
+"config": "BIGPOT_6DOSE2ANTIDRAGON"
+},
+"23507": {
+"name": "Extreme defence flask (6)",
+"config": "BIGPOT_6DOSE3DEFENCE"
+},
+"23513": {
+"name": "Extreme magic flask (6)",
+"config": "BIGPOT_6DOSE2MAGIC"
+},
+"23643": {
+"name": "TokKul-Zo (Charged)",
+"config": "TZHAAR2_REWARD_RING"
+},
+"24116": {
+"name": "Bakriminel bolts",
+"config": "SNIPER_BOLTS"
+},
+"24137": {
+"name": "Morytania legs 4",
+"config": "ATMO_LEGS_ELITE"
+},
+"24206": {
+"name": "Wicked robe top",
+"config": "RCSIPHONXP_WICKED_TORSO"
+},
+"24208": {
+"name": "Wicked legs",
+"config": "RCSIPHONXP_WICKED_LEGS"
+},
+"24210": {
+"name": "Wicked cape",
+"config": "RCSIPHONXP_WICKED_CAPE"
+},
+"24336": {
+"name": "Royal bolts",
+"config": "QBD2_BOLTS"
+},
+"24344": {
+"name": "Royal sight",
+"config": "QBD2_CROSSBOW_COMPONENT3"
+},
+"24372": {
+"name": "Royal dragonhide",
+"config": "DRAGONHIDE_ROYAL"
+},
+"24379": {
+"name": "Royal dragonhide chaps",
+"config": "ROYAL_DRAGONHIDE_CHAPS"
+},
+"24382": {
+"name": "Royal dragonhide body",
+"config": "ROYAL_DRAGONHIDE_BODY"
+},
+"24388": {
+"name": "Royal dragonhide coif",
+"config": "HVH_ROYAL_DHIDE_COIF_100"
+},
+"24995": {
+"name": "Garb of subjugation",
+"config": "GODWARS_ZAMORAK_ROBE_BODY"
+},
+"25001": {
+"name": "Ward of subjugation",
+"config": "GODWARS_ZAMORAK_SHIELD"
+},
+"25195": {
+"name": "Blacksmith's helmet",
+"config": "WOF19_SKILL_SMITHING_HEAD"
+},
+"25196": {
+"name": "Blacksmith's top",
+"config": "WOF19_SKILL_SMITHING_TORSO"
+},
+"25197": {
+"name": "Blacksmith's apron",
+"config": "WOF19_SKILL_SMITHING_LEGS"
+},
+"25198": {
+"name": "Blacksmith's boots",
+"config": "WOF19_SKILL_SMITHING_FEET"
+},
+"25199": {
+"name": "Blacksmith's gloves",
+"config": "WOF19_SKILL_SMITHING_HANDS"
+},
+"25202": {
+"name": "Deathtouched dart",
+"config": "SIZZLING_INSTAKILL_DART"
+},
+"25487": {
+"name": "Weapon poison (3)",
+"config": "_3DOSEWEAPONPOISON"
+},
+"25495": {
+"name": "Weapon poison+ (3)",
+"config": "_3DOSEWEAPONPOISONPLUS"
+},
+"25497": {
+"name": "Weapon poison+ (2)",
+"config": "_2DOSEWEAPONPOISONPLUS"
+},
+"25501": {
+"name": "Weapon poison++ (4)",
+"config": "_4DOSEWEAPONPOISONPLUSPLUS"
+},
+"25553": {
+"name": "Royal spiky vambraces",
+"config": "HUNTING_ROYAL_SPIKED_VAMBRACES"
+},
+"25879": {
+"name": "Grifolic gloves",
+"config": "GRIFOLIC_GLOVES"
+},
+"25929": {
+"name": "Rune 2h crossbow",
+"config": "RUNE_2H_XBOW"
+},
+"26313": {
+"name": "Rocktail soup",
+"config": "POP_ROCKFISH_SUSHI"
+},
+"26322": {
+"name": "Superior tetsu helm",
+"config": "POP_MELEE_HELM_UNTRADEABLE"
+},
+"26323": {
+"name": "Superior tetsu body",
+"config": "POP_MELEE_BODY_UNTRADEABLE"
+},
+"26324": {
+"name": "Superior tetsu platelegs",
+"config": "POP_MELEE_LEGS_UNTRADEABLE"
+},
+"26334": {
+"name": "Superior seasinger's hood",
+"config": "POP_MAGIC_HELM_UNTRADEABLE"
+},
+"26335": {
+"name": "Superior seasinger's robe top",
+"config": "POP_MAGIC_BODY_UNTRADEABLE"
+},
+"26336": {
+"name": "Superior seasinger's robe bottom",
+"config": "POP_MAGIC_LEGS_UNTRADEABLE"
+},
+"26352": {
+"name": "Superior Death Lotus hood",
+"config": "POP_RANGED_HELM_UNTRADEABLE"
+},
+"26353": {
+"name": "Superior Death Lotus chestplate",
+"config": "POP_RANGED_BODY_UNTRADEABLE"
+},
+"26354": {
+"name": "Superior Death Lotus chaps",
+"config": "POP_RANGED_LEGS_UNTRADEABLE"
+},
+"26575": {
+"name": "Sculpting chisel (Guthix)",
+"config": "GODSS_HAMMER_CHISEL_PLAYER_GUTHIX"
+},
+"26577": {
+"name": "Damaged chitin",
+"config": "KK_CARAPACE_BROKEN"
+},
+"27094": {
+"name": "Desert amulet 2",
+"config": "ATDES_AMULET_MED"
+},
+"27234": {
+"name": "Distraction & Diversion reset token (daily)",
+"config": "WOF_DD_TOKEN_DAILY"
+},
+"27235": {
+"name": "Distraction & Diversion reset token (weekly)",
+"config": "WOF_DD_TOKEN_WEEKLY"
+},
+"27236": {
+"name": "Distraction & Diversion reset token (monthly)",
+"config": "WOF_DD_TOKEN_MONTHLY"
+},
+"27412": {
+"name": "Cobalt Balmung",
+"config": "UPGRADED_EVQ_AXE_B"
+},
+"27516": {
+"name": "Magic potion (2)",
+"config": "_2DOSE0MAGIC"
+},
+"27588": {
+"name": "First age cape",
+"config": "WOF36_SKILL_PRAYER_CAPE"
+},
+"27589": {
+"name": "First age amulet",
+"config": "WOF36_SKILL_PRAYER_AMULET"
+},
+"27590": {
+"name": "First age ring",
+"config": "WOF36_SKILL_PRAYER_RING"
+},
+"27591": {
+"name": "First age bracelet",
+"config": "WOF36_SKILL_PRAYER_BRACELET"
+},
+"27996": {
+"name": "Charming imp",
+"config": "RAND_REWARD_CHARMING_IMP"
+},
+"28084": {
+"name": "Enhanced yaktwee stick",
+"config": "HUNTCHARM_STAVE_ENHANCED"
+},
+"28258": {
+"name": "Potato cactus seed",
+"config": "POTATO_CACTUS_SEED"
+},
+"28259": {
+"name": "Prickly pear seed",
+"config": "PRICKLY_PEAR_SEED"
+},
+"28261": {
+"name": "Sunchoke seed",
+"config": "SUNCHOKE_SEED"
+},
+"28262": {
+"name": "Snape grass seed",
+"config": "SNAPE_SEED"
+},
+"28263": {
+"name": "Reed seed",
+"config": "REED_SEED"
+},
+"28264": {
+"name": "Godly grapevine seed",
+"config": "GRAPE_VINE_SEED"
+},
+"28265": {
+"name": "Butterfly flower seed",
+"config": "BUTTERFLY_FLOWER_SEED"
+},
+"28266": {
+"name": "Barberry seed",
+"config": "BARBERRY_SEED"
+},
+"28351": {
+"name": "Banner of Zaros",
+"config": "GODEM_BANNER_ZAROS_TIER4"
+},
+"28547": {
+"name": "Crystal triskelion fragment 1",
+"config": "CK13_TRISKELION_PART1"
+},
+"28635": {
+"name": "Raw bacon",
+"config": "QUEST_BACON_BACON_UNCOOKED"
+},
+"28700": {
+"name": "Pig",
+"config": "LORE_PIG_PET"
+},
+"28775": {
+"name": "Warpriest of Zamorak gauntlets",
+"config": "_6AWE1_ZAMORAK_GLOVES_TIER3"
+},
+"28778": {
+"name": "Warpriest of Zamorak boots",
+"config": "_6AWE1_ZAMORAK_BOOTS_TIER3"
+},
+"28781": {
+"name": "Warpriest of Zamorak cuirass",
+"config": "_6AWE1_ZAMORAK_TORSO_TIER3"
+},
+"28784": {
+"name": "Warpriest of Zamorak greaves",
+"config": "_6AWE1_ZAMORAK_LEGS_TIER3"
+},
+"28790": {
+"name": "Warpriest of Zamorak cape",
+"config": "_6AWE1_ZAMORAK_CAPE_TIER3"
+},
+"29253": {
+"name": "Portent of restoration VIII",
+"config": "DIV_PORTENT_RESTO8"
+},
+"29255": {
+"name": "Portent of restoration IX",
+"config": "DIV_PORTENT_RESTO9"
+},
+"29290": {
+"name": "Sign of life",
+"config": "DIV_SIGN_LIFE"
+},
+"29320": {
+"name": "Lustrous energy",
+"config": "DIV_ENERGY8"
+},
+"29321": {
+"name": "Brilliant energy",
+"config": "DIV_ENERGY9"
+},
+"29322": {
+"name": "Radiant energy",
+"config": "DIV_ENERGY10"
+},
+"29323": {
+"name": "Luminous energy",
+"config": "DIV_ENERGY11"
+},
+"29324": {
+"name": "Incandescent energy",
+"config": "DIV_ENERGY12"
+},
+"29544": {
+"name": "Off-hand dragon throwing axe",
+"config": ""
+},
+"29556": {
+"name": "Elder logs",
+"config": "ELDER_LOGS"
+},
+"29866": {
+"name": "Diviner's robe",
+"config": "WOF55_SKILL_DIVINATION_TORSO"
+},
+"29867": {
+"name": "Diviner's legwear",
+"config": "WOF55_SKILL_DIVINATION_LEGS"
+},
+"29868": {
+"name": "Diviner's footwear",
+"config": "WOF55_SKILL_DIVINATION_FEET"
+},
+"29869": {
+"name": "Diviner's handwear",
+"config": "WOF55_SKILL_DIVINATION_HANDS"
+},
+"30004": {
+"name": "Barrows totem",
+"config": "BARROWS2_ENTRY_TOTEM"
+},
+"30302": {
+"name": "Warpriest of Armadyl helm",
+"config": "_6AWE2_ARMADYL_HELM_TIER3"
+},
+"30311": {
+"name": "Warpriest of Bandos boots",
+"config": "_6AWE2_BANDOS_BOOTS_TIER3"
+},
+"30314": {
+"name": "Warpriest of Bandos cuirass",
+"config": "_6AWE2_BANDOS_TORSO_TIER3"
+},
+"30447": {
+"name": "Spirit sapphire",
+"config": "WOF59_SPIRIT_GEM_1_EMPTY"
+},
+"30448": {
+"name": "Spirit emerald",
+"config": "WOF59_SPIRIT_GEM_2_EMPTY"
+},
+"30449": {
+"name": "Spirit ruby",
+"config": "WOF59_SPIRIT_GEM_3_EMPTY"
+},
+"30450": {
+"name": "Spirit diamond",
+"config": "WOF59_SPIRIT_GEM_4_EMPTY"
+},
+"30456": {
+"name": "Spirit diamond (a)",
+"config": "WOF59_SPIRIT_GEM_4_USED"
+},
+"30458": {
+"name": "Spirit onyx (a)",
+"config": ""
+},
+"30572": {
+"name": "Superior reefwalker's cape (worn)",
+"config": "POP2_TANK_CAPE_UNTRADEABLE_USED"
+},
+"30580": {
+"name": "Superior leviathan ring (worn)",
+"config": "POP2_TANK_RING_UNTRADEABLE_USED"
+},
+"30776": {
+"name": "Ultra-growth potion (1)",
+"config": "MOLE2_GROWTHPOTION_1"
+},
+"30778": {
+"name": "Numbing root",
+"config": "MOLE2_ROOTS_CONSUMABLE"
+},
+"30929": {
+"name": "Dragon Rider amulet",
+"config": "OOAK_DRAGONRIDER_AMULET"
+},
+"31188": {
+"name": "Seedicide",
+"config": "_6AWE3_SEEDICIDE"
+},
+"31312": {
+"name": "Elder energy",
+"config": "EDIV_ENERGY85"
+},
+"31427": {
+"name": "Crystal motherlode shard",
+"config": "CRYSTAL_MOTHERLODE_SHARD"
+},
+"31455": {
+"name": "Gem bag (upgraded)",
+"config": "RAND_REWARD_GEM_BAG_UPGRADED"
+},
+"31525": {
+"name": "Honourable kyzaj",
+"config": "TMF_KYZAJ_70_HONOURED"
+},
+"31846": {
+"name": "Grim gem",
+"config": "BSLAY_GEM"
+},
+"31867": {
+"name": "Hydrix bolt tips",
+"config": "XBOWS_BOLT_TIPS_HYDRIX"
+},
+"32092": {
+"name": "Vis wax",
+"config": "RUNEMACH_VIS"
+},
+"32193": {
+"name": "Reward book (Rush of Blood)",
+"config": ""
+},
+"32194": {
+"name": "Most Wanted card (abyssal demons)",
+"config": "ELFCITY_SLAYER_CARD_ABYSSAL"
+},
+"32195": {
+"name": "Most Wanted card (automatons)",
+"config": "ELFCITY_SLAYER_CARD_AUTOMATON"
+},
+"32196": {
+"name": "Most Wanted card (glacors)",
+"config": "ELFCITY_SLAYER_CARD_GLACOR"
+},
+"32197": {
+"name": "Most Wanted card (tormented demons)",
+"config": "ELFCITY_SLAYER_CARD_TORMENTED"
+},
+"32224": {
+"name": "Crystal dagger",
+"config": "ELFCITY_CRYSTAL_DAGGER_50"
+},
+"32264": {
+"name": "Crystal acorn",
+"config": "CRYSTAL_TREE_SEED"
+},
+"32270": {
+"name": "Crystal tree blossom",
+"config": "CRYSTAL_TREE_BLOSSOM"
+},
+"32279": {
+"name": "Modified diviner's headwear",
+"config": "TRH28_DIVINATION_HEAD_UPGRADED"
+},
+"32339": {
+"name": "Attuned ectoplasmator",
+"config": "HW2012_ECTOPLASMATOR_UPGRADED"
+},
+"32341": {
+"name": "Ghostly essence",
+"config": "HW2012_GHOST_ESSENCE"
+},
+"32343": {
+"name": "Law ethereal body",
+"config": "TRH33_ETHEREAL_BODY_LAW"
+},
+"32344": {
+"name": "Law ethereal legs",
+"config": "TRH33_ETHEREAL_LEGS_LAW"
+},
+"32348": {
+"name": "Blood ethereal body",
+"config": "TRH33_ETHEREAL_BODY_BLOOD"
+},
+"32349": {
+"name": "Blood ethereal legs",
+"config": "TRH33_ETHEREAL_LEGS_BLOOD"
+},
+"32357": {
+"name": "Infinity ethereal head",
+"config": "TRH33_ETHEREAL_HEAD_INFINITY"
+},
+"32358": {
+"name": "Infinity ethereal body inventory",
+"config": ""
+},
+"32359": {
+"name": "Infinity ethereal legs inventory",
+"config": ""
+},
+"32360": {
+"name": "Infinity ethereal hands",
+"config": "TRH33_ETHEREAL_HANDS_INFINITY"
+},
+"32361": {
+"name": "Infinity ethereal feet",
+"config": "TRH33_ETHEREAL_FEET_INFINITY"
+},
+"32372": {
+"name": "Kurask boots",
+"config": "KURASK_BOOTS"
+},
+"32382": {
+"name": "Ghost hunter body",
+"config": "HW14_GHOST_HUNTER_TORSO_TIER3"
+},
+"32385": {
+"name": "Ghost hunter legs",
+"config": "HW14_GHOST_HUNTER_LEGS_TIER3"
+},
+"32388": {
+"name": "Ghost hunter goggles",
+"config": "HW14_GHOST_HUNTER_HELM_TIER3"
+},
+"32525": {
+"name": "Asylum surgeon's ring",
+"config": "HOUSE_RING_HIGH"
+},
+"32581": {
+"name": "Infinity ethereal body",
+"config": "TRH33_ETHEREAL_BODY_INFINITY_WORN"
+},
+"32582": {
+"name": "Infinity ethereal legs",
+"config": "TRH33_ETHEREAL_LEGS_INFINITY_WORN"
+},
+"32605": {
+"name": "Impling checklist",
+"config": "ELFCITY_IMPLING_LIST"
+},
+"32606": {
+"name": "Truthful shadow core",
+"config": ""
+},
+"32607": {
+"name": "Blissful shadow core",
+"config": ""
+},
+"32608": {
+"name": "Manifest shadow core",
+"config": ""
+},
+"32609": {
+"name": "Light core",
+"config": "ELFCITY_AMLODD_LIGHT_CORE"
+},
+"32616": {
+"name": "Hefin course multiplier",
+"config": ""
+},
+"32622": {
+"name": "Harmonic dust",
+"config": "ELFCITY_HARMONIC_DUST"
+},
+"32635": {
+"name": "Crystal knife",
+"config": "ELFCITY_CRYSTAL_KNIFE_100"
+},
+"32665": {
+"name": "Harmony moss seed",
+"config": "HARMONY_BOLE_SEED"
+},
+"32732": {
+"name": "Prifddinian musician's robe top",
+"config": "ELFCITY_MUSICIAN_BODY"
+},
+"32733": {
+"name": "Prifddinian musician's robe bottom",
+"config": "ELFCITY_MUSICIAN_LEGS"
+},
+"32734": {
+"name": "Prifddinian musician's gloves",
+"config": "ELFCITY_MUSICIAN_GLOVES"
+},
+"32746": {
+"name": "Seren's symbol",
+"config": "ELFCITY_SEREN_SYMBOL_USED"
+},
+"32763": {
+"name": "Perfect juju farming potion (2)",
+"config": "_2DOSEPERFECTFARMING"
+},
+"32829": {
+"name": "Light creature pouch",
+"config": "LORE_LIGHTCREATURE"
+},
+"32843": {
+"name": "Crystal flask",
+"config": "CRYSTAL_FLASK"
+},
+"32845": {
+"name": "Crystal glass",
+"config": "CRYSTAL_ROBUSTGLASS"
+},
+"32847": {
+"name": "Crystal-flecked sandstone",
+"config": "CRYSTAL_SANDSTONE"
+},
+"32947": {
+"name": "Harmony moss",
+"config": "ELF_MOSS"
+},
+"33180": {
+"name": "Super prayer renewal potion (3)",
+"config": "_3DOSECOMBOPRAYERRENEW"
+},
+"33186": {
+"name": "Super prayer renewal potion (6)",
+"config": "_6DOSECOMBOPRAYERRENEW"
+},
+"33206": {
+"name": "Supreme overload potion (4)",
+"config": "_4DOSECOMBOSUPREMEOVERLOAD"
+},
+"33208": {
+"name": "Supreme overload potion (5)",
+"config": ""
+},
+"33210": {
+"name": "Supreme overload potion (6)",
+"config": "_6DOSECOMBOSUPREMEOVERLOAD"
+},
+"33262": {
+"name": "Expert skillcape shard bag",
+"config": "NJCAPES_SHARD_BAG"
+},
+"33498": {
+"name": "Off-hand black crossbow",
+"config": ""
+},
+"33502": {
+"name": "Amulet of fury (t)",
+"config": "TT14_FURY_AMULET"
+},
+"33505": {
+"name": "Puzzle box skipping ticket",
+"config": "TT14_PUZZLE_SKIP_TICKET"
+},
+"33720": {
+"name": "Tirannwn quiver 2",
+"config": "ATELF_QUIVER_MED"
+},
+"33878": {
+"name": "Tengu tsuba",
+"config": "POP3_MELEE_WEAPON_COMPONENT"
+},
+"33885": {
+"name": "Gemstone kaseki",
+"config": "POP3_MAGIC_WEAPON_COMPONENT"
+},
+"34159": {
+"name": "Searing ashes",
+"config": "SMOLDERING_ASHES"
+},
+"34191": {
+"name": "Mask of Sliske, Light",
+"config": "SLISKE2_MASK_LIGHT"
+},
+"34235": {
+"name": "Wild arrow",
+"config": "WILD_ARROW"
+},
+"34255": {
+"name": "Hooded prayer cape (t)",
+"config": "SKILLCAPE_PRAYER_TRIMMED_HOODED"
+},
+"34269": {
+"name": "Hooded thieving cape (t)",
+"config": "SKILLCAPE_THIEVING_TRIMMED_HOODED"
+},
+"34283": {
+"name": "Hooded fishing cape (t)",
+"config": "SKILLCAPE_FISHING_TRIMMED_HOODED"
+},
+"34285": {
+"name": "Hooded cooking cape (t)",
+"config": "SKILLCAPE_COOKING_TRIMMED_HOODED"
+},
+"34295": {
+"name": "Hooded dungeoneering cape (t)",
+"config": "SKILLCAPE_DUNGEONEERING_TRIMMED_HOODED"
+},
+"34670": {
+"name": "Hooded Quest Cape",
+"config": "SKILLCAPE_QP_HOODED"
+},
+"34689": {
+"name": "Prawn penny",
+"config": "POH_AQUA_PRAWN_PENNY"
+},
+"34690": {
+"name": "Prawn pound",
+"config": "POH_AQUA_PRAWN_POUND"
+},
+"34705": {
+"name": "Golden mystery egg",
+"config": "POH_AQUA_MYSTERY_EGG"
+},
+"34727": {
+"name": "Raw great white shark",
+"config": ""
+},
+"34729": {
+"name": "Great white shark",
+"config": "GREAT_WHITE_SHARK"
+},
+"34732": {
+"name": "Kelp",
+"config": "POH_AQUA_KELP_EDIBLE"
+},
+"34865": {
+"name": "Warpriest of Tuska boots",
+"config": "TUSKA_BOOTS_TIER3"
+},
+"34868": {
+"name": "Warpriest of Tuska cuirass",
+"config": "TUSKA_TORSO_TIER3"
+},
+"34871": {
+"name": "Warpriest of Tuska robe legs",
+"config": "TUSKA_LEGS_TIER3"
+},
+"34874": {
+"name": "Warpriest of Tuska helm",
+"config": "TUSKA_HELM_TIER3"
+},
+"34925": {
+"name": "Modified first age tiara",
+"config": "TRH58_PRAYER_HEAD_UPGRADED"
+},
+"35008": {
+"name": "Hardened dragon bones",
+"config": "ADAMANT_DRAGON_BONES"
+},
+"35010": {
+"name": "Reinforced dragon bones",
+"config": "RUNE_DRAGON_BONES"
+},
+"35442": {
+"name": "Crystal fragment",
+"config": "SEREN_TARDDIAD_CRYSTAL_BENIGN"
+},
+"35443": {
+"name": "Tarddian crystal",
+"config": "SEREN_TARDDIAD_CRYSTAL_INFUSED"
+},
+"35559": {
+"name": "Guthan's helm (worn)",
+"config": "BARROWS_GUTHAN_HEAD_USED"
+},
+"35703": {
+"name": "Blisterwood stake-thrower crossbow",
+"config": "MYQ6_BLISTERWOOD_XBOW"
+},
+"35771": {
+"name": "Scrimshaw of corruption (inactive)",
+"config": "TRH70_CORRUPTED_SCRIMSHAW_AGGRO_NODROPS"
+},
+"35867": {
+"name": "Liberation of Mazcab reroll token",
+"config": "GOEBIE1_RAID_REROLL"
+},
+"36153": {
+"name": "Corrupted defender",
+"config": "T70_MELEE_PARRYINGDAGGER"
+},
+"36814": {
+"name": "Mimic kill token",
+"config": "TRH83_MIMIC_KILL_TOKEN"
+},
+"36890": {
+"name": "Nimble boots",
+"config": "TRH85_AGILITY_BOOTS"
+},
+"36891": {
+"name": "Nimble gloves",
+"config": "TRH85_AGILITY_HANDS"
+},
+"36892": {
+"name": "Nimble legwear",
+"config": "TRH85_AGILITY_LEGS"
+},
+"36893": {
+"name": "Nimble chestpiece",
+"config": "TRH85_AGILITY_TORSO"
+},
+"36894": {
+"name": "Nimble headwear",
+"config": "TRH85_AGILITY_HEAD"
+},
+"36919": {
+"name": "The Heart teleport",
+"config": "POH_TABLET_GODWARS2TELEPORT"
+},
+"36953": {
+"name": "Fishing rod-o-matic",
+"config": "INVENT_FISHING_ROD"
+},
+"37008": {
+"name": "Ingression fragment",
+"config": "GWD2_INVASION_TOKEN"
+},
+"37104": {
+"name": "Zaros insignia",
+"config": "GWD2_POCKET_ZAROS"
+},
+"37221": {
+"name": "Vampyric blood essence",
+"config": "MYQ7_BLOOD_ESSENCE_VAMPYRISM"
+},
+"37227": {
+"name": "Congealed blood",
+"config": "MYQ7_CONGEALED_BLOOD"
+},
+"37280": {
+"name": "Augmented Sunspear (magic)",
+"config": ""
+},
+"37282": {
+"name": "Augmented Sunspear (melee)",
+"config": "MYQ7_SUNSPEAR_MELEE_AUGMENTED"
+},
+"37344": {
+"name": "Keldagrim camouflage body",
+"config": "TRH90_KELDAGRIM_BODY"
+},
+"37347": {
+"name": "Keldagrim camouflage feet",
+"config": "TRH90_KELDAGRIM_FEET"
+},
+"37348": {
+"name": "Prifddinas camouflage head",
+"config": "TRH90_PRIFDDINAS_HEAD"
+},
+"37350": {
+"name": "Prifddinas camouflage legs",
+"config": "TRH90_PRIFDDINAS_LEGS"
+},
+"37353": {
+"name": "Desert camouflage head",
+"config": "TRH90_DESERT_HEAD"
+},
+"37354": {
+"name": "Desert camouflage body",
+"config": "TRH90_DESERT_BODY"
+},
+"37355": {
+"name": "Desert camouflage legs",
+"config": "TRH90_DESERT_LEGS"
+},
+"37361": {
+"name": "Master camouflage hands",
+"config": "TRH90_MASTER_HANDS"
+},
+"37731": {
+"name": "Spirit dragon charm",
+"config": "ELR1_SLAYER_SPIRIT_TOKEN"
+},
+"37734": {
+"name": "Fish oil",
+"config": "ELR1_FISH_OIL"
+},
+"37744": {
+"name": "Bundle of bamboo",
+"config": "ELR1_BAMBOO_BUNDLE"
+},
+"37745": {
+"name": "Tortle shell bowl",
+"config": "ELR1_TORTOISE_SHELL_BOWL_LOW"
+},
+"37759": {
+"name": "Driftwood",
+"config": "ELR1_DRIFTWOOD"
+},
+"37760": {
+"name": "Sliced mushrooms",
+"config": "ELR1_MUSHROOM"
+},
+"37764": {
+"name": "Raw seerfish",
+"config": "ELR1_RAW_FISH_HIGH"
+},
+"37770": {
+"name": "Bamboo",
+"config": "ELR1_BAMBOO_LOW"
+},
+"37773": {
+"name": "Alaea sea salt",
+"config": "ELR1_SALT_HIGH"
+},
+"37776": {
+"name": "Shell chippings",
+"config": "ELR1_TORTOISE_SHELL_LOW"
+},
+"37778": {
+"name": "Claim island flag",
+"config": "ELR1_FLAG"
+},
+"37796": {
+"name": "Treasure map",
+"config": "ELR1_ISLAND_MAP_02"
+},
+"37907": {
+"name": "Wilderness sword 4",
+"config": "ATWILD_REWARD_ELITE"
+},
+"37952": {
+"name": "Bloodweed seed",
+"config": "BLOODWEED_SEED"
+},
+"37953": {
+"name": "Clean bloodweed",
+"config": "BLOODWEED"
+},
+"37969": {
+"name": "Aggression potion (3)",
+"config": "_3DOSEWILDERNESS_AGGRESSION_POTION"
+},
+"38399": {
+"name": "Ogre flask (empty)",
+"config": "CRUC_DM_FLASK_EMPTY"
+},
+"38521": {
+"name": "Frozen gorajan trailblazer head",
+"config": "TRH103_FROZEN_HEAD"
+},
+"38526": {
+"name": "Furnished gorajan trailblazer head",
+"config": "TRH103_FURNISHED_HEAD"
+},
+"38529": {
+"name": "Furnished gorajan trailblazer hands",
+"config": "TRH103_FURNISHED_HANDS"
+},
+"38531": {
+"name": "Abandoned gorajan trailblazer head",
+"config": "TRH103_ABANDONED_HEAD"
+},
+"38534": {
+"name": "Abandoned gorajan trailblazer hands",
+"config": "TRH103_ABANDONED_HANDS"
+},
+"38535": {
+"name": "Abandoned gorajan trailblazer feet",
+"config": "TRH103_ABANDONED_FEET"
+},
+"38540": {
+"name": "Occult gorajan trailblazer feet",
+"config": "TRH103_OCCULT_FEET"
+},
+"38602": {
+"name": "Sea shell",
+"config": "ELR1_SEASHELL"
+},
+"38622": {
+"name": "Ancestral energy",
+"config": "ELR1_DIV"
+},
+"38627": {
+"name": "Rumberry",
+"config": "ELR1_BERRY1"
+},
+"38628": {
+"name": "Exuberry",
+"config": "ELR1_BERRY2"
+},
+"38638": {
+"name": "Cocoaberry",
+"config": "ELR1_BERRY12"
+},
+"38643": {
+"name": "Rumberry seed",
+"config": "ELR1_BERRY1_SEED"
+},
+"38644": {
+"name": "Exuberry seed",
+"config": "ELR1_BERRY2_SEED"
+},
+"38645": {
+"name": "Fireberry seed",
+"config": "ELR1_BERRY3_SEED"
+},
+"38646": {
+"name": "Blisterberry seed",
+"config": "ELR1_BERRY4_SEED"
+},
+"38647": {
+"name": "Mournberry seed",
+"config": "ELR1_BERRY5_SEED"
+},
+"38651": {
+"name": "Squiffberry seed",
+"config": "ELR1_BERRY9_SEED"
+},
+"38652": {
+"name": "Meloberry seed",
+"config": "ELR1_BERRY10_SEED"
+},
+"38653": {
+"name": "Jitterberry seed",
+"config": "ELR1_BERRY11_SEED"
+},
+"38654": {
+"name": "Cocoaberry seed",
+"config": "ELR1_BERRY12_SEED"
+},
+"38655": {
+"name": "Smoulderberry seed",
+"config": "ELR1_BERRY13_SEED"
+},
+"38656": {
+"name": "Sourberry seed",
+"config": "ELR1_BERRY14_SEED"
+},
+"38657": {
+"name": "Gloomberry seed",
+"config": "ELR1_BERRY15_SEED"
+},
+"38754": {
+"name": "Treasure map",
+"config": "ELR1_ISLAND_MAP_08"
+},
+"38804": {
+"name": "Uncharted island map",
+"config": "ELR2_UNCHARTED_ISLAND_MAP"
+},
+"38836": {
+"name": "Ports resource crate",
+"config": "ELR2_RESOURCE_CRATE"
+},
+"39431": {
+"name": "Ring of Whispers",
+"config": "QUEST_ENDGAME_SHADOW_RING"
+},
+"39432": {
+"name": "Necklace of Shadows",
+"config": "QUEST_ENDGAME_SHADOW_NECKLACE"
+},
+"39437": {
+"name": "Combined Catalyst fragment",
+"config": "QUEST_ENDGAME_SHARD_COMBINED"
+},
+"39488": {
+"name": "Memory shard",
+"config": "HOG_MEMORY_SHARD"
+},
+"39733": {
+"name": "Oaken sentinel branch",
+"config": "TRH113_ELITE_WOODCUTTING_V1_HANDS"
+},
+"39745": {
+"name": "Nature's sentinel helm",
+"config": "TRH113_ELITE_WOODCUTTING_V4_HEAD"
+},
+"39746": {
+"name": "Nature's sentinel chest",
+"config": "TRH113_ELITE_WOODCUTTING_V4_BODY"
+},
+"39747": {
+"name": "Nature's sentinel trunks",
+"config": "TRH113_ELITE_WOODCUTTING_V4_LEGS"
+},
+"39748": {
+"name": "Nature's sentinel branch",
+"config": "TRH113_ELITE_WOODCUTTING_V4_HANDS"
+},
+"39749": {
+"name": "Nature's sentinel boots",
+"config": "TRH113_ELITE_WOODCUTTING_V4_FEET"
+},
+"39784": {
+"name": "Attuned crystal teleport seed",
+"config": "MOURNING_TELEPORT_CRYSTAL_PERM"
+},
+"39891": {
+"name": "Half a wilder pie",
+"config": "HALF_WILDER_PIE"
+},
+"40285": {
+"name": "Acadia logs",
+"config": "MENAPHOS_ACADIA_LOG"
+},
+"40293": {
+"name": "Desert sole",
+"config": "MENAPHOS_FISH_LOW"
+},
+"40295": {
+"name": "Catfish",
+"config": "MENAPHOS_FISH_MEDIUM"
+},
+"40297": {
+"name": "Beltfish",
+"config": "MENAPHOS_FISH_HIGH"
+},
+"40303": {
+"name": "Feather of Ma'at",
+"config": "MENAPHOS_SLAYER_MAAT_FEATHER"
+},
+"40306": {
+"name": "Menaphite gift offering (medium)",
+"config": "MENAPHOS_GIFT_OFFERING_MEDIUM"
+},
+"40338": {
+"name": "Corrupted magic logs",
+"config": ""
+},
+"40363": {
+"name": "Het mask",
+"config": "OZAN2_TOMB_MASK_HET"
+},
+"40364": {
+"name": "Heka",
+"config": "OZAN2_TOMB_RELIC_HET"
+},
+"40840": {
+"name": "Decorated farming urn (empty)",
+"config": "URNS_FARMING5_RUNE"
+},
+"40841": {
+"name": "Decorated farming urn",
+"config": "URNS_FARMING5_STARTED"
+},
+"40920": {
+"name": "Decorated runecrafting urn (empty)",
+"config": "URNS_RUNECRAFTING5_RUNE"
+},
+"40921": {
+"name": "Decorated runecrafting urn",
+"config": "URNS_RUNECRAFTING5_STARTED"
+},
+"41089": {
+"name": "Small gizmo bag",
+"config": "INVENT_GIZMO_BAG_1"
+},
+"41197": {
+"name": "Royal dragonhide boots",
+"config": "ROYAL_DRAGON_BOOTS"
+},
+"41223": {
+"name": "Mystic cloth",
+"config": "COMBATV2_MYSTIC_CLOTH"
+},
+"41453": {
+"name": "Premier reward token",
+"config": "PREM17_ITEM_TOKEN_NOLIMIT"
+},
+"41580": {
+"name": "Seeker's charm",
+"config": "STALKER_SEEKERS_CHARM"
+},
+"41589": {
+"name": "Stalker essence",
+"config": "STALKER_ESSENCE"
+},
+"41948": {
+"name": "Gilded cavalier",
+"config": "TRAIL17_CAVALIER_GILDED"
+},
+"42241": {
+"name": "Magnetic minnow",
+"config": "DSF_STACKABLE_FISH"
+},
+"42249": {
+"name": "Raw sailfish",
+"config": "DSF_RAW_SAILFISH"
+},
+"42251": {
+"name": "Sailfish",
+"config": "DSF_SAILFISH"
+},
+"42258": {
+"name": "Green blubber jellyfish",
+"config": "DSF_JELLYFISH_LOW"
+},
+"42265": {
+"name": "Raw blue blubber jellyfish",
+"config": "DSF_RAW_JELLYFISH_HIGH"
+},
+"42267": {
+"name": "Blue blubber jellyfish",
+"config": "DSF_JELLYFISH_HIGH"
+},
+"42271": {
+"name": "1/3 blue blubber jellyfish",
+"config": "DSF_JELLYFISH_HIGH_1"
+},
+"42379": {
+"name": "Big Book o' Piracy",
+"config": "PIRATEFINALE_TELEPORT"
+},
+"42613": {
+"name": "Large loot bag",
+"config": "SAFES_LOOTING_BAG_TIER3"
+},
+"42662": {
+"name": "Life refresh",
+"config": "POSTBAG_LIFE_REFRESH_GENERIC"
+},
+"42954": {
+"name": "Onyx dust",
+"config": "ONYX_DUST"
+},
+"43379": {
+"name": "Laboratory relic (rare)",
+"config": "DUNGEON_DRAGONFORT_DROP_TRASH_ALCH1"
+},
+"43381": {
+"name": "Laboratory relic (uncommon)",
+"config": "DUNGEON_DRAGONFORT_DROP_TRASH_ALCH2"
+},
+"43383": {
+"name": "Laboratory relic (common)",
+"config": "DUNGEON_DRAGONFORT_DROP_TRASH_ALCH3"
+},
+"43562": {
+"name": "Extreme hunter flask (6)",
+"config": "BIGPOT_6DOSE3HUNTING"
+},
+"43570": {
+"name": "Extreme hunter flask (2)",
+"config": "BIGPOT_2DOSE3HUNTING"
+},
+"43572": {
+"name": "Extreme hunter flask (1)",
+"config": "BIGPOT_1DOSE3HUNTING"
+},
+"43589": {
+"name": "Common brown rabbit (unchecked)",
+"config": "POF_ANIMAL_RABBIT_UNCHECKED"
+},
+"43595": {
+"name": "Common brown rabbit",
+"config": "POF_ANIMAL_RABBIT"
+},
+"43596": {
+"name": "Piscatorian cottontail rabbit",
+"config": "POF_ANIMAL_RABBIT_WHITE"
+},
+"43616": {
+"name": "Azure chinchompa",
+"config": "POF_ANIMAL_CHINCHOMPA_AZURE"
+},
+"43632": {
+"name": "Black ewe",
+"config": "POF_ANIMAL_EWE_BLACK"
+},
+"43634": {
+"name": "Fallfaced ewe",
+"config": "POF_ANIMAL_EWE_YELLOW"
+},
+"43636": {
+"name": "Summerdown ewe",
+"config": "POF_ANIMAL_EWE_RED"
+},
+"43652": {
+"name": "Fallfaced ram",
+"config": "POF_ANIMAL_RAM_YELLOW"
+},
+"43662": {
+"name": "Night spider",
+"config": "POF_ANIMAL_SPIDER_NIGHT"
+},
+"43668": {
+"name": "Fever spider",
+"config": "POF_ANIMAL_SPIDER_FEVER"
+},
+"43678": {
+"name": "Gloomshroom zygomite (unchecked)",
+"config": "POF_ANIMAL_ZYGOMITE_UNCHECKED"
+},
+"43680": {
+"name": "Gloomshroom zygomite",
+"config": "POF_ANIMAL_ZYGOMITE"
+},
+"43681": {
+"name": "Zanarian zygomite (unchecked)",
+"config": "POF_ANIMAL_ZYGOMITE_ZANARIAN_UNCHECKED"
+},
+"43683": {
+"name": "Zanarian zygomite",
+"config": "POF_ANIMAL_ZYGOMITE_ZANARIAN"
+},
+"43686": {
+"name": "Arcspore zygomite",
+"config": "POF_ANIMAL_ZYGOMITE_ARC"
+},
+"43687": {
+"name": "Daemoncap zygomite (unchecked)",
+"config": "POF_ANIMAL_ZYGOMITE_DUNG_UNCHECKED"
+},
+"43695": {
+"name": "Strawberry cow",
+"config": "POF_ANIMAL_COW_STRAWBERRY"
+},
+"43698": {
+"name": "Chocolate cow",
+"config": "POF_ANIMAL_COW_CHOCOLATE"
+},
+"43701": {
+"name": "Vanilla cow",
+"config": "POF_ANIMAL_COW_VANILLA"
+},
+"43704": {
+"name": "Bull",
+"config": "POF_ANIMAL_BULL"
+},
+"43930": {
+"name": "Veggie mush",
+"config": "POF_MUSH_VEGETABLES"
+},
+"43932": {
+"name": "Flowery mush",
+"config": "POF_MUSH_FLOWERS"
+},
+"43934": {
+"name": "Fruity mush",
+"config": "POF_MUSH_FRUIT"
+},
+"43936": {
+"name": "Mushy mush",
+"config": "POF_MUSH_MUSHROOMS"
+},
+"43938": {
+"name": "Meaty mush",
+"config": "POF_MUSH_MEAT"
+},
+"43940": {
+"name": "Fishy mush",
+"config": "POF_MUSH_FISH"
+},
+"43942": {
+"name": "Seedy mush",
+"config": "POF_MUSH_SEEDS"
+},
+"43944": {
+"name": "Variety mush",
+"config": "POF_MUSH_OMNIVORE"
+},
+"43945": {
+"name": "Delicious honeycomb",
+"config": "POF_HONEY_HAPPINESS"
+},
+"43947": {
+"name": "Medicinal honeycomb",
+"config": "POF_HONEY_HEALTH"
+},
+"43973": {
+"name": "Chinchompa residue",
+"config": "POF_SKILLING_POTION_SECONDARY_INVENTION"
+},
+"43981": {
+"name": "Fallfaced wool",
+"config": "POF_SKILLING_POTION_SECONDARY_RUNECRAFTING_YELLOW"
+},
+"43983": {
+"name": "Zygomite fruit",
+"config": "POF_SKILLING_POTION_SECONDARY_SUPER_DIVINATION"
+},
+"43985": {
+"name": "Rabbit teeth",
+"config": "POF_SKILLING_POTION_SECONDARY_SUPER_HUNTING"
+},
+"43993": {
+"name": "Bull horns",
+"config": "POF_SKILLING_POTION_SECONDARY_EXTREME_HUNTING"
+},
+"43995": {
+"name": "Mycelial webbing",
+"config": "POF_SKILLING_POTION_SECONDARY_EXTREME_INVENTION"
+},
+"43997": {
+"name": "Spider venom",
+"config": "POF_SKILLING_POTION_SECONDARY_EXTREME_RUNECRAFTING"
+},
+"44017": {
+"name": "Master farmer hat",
+"config": "POF_REWARDS_TRH_MASTER_HEAD"
+},
+"44018": {
+"name": "Master farmer jacket",
+"config": "POF_REWARDS_TRH_MASTER_BODY"
+},
+"44019": {
+"name": "Master farmer legwear",
+"config": "POF_REWARDS_TRH_MASTER_LEGS"
+},
+"44020": {
+"name": "Master farmer gloves",
+"config": "POF_REWARDS_TRH_MASTER_HANDS"
+},
+"44021": {
+"name": "Master farmer boots",
+"config": "POF_REWARDS_TRH_MASTER_FEET"
+},
+"44034": {
+"name": "Strawberry milk",
+"config": "POF_REWARDS_STRAWBERRY_MILK"
+},
+"44036": {
+"name": "Vanilla milk",
+"config": "POF_REWARDS_VANILLA_MILK"
+},
+"44043": {
+"name": "Animal trait re-roller",
+"config": "POF_TRAIT_REROLLER"
+},
+"44055": {
+"name": "Runecrafting potion (3)",
+"config": "_3DOSERUNECRAFTING"
+},
+"44063": {
+"name": "Invention potion (3)",
+"config": "_3DOSEINVENTION"
+},
+"44119": {
+"name": "Extreme invention (3)",
+"config": "_3DOSE3INVENTION"
+},
+"44121": {
+"name": "Extreme invention (2)",
+"config": ""
+},
+"44123": {
+"name": "Extreme invention (1)",
+"config": ""
+},
+"44163": {
+"name": "Helm of Trials",
+"config": "QPS_REWARD_ARMOUR_HELM_T3"
+},
+"44166": {
+"name": "Platebody of Trials",
+"config": "QPS_REWARD_ARMOUR_TORSO_T3"
+},
+"44169": {
+"name": "Platelegs of Trials",
+"config": "QPS_REWARD_ARMOUR_LEGS_T3"
+},
+"44172": {
+"name": "Bracers of Trials",
+"config": "QPS_REWARD_ARMOUR_GLOVES_T3"
+},
+"44175": {
+"name": "Boots of Trials",
+"config": "QPS_REWARD_ARMOUR_BOOTS_T3"
+},
+"44176": {
+"name": "Vanquish (melee)",
+"config": "QPS_REWARD_WEAPON_MELEE"
+},
+"44179": {
+"name": "Ring of Quests",
+"config": "QPS_REWARD_RING"
+},
+"44799": {
+"name": "Copper stone spirit",
+"config": "MINING_STONE_SPIRIT_COPPER"
+},
+"44801": {
+"name": "Iron stone spirit",
+"config": "MINING_STONE_SPIRIT_IRON"
+},
+"44803": {
+"name": "Gold stone spirit",
+"config": ""
+},
+"44804": {
+"name": "Coal stone spirit",
+"config": "MINING_STONE_SPIRIT_COAL"
+},
+"44805": {
+"name": "Mithril stone spirit",
+"config": "MINING_STONE_SPIRIT_MITHRIL"
+},
+"44807": {
+"name": "Adamantite stone spirit",
+"config": "MINING_STONE_SPIRIT_ADAMANTITE"
+},
+"44808": {
+"name": "Runite stone spirit",
+"config": "MINING_STONE_SPIRIT_RUNITE"
+},
+"44816": {
+"name": "Sedimentary geode",
+"config": "MINING_GEODE_F2P"
+},
+"44817": {
+"name": "Igneous geode",
+"config": "MINING_GEODE_MEMBERS"
+},
+"44818": {
+"name": "Metamorphic geode",
+"config": "MINING_GEODE_RARE"
+},
+"47069": {
+"name": "Smithing autoheater",
+"config": "SMITHING_COAL_HEAT_CONSUMER"
+},
+"47120": {
+"name": "Medium bladed iron salvage",
+"config": ""
+},
+"47188": {
+"name": "Small plated steel salvage",
+"config": "PLATED_SALVAGE_STEEL_SMALL"
+},
+"47198": {
+"name": "Small bladed mithril salvage",
+"config": "BLADED_SALVAGE_MITHRIL_SMALL"
+},
+"47230": {
+"name": "Medium plated mithril salvage",
+"config": "PLATED_SALVAGE_MITHRIL_MEDIUM"
+},
+"47240": {
+"name": "Medium bladed adamant salvage",
+"config": "BLADED_SALVAGE_ADAMANT_MEDIUM"
+},
+"47270": {
+"name": "Medium plated adamant salvage",
+"config": "PLATED_SALVAGE_ADAMANT_MEDIUM"
+},
+"47280": {
+"name": "Medium bladed rune salvage",
+"config": "BLADED_SALVAGE_RUNE_MEDIUM"
+},
+"47282": {
+"name": "Large bladed rune salvage",
+"config": "BLADED_SALVAGE_RUNE_LARGE"
+},
+"47284": {
+"name": "Huge bladed rune salvage",
+"config": "BLADED_SALVAGE_RUNE_HUGE"
+},
+"47286": {
+"name": "Tiny spiky rune salvage",
+"config": "SPIKY_SALVAGE_RUNE_TINY"
+},
+"47290": {
+"name": "Medium spiky rune salvage",
+"config": "SPIKY_SALVAGE_RUNE_MEDIUM"
+},
+"47294": {
+"name": "Huge spiky rune salvage",
+"config": "SPIKY_SALVAGE_RUNE_HUGE"
+},
+"47300": {
+"name": "Medium blunt rune salvage",
+"config": "BLUNT_SALVAGE_RUNE_MEDIUM"
+},
+"47304": {
+"name": "Huge blunt rune salvage",
+"config": "BLUNT_SALVAGE_RUNE_HUGE"
+},
+"47306": {
+"name": "Tiny plated rune salvage",
+"config": "PLATED_SALVAGE_RUNE_TINY"
+},
+"47310": {
+"name": "Medium plated rune salvage",
+"config": "PLATED_SALVAGE_RUNE_MEDIUM"
+},
+"47312": {
+"name": "Large plated rune salvage",
+"config": "PLATED_SALVAGE_RUNE_LARGE"
+},
+"47314": {
+"name": "Huge plated rune salvage",
+"config": "PLATED_SALVAGE_RUNE_HUGE"
+},
+"47658": {
+"name": "Fremennik equipment patch",
+"config": "DMBH_FREMENNIK_PATCH"
+},
+"47661": {
+"name": "Magical thread",
+"config": "PVPWILD_RUNEPOUCH_THREAD"
+},
+"47836": {
+"name": "Charos' clue carrier",
+"config": "QUEST_CHAROS_TRAIL_REWARD"
+},
+"47925": {
+"name": "Codex page",
+"config": "DINO_AGILITY_CURRENCY"
+},
+"48022": {
+"name": "Dinosaur hide",
+"config": "DINO_GAME_CREATURE_HIDE"
+},
+"48028": {
+"name": "Dinosaur scale",
+"config": "DINO_GAME_CREATURE_SCALE"
+},
+"48056": {
+"name": "Herb bag",
+"config": "DINO_REWARD_HERB_BAG"
+},
+"48059": {
+"name": "Broken compass",
+"config": "DINO_HUNTER_MASTER_COMPASS_BROKEN"
+},
+"48075": {
+"name": "Dinosaur bones",
+"config": "DINOSAUR_BONES"
+},
+"48089": {
+"name": "Blowpipe chitin",
+"config": "DINO_SLAYER_WEAPON_COMPONENT_1"
+},
+"48093": {
+"name": "Blowpipe fins",
+"config": "DINO_SLAYER_WEAPON_COMPONENT_3"
+},
+"48107": {
+"name": "Totem of Treasure middle",
+"config": "DINO_TOTEM_CLUES_PIECE_2"
+},
+"48108": {
+"name": "Totem of Treasure base",
+"config": "DINO_TOTEM_CLUES_PIECE_3"
+},
+"48111": {
+"name": "Totem of Navigation middle",
+"config": "DINO_TOTEM_PORTS_PIECE_2"
+},
+"48112": {
+"name": "Totem of Navigation base",
+"config": "DINO_TOTEM_PORTS_PIECE_3"
+},
+"48114": {
+"name": "Totem of Crystal top",
+"config": "DINO_TOTEM_ELVES_PIECE_1"
+},
+"48115": {
+"name": "Totem of Crystal middle",
+"config": "DINO_TOTEM_ELVES_PIECE_2"
+},
+"48120": {
+"name": "Totem of the Abyss base",
+"config": "DINO_TOTEM_TELE_PIECE_3"
+},
+"48123": {
+"name": "Totem of Intimidation middle",
+"config": "DINO_TOTEM_GWD1_PIECE_2"
+},
+"48126": {
+"name": "Totem of Summoning top",
+"config": "DINO_TOTEM_LORE_PIECE_1"
+},
+"48130": {
+"name": "Totem of Vitality top",
+"config": "DINO_TOTEM_AURA_PIECE_1"
+},
+"48132": {
+"name": "Totem of Vitality base",
+"config": "DINO_TOTEM_AURA_PIECE_3"
+},
+"48467": {
+"name": "Shadow jadinko (unchecked)",
+"config": "POF_ANIMAL_JADINKO_SHADOW_UNCHECKED"
+},
+"48479": {
+"name": "Venomous dinosaur (unchecked)",
+"config": "POF_ANIMAL_VENOMOUS_DINOSAUR_SPRING_UNCHECKED"
+},
+"48487": {
+"name": "Brutish dinosaur (unchecked)",
+"config": "POF_ANIMAL_BRUTISH_DINOSAUR_BASIC_UNCHECKED"
+},
+"48489": {
+"name": "Arcane apoterrasaur (unchecked)",
+"config": "POF_ANIMAL_ARCANE_APOTERRASAUR_BASIC_UNCHECKED"
+},
+"48491": {
+"name": "Scimitops (unchecked)",
+"config": "POF_ANIMAL_QUAD_SCIMITOPS_BASIC_UNCHECKED"
+},
+"48493": {
+"name": "Bagrada rex (unchecked)",
+"config": "POF_ANIMAL_BAGRADA_REX_BASIC_UNCHECKED"
+},
+"48495": {
+"name": "Spicati apoterrasaur (unchecked)",
+"config": "POF_ANIMAL_SPICATI_APOTERRASAUR_BASIC_UNCHECKED"
+},
+"48497": {
+"name": "Asciatops (unchecked)",
+"config": "POF_ANIMAL_QUAD_ASCIATOPS_BASIC_UNCHECKED"
+},
+"48505": {
+"name": "Pavosaurus rex (unchecked)",
+"config": "POF_ANIMAL_PAVOSAURUS_REX_BASIC_UNCHECKED"
+},
+"48575": {
+"name": "Inert adrenaline crystal",
+"config": "INERT_ADRENALINE_CRYSTAL"
+},
+"48674": {
+"name": "Extra fine sand",
+"config": "EXTRA_FINE_SAND"
+},
+"48763": {
+"name": "Dragonfruit seed",
+"config": "DRAGONFRUIT_SEED"
+},
+"48764": {
+"name": "Golden dragonfruit seed",
+"config": "GOLDEN_DRAGONFRUIT_SEED"
+},
+"48765": {
+"name": "Stinkshroom spore",
+"config": "STINKSHROOM_SEED"
+},
+"48767": {
+"name": "Guarana seed",
+"config": "GUARANA_SEED"
+},
+"48768": {
+"name": "Carambola seed",
+"config": "CARAMBOLA_SEED"
+},
+"48770": {
+"name": "Money tree seed",
+"config": "MONEY_TREE_SEED"
+},
+"48782": {
+"name": "Golden poison frog (unchecked)",
+"config": "POF_ANIMAL_FROG_YELLOW_UNCHECKED"
+},
+"48784": {
+"name": "Common green frog",
+"config": "POF_ANIMAL_FROG_GREEN"
+},
+"48800": {
+"name": "Feral dinosaur",
+"config": "POF_ANIMAL_VENOMOUS_DINOSAUR_BASIC"
+},
+"48801": {
+"name": "Venomous dinosaur",
+"config": "POF_ANIMAL_VENOMOUS_DINOSAUR_SPRING"
+},
+"48808": {
+"name": "Brutish dinosaur",
+"config": "POF_ANIMAL_BRUTISH_DINOSAUR_BASIC"
+},
+"48812": {
+"name": "Arcane apoterrasaur natura (unchecked)",
+"config": "POF_ANIMAL_ARCANE_APOTERRASAUR_SPRING_UNCHECKED"
+},
+"48820": {
+"name": "Scimitops palus (unchecked)",
+"config": "POF_ANIMAL_QUAD_SCIMITOPS_SPRING_UNCHECKED"
+},
+"48828": {
+"name": "Bagrada nemus (unchecked)",
+"config": "POF_ANIMAL_BAGRADA_REX_SPRING_UNCHECKED"
+},
+"48860": {
+"name": "Oculi apoterrasaur oceanum (unchecked)",
+"config": "POF_ANIMAL_OCULI_APOTERRASAUR_SPRING_UNCHECKED"
+},
+"48868": {
+"name": "Malletops palus (unchecked)",
+"config": "POF_ANIMAL_QUAD_MALLETOPS_SPRING_UNCHECKED"
+},
+"48870": {
+"name": "Malletops purpura (unchecked)",
+"config": "POF_ANIMAL_QUAD_MALLETOPS_SUMMER_UNCHECKED"
+},
+"48878": {
+"name": "Pavosaurus desertum (unchecked)",
+"config": "POF_ANIMAL_PAVOSAURUS_REX_SUMMER_UNCHECKED"
+},
+"48890": {
+"name": "Black salamander (unchecked)",
+"config": "POF_ANIMAL_SALAMANDER_BLACK_UNCHECKED"
+},
+"48920": {
+"name": "Buggy mush",
+"config": "POF_MUSH_INSECTS"
+},
+"48921": {
+"name": "Poison slime",
+"config": "POF_POISON_SLIME"
+},
+"48950": {
+"name": "Brassica primer",
+"config": "FARM_REQ_BRASSICA_PRIMER"
+},
+"49399": {
+"name": "Hooded archaeology cape (t)",
+"config": "SKILLCAPE_ARCHAEOLOGY_TRIMMED_HOODED"
+},
+"49423": {
+"name": "Binding contract",
+"config": "LORE_ANCIENT_BINDING_CONTRACT"
+},
+"49429": {
+"name": "Archaeology journal",
+"config": "ARCH_JOURNAL"
+},
+"49430": {
+"name": "Chronotes",
+"config": "ARCH_CURRENCY_CHRONOTES"
+},
+"49517": {
+"name": "Ancient gravel",
+"config": ""
+},
+"49519": {
+"name": "Saltwater mud",
+"config": ""
+},
+"49521": {
+"name": "Fiery brimstone",
+"config": ""
+},
+"49523": {
+"name": "Aerated sediment",
+"config": ""
+},
+"49525": {
+"name": "Earthen clay",
+"config": ""
+},
+"49538": {
+"name": "Archaeological soil box",
+"config": "ARCH_SOIL_BOX"
+},
+"49577": {
+"name": "Lump of imcando metal",
+"config": "IMCANDO_MATTOCK_FRAGMENT_LUMP"
+},
+"49578": {
+"name": "Chunk of imcando metal",
+"config": "IMCANDO_MATTOCK_FRAGMENT_CHUNK"
+},
+"49579": {
+"name": "Slice of imcando metal",
+"config": "IMCANDO_MATTOCK_FRAGMENT_SLICE"
+},
+"49580": {
+"name": "Shard of imcando metal",
+"config": "IMCANDO_MATTOCK_FRAGMENT_SHARD"
+},
+"49620": {
+"name": "Lock of hair",
+"config": "ARCH_RELIC_COMPONENT_LOCK_OF_HAIR"
+},
+"49634": {
+"name": "Blackfire lance (damaged)",
+"config": "ARCH_RESTORATION_BLACKFIRE_LANCE_DAMAGED"
+},
+"49652": {
+"name": "Night owl flight goggles (damaged)",
+"config": "ARCH_RESTORATION_NIGHT_GOGGLES_DAMAGED"
+},
+"49664": {
+"name": "Prototype godsword (damaged)",
+"config": "ARCH_RESTORATION_PROTOTYPE_GODSWORD_DAMAGED"
+},
+"49678": {
+"name": "Spherical astrolabe (damaged)",
+"config": "ARCH_RESTORATION_SPHERICAL_ASTROLABE_DAMAGED"
+},
+"49704": {
+"name": "Huzamogaarb chaos crown (damaged)",
+"config": "ARCH_RESTORATION_HUZAMOGAARB_CROWN_DAMAGED"
+},
+"49706": {
+"name": "Idithuun horn ring (damaged)",
+"config": "ARCH_RESTORATION_IDITHUUN_HORN_RING_DAMAGED"
+},
+"49707": {
+"name": "Idithuun horn ring",
+"config": "ARCH_IDITHUUN_HORN_RING"
+},
+"49708": {
+"name": "Kal-i-kra chieftain crown (damaged)",
+"config": "ARCH_RESTORATION_KALIKRAN_CROWN_DAMAGED"
+},
+"49718": {
+"name": "Ork cleaver sword (damaged)",
+"config": "ARCH_RESTORATION_ORK_SWORD_DAMAGED"
+},
+"49720": {
+"name": "Ourg megahitter (damaged)",
+"config": "ARCH_RESTORATION_OURG_MACUAHUITL_DAMAGED"
+},
+"49809": {
+"name": "Crest of Dagon (damaged)",
+"config": "ARCH_RESTORATION_CREST_OF_DAGON_DAMAGED"
+},
+"49817": {
+"name": "Hellfire haladie (damaged)",
+"config": "ARCH_RESTORATION_HELLFIRE_HALADIE_DAMAGED"
+},
+"49844": {
+"name": "'Torment' metal sculpture",
+"config": "ARCH_METAL_SCULPTURE_TORMENT"
+},
+"49857": {
+"name": "Virius trophy (damaged)",
+"config": "ARCH_RESTORATION_TROPHY_VIRIUS_DAMAGED"
+},
+"49873": {
+"name": "Battle plans (damaged)",
+"config": "ARCH_RESTORATION_BATTLE_PLANS_DAMAGED"
+},
+"49886": {
+"name": "Necromantic focus",
+"config": "ARCH_NECROMANTIC_FOCUS"
+},
+"49891": {
+"name": "'Prima Legio' painting (damaged)",
+"config": "ARCH_RESTORATION_PAINTING_LEGION_DAMAGED"
+},
+"49905": {
+"name": "Praetorian hood (damaged)",
+"config": "ARCH_RESTORATION_PRAETORIAN_HOOD_DAMAGED"
+},
+"49919": {
+"name": "'Smoke Cloud' spell scroll (damaged)",
+"config": "ARCH_RESTORATION_SPELL_SMOKE_CLOUD_DAMAGED"
+},
+"49921": {
+"name": "Venator dagger (damaged)",
+"config": "ARCH_RESTORATION_VENATOR_DAGGER_DAMAGED"
+},
+"49922": {
+"name": "Venator dagger",
+"config": "ARCH_VENATOR_DAGGER"
+},
+"49923": {
+"name": "Venator light crossbow (damaged)",
+"config": "ARCH_RESTORATION_VENATOR_LIGHT_CROSSBOW_DAMAGED"
+},
+"49936": {
+"name": "Archaeologist's hat",
+"config": "ARCH_SKILLING_HAT"
+},
+"49937": {
+"name": "Archaeologist's jacket",
+"config": "ARCH_SKILLING_BODY"
+},
+"49938": {
+"name": "Archaeologist's trousers",
+"config": "ARCH_SKILLING_LEGS"
+},
+"49939": {
+"name": "Archaeologist's gloves",
+"config": "ARCH_SKILLING_GLOVES"
+},
+"49940": {
+"name": "Archaeologist's boots",
+"config": "ARCH_SKILLING_BOOTS"
+},
+"49946": {
+"name": "Material manual",
+"config": "ARCH_CONSUMABLE_MATERIAL_CHANCE"
+},
+"49947": {
+"name": "Hi-spec monocle",
+"config": "ARCH_CONSUMABLE_MATTOCK_PRECISION"
+},
+"49949": {
+"name": "Archaeologist's tea",
+"config": "ARCH_CONSUMABLE_EXCAVATION_XP"
+},
+"50108": {
+"name": "Torn blueprint fragments (Howl's workshop)",
+"config": "ARCH_STORMGUARD_BLUEPRINT_FRAGMENTS"
+},
+"50111": {
+"name": "'Ancient gizmos' blueprint (untradeable)",
+"config": "ARCH_STORMGUARD_UNTRADEABLE_BLUEPRINT_ANCIENT_GIZMOS"
+},
+"50114": {
+"name": "'Ancient tools' blueprint (untradeable)",
+"config": "ARCH_STORMGUARD_UNTRADEABLE_BLUEPRINT_ANCIENT_ENHANCED_TOOLS"
+},
+"50117": {
+"name": "'XP Capacitor' blueprint (untradeable)",
+"config": "ARCH_STORMGUARD_UNTRADEABLE_BLUEPRINT_ITEM_XP_STORAGE"
+},
+"50423": {
+"name": "Remototem middle",
+"config": "DINO_TOTEM_REMOTE_PIECE_2"
+},
+"50424": {
+"name": "Remototem base",
+"config": "DINO_TOTEM_REMOTE_PIECE_3"
+},
+"50431": {
+"name": "Cosmic accumulator",
+"config": "QUEST_DM_ARCH_REWARD_ENHANCED"
+},
+"50435": {
+"name": "Dragonkin device",
+"config": "ARCH_QUEST_DM_DRAGONKIN_DEVICE"
+},
+"50437": {
+"name": "Dragonkin tablet",
+"config": "ARCH_QUEST_DM_DRAGONKIN_TABLET"
+},
+"50508": {
+"name": "Volatile effigy (empty)",
+"config": "GROUP_URN_KERAPAC_DND_EFFIGY_1_LAMP_EMPTY"
+},
+"50509": {
+"name": "Volatile effigy",
+"config": ""
+},
+"50514": {
+"name": "Erratic effigy (empty)",
+"config": "GROUP_URN_KERAPAC_DND_EFFIGY_2_LAMP_EMPTY"
+},
+"50515": {
+"name": "Erratic effigy",
+"config": "GROUP_URN_KERAPAC_DND_EFFIGY_2_LAMP_STARTED"
+},
+"50529": {
+"name": "Effigy lamp",
+"config": "KERAPAC_DND_GROUP_URN_2_XP_LAMP"
+},
+"50533": {
+"name": "Penguin spy device",
+"config": "PENG_SPY_DEVICE"
+},
+"50696": {
+"name": "Volcanic ash",
+"config": ""
+},
+"50708": {
+"name": "Death mask (damaged)",
+"config": "ARCH_RESTORATION_DEATH_MASK_DAMAGED"
+},
+"50709": {
+"name": "Death mask",
+"config": "ARCH_DEATH_MASK"
+},
+"50727": {
+"name": "Master control (damaged)",
+"config": "ARCH_RESTORATION_MASTER_CONTROL_DAMAGED"
+},
+"50743": {
+"name": "Vazara (damaged)",
+"config": "ARCH_RESTORATION_VAZARA_DAMAGED"
+},
+"50745": {
+"name": "Xolo hard hat (damaged)",
+"config": "ARCH_RESTORATION_XOLO_HARD_HAT_DAMAGED"
+},
+"50779": {
+"name": "Summoning renewal recipe fragment 1",
+"config": "ARCH_ORTHEN_LORE_RENEW_FRAGMENT_1"
+},
+"50785": {
+"name": "Archaeology potion recipe fragment 1",
+"config": "ARCH_ORTHEN_ARCHAEOLOGY_FRAGMENT_1"
+},
+"51022": {
+"name": "Plank box",
+"config": "CON_TOOLKIT"
+},
+"51471": {
+"name": "Necklace of Salamancy",
+"config": "REXKINGS_NECKLACE_SALAMANCY"
+},
+"51490": {
+"name": "Sign of the porter VII",
+"config": "DIV_SIGN_PORTER7"
+},
+"51510": {
+"name": "Soul Reaper Refresh",
+"config": "WISH_VALUE_REAPER_TASK_REFRESH"
+},
+"51795": {
+"name": "Elder Trove (Bik, T1)",
+"config": "EGWD_BIK_CAPSULE_TIER_1"
+},
+"51798": {
+"name": "Elder Trove (Wen, T1)",
+"config": "EGWD_WEN_CAPSULE_TIER_1"
+},
+"51806": {
+"name": "Resonant anima of Bik (tradeable)",
+"config": "EGWD_BIK_ESSENCE"
+},
+"51808": {
+"name": "Resonant anima of Wen (tradeable)",
+"config": "EGWD_WEN_ESSENCE"
+},
+"51817": {
+"name": "Manuscript of Wen",
+"config": "EGWD_WEN_BOOK_PAGE"
+},
+"51888": {
+"name": "Funerary urn of blood (damaged)",
+"config": "ARCH_RESTORATION_FUNERARY_URN_OF_BLOOD_DAMAGED"
+},
+"51914": {
+"name": "'The Serpent's Fall' carving (damaged)",
+"config": "ARCH_RESTORATION_CARVING_LOARNAB_DAMAGED"
+},
+"52018": {
+"name": "Glacor remnants",
+"config": "EGWD_WEN_BOSS_SHARD"
+},
+"52317": {
+"name": "Calcified fungus",
+"config": "EGWD_BIK_BOSS_CALCIFIED"
+},
+"52319": {
+"name": "Enriched calcified fungus",
+"config": "EGWD_BIK_BOSS_ENRICHED_CALCIFIED"
+},
+"52323": {
+"name": "Enriched fungal algae",
+"config": "EGWD_BIK_BOSS_ENRICHED_ALGAE"
+},
+"52325": {
+"name": "Fungal spore",
+"config": "EGWD_BIK_BOSS_SPORES"
+},
+"52327": {
+"name": "Enriched fungal spore",
+"config": "EGWD_BIK_BOSS_ENRICHED_SPORES"
+},
+"52329": {
+"name": "Croesus flakes",
+"config": "EGWD_BIK_BOSS_FLAKES"
+},
+"52428": {
+"name": "Woodcutting potion (3)",
+"config": "_3DOSEWOODCUTTERSPOTION"
+},
+"52444": {
+"name": "Super woodcutting potion (3)",
+"config": "_3DOSE2WOODCUTTING"
+},
+"52446": {
+"name": "Super woodcutting potion (2)",
+"config": "_2DOSE2WOODCUTTING"
+},
+"52555": {
+"name": "H'oddments",
+"config": "TRH175_CURRENCY"
+},
+"52780": {
+"name": "Piece of Het",
+"config": "DUEL_ARENA_REMOVAL_STATUE_PIECE"
+},
+"52782": {
+"name": "Pointy tooth",
+"config": "DUEL_ARENA_REMOVAL_CROCODILE_TOOTH"
+},
+"52795": {
+"name": "Plain whirligig shell",
+"config": "DUEL_ARENA_REMOVAL_SCARAB_SHELL_BLACK"
+},
+"52796": {
+"name": "Gliding whirligig shell",
+"config": "DUEL_ARENA_REMOVAL_SCARAB_SHELL_GREEN"
+},
+"52807": {
+"name": "Roses",
+"config": "DUEL_ARENA_REMOVAL_FLOWER_1"
+},
+"52808": {
+"name": "Irises",
+"config": "DUEL_ARENA_REMOVAL_FLOWER_2"
+},
+"52809": {
+"name": "Hydrangeas",
+"config": "DUEL_ARENA_REMOVAL_FLOWER_3"
+},
+"52810": {
+"name": "Hollyhocks",
+"config": "DUEL_ARENA_REMOVAL_FLOWER_4"
+},
+"52811": {
+"name": "Golden roses",
+"config": "DUEL_ARENA_REMOVAL_FLOWER_5"
+},
+"52824": {
+"name": "Cramulet",
+"config": "CRAMULET"
+},
+"52834": {
+"name": "Fertile honeycomb",
+"config": "POF_HONEY_BREEDING"
+},
+"53032": {
+"name": "Enriched pontifex shadow ring",
+"config": "QUEST_EGW_FINALE_RING"
+},
+"53038": {
+"name": "Dinarrow",
+"config": "DINARROW"
+},
+"53060": {
+"name": "Wen arrow",
+"config": "DINARROW_WEN"
+},
+"53073": {
+"name": "Dinosaur 'propellant'",
+"config": "DINARROW_FLIGHT"
+},
+"53083": {
+"name": "Tempered fungal shaft",
+"config": "DINARROW_SHAFT"
+},
+"53093": {
+"name": "Sharp shell shard",
+"config": "DINARROW_TIP"
+},
+"53278": {
+"name": "Chaos die reroll token",
+"config": "QUEST_ZAMORAK_REWARD_REROLL"
+},
+"53442": {
+"name": "Chaos die reroll token",
+"config": "MINIQUEST_AFTERMATH_REWARD_REROLL"
+},
+"54018": {
+"name": "Elemental anima stone",
+"config": "RUNE_MULTIPLIER_ELEMENTAL"
+},
+"54860": {
+"name": "Willow plank",
+"config": "PLANK_WILLOW"
+},
+"54862": {
+"name": "Maple plank",
+"config": "PLANK_MAPLE"
+},
+"54864": {
+"name": "Acadia plank",
+"config": "PLANK_ACADIA"
+},
+"54866": {
+"name": "Yew plank",
+"config": "PLANK_YEW"
+},
+"54868": {
+"name": "Magic plank",
+"config": "PLANK_MAGIC"
+},
+"54870": {
+"name": "Elder plank",
+"config": "PLANK_ELDER"
+},
+"54872": {
+"name": "Bird's nest+ (seeds)",
+"config": "BIRD_NEST_IMPROVED_SEEDS"
+},
+"54874": {
+"name": "Bird's nest+ (ring)",
+"config": "BIRD_NEST_IMPROVED_RING"
+},
+"54876": {
+"name": "Bird's nest (wood spirits)",
+"config": "BIRD_NEST_WOOD_SPIRIT"
+},
+"54886": {
+"name": "Imcando hatchet handle",
+"config": "IMCANDO_AXE_FRAGMENT_1"
+},
+"54913": {
+"name": "Elder wood box",
+"config": "WOODCUTTING_WOODBOX_ELDER"
+},
+"54915": {
+"name": "Wood spirit",
+"config": "WOODCUTTING_WOOD_SPIRIT_BASIC"
+},
+"54916": {
+"name": "Oak wood spirit",
+"config": "WOODCUTTING_WOOD_SPIRIT_OAK"
+},
+"54923": {
+"name": "Magic wood spirit",
+"config": "WOODCUTTING_WOOD_SPIRIT_MAGIC"
+},
+"54924": {
+"name": "Elder wood spirit",
+"config": "WOODCUTTING_WOOD_SPIRIT_ELDER"
+},
+"55206": {
+"name": "Hooded necromancy cape (t)",
+"config": "SKILLCAPE_NECROMANCY_TRIMMED_HOODED"
+},
+"55287": {
+"name": "Extreme necromancy flask (6)",
+"config": "BIGPOT_6DOSE3NECROMANCY"
+},
+"55302": {
+"name": "Raw ghostly sole",
+"config": "RAW_GHOSTLY_SOLE"
+},
+"55314": {
+"name": "Necromancy potion (1)",
+"config": "_1DOSE1NECROMANCY"
+},
+"55316": {
+"name": "Super necromancy (4)",
+"config": "_4DOSE2NECROMANCY"
+},
+"55326": {
+"name": "Extreme necromancy (3)",
+"config": "_3DOSE3NECROMANCY"
+},
+"55336": {
+"name": "Ectoplasm",
+"config": "ECTOPLASM"
+},
+"55337": {
+"name": "Spirit rune",
+"config": "SPIRITRUNE"
+},
+"55338": {
+"name": "Bone rune",
+"config": "BONERUNE"
+},
+"55339": {
+"name": "Flesh rune",
+"config": "FLESHRUNE"
+},
+"55340": {
+"name": "Miasma rune",
+"config": "MIASMARUNE"
+},
+"55396": {
+"name": "Deathwarden hood",
+"config": "NECRO_UNDERWORLD_HEAD_T70"
+},
+"55398": {
+"name": "Deathwarden robe top",
+"config": "NECRO_UNDERWORLD_BODY_T70"
+},
+"55400": {
+"name": "Deathwarden robe bottom",
+"config": "NECRO_UNDERWORLD_LEGS_T70"
+},
+"55402": {
+"name": "Deathwarden gloves",
+"config": "NECRO_UNDERWORLD_HANDS_T70"
+},
+"55404": {
+"name": "Deathwarden boots",
+"config": "NECRO_UNDERWORLD_FEET_T70"
+},
+"55438": {
+"name": "Deathdealer hood",
+"config": "NECRO_UNDERWORLD_POWER_HEAD_T70"
+},
+"55440": {
+"name": "Deathdealer robe top",
+"config": "NECRO_UNDERWORLD_POWER_BODY_T70"
+},
+"55442": {
+"name": "Deathdealer robe bottom",
+"config": "NECRO_UNDERWORLD_POWER_LEGS_T70"
+},
+"55444": {
+"name": "Deathdealer gloves",
+"config": "NECRO_UNDERWORLD_POWER_HANDS_T70"
+},
+"55446": {
+"name": "Deathdealer boots",
+"config": "NECRO_UNDERWORLD_POWER_FEET_T70"
+},
+"55540": {
+"name": "Death guard",
+"config": "NECRO_UNDERWORLD_ARMGUARD_T90"
+},
+"55542": {
+"name": "Skull lantern",
+"config": "NECRO_UNDERWORLD_LANTERN_T90"
+},
+"55544": {
+"name": "Augmented Death guard (tier 90)",
+"config": ""
+},
+"55545": {
+"name": "Augmented Skull lantern (tier 90)",
+"config": ""
+},
+"55553": {
+"name": "Equipment upgrade task list",
+"config": "NECRO_HUB_SMITH_UNDERWORLD_EQUIPMENT_UPGRADE_TASK_LIST"
+},
+"55576": {
+"name": "Tortured soul essence",
+"config": "NECRO_HUB_SMITH_UNDERWORLD_EQUIPMENT_UPGRADE_SOUL_ESSENCE"
+},
+"55594": {
+"name": "Basic ghostly ink",
+"config": "BASIC_GHOSTLY_INK"
+},
+"55595": {
+"name": "Regular ghostly ink",
+"config": "REGULAR_GHOSTLY_INK"
+},
+"55596": {
+"name": "Greater ghostly ink",
+"config": "GREATER_GHOSTLY_INK"
+},
+"55597": {
+"name": "Powerful ghostly ink",
+"config": "POWERFUL_GHOSTLY_INK"
+},
+"55598": {
+"name": "Weak necroplasm",
+"config": "WEAK_NECROPLASM"
+},
+"55599": {
+"name": "Lesser necroplasm",
+"config": "LESSER_NECROPLASM"
+},
+"55600": {
+"name": "Greater necroplasm",
+"config": "GREATER_NECROPLASM"
+},
+"55601": {
+"name": "Powerful necroplasm",
+"config": "POWERFUL_NECROPLASM"
+},
+"55612": {
+"name": "Greater ensouled bar",
+"config": "GREATER_ENSOULED_BAR"
+},
+"55618": {
+"name": "Greater ensouled cloth",
+"config": "GREATER_ENSOULED_CLOTH"
+},
+"55622": {
+"name": "Greater ensouled thread",
+"config": "GREATER_ENSOULED_THREAD"
+},
+"55623": {
+"name": "Broken memento",
+"config": "NECRO_BROKEN_MEMENTO"
+},
+"55625": {
+"name": "Fragile memento",
+"config": "NECRO_FRAGILE_MEMENTO"
+},
+"55627": {
+"name": "Spirit memento",
+"config": "NECRO_SPIRIT_MEMENTO"
+},
+"55629": {
+"name": "Robust memento",
+"config": "NECRO_ROBUST_MEMENTO"
+},
+"55631": {
+"name": "Powerful memento",
+"config": "NECRO_POWERFUL_MEMENTO"
+},
+"55636": {
+"name": "Greater ritual candle",
+"config": "GREATER_RITUAL_CANDLE"
+},
+"55637": {
+"name": "Greater flaming skull",
+"config": "GREATER_FLAMING_SKULL"
+},
+"55667": {
+"name": "Impure essence",
+"config": "IMPURE_ESSENCE"
+},
+"55677": {
+"name": "Underworld Grimoire 3",
+"config": "ATUM_REWARD_HARD"
+},
+"56142": {
+"name": "Deathwarden nexus",
+"config": "NECRO_UNDERWORLD_NEXUS_T60"
+},
+"56412": {
+"name": "Alteration necklace",
+"config": "MOONSTONE_ALTERATION_NECKLACE"
+},
+"56414": {
+"name": "Conjurer's raising amulet",
+"config": "MOONSTONE_AMULET_OF_CONJURATION"
+},
+"56416": {
+"name": "Passing bracelet",
+"config": "MOONSTONE_PASSING_BRACELET"
+},
+"56418": {
+"name": "Ring of imbuing",
+"config": "MOONSTONE_RING_OF_IMBUING"
+},
+"56771": {
+"name": "Zorgoth's soul ring",
+"config": "ZORGOTHS_SOUL_RING"
+},
+"56977": {
+"name": "Excavator portal mine (damaged)",
+"config": "ARCH_RESTORATION_EXCAVATOR_PORTAL_MINE_DAMAGED"
+},
+"56997": {
+"name": "Halak's cube (damaged)",
+"config": "ARCH_RESTORATION_HALAKS_CUBE_DAMAGED"
+},
+"56999": {
+"name": "Portable portal generator (damaged)",
+"config": "ARCH_RESTORATION_PORTABLE_PORTAL_GENERATOR_DAMAGED"
+},
+"57172": {
+"name": "Primal ore box",
+"config": "MINING_OREBOX_PRIMAL"
+},
+"57527": {
+"name": "Amulet of Offerings",
+"config": "ELIDINIS_BOSS_OFFERINGS_AMULET"
+},
+"57604": {
+"name": "Maize Maze entry token (triple loot)",
+"config": "HALLOWEEN_HUB_GAUNTLET_MAZE_LOOT_TOKEN_TRIPLE"
+},
+"57605": {
+"name": "Maize Maze entry token (double loot)",
+"config": "HALLOWEEN_HUB_GAUNTLET_MAZE_LOOT_TOKEN_DOUBLE"
+},
+"58079": {
+"name": "Elder rune hatchet",
+"config": "ELDER_RUNE_AXE"
+},
+"58250": {
+"name": "Eternal magic logs",
+"config": "ETERNAL_LOGS"
+},
+"58255": {
+"name": "Eternal magic wood spirit",
+"config": ""
+},
+"58283": {
+"name": "Portable telescope",
+"config": "STAR_PORTABLE_TELESCOPE"
+},
+"58324": {
+"name": "Primed keris",
+"config": "MELEE_KERIS_PRIMED_T70"
+},
+"58450": {
+"name": "Time rune",
+"config": "TIMERUNE"
+},
+"58732": {
+"name": "Honeycomb shards",
+"config": "EASTER_HUB_HONEYCOMB_SHARD"
+},
+"59759": {
+"name": "Meteorite dust",
+"config": "METEORITE_DUST"
+},
+"60298": {
+"name": "Havensilver greatsword",
+"config": "HAVENSILVER_GREATSWORD_T1"
+},
+"60301": {
+"name": "Havensilver longsword",
+"config": "HAVENSILVER_LONGSWORD_T1"
+},
+"60302": {
+"name": "Havensilver off-hand longsword",
+"config": "HAVENSILVER_LONGSWORD_O_T1"
+},
+"60327": {
+"name": "Sanguine matter",
+"config": "HAVENSILVER_SANGUINE_MATTER"
+},
+"60338": {
+"name": "Silver spines",
+"config": "WENDLE_HEDGEHOG_BOSS_SPINE_SILVER"
+},
+"60339": {
+"name": "Sanguine spines",
+"config": "WENDLE_HEDGEHOG_BOSS_SPINE_SANGUINE"
+},
+"60462": {
+"name": "Ben's spare hat",
+"config": "QUEST_WIZARD_CHILD_HAT"
+},
+"60684": {
+"name": "Raw giant crayfish",
+"config": ""
+},
+"60691": {
+"name": "Antisanguine (2)",
+"config": "_2DOSEANTISANGUINE"
+},
+"61709": {
+"name": "Mossy peat",
+"config": ""
+},
+"61723": {
+"name": "Royal Game of Ba (damaged)",
+"config": ""
+},
+"61727": {
+"name": "Animal doll (damaged)",
+"config": ""
+},
+"61933": {
+"name": "Oak chair",
+"config": "CONSTRUCTION_HOUSE_FURNITURE_CHAIR_OAK"
+},
+"61939": {
+"name": "Teak armchair",
+"config": "CONSTRUCTION_HOUSE_FURNITURE_ARMCHAIR_TEAK"
+},
+"61943": {
+"name": "Mahogany armchair",
+"config": "CONSTRUCTION_HOUSE_FURNITURE_ARMCHAIR_MAHOGANY"
+},
+"61955": {
+"name": "Mahogany bookcase",
+"config": "CONSTRUCTION_HOUSE_FURNITURE_BOOKCASE_MAHOGANY"
+},
+"62021": {
+"name": "Repair bench",
+"config": "CONSTRUCTION_HOUSE_FURNITURE_REPAIR_BENCH"
+},
+"62181": {
+"name": "Oak lectern",
+"config": "CONSTRUCTION_HOUSE_FURNITURE_LECTERN_OAK"
+},
+"63190": {
+"name": "Eternal plank",
+"config": "PLANK_ETERNAL"
+},
+"63838": {
+"name": "Bane arrowheads",
+"config": "BANE_ARROWHEADS"
+},
+"63857": {
+"name": "Havensilver halberd",
+"config": "HAVENSILVER_HALBERD_T1"
+},
+"63858": {
+"name": "Havensilver halberd +1",
+"config": "HAVENSILVER_HALBERD_T2"
+},
+"63860": {
+"name": "Forgotten painting piece (1)",
+"config": "HAVENHYTHE_HERO_PAINTING_PIECE_1"
+},
+"63861": {
+"name": "Forgotten painting piece (2)",
+"config": "HAVENHYTHE_HERO_PAINTING_PIECE_2"
+},
+"63872": {
+"name": "Crimson ichor",
+"config": "HAVENHYTHE_CRIMSON_ICHOR"
+},
+"63889": {
+"name": "Chima moss",
+"config": "CHIMA_MOSS"
+},
+"63891": {
+"name": "Chima bowstring",
+"config": "CHIMA_BOW_STRING"
+},
+"63898": {
+"name": "Fenshell knife",
+"config": "FENMOOR_FLETCHING_KNIFE"
+},
+"63902": {
+"name": "Bogolin telepearl",
+"config": "FENMOOR_TELEPORT_PEARL"
+},
+"63915": {
+"name": "Remnant energy",
+"config": "COLOSSI_DIVINATION_ENERGY"
+},
+"63935": {
+"name": "Exalted essence",
+"config": "EXALTED_ESSENCE"
+},
+"64296": {
+"name": "Bogwart",
+"config": "BOGWART"
+},
+"64308": {
+"name": "Mourning lily seed",
+"config": "MOURNING_LILY_SEED"
+},
+"64309": {
+"name": "Bogwart spore",
+"config": "BOGWART_SEED"
+},
+"64320": {
+"name": "Claret crab",
+"config": "CLARET_CRAB"
+},
+"64322": {
+"name": "Raw claret crab",
+"config": "RAW_CLARET_CRAB"
+},
+"64325": {
+"name": "Super antisanguine (4)",
+"config": "_4DOSE2ANTISANGUINE"
+},
+"64329": {
+"name": "Super antisanguine (2)",
+"config": "_2DOSE2ANTISANGUINE"
+},
+"64331": {
+"name": "Super antisanguine (1)",
+"config": ""
+}
+}
+}
